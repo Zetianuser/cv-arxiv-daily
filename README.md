@@ -9,18 +9,9 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#slam>SLAM</a></li>
     <li><a href=#camouflage>Camouflage</a></li>
   </ol>
 </details>
-
-## SLAM
-
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-|**2021-10-14**|**Active SLAM over Continuous Trajectory and Control: A Covariance-Feedback Approach**|Shumon Koga et.al.|[2110.07546](http://arxiv.org/abs/2110.07546)|null|
-
-<p align=right>(<a href=#updated-on-20231220>back to top</a>)</p>
 
 ## Camouflage
 
