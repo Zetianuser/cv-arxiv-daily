@@ -25,6 +25,21 @@ layout: default
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
 |**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
 
+## In-context
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**On Task Performance and Model Calibration with Supervised and Self-Ensembled In-Context Learning**|Chengzu Li et.al.|[2312.13772](http://arxiv.org/abs/2312.13772)|null|
+|**2023-12-19**|**RealGen: Retrieval Augmented Generation for Controllable Traffic Scenarios**|Wenhao Ding et.al.|[2312.13303](http://arxiv.org/abs/2312.13303)|null|
+|**2023-12-20**|**Generative Multimodal Models are In-Context Learners**|Quan Sun et.al.|[2312.13286](http://arxiv.org/abs/2312.13286)|**[link](https://github.com/baaivision/emu)**|
+|**2023-12-20**|**Benchmarking and Analyzing In-context Learning, Fine-tuning and Supervised Learning for Biomedical Knowledge Curation: a focused study on chemical entities of biological interest**|Emily Groves et.al.|[2312.12989](http://arxiv.org/abs/2312.12989)|null|
+|**2023-12-20**|**Fine-tuning Large Language Models for Adaptive Machine Translation**|Yasmin Moslem et.al.|[2312.12740](http://arxiv.org/abs/2312.12740)|**[link](https://github.com/ymoslem/adaptive-mt-llm-fine-tuning)**|
+|**2023-12-21**|**Can Transformers Learn Sequential Function Classes In Context?**|Ryan Campbell et.al.|[2312.12655](http://arxiv.org/abs/2312.12655)|**[link](https://github.com/emmaguo13/in-context-learning)**|
+|**2023-12-19**|**Emergence of In-Context Reinforcement Learning from Noise Distillation**|Ilya Zisman et.al.|[2312.12275](http://arxiv.org/abs/2312.12275)|null|
+|**2023-12-18**|**DRDT: Dynamic Reflection with Divergent Thinking for LLM-based Sequential Recommendation**|Yu Wang et.al.|[2312.11336](http://arxiv.org/abs/2312.11336)|null|
+|**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075](http://arxiv.org/abs/2312.11075)|null|
+|**2023-12-18**|**APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation**|Chengran Yang et.al.|[2312.10934](http://arxiv.org/abs/2312.10934)|null|
+
 ## VLM
 
 | Publish Date | Title | Authors | PDF | Code |
