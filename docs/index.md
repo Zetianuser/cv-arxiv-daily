@@ -25,6 +25,21 @@ layout: default
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
 |**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
 
+## VLM
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**Revisiting Few-Shot Object Detection with Vision-Language Models**|Anish Madan et.al.|[2312.14494](http://arxiv.org/abs/2312.14494)|null|
+|**2023-12-21**|**DriveLM: Driving with Graph Visual Question Answering**|Chonghao Sima et.al.|[2312.14150](http://arxiv.org/abs/2312.14150)|**[link](https://github.com/opendrivelab/drivelm)**|
+|**2023-12-21**|**TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification**|Qinying Liu et.al.|[2312.14149](http://arxiv.org/abs/2312.14149)|**[link](https://github.com/Qinying-Liu/TagAlign_code)**|
+|**2023-12-21**|**LingoQA: Video Question Answering for Autonomous Driving**|Ana-Maria Marcu et.al.|[2312.14115](http://arxiv.org/abs/2312.14115)|**[link](https://github.com/wayveai/lingoqa)**|
+|**2023-12-20**|**SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing**|Zhecheng Wang et.al.|[2312.12856](http://arxiv.org/abs/2312.12856)|**[link](https://github.com/wangzhecheng/skyscript)**|
+|**2023-12-20**|**OCTOPUS: Open-vocabulary Content Tracking and Object Placement Using Semantic Understanding in Mixed Reality**|Luke Yoffe et.al.|[2312.12815](http://arxiv.org/abs/2312.12815)|null|
+|**2023-12-20**|**A Closer Look at the Few-Shot Adaptation of Large Vision-Language Models**|Julio Silva-Rodriguez et.al.|[2312.12730](http://arxiv.org/abs/2312.12730)|**[link](https://github.com/jusiro/clap)**|
+|**2023-12-20**|**BloomVQA: Assessing Hierarchical Multi-modal Comprehension**|Yunye Gong et.al.|[2312.12716](http://arxiv.org/abs/2312.12716)|null|
+|**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423](http://arxiv.org/abs/2312.12423)|null|
+|**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379](http://arxiv.org/abs/2312.12379)|null|
+
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
