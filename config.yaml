@@ -5,7 +5,7 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 15
+max_results: 10
 
 publish_readme: True
 publish_gitpage: True
@@ -26,6 +26,8 @@ keywords:
         filters: ["camouflage"]
     "In-context":
         filters: ["ICL", "In-Context Learning"]
+    "VLM":
+        filters: ["Vision Language Model", "VLM"]
     # "SLAM": 
     #     filters: ["SLAM", "Visual Odometry"]
     # "SFM":
