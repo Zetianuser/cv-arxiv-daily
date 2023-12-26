@@ -25,7 +25,7 @@ keywords:
     "Camouflage":
         filters: ["camouflage"]
     "In-context":
-        filters: ["in-context"]
+        filters: ["In-context", "ICL"]
     # "SLAM": 
     #     filters: ["SLAM", "Visual Odometry"]
     # "SFM":
