@@ -22,10 +22,10 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "In-context":
-        filters: ["ICL", "In-Context Learning"]
     "Camouflage":
         filters: ["camouflage"]
+    "In-context":
+        filters: ["ICL", "In-Context Learning"]
     # "SLAM": 
     #     filters: ["SLAM", "Visual Odometry"]
     # "SFM":
