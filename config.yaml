@@ -24,6 +24,8 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "Camouflage":
         filters: ["camouflage"]
+    "In-context":
+        filters: ["in-context"]
     # "SLAM": 
     #     filters: ["SLAM", "Visual Odometry"]
     # "SFM":
