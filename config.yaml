@@ -25,7 +25,7 @@ keywords:
     "Camouflage":
         filters: ["camouflage"]
     "In-context":
-        filters: ["ICL", "In-Context Learning"]
+        filters: ["ICL", "In Context Learning"]
     "VLM":
         filters: ["Vision Language Model", "VLM"]
     # "SLAM": 
