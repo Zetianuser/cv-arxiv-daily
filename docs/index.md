@@ -29,7 +29,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-21**|**On Task Performance and Model Calibration with Supervised and Self-Ensembled In-Context Learning**|Chengzu Li et.al.|[2312.13772](http://arxiv.org/abs/2312.13772)|null|
+|**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018](http://arxiv.org/abs/2312.16018)|null|
+|**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918](http://arxiv.org/abs/2312.15918)|null|
+|**2023-12-25**|**EcomGPT-CT: Continual Pre-training of E-commerce Large Language Models with Semi-structured Data**|Shirong Ma et.al.|[2312.15696](http://arxiv.org/abs/2312.15696)|null|
+|**2023-12-22**|**On Task Performance and Model Calibration with Supervised and Self-Ensembled In-Context Learning**|Chengzu Li et.al.|[2312.13772](http://arxiv.org/abs/2312.13772)|null|
 |**2023-12-19**|**RealGen: Retrieval Augmented Generation for Controllable Traffic Scenarios**|Wenhao Ding et.al.|[2312.13303](http://arxiv.org/abs/2312.13303)|null|
 |**2023-12-20**|**Generative Multimodal Models are In-Context Learners**|Quan Sun et.al.|[2312.13286](http://arxiv.org/abs/2312.13286)|**[link](https://github.com/baaivision/emu)**|
 |**2023-12-20**|**Benchmarking and Analyzing In-context Learning, Fine-tuning and Supervised Learning for Biomedical Knowledge Curation: a focused study on chemical entities of biological interest**|Emily Groves et.al.|[2312.12989](http://arxiv.org/abs/2312.12989)|null|
@@ -44,9 +47,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-26**|**Black-Box Tuning of Vision-Language Models with Effective Gradient Approximation**|Zixian Guo et.al.|[2312.15901](http://arxiv.org/abs/2312.15901)|**[link](https://github.com/guozix/cbbt)**|
+|**2023-12-25**|**IQAGPT: Image Quality Assessment with Vision-language and ChatGPT Models**|Zhihao Chen et.al.|[2312.15663](http://arxiv.org/abs/2312.15663)|null|
+|**2023-12-22**|**Gemini vs GPT-4V: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases**|Zhangyang Qi et.al.|[2312.15011](http://arxiv.org/abs/2312.15011)|**[link](https://github.com/qi-zhangyang/gemini-vs-gpt4v)**|
 |**2023-12-22**|**Revisiting Few-Shot Object Detection with Vision-Language Models**|Anish Madan et.al.|[2312.14494](http://arxiv.org/abs/2312.14494)|null|
 |**2023-12-21**|**DriveLM: Driving with Graph Visual Question Answering**|Chonghao Sima et.al.|[2312.14150](http://arxiv.org/abs/2312.14150)|**[link](https://github.com/opendrivelab/drivelm)**|
-|**2023-12-21**|**TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification**|Qinying Liu et.al.|[2312.14149](http://arxiv.org/abs/2312.14149)|**[link](https://github.com/Qinying-Liu/TagAlign_code)**|
+|**2023-12-21**|**TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification**|Qinying Liu et.al.|[2312.14149](http://arxiv.org/abs/2312.14149)|**[link](https://github.com/Qinying-Liu/TagAlign)**|
 |**2023-12-21**|**LingoQA: Video Question Answering for Autonomous Driving**|Ana-Maria Marcu et.al.|[2312.14115](http://arxiv.org/abs/2312.14115)|**[link](https://github.com/wayveai/lingoqa)**|
 |**2023-12-20**|**SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing**|Zhecheng Wang et.al.|[2312.12856](http://arxiv.org/abs/2312.12856)|**[link](https://github.com/wangzhecheng/skyscript)**|
 |**2023-12-20**|**OCTOPUS: Open-vocabulary Content Tracking and Object Placement Using Semantic Understanding in Mixed Reality**|Luke Yoffe et.al.|[2312.12815](http://arxiv.org/abs/2312.12815)|null|
