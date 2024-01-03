@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Exploring Hyperspectral Anomaly Detection with Human Vision: A Small Target Aware Detector**|Jitao Ma et.al.|[2401.01093](http://arxiv.org/abs/2401.01093)|null|
+|**2023-12-30**|**TPatch: A Triggered Physical Adversarial Patch**|Wenjun Zhu et.al.|[2401.00148](http://arxiv.org/abs/2401.00148)|**[link](https://github.com/usslab/tpatch)**|
 |**2023-12-29**|**Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation**|Tuan-Anh Vu et.al.|[2312.17505](http://arxiv.org/abs/2312.17505)|null|
 |**2023-12-29**|**MVPatch: More Vivid Patch for Adversarial Camouflaged Attacks on Object Detectors in the Physical World**|Zheng Zhou et.al.|[2312.17431](http://arxiv.org/abs/2312.17431)|null|
 |**2023-12-27**|**Natural Adversarial Patch Generation Method Based on Latent Diffusion Model**|Xianyi Chen et.al.|[2312.16401](http://arxiv.org/abs/2312.16401)|null|
@@ -39,6 +41,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-01**|**A Computational Framework for Behavioral Assessment of LLM Therapists**|Yu Ying Chiu et.al.|[2401.00820](http://arxiv.org/abs/2401.00820)|**[link](https://github.com/behavioral-data/bolt)**|
+|**2024-01-01**|**The Earth is Flat? Unveiling Factual Errors in Large Language Models**|Wenxuan Wang et.al.|[2401.00761](http://arxiv.org/abs/2401.00761)|null|
+|**2024-01-01**|**A & B == B & A: Triggering Logical Reasoning Failures in Large Language Models**|Yuxuan Wan et.al.|[2401.00757](http://arxiv.org/abs/2401.00757)|null|
 |**2023-12-29**|**Overview of the PromptCBLUE Shared Task in CHIP2023**|Wei Zhu et.al.|[2312.17522](http://arxiv.org/abs/2312.17522)|null|
 |**2023-12-28**|**Grounding-Prompter: Prompting LLM with Multimodal Information for Temporal Sentence Grounding in Long Videos**|Houlun Chen et.al.|[2312.17117](http://arxiv.org/abs/2312.17117)|null|
 |**2023-12-28**|**Improving In-context Learning via Bidirectional Alignment**|Chengwei Qin et.al.|[2312.17055](http://arxiv.org/abs/2312.17055)|null|
@@ -64,12 +69,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**DialCLIP: Empowering CLIP as Multi-Modal Dialog Retriever**|Zhichao Yin et.al.|[2401.01076](http://arxiv.org/abs/2401.01076)|null|
+|**2024-01-01**|**COSMO: COntrastive Streamlined MultimOdal Model with Interleaved Pre-Training**|Alex Jinpeng Wang et.al.|[2401.00849](http://arxiv.org/abs/2401.00849)|null|
+|**2023-12-30**|**COMMA: Co-Articulated Multi-Modal Learning**|Lianyu Hu et.al.|[2401.00268](http://arxiv.org/abs/2401.00268)|**[link](https://github.com/hulianyuyy/comma)**|
 |**2023-12-29**|**Tracking with Human-Intent Reasoning**|Jiawen Zhu et.al.|[2312.17448](http://arxiv.org/abs/2312.17448)|**[link](https://github.com/jiawen-zhu/trackgpt)**|
 |**2023-12-28**|**3VL: using Trees to teach Vision & Language models compositional concepts**|Nir Yellinek et.al.|[2312.17345](http://arxiv.org/abs/2312.17345)|null|
 |**2023-12-28**|**Visual Explanations of Image-Text Representations via Multi-Modal Information Bottleneck Attribution**|Ying Wang et.al.|[2312.17174](http://arxiv.org/abs/2312.17174)|**[link](https://github.com/yingwangg/m2ib)**|
 |**2023-12-28**|**MIVC: Multiple Instance Visual Component for Visual-Language Models**|Wenyi Wu et.al.|[2312.17109](http://arxiv.org/abs/2312.17109)|null|
 |**2023-12-28**|**FILP-3D: Enhancing 3D Few-shot Class-incremental Learning with Pre-trained Vision-Language Models**|Wan Xu et.al.|[2312.17051](http://arxiv.org/abs/2312.17051)|null|
-|**2023-12-28**|**MobileVLM : A Fast, Reproducible and Strong Vision Language Assistant for Mobile Devices**|Xiangxiang Chu et.al.|[2312.16886](http://arxiv.org/abs/2312.16886)|**[link](https://github.com/meituan-automl/mobilevlm)**|
+|**2023-12-30**|**MobileVLM : A Fast, Strong and Open Vision Language Assistant for Mobile Devices**|Xiangxiang Chu et.al.|[2312.16886](http://arxiv.org/abs/2312.16886)|**[link](https://github.com/meituan-automl/mobilevlm)**|
 |**2023-12-28**|**ZONE: Zero-Shot Instruction-Guided Local Editing**|Shanglin Li et.al.|[2312.16794](http://arxiv.org/abs/2312.16794)|null|
 |**2023-12-26**|**Black-Box Tuning of Vision-Language Models with Effective Gradient Approximation**|Zixian Guo et.al.|[2312.15901](http://arxiv.org/abs/2312.15901)|**[link](https://github.com/guozix/cbbt)**|
 |**2023-12-25**|**IQAGPT: Image Quality Assessment with Vision-language and ChatGPT Models**|Zhihao Chen et.al.|[2312.15663](http://arxiv.org/abs/2312.15663)|null|
