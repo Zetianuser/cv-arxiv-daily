@@ -60,7 +60,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-02**|**DialCLIP: Empowering CLIP as Multi-Modal Dialog Retriever**|Zhichao Yin et.al.|[2401.01076](http://arxiv.org/abs/2401.01076)|null|
+|**2024-01-03**|**Few-shot Adaptation of Multi-modal Foundation Models: A Survey**|Fan Liu et.al.|[2401.01736](http://arxiv.org/abs/2401.01736)|null|
+|**2024-01-03**|**Learning Prompt with Distribution-Based Feature Replay for Few-Shot Class-Incremental Learning**|Zitong Huang et.al.|[2401.01598](http://arxiv.org/abs/2401.01598)|**[link](https://github.com/1170300714/lp-dif)**|
+|**2024-01-03**|**Glance and Focus: Memory Prompting for Multi-Event Video Question Answering**|Ziyi Bai et.al.|[2401.01529](http://arxiv.org/abs/2401.01529)|**[link](https://github.com/byz0e/glance-focus)**|
+|**2024-01-03**|**Incorporating Geo-Diverse Knowledge into Prompting for Increased Geographical Robustness in Object Recognition**|Kyle Buettner et.al.|[2401.01482](http://arxiv.org/abs/2401.01482)|null|
+|**2024-01-03**|**DialCLIP: Empowering CLIP as Multi-Modal Dialog Retriever**|Zhichao Yin et.al.|[2401.01076](http://arxiv.org/abs/2401.01076)|null|
 |**2024-01-01**|**COSMO: COntrastive Streamlined MultimOdal Model with Interleaved Pre-Training**|Alex Jinpeng Wang et.al.|[2401.00849](http://arxiv.org/abs/2401.00849)|null|
 |**2023-12-30**|**COMMA: Co-Articulated Multi-Modal Learning**|Lianyu Hu et.al.|[2401.00268](http://arxiv.org/abs/2401.00268)|**[link](https://github.com/hulianyuyy/comma)**|
 |**2023-12-29**|**Tracking with Human-Intent Reasoning**|Jiawen Zhu et.al.|[2312.17448](http://arxiv.org/abs/2312.17448)|**[link](https://github.com/jiawen-zhu/trackgpt)**|
