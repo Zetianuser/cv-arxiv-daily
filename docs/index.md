@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-07**|**Dynamic Multi Color Switching using Ultrathin Vanadium Oxide on Aluminium based Asymmetric Fabry-Perot Resonant Structure**|Shubhangi Saini et.al.|[2401.03543](http://arxiv.org/abs/2401.03543)|null|
 |**2024-01-02**|**Exploring Hyperspectral Anomaly Detection with Human Vision: A Small Target Aware Detector**|Jitao Ma et.al.|[2401.01093](http://arxiv.org/abs/2401.01093)|null|
 |**2023-12-30**|**TPatch: A Triggered Physical Adversarial Patch**|Wenjun Zhu et.al.|[2401.00148](http://arxiv.org/abs/2401.00148)|**[link](https://github.com/usslab/tpatch)**|
 |**2023-12-29**|**Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation**|Tuan-Anh Vu et.al.|[2312.17505](http://arxiv.org/abs/2312.17505)|null|
@@ -34,6 +35,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-08**|**Can Large Language Models Beat Wall Street? Unveiling the Potential of AI in Stock Selection**|Georgios Fatouros et.al.|[2401.03737](http://arxiv.org/abs/2401.03737)|null|
+|**2024-01-07**|**Grimoire is All You Need for Enhancing Large Language Models**|Ding Chen et.al.|[2401.03385](http://arxiv.org/abs/2401.03385)|null|
 |**2024-01-05**|**Towards ASR Robust Spoken Language Understanding Through In-Context Learning With Word Confusion Networks**|Kevin Everson et.al.|[2401.02921](http://arxiv.org/abs/2401.02921)|null|
 |**2024-01-05**|**Introducing Bode: A Fine-Tuned Large Language Model for Portuguese Prompt-Based Task**|Gabriel Lino Garcia et.al.|[2401.02909](http://arxiv.org/abs/2401.02909)|null|
 |**2024-01-04**|**DIALIGHT: Lightweight Multilingual Development and Evaluation of Task-Oriented Dialogue Systems with Large Language Models**|Songbo Hu et.al.|[2401.02208](http://arxiv.org/abs/2401.02208)|null|
@@ -63,8 +66,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-08**|**DME-Driver: Integrating Human Decision Logic and 3D Scene Perception in Autonomous Driving**|Wencheng Han et.al.|[2401.03641](http://arxiv.org/abs/2401.03641)|null|
+|**2024-01-06**|**Large Language Models as Visual Cross-Domain Learners**|Shuhao Chen et.al.|[2401.03253](http://arxiv.org/abs/2401.03253)|null|
 |**2024-01-05**|**Object-oriented backdoor attack against image captioning**|Meiling Li et.al.|[2401.02600](http://arxiv.org/abs/2401.02600)|null|
-|**2024-01-04**|**Vulnerabilities Unveiled: Adversarially Attacking a Multimodal Vision Langauge Model for Pathology Imaging**|Jai Prakash Veerla et.al.|[2401.02565](http://arxiv.org/abs/2401.02565)|null|
+|**2024-01-08**|**Vulnerabilities Unveiled: Adversarially Attacking a Multimodal Vision Language Model for Pathology Imaging**|Jai Prakash Veerla et.al.|[2401.02565](http://arxiv.org/abs/2401.02565)|null|
 |**2024-01-04**|**Improved Zero-Shot Classification by Adapting VLMs with Text Descriptions**|Oindrila Saha et.al.|[2401.02460](http://arxiv.org/abs/2401.02460)|null|
 |**2024-01-04**|**Learning to Prompt with Text Only Supervision for Vision-Language Models**|Muhammad Uzair Khattak et.al.|[2401.02418](http://arxiv.org/abs/2401.02418)|**[link](https://github.com/muzairkhattak/protext)**|
 |**2024-01-04**|**ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning**|Fanqing Meng et.al.|[2401.02384](http://arxiv.org/abs/2401.02384)|**[link](https://github.com/opengvlab/chartast)**|
