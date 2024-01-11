@@ -42,11 +42,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-09**|**SpiNNaker2: A Large-Scale Neuromorphic System for Event-Based and Asynchronous Machine Learning**|Hector A. Gonzalez et.al.|[2401.04491](http://arxiv.org/abs/2401.04491)|**[link](https://gitlab.com/tud-hpsn/public)**|
+|**2024-01-10**|**Leveraging Print Debugging to Improve Code Generation in Large Language Models**|Xueyu Hu et.al.|[2401.05319](http://arxiv.org/abs/2401.05319)|null|
+|**2024-01-09**|**SpiNNaker2: A Large-Scale Neuromorphic System for Event-Based and Asynchronous Machine Learning**|Hector A. Gonzalez et.al.|[2401.04491](http://arxiv.org/abs/2401.04491)|null|
 |**2024-01-09**|**Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding**|Zilong Wang et.al.|[2401.04398](http://arxiv.org/abs/2401.04398)|null|
 |**2024-01-04**|**MobileAgent: enhancing mobile control via human-machine interaction and SOP integration**|Tinghe Ding et.al.|[2401.04124](http://arxiv.org/abs/2401.04124)|null|
 |**2024-01-08**|**Can Large Language Models Beat Wall Street? Unveiling the Potential of AI in Stock Selection**|Georgios Fatouros et.al.|[2401.03737](http://arxiv.org/abs/2401.03737)|null|
-|**2024-01-07**|**Grimoire is All You Need for Enhancing Large Language Models**|Ding Chen et.al.|[2401.03385](http://arxiv.org/abs/2401.03385)|null|
+|**2024-01-10**|**Grimoire is All You Need for Enhancing Large Language Models**|Ding Chen et.al.|[2401.03385](http://arxiv.org/abs/2401.03385)|**[link](https://github.com/iaar-shanghai/grimoire)**|
 |**2024-01-05**|**Towards ASR Robust Spoken Language Understanding Through In-Context Learning With Word Confusion Networks**|Kevin Everson et.al.|[2401.02921](http://arxiv.org/abs/2401.02921)|null|
 |**2024-01-05**|**Introducing Bode: A Fine-Tuned Large Language Model for Portuguese Prompt-Based Task**|Gabriel Lino Garcia et.al.|[2401.02909](http://arxiv.org/abs/2401.02909)|null|
 |**2024-01-04**|**DIALIGHT: Lightweight Multilingual Development and Evaluation of Task-Oriented Dialogue Systems with Large Language Models**|Songbo Hu et.al.|[2401.02208](http://arxiv.org/abs/2401.02208)|null|
@@ -88,7 +89,7 @@
 |**2024-01-08**|**Vulnerabilities Unveiled: Adversarially Attacking a Multimodal Vision Language Model for Pathology Imaging**|Jai Prakash Veerla et.al.|[2401.02565](http://arxiv.org/abs/2401.02565)|null|
 |**2024-01-04**|**Improved Zero-Shot Classification by Adapting VLMs with Text Descriptions**|Oindrila Saha et.al.|[2401.02460](http://arxiv.org/abs/2401.02460)|null|
 |**2024-01-04**|**Learning to Prompt with Text Only Supervision for Vision-Language Models**|Muhammad Uzair Khattak et.al.|[2401.02418](http://arxiv.org/abs/2401.02418)|**[link](https://github.com/muzairkhattak/protext)**|
-|**2024-01-04**|**ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning**|Fanqing Meng et.al.|[2401.02384](http://arxiv.org/abs/2401.02384)|**[link](https://github.com/opengvlab/chartast)**|
+|**2024-01-10**|**ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning**|Fanqing Meng et.al.|[2401.02384](http://arxiv.org/abs/2401.02384)|**[link](https://github.com/opengvlab/chartast)**|
 |**2024-01-04**|**Prompt Decoupling for Text-to-Image Person Re-identification**|Weihao Li et.al.|[2401.02173](http://arxiv.org/abs/2401.02173)|null|
 |**2024-01-04**|**SyCoCa: Symmetrizing Contrastive Captioners with Attentive Masking for Multimodal Alignment**|Ziping Ma et.al.|[2401.02137](http://arxiv.org/abs/2401.02137)|null|
 |**2024-01-03**|**FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding**|Xingxing Zuo et.al.|[2401.01970](http://arxiv.org/abs/2401.01970)|null|
