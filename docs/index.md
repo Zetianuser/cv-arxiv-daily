@@ -18,7 +18,7 @@ layout: default
 |**2024-01-02**|**Exploring Hyperspectral Anomaly Detection with Human Vision: A Small Target Aware Detector**|Jitao Ma et.al.|[2401.01093](http://arxiv.org/abs/2401.01093)|null|
 |**2023-12-30**|**TPatch: A Triggered Physical Adversarial Patch**|Wenjun Zhu et.al.|[2401.00148](http://arxiv.org/abs/2401.00148)|**[link](https://github.com/usslab/tpatch)**|
 |**2023-12-29**|**Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation**|Tuan-Anh Vu et.al.|[2312.17505](http://arxiv.org/abs/2312.17505)|null|
-|**2023-12-29**|**MVPatch: More Vivid Patch for Adversarial Camouflaged Attacks on Object Detectors in the Physical World**|Zheng Zhou et.al.|[2312.17431](http://arxiv.org/abs/2312.17431)|null|
+|**2024-01-12**|**MVPatch: More Vivid Patch for Adversarial Camouflaged Attacks on Object Detectors in the Physical World**|Zheng Zhou et.al.|[2312.17431](http://arxiv.org/abs/2312.17431)|null|
 |**2023-12-27**|**Natural Adversarial Patch Generation Method Based on Latent Diffusion Model**|Xianyi Chen et.al.|[2312.16401](http://arxiv.org/abs/2312.16401)|null|
 |**2023-12-18**|**Relax Image-Specific Prompt Requirement in SAM: A Single Generic Prompt for Segmenting Camouflaged Objects**|Jian Hu et.al.|[2312.07374](http://arxiv.org/abs/2312.07374)|**[link](https://github.com/jyLin8100/GenSAM)**|
 |**2023-12-06**|**Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation**|Haojie Zhang et.al.|[2312.03502](http://arxiv.org/abs/2312.03502)|**[link](https://github.com/zhang-haojie/wesam)**|
@@ -35,7 +35,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-11**|**Universal Vulnerabilities in Large Language Models: In-context Learning Backdoor Attacks**|Shuai Zhao et.al.|[2401.05949](http://arxiv.org/abs/2401.05949)|**[link](https://github.com/shuaizhao95/iclattack)**|
+|**2024-01-12**|**Mind Your Format: Towards Consistent Evaluation of In-Context Learning Improvements**|Anton Voronov et.al.|[2401.06766](http://arxiv.org/abs/2401.06766)|null|
+|**2024-01-12**|**The Unreasonable Effectiveness of Easy Training Data for Hard Tasks**|Peter Hase et.al.|[2401.06751](http://arxiv.org/abs/2401.06751)|**[link](https://github.com/allenai/easy-to-hard-generalization)**|
+|**2024-01-12**|**Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning**|Kaiyi Zhang et.al.|[2401.06469](http://arxiv.org/abs/2401.06469)|null|
+|**2024-01-12**|**Misconfidence-based Demonstration Selection for LLM In-Context Learning**|Shangqing Xu et.al.|[2401.06301](http://arxiv.org/abs/2401.06301)|null|
+|**2024-01-12**|**Universal Vulnerabilities in Large Language Models: In-context Learning Backdoor Attacks**|Shuai Zhao et.al.|[2401.05949](http://arxiv.org/abs/2401.05949)|**[link](https://github.com/shuaizhao95/iclattack)**|
 |**2024-01-11**|**Probing Structured Semantics Understanding and Generation of Language Models via Question Answering**|Jinxin Liu et.al.|[2401.05777](http://arxiv.org/abs/2401.05777)|null|
 |**2024-01-11**|**POMP: Probability-driven Meta-graph Prompter for LLMs in Low-resource Unsupervised Neural Machine Translation**|Shilong Pan et.al.|[2401.05596](http://arxiv.org/abs/2401.05596)|null|
 |**2024-01-10**|**Leveraging Print Debugging to Improve Code Generation in Large Language Models**|Xueyu Hu et.al.|[2401.05319](http://arxiv.org/abs/2401.05319)|null|
@@ -73,6 +77,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-12**|**WisdoM: Improving Multimodal Sentiment Analysis by Fusing Contextual World Knowledge**|Wenbin Wang et.al.|[2401.06659](http://arxiv.org/abs/2401.06659)|null|
+|**2024-01-12**|**Prometheus-Vision: Vision-Language Model as a Judge for Fine-Grained Evaluation**|Seongyun Lee et.al.|[2401.06591](http://arxiv.org/abs/2401.06591)|**[link](https://github.com/kaistai/prometheus-vision)**|
+|**2024-01-12**|**Generalizing Visual Question Answering from Synthetic to Human-Written Questions via a Chain of QA with a Large Language Model**|Taehee Kim et.al.|[2401.06400](http://arxiv.org/abs/2401.06400)|null|
+|**2024-01-12**|**AffordanceLLM: Grounding Affordance from Vision Language Models**|Shengyi Qian et.al.|[2401.06341](http://arxiv.org/abs/2401.06341)|null|
+|**2024-01-12**|**Application Of Vision-Language Models For Assessing Osteoarthritis Disease Severity**|Banafshe Felfeliyan et.al.|[2401.06331](http://arxiv.org/abs/2401.06331)|null|
 |**2024-01-11**|**Distilling Vision-Language Models on Millions of Videos**|Yue Zhao et.al.|[2401.06129](http://arxiv.org/abs/2401.06129)|null|
 |**2024-01-09**|**SonicVisionLM: Playing Sound with Vision Language Models**|Zhifeng Xie et.al.|[2401.04394](http://arxiv.org/abs/2401.04394)|null|
 |**2024-01-09**|**Pre-trained Model Guided Fine-Tuning for Zero-Shot Adversarial Robustness**|Sibo Wang et.al.|[2401.04350](http://arxiv.org/abs/2401.04350)|null|
