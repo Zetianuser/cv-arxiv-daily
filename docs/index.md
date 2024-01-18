@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**The problem of optimal camouflaging**|Alexander Plakhov et.al.|[2401.08928](http://arxiv.org/abs/2401.08928)|null|
 |**2024-01-16**|**Localised Thermal Emission from Topological Interfaces**|M. Said Ergoktas et.al.|[2401.08316](http://arxiv.org/abs/2401.08316)|null|
 |**2024-01-07**|**Dynamic Multi Color Switching using Ultrathin Vanadium Oxide on Aluminium based Asymmetric Fabry-Perot Resonant Structure**|Shubhangi Saini et.al.|[2401.03543](http://arxiv.org/abs/2401.03543)|null|
 |**2024-01-02**|**Exploring Hyperspectral Anomaly Detection with Human Vision: A Small Target Aware Detector**|Jitao Ma et.al.|[2401.01093](http://arxiv.org/abs/2401.01093)|null|
@@ -36,6 +37,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance**|Huanjun Kong et.al.|[2401.08772](http://arxiv.org/abs/2401.08772)|**[link](https://github.com/internlm/huixiangdou)**|
+|**2024-01-16**|**The Gaps between Pre-train and Downstream Settings in Bias Evaluation and Debiasing**|Masahiro Kaneko et.al.|[2401.08511](http://arxiv.org/abs/2401.08511)|null|
+|**2024-01-16**|**Machine Translation with Large Language Models: Prompt Engineering for Persian, English, and Russian Directions**|Nooshin Pourkamali et.al.|[2401.08429](http://arxiv.org/abs/2401.08429)|null|
 |**2024-01-14**|**A Survey on Statistical Theory of Deep Learning: Approximation, Training Dynamics, and Generative Models**|Namjoon Suh et.al.|[2401.07187](http://arxiv.org/abs/2401.07187)|null|
 |**2024-01-13**|**Fast and Accurate Zero-Training Classification for Tabular Engineering Data**|Cyril Picard et.al.|[2401.06948](http://arxiv.org/abs/2401.06948)|null|
 |**2024-01-12**|**Mind Your Format: Towards Consistent Evaluation of In-Context Learning Improvements**|Anton Voronov et.al.|[2401.06766](http://arxiv.org/abs/2401.06766)|null|
@@ -80,6 +84,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images**|Antonin Vobecky et.al.|[2401.09413](http://arxiv.org/abs/2401.09413)|null|
+|**2024-01-17**|**OCTO+: A Suite for Automatic Open-Vocabulary Object Placement in Mixed Reality**|Aditya Sharma et.al.|[2401.08973](http://arxiv.org/abs/2401.08973)|null|
 |**2024-01-16**|**Self-Imagine: Effective Unimodal Reasoning with Multimodal Models using Self-Imagination**|Syeda Nahida Akter et.al.|[2401.08025](http://arxiv.org/abs/2401.08025)|**[link](https://github.com/snat1505027/self-imagine)**|
 |**2024-01-15**|**VeCAF: VLM-empowered Collaborative Active Finetuning with Training Objective Awareness**|Rongyu Zhang et.al.|[2401.07853](http://arxiv.org/abs/2401.07853)|null|
 |**2024-01-15**|**Concept-Guided Prompt Learning for Generalization in Vision-Language Models**|Yi Zhang et.al.|[2401.07457](http://arxiv.org/abs/2401.07457)|null|
