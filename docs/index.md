@@ -37,6 +37,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**Beyond Reference-Based Metrics: Analyzing Behaviors of Open LLMs on Data-to-Text Generation**|Zdeněk Kasner et.al.|[2401.10186](http://arxiv.org/abs/2401.10186)|null|
+|**2024-01-18**|**Leveraging Biases in Large Language Models: "bias-kNN'' for Effective Few-Shot Learning**|Yong Zhang et.al.|[2401.09783](http://arxiv.org/abs/2401.09783)|null|
 |**2024-01-16**|**HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance**|Huanjun Kong et.al.|[2401.08772](http://arxiv.org/abs/2401.08772)|**[link](https://github.com/internlm/huixiangdou)**|
 |**2024-01-16**|**The Gaps between Pre-train and Downstream Settings in Bias Evaluation and Debiasing**|Masahiro Kaneko et.al.|[2401.08511](http://arxiv.org/abs/2401.08511)|null|
 |**2024-01-16**|**Machine Translation with Large Language Models: Prompt Engineering for Persian, English, and Russian Directions**|Nooshin Pourkamali et.al.|[2401.08429](http://arxiv.org/abs/2401.08429)|null|
@@ -84,6 +86,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**CLIP feature-based randomized control using images and text for multiple tasks and robots**|Kazuki Shibata et.al.|[2401.10085](http://arxiv.org/abs/2401.10085)|null|
+|**2024-01-18**|**GPT4Ego: Unleashing the Potential of Pre-trained Models for Zero-Shot Egocentric Action Recognition**|Guangzhao Dai et.al.|[2401.10039](http://arxiv.org/abs/2401.10039)|null|
+|**2024-01-18**|**Improving fine-grained understanding in image-text pre-training**|Ioana Bica et.al.|[2401.09865](http://arxiv.org/abs/2401.09865)|null|
 |**2024-01-17**|**POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images**|Antonin Vobecky et.al.|[2401.09413](http://arxiv.org/abs/2401.09413)|null|
 |**2024-01-17**|**OCTO+: A Suite for Automatic Open-Vocabulary Object Placement in Mixed Reality**|Aditya Sharma et.al.|[2401.08973](http://arxiv.org/abs/2401.08973)|null|
 |**2024-01-16**|**Self-Imagine: Effective Unimodal Reasoning with Multimodal Models using Self-Imagination**|Syeda Nahida Akter et.al.|[2401.08025](http://arxiv.org/abs/2401.08025)|**[link](https://github.com/snat1505027/self-imagine)**|
