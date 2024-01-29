@@ -62,7 +62,7 @@
 |**2024-01-16**|**Machine Translation with Large Language Models: Prompt Engineering for Persian, English, and Russian Directions**|Nooshin Pourkamali et.al.|[2401.08429](http://arxiv.org/abs/2401.08429)|null|
 |**2024-01-14**|**A Survey on Statistical Theory of Deep Learning: Approximation, Training Dynamics, and Generative Models**|Namjoon Suh et.al.|[2401.07187](http://arxiv.org/abs/2401.07187)|null|
 |**2024-01-13**|**Fast and Accurate Zero-Training Classification for Tabular Engineering Data**|Cyril Picard et.al.|[2401.06948](http://arxiv.org/abs/2401.06948)|null|
-|**2024-01-12**|**Mind Your Format: Towards Consistent Evaluation of In-Context Learning Improvements**|Anton Voronov et.al.|[2401.06766](http://arxiv.org/abs/2401.06766)|null|
+|**2024-01-12**|**Mind Your Format: Towards Consistent Evaluation of In-Context Learning Improvements**|Anton Voronov et.al.|[2401.06766](http://arxiv.org/abs/2401.06766)|**[link](https://github.com/yandex-research/mind-your-format)**|
 |**2024-01-12**|**The Unreasonable Effectiveness of Easy Training Data for Hard Tasks**|Peter Hase et.al.|[2401.06751](http://arxiv.org/abs/2401.06751)|**[link](https://github.com/allenai/easy-to-hard-generalization)**|
 |**2024-01-12**|**Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning**|Kaiyi Zhang et.al.|[2401.06469](http://arxiv.org/abs/2401.06469)|null|
 |**2024-01-12**|**Misconfidence-based Demonstration Selection for LLM In-Context Learning**|Shangqing Xu et.al.|[2401.06301](http://arxiv.org/abs/2401.06301)|null|
@@ -81,7 +81,7 @@
 |**2024-01-01**|**A Computational Framework for Behavioral Assessment of LLM Therapists**|Yu Ying Chiu et.al.|[2401.00820](http://arxiv.org/abs/2401.00820)|**[link](https://github.com/behavioral-data/bolt)**|
 |**2024-01-01**|**The Earth is Flat? Unveiling Factual Errors in Large Language Models**|Wenxuan Wang et.al.|[2401.00761](http://arxiv.org/abs/2401.00761)|null|
 |**2024-01-01**|**A & B == B & A: Triggering Logical Reasoning Failures in Large Language Models**|Yuxuan Wan et.al.|[2401.00757](http://arxiv.org/abs/2401.00757)|null|
-|**2023-12-29**|**Overview of the PromptCBLUE Shared Task in CHIP2023**|Wei Zhu et.al.|[2312.17522](http://arxiv.org/abs/2312.17522)|null|
+|**2023-12-29**|**Overview of the PromptCBLUE Shared Task in CHIP2023**|Wei Zhu et.al.|[2312.17522](http://arxiv.org/abs/2312.17522)|**[link](https://github.com/michael-wzhu/PromptCBLUE)**|
 |**2023-12-28**|**Grounding-Prompter: Prompting LLM with Multimodal Information for Temporal Sentence Grounding in Long Videos**|Houlun Chen et.al.|[2312.17117](http://arxiv.org/abs/2312.17117)|null|
 |**2023-12-28**|**Improving In-context Learning via Bidirectional Alignment**|Chengwei Qin et.al.|[2312.17055](http://arxiv.org/abs/2312.17055)|null|
 |**2023-12-27**|**How Robust are LLMs to In-Context Majority Label Bias?**|Karan Gupta et.al.|[2312.16549](http://arxiv.org/abs/2312.16549)|null|
@@ -119,9 +119,9 @@
 |**2024-01-22**|**Zoom-shot: Fast and Efficient Unsupervised Zero-Shot Transfer of CLIP to Vision Encoders with Multimodal Loss**|Jordan Shipard et.al.|[2401.11633](http://arxiv.org/abs/2401.11633)|null|
 |**2024-01-21**|**LLMRA: Multi-modal Large Language Model based Restoration Assistant**|Xiaoyu Jin et.al.|[2401.11401](http://arxiv.org/abs/2401.11401)|null|
 |**2024-01-20**|**Prompting Large Vision-Language Models for Compositional Reasoning**|Timothy Ossowski et.al.|[2401.11337](http://arxiv.org/abs/2401.11337)|**[link](https://github.com/tossowski/keycomp)**|
-|**2024-01-20**|**Inducing High Energy-Latency of Large Vision-Language Models with Verbose Images**|Kuofeng Gao et.al.|[2401.11170](http://arxiv.org/abs/2401.11170)|null|
+|**2024-01-20**|**Inducing High Energy-Latency of Large Vision-Language Models with Verbose Images**|Kuofeng Gao et.al.|[2401.11170](http://arxiv.org/abs/2401.11170)|**[link](https://github.com/kuofenggao/verbose_images)**|
 |**2024-01-19**|**Image Safeguarding: Reasoning with Conditional Vision Language Model and Obfuscating Unsafe Content Counterfactually**|Mazal Bethany et.al.|[2401.11035](http://arxiv.org/abs/2401.11035)|**[link](https://github.com/secureaiautonomylab/conditionalvlm)**|
-|**2024-01-19**|**CBVS: A Large-Scale Chinese Image-Text Benchmark for Real-World Short Video Search Scenarios**|Xiangshuo Qiao et.al.|[2401.10475](http://arxiv.org/abs/2401.10475)|null|
+|**2024-01-19**|**CBVS: A Large-Scale Chinese Image-Text Benchmark for Real-World Short Video Search Scenarios**|Xiangshuo Qiao et.al.|[2401.10475](http://arxiv.org/abs/2401.10475)|**[link](https://github.com/QQBrowserVideoSearch/CBVS-UniCLIP)**|
 |**2024-01-18**|**CLIP feature-based randomized control using images and text for multiple tasks and robots**|Kazuki Shibata et.al.|[2401.10085](http://arxiv.org/abs/2401.10085)|null|
 |**2024-01-18**|**GPT4Ego: Unleashing the Potential of Pre-trained Models for Zero-Shot Egocentric Action Recognition**|Guangzhao Dai et.al.|[2401.10039](http://arxiv.org/abs/2401.10039)|null|
 |**2024-01-18**|**Improving fine-grained understanding in image-text pre-training**|Ioana Bica et.al.|[2401.09865](http://arxiv.org/abs/2401.09865)|null|
