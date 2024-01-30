@@ -38,6 +38,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**APIGen: Generative API Method Recommendation**|Yujia Chen et.al.|[2401.15843](http://arxiv.org/abs/2401.15843)|null|
+|**2024-01-28**|**An Information-Theoretic Analysis of In-Context Learning**|Hong Jun Jeon et.al.|[2401.15530](http://arxiv.org/abs/2401.15530)|null|
 |**2024-01-26**|**Towards Lifelong Scene Graph Generation with Knowledge-ware In-context Prompt Learning**|Tao He et.al.|[2401.14626](http://arxiv.org/abs/2401.14626)|null|
 |**2024-01-25**|**Language Modelling Approaches to Adaptive Machine Translation**|Yasmin Moslem et.al.|[2401.14559](http://arxiv.org/abs/2401.14559)|null|
 |**2024-01-25**|**K-QA: A Real-World Medical Q&A Benchmark**|Itay Manes et.al.|[2401.14493](http://arxiv.org/abs/2401.14493)|null|
@@ -100,6 +102,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model**|Xiaoyi Dong et.al.|[2401.16420](http://arxiv.org/abs/2401.16420)|null|
+|**2024-01-29**|**MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**|Bin Lin et.al.|[2401.15947](http://arxiv.org/abs/2401.15947)|**[link](https://github.com/PKU-YuanGroup/MoE-LLaVA)**|
+|**2024-01-29**|**Overcoming the Pitfalls of Vision-Language Model Finetuning for OOD Generalization**|Yuhang Zang et.al.|[2401.15914](http://arxiv.org/abs/2401.15914)|null|
+|**2024-01-29**|**Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA**|Yue Fan et.al.|[2401.15847](http://arxiv.org/abs/2401.15847)|null|
 |**2024-01-26**|**Taiyi-Diffusion-XL: Advancing Bilingual Text-to-Image Generation with Large Vision-Language Model Support**|Xiaojun Wu et.al.|[2401.14688](http://arxiv.org/abs/2401.14688)|null|
 |**2024-01-25**|**Revisiting Active Learning in the Era of Vision Foundation Models**|Sanket Rajan Gupte et.al.|[2401.14555](http://arxiv.org/abs/2401.14555)|null|
 |**2024-01-25**|**MResT: Multi-Resolution Sensing for Real-Time Control with Vision-Language Models**|Saumya Saxena et.al.|[2401.14502](http://arxiv.org/abs/2401.14502)|null|
