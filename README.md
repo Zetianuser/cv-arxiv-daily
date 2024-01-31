@@ -45,6 +45,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**ToPro: Token-Level Prompt Decomposition for Cross-Lingual Sequence Labeling Tasks**|Bolei Ma et.al.|[2401.16589](http://arxiv.org/abs/2401.16589)|**[link](https://github.com/boleima/topro)**|
 |**2024-01-29**|**APIGen: Generative API Method Recommendation**|Yujia Chen et.al.|[2401.15843](http://arxiv.org/abs/2401.15843)|null|
 |**2024-01-28**|**An Information-Theoretic Analysis of In-Context Learning**|Hong Jun Jeon et.al.|[2401.15530](http://arxiv.org/abs/2401.15530)|null|
 |**2024-01-26**|**Towards Lifelong Scene Graph Generation with Knowledge-ware In-context Prompt Learning**|Tao He et.al.|[2401.14626](http://arxiv.org/abs/2401.14626)|null|
@@ -53,7 +54,7 @@
 |**2024-01-24**|**Automated Root Causing of Cloud Incidents using In-Context Learning with GPT-4**|Xuchao Zhang et.al.|[2401.13810](http://arxiv.org/abs/2401.13810)|null|
 |**2024-01-24**|**Tyche: Stochastic In-Context Learning for Medical Image Segmentation**|Marianne Rakic et.al.|[2401.13650](http://arxiv.org/abs/2401.13650)|**[link](https://github.com/mariannerakic/tyche)**|
 |**2024-01-24**|**MaLA-500: Massive Language Adaptation of Large Language Models**|Peiqin Lin et.al.|[2401.13303](http://arxiv.org/abs/2401.13303)|null|
-|**2024-01-23**|**In-Context Language Learning: Arhitectures and Algorithms**|Ekin Akyürek et.al.|[2401.12973](http://arxiv.org/abs/2401.12973)|**[link](https://github.com/berlino/seq_icl)**|
+|**2024-01-30**|**In-Context Language Learning: Architectures and Algorithms**|Ekin Akyürek et.al.|[2401.12973](http://arxiv.org/abs/2401.12973)|**[link](https://github.com/berlino/seq_icl)**|
 |**2024-01-22**|**Enhancing In-context Learning via Linear Probe Calibration**|Momin Abbas et.al.|[2401.12406](http://arxiv.org/abs/2401.12406)|**[link](https://github.com/mominabbass/linc)**|
 |**2024-01-22**|**In-Context Learning for Extreme Multi-Label Classification**|Karel D'Oosterlinck et.al.|[2401.12178](http://arxiv.org/abs/2401.12178)|**[link](https://github.com/kareldo/xmc.dspy)**|
 |**2024-01-22**|**An Empirical Analysis of In-context Learning Abilities of LLMs for MT**|Pranjal A. Chitale et.al.|[2401.12097](http://arxiv.org/abs/2401.12097)|null|
@@ -111,6 +112,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**YOLO-World: Real-Time Open-Vocabulary Object Detection**|Tianheng Cheng et.al.|[2401.17270](http://arxiv.org/abs/2401.17270)|**[link](https://github.com/ailab-cvc/yolo-world)**|
+|**2024-01-30**|**MouSi: Poly-Visual-Expert Vision-Language Models**|Xiaoran Fan et.al.|[2401.17221](http://arxiv.org/abs/2401.17221)|null|
+|**2024-01-30**|**Online Robot Navigation and and Manipulation with Distilled Vision-Language Models**|Kangcheng Liu et.al.|[2401.17083](http://arxiv.org/abs/2401.17083)|null|
 |**2024-01-29**|**InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model**|Xiaoyi Dong et.al.|[2401.16420](http://arxiv.org/abs/2401.16420)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2024-01-29**|**MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**|Bin Lin et.al.|[2401.15947](http://arxiv.org/abs/2401.15947)|**[link](https://github.com/PKU-YuanGroup/MoE-LLaVA)**|
 |**2024-01-29**|**Overcoming the Pitfalls of Vision-Language Model Finetuning for OOD Generalization**|Yuhang Zang et.al.|[2401.15914](http://arxiv.org/abs/2401.15914)|null|
