@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.30
+## Updated on 2024.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -39,7 +39,7 @@
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
 |**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
 
-<p align=right>(<a href=#updated-on-20240130>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
 
 ## In-context
 
@@ -49,7 +49,7 @@
 |**2024-01-28**|**An Information-Theoretic Analysis of In-Context Learning**|Hong Jun Jeon et.al.|[2401.15530](http://arxiv.org/abs/2401.15530)|null|
 |**2024-01-26**|**Towards Lifelong Scene Graph Generation with Knowledge-ware In-context Prompt Learning**|Tao He et.al.|[2401.14626](http://arxiv.org/abs/2401.14626)|null|
 |**2024-01-25**|**Language Modelling Approaches to Adaptive Machine Translation**|Yasmin Moslem et.al.|[2401.14559](http://arxiv.org/abs/2401.14559)|null|
-|**2024-01-25**|**K-QA: A Real-World Medical Q&A Benchmark**|Itay Manes et.al.|[2401.14493](http://arxiv.org/abs/2401.14493)|null|
+|**2024-01-25**|**K-QA: A Real-World Medical Q&A Benchmark**|Itay Manes et.al.|[2401.14493](http://arxiv.org/abs/2401.14493)|**[link](https://github.com/itaymanes/k-qa)**|
 |**2024-01-24**|**Automated Root Causing of Cloud Incidents using In-Context Learning with GPT-4**|Xuchao Zhang et.al.|[2401.13810](http://arxiv.org/abs/2401.13810)|null|
 |**2024-01-24**|**Tyche: Stochastic In-Context Learning for Medical Image Segmentation**|Marianne Rakic et.al.|[2401.13650](http://arxiv.org/abs/2401.13650)|**[link](https://github.com/mariannerakic/tyche)**|
 |**2024-01-24**|**MaLA-500: Massive Language Adaptation of Large Language Models**|Peiqin Lin et.al.|[2401.13303](http://arxiv.org/abs/2401.13303)|null|
@@ -105,18 +105,18 @@
 |**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075](http://arxiv.org/abs/2312.11075)|null|
 |**2023-12-18**|**APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation**|Chengran Yang et.al.|[2312.10934](http://arxiv.org/abs/2312.10934)|null|
 
-<p align=right>(<a href=#updated-on-20240130>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-29**|**InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model**|Xiaoyi Dong et.al.|[2401.16420](http://arxiv.org/abs/2401.16420)|null|
+|**2024-01-29**|**InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model**|Xiaoyi Dong et.al.|[2401.16420](http://arxiv.org/abs/2401.16420)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2024-01-29**|**MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**|Bin Lin et.al.|[2401.15947](http://arxiv.org/abs/2401.15947)|**[link](https://github.com/PKU-YuanGroup/MoE-LLaVA)**|
 |**2024-01-29**|**Overcoming the Pitfalls of Vision-Language Model Finetuning for OOD Generalization**|Yuhang Zang et.al.|[2401.15914](http://arxiv.org/abs/2401.15914)|null|
 |**2024-01-29**|**Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA**|Yue Fan et.al.|[2401.15847](http://arxiv.org/abs/2401.15847)|null|
 |**2024-01-26**|**Taiyi-Diffusion-XL: Advancing Bilingual Text-to-Image Generation with Large Vision-Language Model Support**|Xiaojun Wu et.al.|[2401.14688](http://arxiv.org/abs/2401.14688)|null|
-|**2024-01-25**|**Revisiting Active Learning in the Era of Vision Foundation Models**|Sanket Rajan Gupte et.al.|[2401.14555](http://arxiv.org/abs/2401.14555)|null|
+|**2024-01-25**|**Revisiting Active Learning in the Era of Vision Foundation Models**|Sanket Rajan Gupte et.al.|[2401.14555](http://arxiv.org/abs/2401.14555)|**[link](https://github.com/tempconfx/al-foundation-models)**|
 |**2024-01-25**|**MResT: Multi-Resolution Sensing for Real-Time Control with Vision-Language Models**|Saumya Saxena et.al.|[2401.14502](http://arxiv.org/abs/2401.14502)|null|
 |**2024-01-24**|**ChatterBox: Multi-round Multimodal Referring and Grounding**|Yunjie Tian et.al.|[2401.13307](http://arxiv.org/abs/2401.13307)|**[link](https://github.com/sunsmarterjie/chatterbox)**|
 |**2024-01-23**|**AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents**|Michael Ahn et.al.|[2401.12963](http://arxiv.org/abs/2401.12963)|null|
@@ -191,7 +191,7 @@
 |**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423](http://arxiv.org/abs/2312.12423)|null|
 |**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379](http://arxiv.org/abs/2312.12379)|null|
 
-<p align=right>(<a href=#updated-on-20240130>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
