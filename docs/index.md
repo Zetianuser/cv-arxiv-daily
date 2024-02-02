@@ -39,6 +39,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**Can Large Language Models Understand Context?**|Yilun Zhu et.al.|[2402.00858](http://arxiv.org/abs/2402.00858)|null|
+|**2024-02-01**|**Unlearnable Algorithms for In-context Learning**|Andrei Muresanu et.al.|[2402.00751](http://arxiv.org/abs/2402.00751)|null|
+|**2024-02-01**|**Enhancing Ethical Explanations of Large Language Models through Iterative Symbolic Refinement**|Xin Quan et.al.|[2402.00745](http://arxiv.org/abs/2402.00745)|**[link](https://github.com/neuro-symbolic-ai/explanation_based_ethical_reasoning)**|
+|**2024-02-01**|**Benefits of Transformer: In-Context Learning in Linear Regression Tasks with Unstructured Data**|Yue Xing et.al.|[2402.00743](http://arxiv.org/abs/2402.00743)|null|
+|**2024-02-01**|**Improving Weak-to-Strong Generalization with Scalable Oversight and Ensemble Learning**|Jitao Sang et.al.|[2402.00667](http://arxiv.org/abs/2402.00667)|**[link](https://github.com/adam-bjtu/w2sg)**|
 |**2024-01-31**|**Enhancing Large Language Model with Decomposed Reasoning for Emotion Cause Pair Extraction**|Jialiang Wu et.al.|[2401.17716](http://arxiv.org/abs/2401.17716)|null|
 |**2024-01-31**|**Assertion Detection Large Language Model In-context Learning LoRA Fine-tuning**|Yuelyu Ji et.al.|[2401.17602](http://arxiv.org/abs/2401.17602)|null|
 |**2024-01-30**|**Superiority of Multi-Head Attention in In-Context Linear Regression**|Yingqian Cui et.al.|[2401.17426](http://arxiv.org/abs/2401.17426)|null|
@@ -108,9 +113,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks**|Maan Qraitem et.al.|[2402.00626](http://arxiv.org/abs/2402.00626)|null|
+|**2024-02-01**|**A Survey on Hallucination in Large Vision-Language Models**|Hanchao Liu et.al.|[2402.00253](http://arxiv.org/abs/2402.00253)|null|
 |**2024-01-31**|**PVLR: Prompt-driven Visual-Linguistic Representation Learning for Multi-Label Image Recognition**|Hao Tan et.al.|[2401.17881](http://arxiv.org/abs/2401.17881)|null|
 |**2024-01-31**|**Unified Physical-Digital Face Attack Detection**|Hao Fang et.al.|[2401.17699](http://arxiv.org/abs/2401.17699)|null|
-|**2024-01-31**|**Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data**|Chenhui Zhang et.al.|[2401.17600](http://arxiv.org/abs/2401.17600)|**[link](https://github.com/Earth-Intelligence-Lab/vleo-bench)**|
+|**2024-01-31**|**Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data**|Chenhui Zhang et.al.|[2401.17600](http://arxiv.org/abs/2401.17600)|null|
 |**2024-01-30**|**YOLO-World: Real-Time Open-Vocabulary Object Detection**|Tianheng Cheng et.al.|[2401.17270](http://arxiv.org/abs/2401.17270)|**[link](https://github.com/ailab-cvc/yolo-world)**|
 |**2024-01-30**|**MouSi: Poly-Visual-Expert Vision-Language Models**|Xiaoran Fan et.al.|[2401.17221](http://arxiv.org/abs/2401.17221)|**[link](https://github.com/fudannlplab/mousi)**|
 |**2024-01-30**|**Online Robot Navigation and and Manipulation with Distilled Vision-Language Models**|Kangcheng Liu et.al.|[2401.17083](http://arxiv.org/abs/2401.17083)|null|
