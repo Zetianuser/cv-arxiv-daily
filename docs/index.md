@@ -41,6 +41,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-06**|**Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks**|Jongho Park et.al.|[2402.04248](http://arxiv.org/abs/2402.04248)|null|
+|**2024-02-06**|**In-context learning agents are asymmetric belief updaters**|Johannes A. Schubert et.al.|[2402.03969](http://arxiv.org/abs/2402.03969)|null|
+|**2024-02-06**|**Rethinking Skill Extraction in the Job Market Domain using Large Language Models**|Khanh Cao Nguyen et.al.|[2402.03832](http://arxiv.org/abs/2402.03832)|null|
+|**2024-02-05**|**Enhancing the Stability of LLM-based Speech Generation Systems through Self-Supervised Representations**|Álvaro Martín-Cortinas et.al.|[2402.03407](http://arxiv.org/abs/2402.03407)|null|
 |**2024-02-05**|**The Matrix: A Bayesian learning model for LLMs**|Siddhartha Dalal et.al.|[2402.03175](http://arxiv.org/abs/2402.03175)|null|
 |**2024-02-05**|**Multi: Multimodal Understanding Leaderboard with Text and Images**|Zichen Zhu et.al.|[2402.03173](http://arxiv.org/abs/2402.03173)|null|
 |**2024-02-05**|**Is Mamba Capable of In-Context Learning?**|Riccardo Grazzi et.al.|[2402.03170](http://arxiv.org/abs/2402.03170)|null|
@@ -129,6 +133,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-06**|**CogCoM: Train Large Vision-Language Models Diving into Details through Chain of Manipulations**|Ji Qi et.al.|[2402.04236](http://arxiv.org/abs/2402.04236)|**[link](https://github.com/thudm/cogcom)**|
+|**2024-02-06**|**Connecting the Dots: Collaborative Fine-tuning for Black-Box Vision-Language Models**|Zhengbo Wang et.al.|[2402.04050](http://arxiv.org/abs/2402.04050)|null|
+|**2024-02-06**|**Exploring Low-Resource Medical Image Classification with Weakly Supervised Prompt Learning**|Fudan Zheng et.al.|[2402.03783](http://arxiv.org/abs/2402.03783)|null|
+|**2024-02-06**|**MobileVLM V2: Faster and Stronger Baseline for Vision Language Model**|Xiangxiang Chu et.al.|[2402.03766](http://arxiv.org/abs/2402.03766)|**[link](https://github.com/meituan-automl/mobilevlm)**|
+|**2024-02-06**|**Partially Recentralization Softmax Loss for Vision-Language Models Robustness**|Hao Wang et.al.|[2402.03627](http://arxiv.org/abs/2402.03627)|null|
 |**2024-02-05**|**GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models**|Haibo Jin et.al.|[2402.03299](http://arxiv.org/abs/2402.03299)|null|
 |**2024-02-05**|**CLIP Can Understand Depth**|Dunam Kim et.al.|[2402.03251](http://arxiv.org/abs/2402.03251)|null|
 |**2024-02-05**|**Unsupervised semantic segmentation of high-resolution UAV imagery for road scene parsing**|Zihan Ma et.al.|[2402.02985](http://arxiv.org/abs/2402.02985)|null|
