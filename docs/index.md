@@ -41,6 +41,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**Human Curriculum Effects Emerge with In-Context Learning in Neural Networks**|Jacob Russin et.al.|[2402.08674](http://arxiv.org/abs/2402.08674)|null|
+|**2024-02-12**|**Text-centric Alignment for Multi-Modality Learning**|Yun-Da Tsai et.al.|[2402.08086](http://arxiv.org/abs/2402.08086)|null|
 |**2024-02-12**|**Universal link predictor by In-context Learning**|Kaiwen Dong et.al.|[2402.07738](http://arxiv.org/abs/2402.07738)|null|
 |**2024-02-12**|**Step-On-Feet Tuning: Scaling Self-Alignment of LLMs via Bootstrapping**|Haoyu Wang et.al.|[2402.07610](http://arxiv.org/abs/2402.07610)|null|
 |**2024-02-12**|**VisLingInstruct: Elevating Zero-Shot Learning in Multi-Modal Language Models with Autonomous Instruction Optimization**|Dongsheng Zhu et.al.|[2402.07398](http://arxiv.org/abs/2402.07398)|null|
@@ -148,6 +150,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**Mitigating Object Hallucination in Large Vision-Language Models via Classifier-Free Guidance**|Linxi Zhao et.al.|[2402.08680](http://arxiv.org/abs/2402.08680)|null|
+|**2024-02-13**|**Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models**|Yuqing Liu et.al.|[2402.08670](http://arxiv.org/abs/2402.08670)|null|
+|**2024-02-13**|**PIN: Positional Insert Unlocks Object Localisation Abilities in VLMs**|Michael Dorkenwald et.al.|[2402.08657](http://arxiv.org/abs/2402.08657)|null|
+|**2024-02-13**|**Intriguing Differences Between Zero-Shot and Systematic Evaluations of Vision-Language Transformer Models**|Shaeke Salman et.al.|[2402.08473](http://arxiv.org/abs/2402.08473)|null|
+|**2024-02-13**|**One-shot Imitation in a Non-Stationary Environment via Multi-Modal Skill**|Sangwoo Shin et.al.|[2402.08369](http://arxiv.org/abs/2402.08369)|null|
 |**2024-02-12**|**PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs**|Soroush Nasiriany et.al.|[2402.07872](http://arxiv.org/abs/2402.07872)|null|
 |**2024-02-12**|**An Empirical Study Into What Matters for Calibrating Vision-Language Models**|Weijie Tu et.al.|[2402.07417](http://arxiv.org/abs/2402.07417)|null|
 |**2024-02-11**|**The Bias of Harmful Label Associations in Vision-Language Models**|Caner Hazirbas et.al.|[2402.07329](http://arxiv.org/abs/2402.07329)|null|
