@@ -121,7 +121,7 @@ layout: default
 |**2024-01-13**|**Fast and Accurate Zero-Training Classification for Tabular Engineering Data**|Cyril Picard et.al.|[2401.06948](http://arxiv.org/abs/2401.06948)|null|
 |**2024-01-12**|**Mind Your Format: Towards Consistent Evaluation of In-Context Learning Improvements**|Anton Voronov et.al.|[2401.06766](http://arxiv.org/abs/2401.06766)|**[link](https://github.com/yandex-research/mind-your-format)**|
 |**2024-01-12**|**The Unreasonable Effectiveness of Easy Training Data for Hard Tasks**|Peter Hase et.al.|[2401.06751](http://arxiv.org/abs/2401.06751)|**[link](https://github.com/allenai/easy-to-hard-generalization)**|
-|**2024-01-12**|**Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning**|Kaiyi Zhang et.al.|[2401.06469](http://arxiv.org/abs/2401.06469)|null|
+|**2024-01-12**|**Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning**|Kaiyi Zhang et.al.|[2401.06469](http://arxiv.org/abs/2401.06469)|**[link](https://github.com/cardinalere/batch-icl)**|
 |**2024-01-12**|**Misconfidence-based Demonstration Selection for LLM In-Context Learning**|Shangqing Xu et.al.|[2401.06301](http://arxiv.org/abs/2401.06301)|null|
 |**2024-01-12**|**Universal Vulnerabilities in Large Language Models: In-context Learning Backdoor Attacks**|Shuai Zhao et.al.|[2401.05949](http://arxiv.org/abs/2401.05949)|**[link](https://github.com/shuaizhao95/iclattack)**|
 |**2024-01-11**|**Probing Structured Semantics Understanding and Generation of Language Models via Question Answering**|Jinxin Liu et.al.|[2401.05777](http://arxiv.org/abs/2401.05777)|null|
@@ -204,7 +204,7 @@ layout: default
 |**2024-02-03**|**Déjà Vu Memorization in Vision-Language Models**|Bargav Jayaraman et.al.|[2402.02103](http://arxiv.org/abs/2402.02103)|null|
 |**2024-02-02**|**Skip $\textbackslash n$ : A simple method to reduce hallucination in Large Vision-Language Models**|Zongbo Han et.al.|[2402.01345](http://arxiv.org/abs/2402.01345)|**[link](https://github.com/hanmenghan/mihio)**|
 |**2024-02-01**|**Exploring Spatial Schema Intuitions in Large Language and Vision Models**|Philipp Wicke et.al.|[2402.00956](http://arxiv.org/abs/2402.00956)|null|
-|**2024-02-01**|**Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks**|Maan Qraitem et.al.|[2402.00626](http://arxiv.org/abs/2402.00626)|null|
+|**2024-02-01**|**Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks**|Maan Qraitem et.al.|[2402.00626](http://arxiv.org/abs/2402.00626)|**[link](https://github.com/mqraitem/self-gen-typo-attack)**|
 |**2024-02-01**|**A Survey on Hallucination in Large Vision-Language Models**|Hanchao Liu et.al.|[2402.00253](http://arxiv.org/abs/2402.00253)|null|
 |**2024-01-31**|**PVLR: Prompt-driven Visual-Linguistic Representation Learning for Multi-Label Image Recognition**|Hao Tan et.al.|[2401.17881](http://arxiv.org/abs/2401.17881)|null|
 |**2024-01-31**|**Unified Physical-Digital Face Attack Detection**|Hao Fang et.al.|[2401.17699](http://arxiv.org/abs/2401.17699)|null|
