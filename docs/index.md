@@ -43,6 +43,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Task-Oriented Dialogue with In-Context Learning**|Tom Bocklisch et.al.|[2402.12234](http://arxiv.org/abs/2402.12234)|null|
+|**2024-02-19**|**Do Large Language Models Understand Logic or Just Mimick Context?**|Junbing Yan et.al.|[2402.12091](http://arxiv.org/abs/2402.12091)|null|
+|**2024-02-19**|**Self-AMPLIFY: Improving Small Language Models with Self Post Hoc Explanations**|Milan Bhan et.al.|[2402.12038](http://arxiv.org/abs/2402.12038)|null|
+|**2024-02-19**|**Modularized Networks for Few-shot Hateful Meme Detection**|Rui Cao et.al.|[2402.11845](http://arxiv.org/abs/2402.11845)|**[link](https://github.com/social-ai-studio/mod_hate)**|
+|**2024-02-19**|**In-Context Learning Demonstration Selection via Influence Analysis**|Vinay M. S. et.al.|[2402.11750](http://arxiv.org/abs/2402.11750)|null|
+|**2024-02-18**|**GNNavi: Navigating the Information Flow in Large Language Models by Graph Neural Network**|Shuzhou Yuan et.al.|[2402.11709](http://arxiv.org/abs/2402.11709)|null|
+|**2024-02-18**|**In-Context Learning with Transformers: Softmax Attention Adapts to Function Lipschitzness**|Liam Collins et.al.|[2402.11639](http://arxiv.org/abs/2402.11639)|null|
+|**2024-02-18**|**Visual In-Context Learning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2402.11574](http://arxiv.org/abs/2402.11574)|null|
+|**2024-02-18**|**Learning to Learn Faster from Human Feedback with Language Model Predictive Control**|Jacky Liang et.al.|[2402.11450](http://arxiv.org/abs/2402.11450)|null|
+|**2024-02-18**|**In-Context Example Ordering Guided by Label Distributions**|Zhichao Xu et.al.|[2402.11447](http://arxiv.org/abs/2402.11447)|null|
 |**2024-02-16**|**RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model**|Jianhao Yuan et.al.|[2402.10828](http://arxiv.org/abs/2402.10828)|null|
 |**2024-02-16**|**Let's Learn Step by Step: Enhancing In-Context Learning Ability with Curriculum Learning**|Yinpeng Liu et.al.|[2402.10738](http://arxiv.org/abs/2402.10738)|**[link](https://github.com/61peng/curri_learning)**|
 |**2024-02-16**|**Decomposition for Enhancing Attention: Improving LLM-based Text-to-SQL through Workflow Paradigm**|Yuanzhen Xie et.al.|[2402.10671](http://arxiv.org/abs/2402.10671)|null|
@@ -170,6 +180,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models**|Christian Schlarmann et.al.|[2402.12336](http://arxiv.org/abs/2402.12336)|**[link](https://github.com/chs20/robustvlm)**|
+|**2024-02-19**|**DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models**|Xiaoyu Tian et.al.|[2402.12289](http://arxiv.org/abs/2402.12289)|null|
+|**2024-02-19**|**Evaluating Image Review Ability of Vision Language Models**|Shigeki Saito et.al.|[2402.12121](http://arxiv.org/abs/2402.12121)|null|
+|**2024-02-19**|**LEMMA: Towards LVLM-Enhanced Multimodal Misinformation Detection with External Knowledge Augmentation**|Keyang Xuan et.al.|[2402.11943](http://arxiv.org/abs/2402.11943)|null|
+|**2024-02-18**|**Vision-Flan: Scaling Human-Labeled Tasks in Visual Instruction Tuning**|Zhiyang Xu et.al.|[2402.11690](http://arxiv.org/abs/2402.11690)|null|
+|**2024-02-18**|**ALLaVA: Harnessing GPT4V-synthesized Data for A Lite Vision-Language Model**|Guiming Hardy Chen et.al.|[2402.11684](http://arxiv.org/abs/2402.11684)|null|
+|**2024-02-18**|**Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models**|Junfei Wu et.al.|[2402.11622](http://arxiv.org/abs/2402.11622)|**[link](https://github.com/hyperwjf/logiccheckgpt)**|
+|**2024-02-18**|**Visual In-Context Learning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2402.11574](http://arxiv.org/abs/2402.11574)|null|
+|**2024-02-17**|**ChatEarthNet: A Global-Scale, High-Quality Image-Text Dataset for Remote Sensing**|Zhenghang Yuan et.al.|[2402.11325](http://arxiv.org/abs/2402.11325)|null|
+|**2024-02-17**|**CoLLaVO: Crayon Large Language and Vision mOdel**|Byung-Kwan Lee et.al.|[2402.11248](http://arxiv.org/abs/2402.11248)|**[link](https://github.com/ByungKwanLee/CoLLaVO-Crayon-Large-Language-and-Vision-mOdel)**|
 |**2024-02-16**|**PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter**|Junfei Xiao et.al.|[2402.10896](http://arxiv.org/abs/2402.10896)|null|
 |**2024-02-16**|**Question-Instructed Visual Descriptions for Zero-Shot Video Question Answering**|David Romero et.al.|[2402.10698](http://arxiv.org/abs/2402.10698)|null|
 |**2024-02-16**|**OpenFMNav: Towards Open-Set Zero-Shot Object Navigation via Vision-Language Foundation Models**|Yuxuan Kuang et.al.|[2402.10670](http://arxiv.org/abs/2402.10670)|null|
