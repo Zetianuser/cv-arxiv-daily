@@ -51,8 +51,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**Interactive-KBQA: Multi-Turn Interactions for Knowledge Base Question Answering with Large Language Models**|Guanming Xiong et.al.|[2402.15131](http://arxiv.org/abs/2402.15131)|null|
+|**2024-02-23**|**Studying LLM Performance on Closed- and Open-source Data**|Toufique Ahmed et.al.|[2402.15100](http://arxiv.org/abs/2402.15100)|null|
+|**2024-02-23**|**Fine-tuning Large Language Models for Domain-specific Machine Translation**|Jiawei Zheng et.al.|[2402.15061](http://arxiv.org/abs/2402.15061)|null|
+|**2024-02-22**|**In-Context Learning of a Linear Transformer Block: Benefits of the MLP Component and One-Step GD Initialization**|Ruiqi Zhang et.al.|[2402.14951](http://arxiv.org/abs/2402.14951)|null|
 |**2024-02-22**|**How Transformers Learn Causal Structure with Gradient Descent**|Eshaan Nichani et.al.|[2402.14735](http://arxiv.org/abs/2402.14735)|null|
-|**2024-02-22**|**Is ChatGPT the Future of Causal Text Mining? A Comprehensive Evaluation and Analysis**|Takehiro Takayanagi et.al.|[2402.14484](http://arxiv.org/abs/2402.14484)|**[link](https://github.com/retarfi/gemcausal)**|
+|**2024-02-23**|**Is ChatGPT the Future of Causal Text Mining? A Comprehensive Evaluation and Analysis**|Takehiro Takayanagi et.al.|[2402.14484](http://arxiv.org/abs/2402.14484)|null|
 |**2024-02-22**|**On the Tip of the Tongue: Analyzing Conceptual Representation in Large Language Models with Reverse-Dictionary Probe**|Ningyu Xu et.al.|[2402.14404](http://arxiv.org/abs/2402.14404)|**[link](https://github.com/ningyuxu/tip_of_tongue)**|
 |**2024-02-22**|**A Simple Framework Uniting Visual In-context Learning with Masked Image Modeling to Improve Ultrasound Segmentation**|Yuyue Zhou et.al.|[2402.14300](http://arxiv.org/abs/2402.14300)|**[link](https://github.com/yuyue2uofa/simicl)**|
 |**2024-02-21**|**Analysing The Impact of Sequence Composition on Language Model Pre-Training**|Yu Zhao et.al.|[2402.13991](http://arxiv.org/abs/2402.13991)|**[link](https://github.com/yuzhaouoe/pretraining-data-packing)**|
@@ -207,6 +211,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**Representing Online Handwriting for Recognition in Large Vision-Language Models**|Anastasiia Fadeeva et.al.|[2402.15307](http://arxiv.org/abs/2402.15307)|null|
+|**2024-02-23**|**Seeing is Believing: Mitigating Hallucination in Large Vision-Language Models via CLIP-Guided Decoding**|Ailin Deng et.al.|[2402.15300](http://arxiv.org/abs/2402.15300)|null|
+|**2024-02-22**|**CLoVe: Encoding Compositional Language in Contrastive Vision-Language Models**|Santiago Castro et.al.|[2402.15021](http://arxiv.org/abs/2402.15021)|null|
 |**2024-02-22**|**PALO: A Polyglot Large Multimodal Model for 5B People**|Muhammad Maaz et.al.|[2402.14818](http://arxiv.org/abs/2402.14818)|**[link](https://github.com/mbzuai-oryx/palo)**|
 |**2024-02-22**|**Uncertainty-Aware Evaluation for Vision-Language Models**|Vasily Kostumov et.al.|[2402.14418](http://arxiv.org/abs/2402.14418)|**[link](https://github.com/ensec-ai/vlm-uncertainty-bench)**|
 |**2024-02-22**|**Multimodal Healthcare AI: Identifying and Designing Clinically Relevant Vision-Language Applications for Radiology**|Nur Yildirim et.al.|[2402.14252](http://arxiv.org/abs/2402.14252)|null|
