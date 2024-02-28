@@ -52,6 +52,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**Securing Reliability: A Brief Overview on Enhancing In-Context Learning for Foundation Models**|Yunpeng Huang et.al.|[2402.17671](http://arxiv.org/abs/2402.17671)|null|
+|**2024-02-27**|**Reinforced In-Context Black-Box Optimization**|Lei Song et.al.|[2402.17423](http://arxiv.org/abs/2402.17423)|**[link](https://github.com/songlei00/ribbo)**|
+|**2024-02-27**|**Video as the New Language for Real-World Decision Making**|Sherry Yang et.al.|[2402.17139](http://arxiv.org/abs/2402.17139)|null|
+|**2024-02-25**|**DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers**|Xirui Li et.al.|[2402.16914](http://arxiv.org/abs/2402.16914)|null|
+|**2024-02-26**|**Look Before You Leap: Towards Decision-Aware and Generalizable Tool-Usage for Large Language Models**|Anchun Gui et.al.|[2402.16696](http://arxiv.org/abs/2402.16696)|null|
+|**2024-02-26**|**Long-Context Language Modeling with Parallel Context Encoding**|Howard Yen et.al.|[2402.16617](http://arxiv.org/abs/2402.16617)|**[link](https://github.com/princeton-nlp/cepe)**|
 |**2024-02-25**|**LLMs with Chain-of-Thought Are Non-Causal Reasoners**|Guangsheng Bao et.al.|[2402.16048](http://arxiv.org/abs/2402.16048)|null|
 |**2024-02-25**|**Likelihood-based Mitigation of Evaluation Bias in Large Language Models**|Masanari Ohi et.al.|[2402.15987](http://arxiv.org/abs/2402.15987)|null|
 |**2024-02-24**|**Data-Efficient Operator Learning via Unsupervised Pretraining and In-Context Learning**|Wuyang Chen et.al.|[2402.15734](http://arxiv.org/abs/2402.15734)|null|
@@ -218,9 +224,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**Demonstrating and Reducing Shortcuts in Vision-Language Representation Learning**|Maurits Bleeker et.al.|[2402.17510](http://arxiv.org/abs/2402.17510)|null|
+|**2024-02-27**|**VCD: Knowledge Base Guided Visual Commonsense Discovery in Images**|Xiangqing Shen et.al.|[2402.17213](http://arxiv.org/abs/2402.17213)|null|
 |**2024-02-26**|**Finer: Investigating and Enhancing Fine-Grained Visual Concept Recognition in Large Vision Language Models**|Jeonghwan Kim et.al.|[2402.16315](http://arxiv.org/abs/2402.16315)|null|
 |**2024-02-26**|**Referee Can Play: An Alternative Approach to Conditional Generation via Model Inversion**|Xuantong Liu et.al.|[2402.16305](http://arxiv.org/abs/2402.16305)|null|
-|**2024-02-24**|**NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation**|Jiazhao Zhang et.al.|[2402.15852](http://arxiv.org/abs/2402.15852)|null|
+|**2024-02-27**|**NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation**|Jiazhao Zhang et.al.|[2402.15852](http://arxiv.org/abs/2402.15852)|null|
 |**2024-02-24**|**Increasing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation**|Zekun Jiang et.al.|[2402.15759](http://arxiv.org/abs/2402.15759)|null|
 |**2024-02-24**|**GAOKAO-MM: A Chinese Human-Level Benchmark for Multimodal Models Evaluation**|Yi Zong et.al.|[2402.15745](http://arxiv.org/abs/2402.15745)|**[link](https://github.com/openmoss/gaokao-mm)**|
 |**2024-02-24**|**CLIPose: Category-Level Object Pose Estimation with Pre-trained Vision-Language Knowledge**|Xiao Lin et.al.|[2402.15726](http://arxiv.org/abs/2402.15726)|null|
