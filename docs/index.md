@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**A Simple yet Effective Network based on Vision Transformer for Camouflaged Object and Salient Object Detection**|Chao Hao et.al.|[2402.18922](http://arxiv.org/abs/2402.18922)|null|
+|**2024-02-28**|**Spatial Coherence Loss for Salient and Camouflaged Object Detection and Beyond**|Ziyun Yang et.al.|[2402.18698](http://arxiv.org/abs/2402.18698)|null|
 |**2024-02-28**|**Living-off-The-Land Reverse-Shell Detection by Informed Data Augmentation**|Dmitrijs Trizna et.al.|[2402.18329](http://arxiv.org/abs/2402.18329)|null|
 |**2024-02-24**|**RAUCA: A Novel Physical Adversarial Attack on Vehicle Detectors via Robust and Accurate Camouflage Generation**|Jiawei Zhou et.al.|[2402.15853](http://arxiv.org/abs/2402.15853)|null|
 |**2024-02-21**|**Flexible Physical Camouflage Generation Based on a Differential Approach**|Yang Li et.al.|[2402.13575](http://arxiv.org/abs/2402.13575)|null|
@@ -46,6 +48,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**Training Dynamics of Multi-Head Softmax Attention for In-Context Learning: Emergence, Convergence, and Optimality**|Siyu Chen et.al.|[2402.19442](http://arxiv.org/abs/2402.19442)|null|
+|**2024-02-29**|**Teaching Large Language Models an Unseen Language on the Fly**|Chen Zhang et.al.|[2402.19167](http://arxiv.org/abs/2402.19167)|null|
+|**2024-02-29**|**Dual Operating Modes of In-Context Learning**|Ziqian Lin et.al.|[2402.18819](http://arxiv.org/abs/2402.18819)|null|
 |**2024-02-28**|**Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling**|Mahdi Karami et.al.|[2402.18508](http://arxiv.org/abs/2402.18508)|null|
 |**2024-02-28**|**Few-Shot Fairness: Unveiling LLM's Potential for Fairness-Aware Classification**|Garima Chhikara et.al.|[2402.18502](http://arxiv.org/abs/2402.18502)|null|
 |**2024-02-28**|**Large Language Models As Evolution Strategies**|Robert Tjarko Lange et.al.|[2402.18381](http://arxiv.org/abs/2402.18381)|null|
@@ -222,8 +227,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction**|Hao Li et.al.|[2402.19326](http://arxiv.org/abs/2402.19326)|null|
+|**2024-02-29**|**Typographic Attacks in Large Multimodal Models Can be Alleviated by More Informative Prompts**|Hao Cheng et.al.|[2402.19150](http://arxiv.org/abs/2402.19150)|null|
 |**2024-02-28**|**IBD: Alleviating Hallucinations in Large Vision-Language Models via Image-Biased Decoding**|Lanyun Zhu et.al.|[2402.18476](http://arxiv.org/abs/2402.18476)|null|
-|**2024-02-28**|**A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision Language Models**|Xiujie Song et.al.|[2402.18409](http://arxiv.org/abs/2402.18409)|null|
+|**2024-02-29**|**A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision Language Models**|Xiujie Song et.al.|[2402.18409](http://arxiv.org/abs/2402.18409)|null|
 |**2024-02-28**|**SynArtifact: Classifying and Alleviating Artifacts in Synthetic Images via Vision-Language Model**|Bin Cao et.al.|[2402.18068](http://arxiv.org/abs/2402.18068)|null|
 |**2024-02-28**|**Vision Language Model-based Caption Evaluation Method Leveraging Visual Context Extraction**|Koki Maeda et.al.|[2402.17969](http://arxiv.org/abs/2402.17969)|null|
 |**2024-02-27**|**Demonstrating and Reducing Shortcuts in Vision-Language Representation Learning**|Maurits Bleeker et.al.|[2402.17510](http://arxiv.org/abs/2402.17510)|null|
