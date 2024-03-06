@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-04**|**Explicit Motion Handling and Interactive Prompting for Video Camouflaged Object Detection**|Xin Zhang et.al.|[2403.01968](http://arxiv.org/abs/2403.01968)|null|
 |**2024-02-29**|**A Simple yet Effective Network based on Vision Transformer for Camouflaged Object and Salient Object Detection**|Chao Hao et.al.|[2402.18922](http://arxiv.org/abs/2402.18922)|null|
 |**2024-02-28**|**Spatial Coherence Loss for Salient and Camouflaged Object Detection and Beyond**|Ziyun Yang et.al.|[2402.18698](http://arxiv.org/abs/2402.18698)|null|
 |**2024-02-28**|**Living-off-The-Land Reverse-Shell Detection by Informed Data Augmentation**|Dmitrijs Trizna et.al.|[2402.18329](http://arxiv.org/abs/2402.18329)|null|
@@ -48,6 +49,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**How Well Can Transformers Emulate In-context Newton's Method?**|Angeliki Giannou et.al.|[2403.03183](http://arxiv.org/abs/2403.03183)|null|
+|**2024-03-05**|**MOKA: Open-Vocabulary Robotic Manipulation through Mark-Based Visual Prompting**|Fangchen Liu et.al.|[2403.03174](http://arxiv.org/abs/2403.03174)|null|
+|**2024-03-05**|**Benchmarking the Text-to-SQL Capability of Large Language Models: A Comprehensive Evaluation**|Bin Zhang et.al.|[2403.02951](http://arxiv.org/abs/2403.02951)|null|
+|**2024-03-05**|**Causal Prompting: Debiasing Large Language Model Prompting based on Front-Door Adjustment**|Congzhi Zhang et.al.|[2403.02738](http://arxiv.org/abs/2403.02738)|null|
+|**2024-03-04**|**Not all Layers of LLMs are Necessary during Inference**|Siqi Fan et.al.|[2403.02181](http://arxiv.org/abs/2403.02181)|null|
+|**2024-03-04**|**Analyzing and Adapting Large Language Models for Few-Shot Multilingual NLU: Are We There Yet?**|Evgeniia Razumovskaia et.al.|[2403.01929](http://arxiv.org/abs/2403.01929)|null|
+|**2024-03-03**|**Transformers for Supervised Online Continual Learning**|Jorg Bornschein et.al.|[2403.01554](http://arxiv.org/abs/2403.01554)|null|
+|**2024-03-03**|**Revisiting Dynamic Evaluation: Online Adaptation for Large Language Models**|Amal Rannen-Triki et.al.|[2403.01518](http://arxiv.org/abs/2403.01518)|null|
 |**2024-03-02**|**Mitigating Catastrophic Forgetting in Large Language Models with Self-Synthesized Rehearsal**|Jianheng Huang et.al.|[2403.01244](http://arxiv.org/abs/2403.01244)|null|
 |**2024-03-02**|**Distilling Text Style Transfer With Self-Explanation From LLMs**|Chiyu Zhang et.al.|[2403.01106](http://arxiv.org/abs/2403.01106)|null|
 |**2024-03-02**|**FaiMA: Feature-aware In-context Learning for Multi-domain Aspect-based Sentiment Analysis**|Songhua Yang et.al.|[2403.01063](http://arxiv.org/abs/2403.01063)|**[link](https://github.com/suprityoung/faima)**|
@@ -234,6 +243,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**CLEVR-POC: Reasoning-Intensive Visual Question Answering in Partially Observable Environments**|Savitha Sam Abraham et.al.|[2403.03203](http://arxiv.org/abs/2403.03203)|null|
+|**2024-03-05**|**MOKA: Open-Vocabulary Robotic Manipulation through Mark-Based Visual Prompting**|Fangchen Liu et.al.|[2403.03174](http://arxiv.org/abs/2403.03174)|null|
+|**2024-03-05**|**ImgTrojan: Jailbreaking Vision-Language Models with ONE Image**|Xijia Tao et.al.|[2403.02910](http://arxiv.org/abs/2403.02910)|null|
+|**2024-03-05**|**Domain-Agnostic Mutual Prompting for Unsupervised Domain Adaptation**|Zhekai Du et.al.|[2403.02899](http://arxiv.org/abs/2403.02899)|null|
+|**2024-03-05**|**Enhancing Conceptual Understanding in Multimodal Contrastive Learning through Hard Negative Samples**|Philipp J. Rösch et.al.|[2403.02875](http://arxiv.org/abs/2403.02875)|null|
+|**2024-03-05**|**PromptKD: Unsupervised Prompt Distillation for Vision-Language Models**|Zheng Li et.al.|[2403.02781](http://arxiv.org/abs/2403.02781)|**[link](https://github.com/zhengli97/promptkd)**|
+|**2024-03-05**|**DomainVerse: A Benchmark Towards Real-World Distribution Shifts For Tuning-Free Adaptive Domain Generalization**|Feng Hou et.al.|[2403.02714](http://arxiv.org/abs/2403.02714)|null|
+|**2024-03-05**|**Modeling Collaborator: Enabling Subjective Vision Classification With Minimal Human Effort via LLM Tool-Use**|Imad Eddine Toubal et.al.|[2403.02626](http://arxiv.org/abs/2403.02626)|null|
+|**2024-03-05**|**Updating the Minimum Information about CLinical Artificial Intelligence (MI-CLAIM) checklist for generative modeling research**|Brenda Y. Miao et.al.|[2403.02558](http://arxiv.org/abs/2403.02558)|**[link](https://github.com/bmiao10/mi-claim-2024)**|
+|**2024-03-04**|**Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review**|Iryna Hartsock et.al.|[2403.02469](http://arxiv.org/abs/2403.02469)|null|
 |**2024-03-02**|**Data-free Multi-label Image Recognition via LLM-powered Prompt Tuning**|Shuo Yang et.al.|[2403.01209](http://arxiv.org/abs/2403.01209)|null|
 |**2024-03-01**|**HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding**|Zhaorun Chen et.al.|[2403.00425](http://arxiv.org/abs/2403.00425)|**[link](https://github.com/billchan226/halc)**|
 |**2024-03-01**|**Invariant Test-Time Adaptation for Vision-Language Model Generalization**|Huan Ma et.al.|[2403.00376](http://arxiv.org/abs/2403.00376)|null|
