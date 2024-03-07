@@ -49,9 +49,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**German also Hallucinates! Inconsistency Detection in News Summaries with the Absinth Dataset**|Laura Mascarell et.al.|[2403.03750](http://arxiv.org/abs/2403.03750)|**[link](https://github.com/mediatechnologycenter/absinth)**|
+|**2024-03-06**|**Benchmarking Hallucination in Large Language Models based on Unanswerable Math Word Problem**|Yuhong Sun et.al.|[2403.03558](http://arxiv.org/abs/2403.03558)|**[link](https://github.com/yuki-asuuna/umwp)**|
+|**2024-03-06**|**Japanese-English Sentence Translation Exercises Dataset for Automatic Grading**|Naoki Miura et.al.|[2403.03396](http://arxiv.org/abs/2403.03396)|null|
 |**2024-03-05**|**How Well Can Transformers Emulate In-context Newton's Method?**|Angeliki Giannou et.al.|[2403.03183](http://arxiv.org/abs/2403.03183)|null|
 |**2024-03-05**|**MOKA: Open-Vocabulary Robotic Manipulation through Mark-Based Visual Prompting**|Fangchen Liu et.al.|[2403.03174](http://arxiv.org/abs/2403.03174)|null|
-|**2024-03-05**|**Benchmarking the Text-to-SQL Capability of Large Language Models: A Comprehensive Evaluation**|Bin Zhang et.al.|[2403.02951](http://arxiv.org/abs/2403.02951)|null|
+|**2024-03-06**|**Benchmarking the Text-to-SQL Capability of Large Language Models: A Comprehensive Evaluation**|Bin Zhang et.al.|[2403.02951](http://arxiv.org/abs/2403.02951)|null|
 |**2024-03-05**|**Causal Prompting: Debiasing Large Language Model Prompting based on Front-Door Adjustment**|Congzhi Zhang et.al.|[2403.02738](http://arxiv.org/abs/2403.02738)|null|
 |**2024-03-04**|**Not all Layers of LLMs are Necessary during Inference**|Siqi Fan et.al.|[2403.02181](http://arxiv.org/abs/2403.02181)|null|
 |**2024-03-04**|**Analyzing and Adapting Large Language Models for Few-Shot Multilingual NLU: Are We There Yet?**|Evgeniia Razumovskaia et.al.|[2403.01929](http://arxiv.org/abs/2403.01929)|null|
@@ -243,12 +246,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**MeaCap: Memory-Augmented Zero-shot Image Captioning**|Zequn Zeng et.al.|[2403.03715](http://arxiv.org/abs/2403.03715)|null|
+|**2024-03-05**|**Enhancing Vision-Language Pre-training with Rich Supervisions**|Yuan Gao et.al.|[2403.03346](http://arxiv.org/abs/2403.03346)|null|
 |**2024-03-05**|**CLEVR-POC: Reasoning-Intensive Visual Question Answering in Partially Observable Environments**|Savitha Sam Abraham et.al.|[2403.03203](http://arxiv.org/abs/2403.03203)|null|
 |**2024-03-05**|**MOKA: Open-Vocabulary Robotic Manipulation through Mark-Based Visual Prompting**|Fangchen Liu et.al.|[2403.03174](http://arxiv.org/abs/2403.03174)|null|
-|**2024-03-05**|**ImgTrojan: Jailbreaking Vision-Language Models with ONE Image**|Xijia Tao et.al.|[2403.02910](http://arxiv.org/abs/2403.02910)|null|
+|**2024-03-06**|**ImgTrojan: Jailbreaking Vision-Language Models with ONE Image**|Xijia Tao et.al.|[2403.02910](http://arxiv.org/abs/2403.02910)|null|
 |**2024-03-05**|**Domain-Agnostic Mutual Prompting for Unsupervised Domain Adaptation**|Zhekai Du et.al.|[2403.02899](http://arxiv.org/abs/2403.02899)|null|
 |**2024-03-05**|**Enhancing Conceptual Understanding in Multimodal Contrastive Learning through Hard Negative Samples**|Philipp J. Rösch et.al.|[2403.02875](http://arxiv.org/abs/2403.02875)|null|
-|**2024-03-05**|**PromptKD: Unsupervised Prompt Distillation for Vision-Language Models**|Zheng Li et.al.|[2403.02781](http://arxiv.org/abs/2403.02781)|**[link](https://github.com/zhengli97/promptkd)**|
+|**2024-03-06**|**PromptKD: Unsupervised Prompt Distillation for Vision-Language Models**|Zheng Li et.al.|[2403.02781](http://arxiv.org/abs/2403.02781)|**[link](https://github.com/zhengli97/promptkd)**|
 |**2024-03-05**|**DomainVerse: A Benchmark Towards Real-World Distribution Shifts For Tuning-Free Adaptive Domain Generalization**|Feng Hou et.al.|[2403.02714](http://arxiv.org/abs/2403.02714)|null|
 |**2024-03-05**|**Modeling Collaborator: Enabling Subjective Vision Classification With Minimal Human Effort via LLM Tool-Use**|Imad Eddine Toubal et.al.|[2403.02626](http://arxiv.org/abs/2403.02626)|null|
 |**2024-03-05**|**Updating the Minimum Information about CLinical Artificial Intelligence (MI-CLAIM) checklist for generative modeling research**|Brenda Y. Miao et.al.|[2403.02558](http://arxiv.org/abs/2403.02558)|**[link](https://github.com/bmiao10/mi-claim-2024)**|
