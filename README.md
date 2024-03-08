@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Effectiveness Assessment of Recent Large Vision-Language Models**|Yao Jiang et.al.|[2403.04306](http://arxiv.org/abs/2403.04306)|null|
 |**2024-03-04**|**Explicit Motion Handling and Interactive Prompting for Video Camouflaged Object Detection**|Xin Zhang et.al.|[2403.01968](http://arxiv.org/abs/2403.01968)|null|
 |**2024-02-29**|**A Simple yet Effective Network based on Vision Transformer for Camouflaged Object and Salient Object Detection**|Chao Hao et.al.|[2402.18922](http://arxiv.org/abs/2402.18922)|null|
 |**2024-02-28**|**Spatial Coherence Loss for Salient and Camouflaged Object Detection and Beyond**|Ziyun Yang et.al.|[2402.18698](http://arxiv.org/abs/2402.18698)|null|
@@ -56,6 +57,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**|Boshi Wang et.al.|[2403.04746](http://arxiv.org/abs/2403.04746)|**[link](https://github.com/microsoft/simulated-trial-and-error)**|
+|**2024-03-07**|**How Far Are We from Intelligent Visual Deductive Reasoning?**|Yizhe Zhang et.al.|[2403.04732](http://arxiv.org/abs/2403.04732)|**[link](https://github.com/apple/ml-rpm-bench)**|
+|**2024-03-07**|**Where does In-context Translation Happen in Large Language Models**|Suzanna Sia et.al.|[2403.04510](http://arxiv.org/abs/2403.04510)|null|
+|**2024-03-07**|**DEEP-ICL: Definition-Enriched Experts for Language Model In-Context Learning**|Xingwei Qu et.al.|[2403.04233](http://arxiv.org/abs/2403.04233)|null|
+|**2024-03-07**|**On the Essence and Prospect: An Investigation of Alignment Approaches for Big Models**|Xinpeng Wang et.al.|[2403.04204](http://arxiv.org/abs/2403.04204)|null|
 |**2024-03-06**|**German also Hallucinates! Inconsistency Detection in News Summaries with the Absinth Dataset**|Laura Mascarell et.al.|[2403.03750](http://arxiv.org/abs/2403.03750)|**[link](https://github.com/mediatechnologycenter/absinth)**|
 |**2024-03-06**|**Benchmarking Hallucination in Large Language Models based on Unanswerable Math Word Problem**|Yuhong Sun et.al.|[2403.03558](http://arxiv.org/abs/2403.03558)|**[link](https://github.com/yuki-asuuna/umwp)**|
 |**2024-03-06**|**Japanese-English Sentence Translation Exercises Dataset for Automatic Grading**|Naoki Miura et.al.|[2403.03396](http://arxiv.org/abs/2403.03396)|null|
@@ -255,6 +261,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**How Far Are We from Intelligent Visual Deductive Reasoning?**|Yizhe Zhang et.al.|[2403.04732](http://arxiv.org/abs/2403.04732)|**[link](https://github.com/apple/ml-rpm-bench)**|
+|**2024-03-07**|**Yi: Open Foundation Models by 01.AI**|01. AI et.al.|[2403.04652](http://arxiv.org/abs/2403.04652)|null|
+|**2024-03-07**|**Embodied Understanding of Driving Scenarios**|Yunsong Zhou et.al.|[2403.04593](http://arxiv.org/abs/2403.04593)|null|
+|**2024-03-07**|**Effectiveness Assessment of Recent Large Vision-Language Models**|Yao Jiang et.al.|[2403.04306](http://arxiv.org/abs/2403.04306)|null|
 |**2024-03-06**|**MeaCap: Memory-Augmented Zero-shot Image Captioning**|Zequn Zeng et.al.|[2403.03715](http://arxiv.org/abs/2403.03715)|null|
 |**2024-03-05**|**Enhancing Vision-Language Pre-training with Rich Supervisions**|Yuan Gao et.al.|[2403.03346](http://arxiv.org/abs/2403.03346)|null|
 |**2024-03-05**|**CLEVR-POC: Reasoning-Intensive Visual Question Answering in Partially Observable Environments**|Savitha Sam Abraham et.al.|[2403.03203](http://arxiv.org/abs/2403.03203)|null|
