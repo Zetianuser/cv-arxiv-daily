@@ -92,7 +92,7 @@
 |**2024-02-27**|**Securing Reliability: A Brief Overview on Enhancing In-Context Learning for Foundation Models**|Yunpeng Huang et.al.|[2402.17671](http://arxiv.org/abs/2402.17671)|null|
 |**2024-02-27**|**Reinforced In-Context Black-Box Optimization**|Lei Song et.al.|[2402.17423](http://arxiv.org/abs/2402.17423)|**[link](https://github.com/songlei00/ribbo)**|
 |**2024-02-27**|**Video as the New Language for Real-World Decision Making**|Sherry Yang et.al.|[2402.17139](http://arxiv.org/abs/2402.17139)|null|
-|**2024-02-25**|**DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers**|Xirui Li et.al.|[2402.16914](http://arxiv.org/abs/2402.16914)|null|
+|**2024-02-25**|**DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers**|Xirui Li et.al.|[2402.16914](http://arxiv.org/abs/2402.16914)|**[link](https://github.com/xirui-li/drattack)**|
 |**2024-02-28**|**Look Before You Leap: Towards Decision-Aware and Generalizable Tool-Usage for Large Language Models**|Anchun Gui et.al.|[2402.16696](http://arxiv.org/abs/2402.16696)|null|
 |**2024-02-26**|**Long-Context Language Modeling with Parallel Context Encoding**|Howard Yen et.al.|[2402.16617](http://arxiv.org/abs/2402.16617)|**[link](https://github.com/princeton-nlp/cepe)**|
 |**2024-02-25**|**LLMs with Chain-of-Thought Are Non-Causal Reasoners**|Guangsheng Bao et.al.|[2402.16048](http://arxiv.org/abs/2402.16048)|**[link](https://github.com/stevenzhb/cot_causal_analysis)**|
@@ -113,7 +113,7 @@
 |**2024-02-21**|**$\texttt{Se}^2$: $\textit{Se}$quential Example $\textit{Se}$ lection for In-Context Learning**|Haoyu Liu et.al.|[2402.13874](http://arxiv.org/abs/2402.13874)|null|
 |**2024-02-21**|**Unlocking Instructive In-Context Learning with Tabular Prompting for Relational Triple Extraction**|Guozheng Li et.al.|[2402.13741](http://arxiv.org/abs/2402.13741)|null|
 |**2024-02-21**|**Unsupervised Text Style Transfer via LLMs and Attention Masking with Multi-way Interactions**|Lei Pan et.al.|[2402.13647](http://arxiv.org/abs/2402.13647)|null|
-|**2024-02-21**|**A Multimodal In-Context Tuning Approach for E-Commerce Product Description Generation**|Yunxin Li et.al.|[2402.13587](http://arxiv.org/abs/2402.13587)|null|
+|**2024-02-21**|**A Multimodal In-Context Tuning Approach for E-Commerce Product Description Generation**|Yunxin Li et.al.|[2402.13587](http://arxiv.org/abs/2402.13587)|**[link](https://github.com/hitsz-tmg/multimodal-in-context-tuning)**|
 |**2024-02-21**|**CAMELoT: Towards Large Language Models with Training-Free Consolidated Associative Memory**|Zexue He et.al.|[2402.13449](http://arxiv.org/abs/2402.13449)|null|
 |**2024-02-20**|**Harnessing Large Language Models as Post-hoc Correctors**|Zhiqiang Zhong et.al.|[2402.13414](http://arxiv.org/abs/2402.13414)|null|
 |**2024-02-20**|**Identifying Semantic Induction Heads to Understand In-Context Learning**|Jie Ren et.al.|[2402.13055](http://arxiv.org/abs/2402.13055)|null|
@@ -147,7 +147,7 @@
 |**2024-02-15**|**Beyond Imitation: Generating Human Mobility from Context-aware Reasoning with Large Language Models**|Chenyang Shao et.al.|[2402.09836](http://arxiv.org/abs/2402.09836)|null|
 |**2024-02-15**|**QuRating: Selecting High-Quality Data for Training Language Models**|Alexander Wettig et.al.|[2402.09739](http://arxiv.org/abs/2402.09739)|**[link](https://github.com/princeton-nlp/qurating)**|
 |**2024-02-14**|**Large Language Model-Based Interpretable Machine Learning Control in Building Energy Systems**|Liang Zhang et.al.|[2402.09584](http://arxiv.org/abs/2402.09584)|null|
-|**2024-02-14**|**HGOT: Hierarchical Graph of Thoughts for Retrieval-Augmented In-Context Learning in Factuality Evaluation**|Yihao Fang et.al.|[2402.09390](http://arxiv.org/abs/2402.09390)|null|
+|**2024-02-14**|**HGOT: Hierarchical Graph of Thoughts for Retrieval-Augmented In-Context Learning in Factuality Evaluation**|Yihao Fang et.al.|[2402.09390](http://arxiv.org/abs/2402.09390)|**[link](https://github.com/fangyihao/hgot)**|
 |**2024-02-14**|**ICDPO: Effectively Borrowing Alignment Capability of Others via In-context Direct Preference Optimization**|Feifan Song et.al.|[2402.09320](http://arxiv.org/abs/2402.09320)|**[link](https://github.com/f2-song/icdpo)**|
 |**2024-02-14**|**GrounDial: Human-norm Grounded Safe Dialog Response Generation**|Siwon Kim et.al.|[2402.08968](http://arxiv.org/abs/2402.08968)|null|
 |**2024-02-13**|**Human Curriculum Effects Emerge with In-Context Learning in Neural Networks**|Jacob Russin et.al.|[2402.08674](http://arxiv.org/abs/2402.08674)|null|
@@ -159,7 +159,7 @@
 |**2024-02-12**|**Assessing Generalization for Subpopulation Representative Modeling via In-Context Learning**|Gabriel Simmons et.al.|[2402.07368](http://arxiv.org/abs/2402.07368)|null|
 |**2024-02-10**|**In-Context Data Distillation with TabPFN**|Junwei Ma et.al.|[2402.06971](http://arxiv.org/abs/2402.06971)|null|
 |**2024-02-09**|**NICE: To Optimize In-Context Examples or Not?**|Pragya Srivastava et.al.|[2402.06733](http://arxiv.org/abs/2402.06733)|null|
-|**2024-02-09**|**Entropy-Regularized Token-Level Policy Optimization for Large Language Models**|Muning Wen et.al.|[2402.06700](http://arxiv.org/abs/2402.06700)|null|
+|**2024-02-09**|**Entropy-Regularized Token-Level Policy Optimization for Large Language Models**|Muning Wen et.al.|[2402.06700](http://arxiv.org/abs/2402.06700)|**[link](https://github.com/morning9393/etpo)**|
 |**2024-02-09**|**On the Out-Of-Distribution Generalization of Multimodal Large Language Models**|Xingxuan Zhang et.al.|[2402.06599](http://arxiv.org/abs/2402.06599)|null|
 |**2024-02-09**|**InternLM-Math: Open Math Large Language Models Toward Verifiable Reasoning**|Huaiyuan Ying et.al.|[2402.06332](http://arxiv.org/abs/2402.06332)|**[link](https://github.com/internlm/internlm-math)**|
 |**2024-02-08**|**In-Context Learning Can Re-learn Forbidden Tasks**|Sophie Xhonneux et.al.|[2402.05723](http://arxiv.org/abs/2402.05723)|null|
@@ -279,7 +279,7 @@
 |**2024-03-04**|**Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review**|Iryna Hartsock et.al.|[2403.02469](http://arxiv.org/abs/2403.02469)|null|
 |**2024-03-02**|**Data-free Multi-label Image Recognition via LLM-powered Prompt Tuning**|Shuo Yang et.al.|[2403.01209](http://arxiv.org/abs/2403.01209)|null|
 |**2024-03-01**|**HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding**|Zhaorun Chen et.al.|[2403.00425](http://arxiv.org/abs/2403.00425)|**[link](https://github.com/billchan226/halc)**|
-|**2024-03-01**|**Invariant Test-Time Adaptation for Vision-Language Model Generalization**|Huan Ma et.al.|[2403.00376](http://arxiv.org/abs/2403.00376)|null|
+|**2024-03-01**|**Invariant Test-Time Adaptation for Vision-Language Model Generalization**|Huan Ma et.al.|[2403.00376](http://arxiv.org/abs/2403.00376)|**[link](https://github.com/mahuanaaa/intta)**|
 |**2024-03-04**|**Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models**|Lei Li et.al.|[2403.00231](http://arxiv.org/abs/2403.00231)|null|
 |**2024-03-01**|**Multi-modal Attribute Prompting for Vision-Language Models**|Xin Liu et.al.|[2403.00219](http://arxiv.org/abs/2403.00219)|null|
 |**2024-02-29**|**Artwork Explanation in Large-scale Vision Language Models**|Kazuki Hayashi et.al.|[2403.00068](http://arxiv.org/abs/2403.00068)|null|
@@ -289,7 +289,7 @@
 |**2024-02-29**|**A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision Language Models**|Xiujie Song et.al.|[2402.18409](http://arxiv.org/abs/2402.18409)|null|
 |**2024-02-28**|**SynArtifact: Classifying and Alleviating Artifacts in Synthetic Images via Vision-Language Model**|Bin Cao et.al.|[2402.18068](http://arxiv.org/abs/2402.18068)|null|
 |**2024-02-28**|**Vision Language Model-based Caption Evaluation Method Leveraging Visual Context Extraction**|Koki Maeda et.al.|[2402.17969](http://arxiv.org/abs/2402.17969)|null|
-|**2024-02-27**|**Demonstrating and Reducing Shortcuts in Vision-Language Representation Learning**|Maurits Bleeker et.al.|[2402.17510](http://arxiv.org/abs/2402.17510)|null|
+|**2024-02-27**|**Demonstrating and Reducing Shortcuts in Vision-Language Representation Learning**|Maurits Bleeker et.al.|[2402.17510](http://arxiv.org/abs/2402.17510)|**[link](https://github.com/mauritsbleeker/svl-framework)**|
 |**2024-02-27**|**VCD: Knowledge Base Guided Visual Commonsense Discovery in Images**|Xiangqing Shen et.al.|[2402.17213](http://arxiv.org/abs/2402.17213)|null|
 |**2024-02-26**|**Finer: Investigating and Enhancing Fine-Grained Visual Concept Recognition in Large Vision Language Models**|Jeonghwan Kim et.al.|[2402.16315](http://arxiv.org/abs/2402.16315)|null|
 |**2024-02-26**|**Referee Can Play: An Alternative Approach to Conditional Generation via Model Inversion**|Xuantong Liu et.al.|[2402.16305](http://arxiv.org/abs/2402.16305)|null|
@@ -444,7 +444,7 @@
 |**2023-12-28**|**3VL: using Trees to teach Vision & Language models compositional concepts**|Nir Yellinek et.al.|[2312.17345](http://arxiv.org/abs/2312.17345)|null|
 |**2023-12-28**|**Visual Explanations of Image-Text Representations via Multi-Modal Information Bottleneck Attribution**|Ying Wang et.al.|[2312.17174](http://arxiv.org/abs/2312.17174)|**[link](https://github.com/yingwangg/m2ib)**|
 |**2023-12-28**|**MIVC: Multiple Instance Visual Component for Visual-Language Models**|Wenyi Wu et.al.|[2312.17109](http://arxiv.org/abs/2312.17109)|null|
-|**2023-12-28**|**FILP-3D: Enhancing 3D Few-shot Class-incremental Learning with Pre-trained Vision-Language Models**|Wan Xu et.al.|[2312.17051](http://arxiv.org/abs/2312.17051)|null|
+|**2023-12-28**|**FILP-3D: Enhancing 3D Few-shot Class-incremental Learning with Pre-trained Vision-Language Models**|Wan Xu et.al.|[2312.17051](http://arxiv.org/abs/2312.17051)|**[link](https://github.com/hit-leaderone/flip-3d)**|
 |**2023-12-30**|**MobileVLM : A Fast, Strong and Open Vision Language Assistant for Mobile Devices**|Xiangxiang Chu et.al.|[2312.16886](http://arxiv.org/abs/2312.16886)|**[link](https://github.com/meituan-automl/mobilevlm)**|
 |**2023-12-28**|**ZONE: Zero-Shot Instruction-Guided Local Editing**|Shanglin Li et.al.|[2312.16794](http://arxiv.org/abs/2312.16794)|null|
 |**2023-12-26**|**Black-Box Tuning of Vision-Language Models with Effective Gradient Approximation**|Zixian Guo et.al.|[2312.15901](http://arxiv.org/abs/2312.15901)|**[link](https://github.com/guozix/cbbt)**|
