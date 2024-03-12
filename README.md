@@ -57,6 +57,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data**|Jialu Li et.al.|[2403.06952](http://arxiv.org/abs/2403.06952)|null|
+|**2024-03-11**|**MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning**|Yichuan Li et.al.|[2403.06914](http://arxiv.org/abs/2403.06914)|null|
+|**2024-03-11**|**In-context Exploration-Exploitation for Reinforcement Learning**|Zhenwen Dai et.al.|[2403.06826](http://arxiv.org/abs/2403.06826)|null|
+|**2024-03-11**|**'One size doesn't fit all': Learning how many Examples to use for In-Context Learning for Improved Text Classification**|Manish Chandra et.al.|[2403.06402](http://arxiv.org/abs/2403.06402)|null|
+|**2024-03-10**|**FedPIT: Towards Privacy-preserving and Few-shot Federated Instruction Tuning**|Zhuo Zhang et.al.|[2403.06131](http://arxiv.org/abs/2403.06131)|null|
+|**2024-03-10**|**In-context Prompt Learning for Test-time Vision Recognition with Frozen Vision-language Model**|Junhui Yin et.al.|[2403.06126](http://arxiv.org/abs/2403.06126)|null|
+|**2024-03-09**|**Few-Shot Cross-Lingual Transfer for Prompting Large Language Models in Low-Resource Languages**|Christopher Toukmaji et.al.|[2403.06018](http://arxiv.org/abs/2403.06018)|null|
+|**2024-03-08**|**A Benchmark of Domain-Adapted Large Language Models for Generating Brief Hospital Course Summaries**|Asad Aali et.al.|[2403.05720](http://arxiv.org/abs/2403.05720)|null|
+|**2024-03-08**|**DP-TabICL: In-Context Learning with Differentially Private Tabular Data**|Alycia N. Carey et.al.|[2403.05681](http://arxiv.org/abs/2403.05681)|null|
 |**2024-03-08**|**InstructGIE: Towards Generalizable Image Editing**|Zichong Meng et.al.|[2403.05018](http://arxiv.org/abs/2403.05018)|null|
 |**2024-03-07**|**LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**|Boshi Wang et.al.|[2403.04746](http://arxiv.org/abs/2403.04746)|**[link](https://github.com/microsoft/simulated-trial-and-error)**|
 |**2024-03-08**|**How Far Are We from Intelligent Visual Deductive Reasoning?**|Yizhe Zhang et.al.|[2403.04732](http://arxiv.org/abs/2403.04732)|**[link](https://github.com/apple/ml-rpm-bench)**|
@@ -262,7 +271,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-08**|**DeepSeek-VL: Towards Real-World Vision-Language Understanding**|Haoyu Lu et.al.|[2403.05525](http://arxiv.org/abs/2403.05525)|**[link](https://github.com/deepseek-ai/deepseek-vl)**|
+|**2024-03-11**|**Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation**|Xinyao Li et.al.|[2403.06946](http://arxiv.org/abs/2403.06946)|**[link](https://github.com/tl-uestc/unimos)**|
+|**2024-03-11**|**An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models**|Liang Chen et.al.|[2403.06764](http://arxiv.org/abs/2403.06764)|null|
+|**2024-03-11**|**FontCLIP: A Semantic Typography Visual-Language Model for Multilingual Font Applications**|Yuki Tatsukawa et.al.|[2403.06453](http://arxiv.org/abs/2403.06453)|null|
+|**2024-03-11**|**Can LLMs' Tuning Methods Work in Medical Multimodal Domain?**|Jiawei Chen et.al.|[2403.06407](http://arxiv.org/abs/2403.06407)|null|
+|**2024-03-10**|**A streamlined Approach to Multimodal Few-Shot Class Incremental Learning for Fine-Grained Datasets**|Thang Doan et.al.|[2403.06295](http://arxiv.org/abs/2403.06295)|**[link](https://github.com/tldoan/clip-m3)**|
+|**2024-03-10**|**In-context Prompt Learning for Test-time Vision Recognition with Frozen Vision-language Model**|Junhui Yin et.al.|[2403.06126](http://arxiv.org/abs/2403.06126)|null|
+|**2024-03-11**|**DeepSeek-VL: Towards Real-World Vision-Language Understanding**|Haoyu Lu et.al.|[2403.05525](http://arxiv.org/abs/2403.05525)|**[link](https://github.com/deepseek-ai/deepseek-vl)**|
 |**2024-03-08**|**Exploring Robust Features for Few-Shot Object Detection in Satellite Imagery**|Xavier Bou et.al.|[2403.05381](http://arxiv.org/abs/2403.05381)|null|
 |**2024-03-08**|**VLM-PL: Advanced Pseudo Labeling approach Class Incremental Object Detection with Vision-Language Model**|Junsu Kim et.al.|[2403.05346](http://arxiv.org/abs/2403.05346)|null|
 |**2024-03-08**|**Debiasing Large Visual Language Models**|Yi-Fan Zhang et.al.|[2403.05262](http://arxiv.org/abs/2403.05262)|**[link](https://github.com/yfzhang114/llava-align)**|
