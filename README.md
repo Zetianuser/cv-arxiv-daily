@@ -20,7 +20,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-03-14**|**Semi- and Weakly-Supervised Learning for Mammogram Mass Segmentation with Limited Annotations**|Xinyu Xiong et.al.|[2403.09315](http://arxiv.org/abs/2403.09315)|null|
-|**2024-03-07**|**Effectiveness Assessment of Recent Large Vision-Language Models**|Yao Jiang et.al.|[2403.04306](http://arxiv.org/abs/2403.04306)|null|
+|**2024-03-18**|**Effectiveness Assessment of Recent Large Vision-Language Models**|Yao Jiang et.al.|[2403.04306](http://arxiv.org/abs/2403.04306)|null|
 |**2024-03-04**|**Explicit Motion Handling and Interactive Prompting for Video Camouflaged Object Detection**|Xin Zhang et.al.|[2403.01968](http://arxiv.org/abs/2403.01968)|null|
 |**2024-02-29**|**A Simple yet Effective Network based on Vision Transformer for Camouflaged Object and Salient Object Detection**|Chao Hao et.al.|[2402.18922](http://arxiv.org/abs/2402.18922)|null|
 |**2024-02-28**|**Spatial Coherence Loss for Salient and Camouflaged Object Detection and Beyond**|Ziyun Yang et.al.|[2402.18698](http://arxiv.org/abs/2402.18698)|null|
@@ -58,6 +58,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**Can LLMs Generate Human-Like Wayfinding Instructions? Towards Platform-Agnostic Embodied Instruction Synthesis**|Vishnu Sashank Dorbala et.al.|[2403.11487](http://arxiv.org/abs/2403.11487)|null|
+|**2024-03-16**|**Interpretable Machine Learning for TabPFN**|David Rundel et.al.|[2403.10923](http://arxiv.org/abs/2403.10923)|**[link](https://github.com/david-rundel/tabpfn_iml)**|
+|**2024-03-16**|**Zero-shot Generative Linguistic Steganography**|Ke Lin et.al.|[2403.10856](http://arxiv.org/abs/2403.10856)|**[link](https://github.com/leonardodalinky/zero-shot-gls)**|
 |**2024-03-15**|**Few-Shot Image Classification and Segmentation as Visual Question Answering Using Vision-Language Models**|Tian Meng et.al.|[2403.10287](http://arxiv.org/abs/2403.10287)|null|
 |**2024-03-15**|**Team Trifecta at Factify5WQA: Setting the Standard in Fact Verification with Fine-Tuning**|Shang-Hsuan Chiang et.al.|[2403.10281](http://arxiv.org/abs/2403.10281)|**[link](https://github.com/andychiangsh/pre-cofactv3)**|
 |**2024-03-15**|**The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation**|Lei Wang et.al.|[2403.10135](http://arxiv.org/abs/2403.10135)|**[link](https://github.com/demoleiwang/llmsrec_syn)**|
@@ -285,6 +288,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**Prioritized Semantic Learning for Zero-shot Instance Navigation**|Xander Sun et.al.|[2403.11650](http://arxiv.org/abs/2403.11650)|null|
+|**2024-03-18**|**Compositional Kronecker Context Optimization for Vision-Language Models**|Kun Ding et.al.|[2403.11631](http://arxiv.org/abs/2403.11631)|null|
+|**2024-03-18**|**Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters**|Jiazuo Yu et.al.|[2403.11549](http://arxiv.org/abs/2403.11549)|**[link](https://github.com/jiazuoyu/moe-adapters4cl)**|
+|**2024-03-18**|**Do CLIPs Always Generalize Better than ImageNet Models?**|Qizhou Wang et.al.|[2403.11497](http://arxiv.org/abs/2403.11497)|null|
+|**2024-03-18**|**VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding**|Yue Fan et.al.|[2403.11481](http://arxiv.org/abs/2403.11481)|null|
+|**2024-03-17**|**Mixture-of-Prompt-Experts for Multi-modal Semantic Understanding**|Zichen Wu et.al.|[2403.11311](http://arxiv.org/abs/2403.11311)|null|
+|**2024-03-17**|**SQ-LLaVA: Self-Questioning for Large Vision-Language Assistant**|Guohao Sun et.al.|[2403.11299](http://arxiv.org/abs/2403.11299)|null|
+|**2024-03-17**|**Training A Small Emotional Vision Language Model for Visual Art Comprehension**|Jing Zhang et.al.|[2403.11150](http://arxiv.org/abs/2403.11150)|null|
+|**2024-03-17**|**PhD: A Prompted Visual Hallucination Evaluation Dataset**|Jiazhen Liu et.al.|[2403.11116](http://arxiv.org/abs/2403.11116)|null|
+|**2024-03-17**|**Tokensome: Towards a Genetic Vision-Language GPT for Explainable and Cognitive Karyotyping**|Haoxi Zhang et.al.|[2403.11073](http://arxiv.org/abs/2403.11073)|null|
 |**2024-03-15**|**Reconfigurable Robot Identification from Motion Data**|Yuhang Hu et.al.|[2403.10496](http://arxiv.org/abs/2403.10496)|null|
 |**2024-03-15**|**EXAMS-V: A Multi-Discipline Multilingual Multimodal Exam Benchmark for Evaluating Vision Language Models**|Rocktim Jyoti Das et.al.|[2403.10378](http://arxiv.org/abs/2403.10378)|null|
 |**2024-03-15**|**Few-Shot Image Classification and Segmentation as Visual Question Answering Using Vision-Language Models**|Tian Meng et.al.|[2403.10287](http://arxiv.org/abs/2403.10287)|null|
