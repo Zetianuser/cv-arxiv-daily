@@ -51,6 +51,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Towards Multimodal In-Context Learning for Vision & Language Models**|Sivan Doveh et.al.|[2403.12736](http://arxiv.org/abs/2403.12736)|null|
+|**2024-03-19**|**CrossTune: Black-Box Few-Shot Classification with Label Enhancement**|Danqing Luo et.al.|[2403.12468](http://arxiv.org/abs/2403.12468)|null|
+|**2024-03-19**|**An Empirical Study of Speech Language Models for Prompt-Conditioned Speech Synthesis**|Yifan Peng et.al.|[2403.12402](http://arxiv.org/abs/2403.12402)|null|
+|**2024-03-18**|**Transfer Learning Beyond Bounded Density Ratios**|Alkis Kalavasis et.al.|[2403.11963](http://arxiv.org/abs/2403.11963)|null|
+|**2024-03-18**|**CICLe: Conformal In-Context Learning for Largescale Multi-Class Food Risk Classification**|Korbinian Randl et.al.|[2403.11904](http://arxiv.org/abs/2403.11904)|null|
+|**2024-03-18**|**Towards Understanding the Relationship between In-context Learning and Compositional Generalization**|Sungjun Han et.al.|[2403.11834](http://arxiv.org/abs/2403.11834)|null|
 |**2024-03-18**|**Can LLMs Generate Human-Like Wayfinding Instructions? Towards Platform-Agnostic Embodied Instruction Synthesis**|Vishnu Sashank Dorbala et.al.|[2403.11487](http://arxiv.org/abs/2403.11487)|null|
 |**2024-03-16**|**Interpretable Machine Learning for TabPFN**|David Rundel et.al.|[2403.10923](http://arxiv.org/abs/2403.10923)|**[link](https://github.com/david-rundel/tabpfn_iml)**|
 |**2024-03-16**|**Zero-shot Generative Linguistic Steganography**|Ke Lin et.al.|[2403.10856](http://arxiv.org/abs/2403.10856)|**[link](https://github.com/leonardodalinky/zero-shot-gls)**|
@@ -279,6 +285,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models**|Zuyan Liu et.al.|[2403.12966](http://arxiv.org/abs/2403.12966)|**[link](https://github.com/dongyh20/chain-of-spot)**|
+|**2024-03-19**|**Negative Yields Positive: Unified Dual-Path Adapter for Vision-Language Models**|Ce Zhang et.al.|[2403.12964](http://arxiv.org/abs/2403.12964)|**[link](https://github.com/zhangce01/dualadapter)**|
+|**2024-03-19**|**Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models**|Elaine Sui et.al.|[2403.12952](http://arxiv.org/abs/2403.12952)|**[link](https://github.com/elaine-sui/tps)**|
+|**2024-03-19**|**Yell At Your Robot: Improving On-the-Fly from Language Corrections**|Lucy Xiaoyang Shi et.al.|[2403.12910](http://arxiv.org/abs/2403.12910)|null|
+|**2024-03-19**|**HYDRA: A Hyper Agent for Dynamic Compositional Visual Reasoning**|Fucai Ke et.al.|[2403.12884](http://arxiv.org/abs/2403.12884)|null|
+|**2024-03-19**|**RelationVLM: Making Large Vision-Language Models Understand Visual Relations**|Zhipeng Huang et.al.|[2403.12801](http://arxiv.org/abs/2403.12801)|null|
+|**2024-03-19**|**Towards Multimodal In-Context Learning for Vision & Language Models**|Sivan Doveh et.al.|[2403.12736](http://arxiv.org/abs/2403.12736)|null|
+|**2024-03-19**|**Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs**|Victor Carbune et.al.|[2403.12596](http://arxiv.org/abs/2403.12596)|null|
+|**2024-03-19**|**CLIP-VIS: Adapting CLIP for Open-Vocabulary Video Instance Segmentation**|Wenqi Zhu et.al.|[2403.12455](http://arxiv.org/abs/2403.12455)|**[link](https://github.com/zwq456/clip-vis)**|
+|**2024-03-18**|**FlexCap: Generating Rich, Localized, and Flexible Captions in Images**|Debidatta Dwibedi et.al.|[2403.12026](http://arxiv.org/abs/2403.12026)|null|
 |**2024-03-18**|**Prioritized Semantic Learning for Zero-shot Instance Navigation**|Xander Sun et.al.|[2403.11650](http://arxiv.org/abs/2403.11650)|null|
 |**2024-03-18**|**Compositional Kronecker Context Optimization for Vision-Language Models**|Kun Ding et.al.|[2403.11631](http://arxiv.org/abs/2403.11631)|null|
 |**2024-03-18**|**Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters**|Jiazuo Yu et.al.|[2403.11549](http://arxiv.org/abs/2403.11549)|**[link](https://github.com/jiazuoyu/moe-adapters4cl)**|
