@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.20
+## Updated on 2024.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -55,7 +55,7 @@ layout: default
 |**2024-03-19**|**CrossTune: Black-Box Few-Shot Classification with Label Enhancement**|Danqing Luo et.al.|[2403.12468](http://arxiv.org/abs/2403.12468)|null|
 |**2024-03-19**|**An Empirical Study of Speech Language Models for Prompt-Conditioned Speech Synthesis**|Yifan Peng et.al.|[2403.12402](http://arxiv.org/abs/2403.12402)|null|
 |**2024-03-18**|**Transfer Learning Beyond Bounded Density Ratios**|Alkis Kalavasis et.al.|[2403.11963](http://arxiv.org/abs/2403.11963)|null|
-|**2024-03-18**|**CICLe: Conformal In-Context Learning for Largescale Multi-Class Food Risk Classification**|Korbinian Randl et.al.|[2403.11904](http://arxiv.org/abs/2403.11904)|null|
+|**2024-03-18**|**CICLe: Conformal In-Context Learning for Largescale Multi-Class Food Risk Classification**|Korbinian Randl et.al.|[2403.11904](http://arxiv.org/abs/2403.11904)|**[link](https://github.com/k-randl/conformal_prompting)**|
 |**2024-03-18**|**Towards Understanding the Relationship between In-context Learning and Compositional Generalization**|Sungjun Han et.al.|[2403.11834](http://arxiv.org/abs/2403.11834)|null|
 |**2024-03-18**|**Can LLMs Generate Human-Like Wayfinding Instructions? Towards Platform-Agnostic Embodied Instruction Synthesis**|Vishnu Sashank Dorbala et.al.|[2403.11487](http://arxiv.org/abs/2403.11487)|null|
 |**2024-03-16**|**Interpretable Machine Learning for TabPFN**|David Rundel et.al.|[2403.10923](http://arxiv.org/abs/2403.10923)|**[link](https://github.com/david-rundel/tabpfn_iml)**|
