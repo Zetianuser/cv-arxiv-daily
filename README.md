@@ -315,6 +315,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**|Yanwei Li et.al.|[2403.18814](http://arxiv.org/abs/2403.18814)|**[link](https://github.com/dvlab-research/minigemini)**|
+|**2024-03-27**|**Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding**|Xintong Wang et.al.|[2403.18715](http://arxiv.org/abs/2403.18715)|null|
+|**2024-03-27**|**Language Plays a Pivotal Role in the Object-Attribute Compositional Generalization of CLIP**|Reza Abbasi et.al.|[2403.18525](http://arxiv.org/abs/2403.18525)|null|
+|**2024-03-27**|**An Image Grid Can Be Worth a Video: Zero-shot Video Question Answering Using a VLM**|Wonkyun Kim et.al.|[2403.18406](http://arxiv.org/abs/2403.18406)|null|
+|**2024-03-27**|**Efficient Test-Time Adaptation of Vision-Language Models**|Adilbek Karmanov et.al.|[2403.18293](http://arxiv.org/abs/2403.18293)|null|
 |**2024-03-26**|**Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models**|Yabin Zhang et.al.|[2403.17589](http://arxiv.org/abs/2403.17589)|**[link](https://github.com/ybzh/dmn)**|
 |**2024-03-26**|**Visual Hallucination: Definition, Quantification, and Prescriptive Remediations**|Vipula Rawte et.al.|[2403.17306](http://arxiv.org/abs/2403.17306)|null|
 |**2024-03-25**|**Temporal and Semantic Evaluation Metrics for Foundation Models in Post-Hoc Analysis of Robotic Sub-tasks**|Jonathan Salfity et.al.|[2403.17238](http://arxiv.org/abs/2403.17238)|**[link](https://github.com/jsalfity/task_decomposition)**|
