@@ -60,6 +60,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**|Yucheng Shi et.al.|[2403.19631](http://arxiv.org/abs/2403.19631)|null|
+|**2024-03-28**|**Going Beyond Word Matching: Syntax Improves In-context Example Selection for Machine Translation**|Chenming Tang et.al.|[2403.19285](http://arxiv.org/abs/2403.19285)|null|
+|**2024-03-28**|**Ungrammatical-syntax-based In-context Example Selection for Grammatical Error Correction**|Chenming Tang et.al.|[2403.19283](http://arxiv.org/abs/2403.19283)|null|
+|**2024-03-28**|**Automated Black-box Prompt Engineering for Personalized Text-to-Image Generation**|Yutong He et.al.|[2403.19103](http://arxiv.org/abs/2403.19103)|null|
 |**2024-03-26**|**Large Language Models Enhanced Collaborative Filtering**|Zhongxiang Sun et.al.|[2403.17688](http://arxiv.org/abs/2403.17688)|null|
 |**2024-03-26**|**Language Models for Text Classification: Is In-Context Learning Enough?**|Aleksandra Edwards et.al.|[2403.17661](http://arxiv.org/abs/2403.17661)|null|
 |**2024-03-26**|**Naive Bayes-based Context Extension for Large Language Models**|Jianlin Su et.al.|[2403.17552](http://arxiv.org/abs/2403.17552)|null|
@@ -315,6 +319,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**CLAP4CLIP: Continual Learning with Probabilistic Finetuning for Vision-Language Models**|Saurav Jha et.al.|[2403.19137](http://arxiv.org/abs/2403.19137)|**[link](https://github.com/srvcodes/clap4clip)**|
+|**2024-03-27**|**Envisioning MedCLIP: A Deep Dive into Explainability for Medical Vision-Language Models**|Anees Ur Rehman Hashmi et.al.|[2403.18996](http://arxiv.org/abs/2403.18996)|null|
+|**2024-03-27**|**Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models**|Keyan Guo et.al.|[2403.18957](http://arxiv.org/abs/2403.18957)|**[link](https://github.com/cactilab/ugcg-guard)**|
 |**2024-03-27**|**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**|Yanwei Li et.al.|[2403.18814](http://arxiv.org/abs/2403.18814)|**[link](https://github.com/dvlab-research/minigemini)**|
 |**2024-03-27**|**Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding**|Xintong Wang et.al.|[2403.18715](http://arxiv.org/abs/2403.18715)|null|
 |**2024-03-27**|**Language Plays a Pivotal Role in the Object-Attribute Compositional Generalization of CLIP**|Reza Abbasi et.al.|[2403.18525](http://arxiv.org/abs/2403.18525)|null|
