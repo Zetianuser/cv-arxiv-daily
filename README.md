@@ -75,11 +75,11 @@
 |**2024-03-27**|**LLMs Are Few-Shot In-Context Low-Resource Language Learners**|Samuel Cahyawijaya et.al.|[2403.16512](http://arxiv.org/abs/2403.16512)|null|
 |**2024-03-25**|**LARA: Linguistic-Adaptive Retrieval-Augmented LLMs for Multi-Turn Intent Classification**|Liu Junhua et.al.|[2403.16504](http://arxiv.org/abs/2403.16504)|null|
 |**2024-03-24**|**SQL-Encoder: Improving NL2SQL In-Context Learning Through a Context-Aware Encoder**|Mohammadreza Pourreza et.al.|[2403.16204](http://arxiv.org/abs/2403.16204)|null|
-|**2024-03-23**|**IllusionVQA: A Challenging Optical Illusion Dataset for Vision Language Models**|Haz Sameen Shahgir et.al.|[2403.15952](http://arxiv.org/abs/2403.15952)|null|
+|**2024-03-23**|**IllusionVQA: A Challenging Optical Illusion Dataset for Vision Language Models**|Haz Sameen Shahgir et.al.|[2403.15952](http://arxiv.org/abs/2403.15952)|**[link](https://github.com/csebuetnlp/illusionvqa)**|
 |**2024-03-21**|**Sequence-to-Sequence Language Models for Character and Emotion Detection in Dream Narratives**|Gustave Cortal et.al.|[2403.15486](http://arxiv.org/abs/2403.15486)|null|
 |**2024-03-22**|**ESG Classification by Implicit Rule Learning via GPT-4**|Hyo Jeong Yun et.al.|[2403.15040](http://arxiv.org/abs/2403.15040)|null|
 |**2024-03-22**|**Comprehensive Evaluation and Insights into the Use of Large Language Models in the Automation of Behavior-Driven Development Acceptance Test Formulation**|Shanthi Karpurapu et.al.|[2403.14965](http://arxiv.org/abs/2403.14965)|null|
-|**2024-03-22**|**Stance Reasoner: Zero-Shot Stance Detection on Social Media with Explicit Reasoning**|Maksym Taranukhin et.al.|[2403.14895](http://arxiv.org/abs/2403.14895)|null|
+|**2024-03-22**|**Stance Reasoner: Zero-Shot Stance Detection on Social Media with Explicit Reasoning**|Maksym Taranukhin et.al.|[2403.14895](http://arxiv.org/abs/2403.14895)|**[link](https://github.com/maksym-taranukhin/stance_reasoner)**|
 |**2024-03-21**|**Building Accurate Translation-Tailored LLMs with Language Aware Instruction Tuning**|Changtong Zan et.al.|[2403.14399](http://arxiv.org/abs/2403.14399)|null|
 |**2024-03-21**|**PE-GPT: A Physics-Informed Interactive Large Language Model for Power Converter Modulation Design**|Fanfan Lin et.al.|[2403.14059](http://arxiv.org/abs/2403.14059)|null|
 |**2024-03-19**|**VL-ICL Bench: The Devil in the Details of Benchmarking Multimodal In-Context Learning**|Yongshuo Zong et.al.|[2403.13164](http://arxiv.org/abs/2403.13164)|**[link](https://github.com/ys-zong/vl-icl)**|
@@ -97,8 +97,8 @@
 |**2024-03-15**|**The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation**|Lei Wang et.al.|[2403.10135](http://arxiv.org/abs/2403.10135)|**[link](https://github.com/demoleiwang/llmsrec_syn)**|
 |**2024-03-14**|**MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training**|Brandon McKinzie et.al.|[2403.09611](http://arxiv.org/abs/2403.09611)|null|
 |**2024-03-15**|**WavCraft: Audio Editing and Generation with Natural Language Prompts**|Jinhua Liang et.al.|[2403.09527](http://arxiv.org/abs/2403.09527)|**[link](https://github.com/jinhualiang/wavcraft)**|
-|**2024-03-14**|**Rectifying Demonstration Shortcut in In-Context Learning**|Joonwon Jang et.al.|[2403.09488](http://arxiv.org/abs/2403.09488)|null|
-|**2024-03-14**|**Borrowing Treasures from Neighbors: In-Context Learning for Multimodal Learning with Missing Modalities and Data Scarcity**|Zhuo Zhi et.al.|[2403.09428](http://arxiv.org/abs/2403.09428)|null|
+|**2024-03-14**|**Rectifying Demonstration Shortcut in In-Context Learning**|Joonwon Jang et.al.|[2403.09488](http://arxiv.org/abs/2403.09488)|**[link](https://github.com/lainshower/in-context-calibration)**|
+|**2024-03-14**|**Borrowing Treasures from Neighbors: In-Context Learning for Multimodal Learning with Missing Modalities and Data Scarcity**|Zhuo Zhi et.al.|[2403.09428](http://arxiv.org/abs/2403.09428)|**[link](https://github.com/ZhuoZHI-UCL/ICL_multimodal)**|
 |**2024-03-14**|**Unveiling the Generalization Power of Fine-Tuned Large Language Models**|Haoran Yang et.al.|[2403.09162](http://arxiv.org/abs/2403.09162)|**[link](https://github.com/lhryang/generalization_of_ft-llm)**|
 |**2024-03-14**|**Large Language Models are Parallel Multilingual Learners**|Yongyu Mu et.al.|[2403.09073](http://arxiv.org/abs/2403.09073)|**[link](https://github.com/takagi97/llms-are-parallel-multilingual-learners)**|
 |**2024-03-13**|**Rich Semantic Knowledge Enhanced Large Language Models for Few-shot Chinese Spell Checking**|Ming Dong et.al.|[2403.08492](http://arxiv.org/abs/2403.08492)|null|
@@ -337,14 +337,14 @@
 |**2024-03-26**|**Exploiting Semantic Reconstruction to Mitigate Hallucinations in Vision-Language Models**|Minchan Kim et.al.|[2403.16167](http://arxiv.org/abs/2403.16167)|null|
 |**2024-03-23**|**IllusionVQA: A Challenging Optical Illusion Dataset for Vision Language Models**|Haz Sameen Shahgir et.al.|[2403.15952](http://arxiv.org/abs/2403.15952)|**[link](https://github.com/csebuetnlp/illusionvqa)**|
 |**2024-03-23**|**Explore until Confident: Efficient Exploration for Embodied Question Answering**|Allen Z. Ren et.al.|[2403.15941](http://arxiv.org/abs/2403.15941)|null|
-|**2024-03-23**|**Centered Masking for Language-Image Pre-Training**|Mingliang Liang et.al.|[2403.15837](http://arxiv.org/abs/2403.15837)|null|
-|**2024-03-23**|**VLM-CPL: Consensus Pseudo Labels from Vision-Language Models for Human Annotation-Free Pathological Image Classification**|Lanfeng Zhong et.al.|[2403.15836](http://arxiv.org/abs/2403.15836)|null|
+|**2024-03-23**|**Centered Masking for Language-Image Pre-Training**|Mingliang Liang et.al.|[2403.15837](http://arxiv.org/abs/2403.15837)|**[link](https://github.com/anastasiais-ml/glip)**|
+|**2024-03-23**|**VLM-CPL: Consensus Pseudo Labels from Vision-Language Models for Human Annotation-Free Pathological Image Classification**|Lanfeng Zhong et.al.|[2403.15836](http://arxiv.org/abs/2403.15836)|**[link](https://github.com/lanfz2000/vlm-cpl)**|
 |**2024-03-22**|**CoNVOI: Context-aware Navigation using Vision Language Models in Outdoor and Indoor Environments**|Adarsh Jagan Sathyamoorthy et.al.|[2403.15637](http://arxiv.org/abs/2403.15637)|null|
 |**2024-03-22**|**Cartoon Hallucinations Detection: Pose-aware In Context Visual Learning**|Bumsoo Kim et.al.|[2403.15048](http://arxiv.org/abs/2403.15048)|null|
 |**2024-03-21**|**Few-Shot Adversarial Prompt Learning on Vision-Language Models**|Yiwei Zhou et.al.|[2403.14774](http://arxiv.org/abs/2403.14774)|null|
-|**2024-03-21**|**Can 3D Vision-Language Models Truly Understand Natural Language?**|Weipeng Deng et.al.|[2403.14760](http://arxiv.org/abs/2403.14760)|null|
+|**2024-03-21**|**Can 3D Vision-Language Models Truly Understand Natural Language?**|Weipeng Deng et.al.|[2403.14760](http://arxiv.org/abs/2403.14760)|**[link](https://github.com/vincentdengp/3d-lr)**|
 |**2024-03-21**|**MyVLM: Personalizing VLMs for User-Specific Queries**|Yuval Alaluf et.al.|[2403.14599](http://arxiv.org/abs/2403.14599)|null|
-|**2024-03-21**|**Regularized Adaptive Momentum Dual Averaging with an Efficient Inexact Subproblem Solver for Training Structured Neural Network**|Zih-Syuan Huang et.al.|[2403.14398](http://arxiv.org/abs/2403.14398)|null|
+|**2024-03-21**|**Regularized Adaptive Momentum Dual Averaging with an Efficient Inexact Subproblem Solver for Training Structured Neural Network**|Zih-Syuan Huang et.al.|[2403.14398](http://arxiv.org/abs/2403.14398)|**[link](https://github.com/ismoptgroup/ramda)**|
 |**2024-03-21**|**Exosense: A Vision-Centric Scene Understanding System For Safe Exoskeleton Navigation**|Jianeng Wang et.al.|[2403.14320](http://arxiv.org/abs/2403.14320)|null|
 |**2024-03-21**|**C-TPT: Calibrated Test-Time Prompt Tuning for Vision-Language Models via Text Feature Dispersion**|Hee Suk Yoon et.al.|[2403.14119](http://arxiv.org/abs/2403.14119)|null|
 |**2024-03-21**|**Semantics from Space: Satellite-Guided Thermal Semantic Segmentation Annotation for Aerial Field Robots**|Connor Lee et.al.|[2403.14056](http://arxiv.org/abs/2403.14056)|null|
@@ -403,7 +403,7 @@
 |**2024-03-12**|**In-context learning enables multimodal large language models to classify cancer pathology images**|Dyke Ferber et.al.|[2403.07407](http://arxiv.org/abs/2403.07407)|null|
 |**2024-03-12**|**KEBench: A Benchmark on Knowledge Editing for Large Vision-Language Models**|Han Huang et.al.|[2403.07350](http://arxiv.org/abs/2403.07350)|null|
 |**2024-03-12**|**Multi-task Manipulation Policy Modeling with Visuomotor Latent Diffusion**|Wenhui Tan et.al.|[2403.07312](http://arxiv.org/abs/2403.07312)|**[link](https://github.com/alberttan404/rold)**|
-|**2024-03-12**|**Calibrating Multi-modal Representations: A Pursuit of Group Robustness without Annotations**|Chenyu You et.al.|[2403.07241](http://arxiv.org/abs/2403.07241)|null|
+|**2024-03-12**|**Calibrating Multi-modal Representations: A Pursuit of Group Robustness without Annotations**|Chenyu You et.al.|[2403.07241](http://arxiv.org/abs/2403.07241)|**[link](https://github.com/charlesyou999648/cfr)**|
 |**2024-03-11**|**Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation**|Xinyao Li et.al.|[2403.06946](http://arxiv.org/abs/2403.06946)|**[link](https://github.com/tl-uestc/unimos)**|
 |**2024-03-11**|**An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models**|Liang Chen et.al.|[2403.06764](http://arxiv.org/abs/2403.06764)|**[link](https://github.com/pkunlp-icler/fastv)**|
 |**2024-03-11**|**FontCLIP: A Semantic Typography Visual-Language Model for Multilingual Font Applications**|Yuki Tatsukawa et.al.|[2403.06453](http://arxiv.org/abs/2403.06453)|null|
@@ -578,7 +578,7 @@
 |**2024-01-08**|**Language-Conditioned Robotic Manipulation with Fast and Slow Thinking**|Minjie Zhu et.al.|[2401.04181](http://arxiv.org/abs/2401.04181)|null|
 |**2024-01-08**|**RePLan: Robotic Replanning with Perception and Language Models**|Marta Skreta et.al.|[2401.04157](http://arxiv.org/abs/2401.04157)|null|
 |**2024-01-08**|**DME-Driver: Integrating Human Decision Logic and 3D Scene Perception in Autonomous Driving**|Wencheng Han et.al.|[2401.03641](http://arxiv.org/abs/2401.03641)|null|
-|**2024-01-06**|**Large Language Models as Visual Cross-Domain Learners**|Shuhao Chen et.al.|[2401.03253](http://arxiv.org/abs/2401.03253)|null|
+|**2024-01-06**|**Large Language Models as Visual Cross-Domain Learners**|Shuhao Chen et.al.|[2401.03253](http://arxiv.org/abs/2401.03253)|**[link](https://github.com/LL-a-VO/VLLaVO)**|
 |**2024-01-05**|**Object-oriented backdoor attack against image captioning**|Meiling Li et.al.|[2401.02600](http://arxiv.org/abs/2401.02600)|null|
 |**2024-01-08**|**Vulnerabilities Unveiled: Adversarially Attacking a Multimodal Vision Language Model for Pathology Imaging**|Jai Prakash Veerla et.al.|[2401.02565](http://arxiv.org/abs/2401.02565)|null|
 |**2024-01-04**|**Improved Zero-Shot Classification by Adapting VLMs with Text Descriptions**|Oindrila Saha et.al.|[2401.02460](http://arxiv.org/abs/2401.02460)|null|
