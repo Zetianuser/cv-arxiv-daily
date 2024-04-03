@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-30**|**LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion**|Pancheng Zhao et.al.|[2404.00292](http://arxiv.org/abs/2404.00292)|null|
 |**2024-03-21**|**Latent Diffusion Models for Attribute-Preserving Image Anonymization**|Luca Piano et.al.|[2403.14790](http://arxiv.org/abs/2403.14790)|null|
 |**2024-03-04**|**Weaponization of Conscience in Cybercrime and Online Fraud: A Novel Systems Theory**|Michelle Espinoza et.al.|[2403.14667](http://arxiv.org/abs/2403.14667)|null|
 |**2024-03-14**|**Semi- and Weakly-Supervised Learning for Mammogram Mass Segmentation with Limited Annotations**|Xinyu Xiong et.al.|[2403.09315](http://arxiv.org/abs/2403.09315)|null|
@@ -60,6 +61,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks**|Maksym Andriushchenko et.al.|[2404.02151](http://arxiv.org/abs/2404.02151)|**[link](https://github.com/tml-epfl/llm-adaptive-attacks)**|
+|**2024-04-02**|**Exploring Automated Distractor Generation for Math Multiple-choice Questions via Large Language Models**|Wanyong Feng et.al.|[2404.02124](http://arxiv.org/abs/2404.02124)|null|
+|**2024-04-02**|**Long-context LLMs Struggle with Long In-context Learning**|Tianle Li et.al.|[2404.02060](http://arxiv.org/abs/2404.02060)|**[link](https://github.com/tiger-ai-lab/longiclbench)**|
+|**2024-04-02**|**Deconstructing In-Context Learning: Understanding Prompts via Corruption**|Namrata Shivagunde et.al.|[2404.02054](http://arxiv.org/abs/2404.02054)|**[link](https://github.com/text-machine-lab/understanding_prompts_via_corruption)**|
+|**2024-04-02**|**Improving Retrieval Augmented Open-Domain Question-Answering with Vectorized Contexts**|Zhuo Chen et.al.|[2404.02022](http://arxiv.org/abs/2404.02022)|null|
+|**2024-04-02**|**Large Language Models for Orchestrating Bimanual Robots**|Kun Chu et.al.|[2404.02018](http://arxiv.org/abs/2404.02018)|null|
+|**2024-04-02**|**Team UTSA-NLP at SemEval 2024 Task 5: Prompt Ensembling for Argument Reasoning in Civil Procedures with GPT4**|Dan Schumacher et.al.|[2404.01961](http://arxiv.org/abs/2404.01961)|**[link](https://github.com/danschumac1/civilpromptreasoninggpt4)**|
+|**2024-04-02**|**Self-Improvement Programming for Temporal Knowledge Graph Question Answering**|Zhuo Chen et.al.|[2404.01720](http://arxiv.org/abs/2404.01720)|null|
+|**2024-04-01**|**Structured Information Matters: Incorporating Abstract Meaning Representation into LLMs for Improved Open-Domain Dialogue Evaluation**|Bohao Yang et.al.|[2404.01129](http://arxiv.org/abs/2404.01129)|null|
+|**2024-04-01**|**Efficient Prompting Methods for Large Language Models: A Survey**|Kaiyan Chang et.al.|[2404.01077](http://arxiv.org/abs/2404.01077)|null|
 |**2024-03-29**|**Unleashing the Potential of Large Language Models for Predictive Tabular Tasks in Data Science**|Yazheng Yang et.al.|[2403.20208](http://arxiv.org/abs/2403.20208)|null|
 |**2024-03-28**|**Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**|Yucheng Shi et.al.|[2403.19631](http://arxiv.org/abs/2403.19631)|null|
 |**2024-03-28**|**Going Beyond Word Matching: Syntax Improves In-context Example Selection for Machine Translation**|Chenming Tang et.al.|[2403.19285](http://arxiv.org/abs/2403.19285)|null|
@@ -320,6 +331,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**Iterated Learning Improves Compositionality in Large Vision-Language Models**|Chenhao Zheng et.al.|[2404.02145](http://arxiv.org/abs/2404.02145)|null|
+|**2024-04-02**|**ViTamin: Designing Scalable Vision Models in the Vision-Language Era**|Jienneg Chen et.al.|[2404.02132](http://arxiv.org/abs/2404.02132)|**[link](https://github.com/beckschen/vitamin)**|
+|**2024-04-02**|**Bi-LORA: A Vision-Language Approach for Synthetic Image Detection**|Mamadou Keita et.al.|[2404.01959](http://arxiv.org/abs/2404.01959)|null|
+|**2024-04-02**|**VLRM: Vision-Language Models act as Reward Models for Image Captioning**|Maksim Dzabraev et.al.|[2404.01911](http://arxiv.org/abs/2404.01911)|null|
+|**2024-04-01**|**OVFoodSeg: Elevating Open-Vocabulary Food Image Segmentation via Image-Informed Textual Representation**|Xiongwei Wu et.al.|[2404.01409](http://arxiv.org/abs/2404.01409)|null|
+|**2024-04-02**|**Open-Vocabulary Federated Learning with Multimodal Prototyping**|Huimin Zeng et.al.|[2404.01232](http://arxiv.org/abs/2404.01232)|null|
+|**2024-04-01**|**Privacy Backdoors: Enhancing Membership Inference through Poisoning Pre-trained Models**|Yuxin Wen et.al.|[2404.01231](http://arxiv.org/abs/2404.01231)|null|
+|**2024-04-01**|**Vision-language models for decoding provider attention during neonatal resuscitation**|Felipe Parodi et.al.|[2404.01207](http://arxiv.org/abs/2404.01207)|null|
+|**2024-04-01**|**SyncMask: Synchronized Attentional Masking for Fashion-centric Vision-Language Pretraining**|Chull Hwan Song et.al.|[2404.01156](http://arxiv.org/abs/2404.01156)|null|
+|**2024-04-01**|**Harnessing Large Language Models for Training-free Video Anomaly Detection**|Luca Zanella et.al.|[2404.01014](http://arxiv.org/abs/2404.01014)|null|
 |**2024-03-29**|**Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models**|Atsuyuki Miyai et.al.|[2403.20331](http://arxiv.org/abs/2403.20331)|**[link](https://github.com/atsumiyai/upd)**|
 |**2024-03-29**|**Are We on the Right Way for Evaluating Large Vision-Language Models?**|Lin Chen et.al.|[2403.20330](http://arxiv.org/abs/2403.20330)|null|
 |**2024-03-29**|**Learn "No" to Say "Yes" Better: Improving Vision-Language Models via Negations**|Jaisidh Singh et.al.|[2403.20312](http://arxiv.org/abs/2403.20312)|**[link](https://github.com/jaisidhsingh/con-clip)**|
