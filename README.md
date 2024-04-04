@@ -61,6 +61,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Retrieving Examples from Memory for Retrieval Augmented Neural Machine Translation: A Systematic Comparison**|Maxime Bouthors et.al.|[2404.02835](http://arxiv.org/abs/2404.02835)|null|
+|**2024-04-03**|**Unblind Text Inputs: Predicting Hint-text of Text Input in Mobile Apps via LLM**|Zhe Liu et.al.|[2404.02706](http://arxiv.org/abs/2404.02706)|null|
+|**2024-04-03**|**Dynamic Demonstration Retrieval and Cognitive Understanding for Emotional Support Conversation**|Zhe Xu et.al.|[2404.02505](http://arxiv.org/abs/2404.02505)|null|
+|**2024-04-03**|**uTeBC-NLP at SemEval-2024 Task 9: Can LLMs be Lateral Thinkers?**|Pouya Sadeghi et.al.|[2404.02474](http://arxiv.org/abs/2404.02474)|**[link](https://github.com/ipouyall/can-llms-be-lateral-thinkers)**|
+|**2024-04-03**|**Task Agnostic Architecture for Algorithm Induction via Implicit Composition**|Sahil J. Sindhi et.al.|[2404.02450](http://arxiv.org/abs/2404.02450)|null|
+|**2024-04-03**|**Enhancing Low-Resource LLMs Classification with PEFT and Synthetic Data**|Parth Patwa et.al.|[2404.02422](http://arxiv.org/abs/2404.02422)|null|
+|**2024-04-02**|**Emergent Abilities in Reduced-Scale Generative Language Models**|Sherin Muckatira et.al.|[2404.02204](http://arxiv.org/abs/2404.02204)|**[link](https://github.com/text-machine-lab/mini_gpt)**|
 |**2024-04-02**|**Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks**|Maksym Andriushchenko et.al.|[2404.02151](http://arxiv.org/abs/2404.02151)|**[link](https://github.com/tml-epfl/llm-adaptive-attacks)**|
 |**2024-04-02**|**Exploring Automated Distractor Generation for Math Multiple-choice Questions via Large Language Models**|Wanyong Feng et.al.|[2404.02124](http://arxiv.org/abs/2404.02124)|null|
 |**2024-04-02**|**Long-context LLMs Struggle with Long In-context Learning**|Tianle Li et.al.|[2404.02060](http://arxiv.org/abs/2404.02060)|**[link](https://github.com/tiger-ai-lab/longiclbench)**|
@@ -331,6 +338,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**I-Design: Personalized LLM Interior Designer**|Ata Çelen et.al.|[2404.02838](http://arxiv.org/abs/2404.02838)|null|
+|**2024-04-03**|**Harnessing the Power of Large Vision Language Models for Synthetic Image Detection**|Mamadou Keita et.al.|[2404.02726](http://arxiv.org/abs/2404.02726)|null|
+|**2024-04-03**|**RESSA: Repair Sparse Vision-Language Models via Sparse Cross-Modality Adaptation**|Shwai He et.al.|[2404.02424](http://arxiv.org/abs/2404.02424)|null|
+|**2024-04-03**|**What Are We Measuring When We Evaluate Large Vision-Language Models? An Analysis of Latent Factors and Biases**|Anthony Meng Huat Tiong et.al.|[2404.02415](http://arxiv.org/abs/2404.02415)|**[link](https://github.com/jq-zh/olive-dataset)**|
+|**2024-04-03**|**Enhancing Human-Computer Interaction in Chest X-ray Analysis using Vision and Language Model with Eye Gaze Patterns**|Yunsoo Kim et.al.|[2404.02370](http://arxiv.org/abs/2404.02370)|null|
+|**2024-04-02**|**ZeroCAP: Zero-Shot Multi-Robot Context Aware Pattern Formation via Large Language Models**|Vishnunandan L. N. Venkatesh et.al.|[2404.02318](http://arxiv.org/abs/2404.02318)|null|
 |**2024-04-02**|**Iterated Learning Improves Compositionality in Large Vision-Language Models**|Chenhao Zheng et.al.|[2404.02145](http://arxiv.org/abs/2404.02145)|null|
 |**2024-04-02**|**ViTamin: Designing Scalable Vision Models in the Vision-Language Era**|Jienneg Chen et.al.|[2404.02132](http://arxiv.org/abs/2404.02132)|**[link](https://github.com/beckschen/vitamin)**|
 |**2024-04-02**|**Bi-LORA: A Vision-Language Approach for Synthetic Image Detection**|Mamadou Keita et.al.|[2404.01959](http://arxiv.org/abs/2404.01959)|null|
