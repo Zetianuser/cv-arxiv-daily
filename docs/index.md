@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.07
+## Updated on 2024.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -337,7 +337,7 @@ layout: default
 |**2024-04-03**|**AWOL: Analysis WithOut synthesis using Language**|Silvia Zuffi et.al.|[2404.03042](http://arxiv.org/abs/2404.03042)|null|
 |**2024-04-03**|**I-Design: Personalized LLM Interior Designer**|Ata Çelen et.al.|[2404.02838](http://arxiv.org/abs/2404.02838)|null|
 |**2024-04-03**|**Harnessing the Power of Large Vision Language Models for Synthetic Image Detection**|Mamadou Keita et.al.|[2404.02726](http://arxiv.org/abs/2404.02726)|null|
-|**2024-04-03**|**RESSA: Repair Sparse Vision-Language Models via Sparse Cross-Modality Adaptation**|Shwai He et.al.|[2404.02424](http://arxiv.org/abs/2404.02424)|null|
+|**2024-04-03**|**RESSA: Repair Sparse Vision-Language Models via Sparse Cross-Modality Adaptation**|Shwai He et.al.|[2404.02424](http://arxiv.org/abs/2404.02424)|**[link](https://github.com/shwai-he/ressa)**|
 |**2024-04-03**|**What Are We Measuring When We Evaluate Large Vision-Language Models? An Analysis of Latent Factors and Biases**|Anthony Meng Huat Tiong et.al.|[2404.02415](http://arxiv.org/abs/2404.02415)|**[link](https://github.com/jq-zh/olive-dataset)**|
 |**2024-04-03**|**Enhancing Human-Computer Interaction in Chest X-ray Analysis using Vision and Language Model with Eye Gaze Patterns**|Yunsoo Kim et.al.|[2404.02370](http://arxiv.org/abs/2404.02370)|null|
 |**2024-04-02**|**ZeroCAP: Zero-Shot Multi-Robot Context Aware Pattern Formation via Large Language Models**|Vishnunandan L. N. Venkatesh et.al.|[2404.02318](http://arxiv.org/abs/2404.02318)|null|
