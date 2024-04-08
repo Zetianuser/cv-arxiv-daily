@@ -45,7 +45,7 @@ layout: default
 |**2023-12-06**|**Antibody-loading of biological nanocarrier vesicles derived from red-blood-cell membranes**|Maryam Sanaee et.al.|[2312.03417](http://arxiv.org/abs/2312.03417)|null|
 |**2023-11-28**|**Large Model Based Referring Camouflaged Object Detection**|Shupeng Cheng et.al.|[2311.17122](http://arxiv.org/abs/2311.17122)|null|
 |**2023-11-28**|**Cross-level Attention with Overlapped Windows for Camouflaged Object Detection**|Jiepan Li et.al.|[2311.16618](http://arxiv.org/abs/2311.16618)|null|
-|**2023-11-25**|**VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning**|Ziyang Luo et.al.|[2311.15011](http://arxiv.org/abs/2311.15011)|null|
+|**2023-11-25**|**VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning**|Ziyang Luo et.al.|[2311.15011](http://arxiv.org/abs/2311.15011)|**[link](https://github.com/sssssuperior/vscode)**|
 |**2023-11-19**|**Generalization and Hallucination of Large Vision-Language Models through a Camouflaged Lens**|Lv Tang et.al.|[2311.11273](http://arxiv.org/abs/2311.11273)|null|
 |**2023-11-19**|**Open-Vocabulary Camouflaged Object Segmentation**|Youwei Pang et.al.|[2311.11241](http://arxiv.org/abs/2311.11241)|null|
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
@@ -314,7 +314,7 @@ layout: default
 |**2023-12-28**|**Improving In-context Learning via Bidirectional Alignment**|Chengwei Qin et.al.|[2312.17055](http://arxiv.org/abs/2312.17055)|null|
 |**2023-12-27**|**How Robust are LLMs to In-Context Majority Label Bias?**|Karan Gupta et.al.|[2312.16549](http://arxiv.org/abs/2312.16549)|null|
 |**2023-12-26**|**Dynamic In-Context Learning from Nearest Neighbors for Bundle Generation**|Zhu Sun et.al.|[2312.16262](http://arxiv.org/abs/2312.16262)|null|
-|**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018](http://arxiv.org/abs/2312.16018)|null|
+|**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018](http://arxiv.org/abs/2312.16018)|**[link](https://github.com/sichunluo/recranker)**|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918](http://arxiv.org/abs/2312.15918)|null|
 |**2023-12-25**|**EcomGPT-CT: Continual Pre-training of E-commerce Large Language Models with Semi-structured Data**|Shirong Ma et.al.|[2312.15696](http://arxiv.org/abs/2312.15696)|null|
 |**2023-12-22**|**On Task Performance and Model Calibration with Supervised and Self-Ensembled In-Context Learning**|Chengzu Li et.al.|[2312.13772](http://arxiv.org/abs/2312.13772)|**[link](https://github.com/cambridgeltl/ensembled-sicl)**|
@@ -367,7 +367,7 @@ layout: default
 |**2024-03-27**|**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**|Yanwei Li et.al.|[2403.18814](http://arxiv.org/abs/2403.18814)|**[link](https://github.com/dvlab-research/minigemini)**|
 |**2024-03-27**|**Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding**|Xintong Wang et.al.|[2403.18715](http://arxiv.org/abs/2403.18715)|null|
 |**2024-03-27**|**Language Plays a Pivotal Role in the Object-Attribute Compositional Generalization of CLIP**|Reza Abbasi et.al.|[2403.18525](http://arxiv.org/abs/2403.18525)|null|
-|**2024-03-27**|**An Image Grid Can Be Worth a Video: Zero-shot Video Question Answering Using a VLM**|Wonkyun Kim et.al.|[2403.18406](http://arxiv.org/abs/2403.18406)|null|
+|**2024-03-27**|**An Image Grid Can Be Worth a Video: Zero-shot Video Question Answering Using a VLM**|Wonkyun Kim et.al.|[2403.18406](http://arxiv.org/abs/2403.18406)|**[link](https://github.com/imagegridworth/IG-VLM)**|
 |**2024-03-27**|**Efficient Test-Time Adaptation of Vision-Language Models**|Adilbek Karmanov et.al.|[2403.18293](http://arxiv.org/abs/2403.18293)|null|
 |**2024-03-26**|**Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models**|Yabin Zhang et.al.|[2403.17589](http://arxiv.org/abs/2403.17589)|**[link](https://github.com/ybzh/dmn)**|
 |**2024-03-26**|**Visual Hallucination: Definition, Quantification, and Prescriptive Remediations**|Vipula Rawte et.al.|[2403.17306](http://arxiv.org/abs/2403.17306)|null|
@@ -414,7 +414,7 @@ layout: default
 |**2024-03-18**|**Do CLIPs Always Generalize Better than ImageNet Models?**|Qizhou Wang et.al.|[2403.11497](http://arxiv.org/abs/2403.11497)|null|
 |**2024-03-18**|**VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding**|Yue Fan et.al.|[2403.11481](http://arxiv.org/abs/2403.11481)|null|
 |**2024-03-17**|**Mixture-of-Prompt-Experts for Multi-modal Semantic Understanding**|Zichen Wu et.al.|[2403.11311](http://arxiv.org/abs/2403.11311)|null|
-|**2024-03-17**|**SQ-LLaVA: Self-Questioning for Large Vision-Language Assistant**|Guohao Sun et.al.|[2403.11299](http://arxiv.org/abs/2403.11299)|null|
+|**2024-03-17**|**SQ-LLaVA: Self-Questioning for Large Vision-Language Assistant**|Guohao Sun et.al.|[2403.11299](http://arxiv.org/abs/2403.11299)|**[link](https://github.com/heliossun/sq-llava)**|
 |**2024-03-17**|**Training A Small Emotional Vision Language Model for Visual Art Comprehension**|Jing Zhang et.al.|[2403.11150](http://arxiv.org/abs/2403.11150)|**[link](https://github.com/betterzh/sevlm-for-visual-art-comprehension)**|
 |**2024-03-17**|**PhD: A Prompted Visual Hallucination Evaluation Dataset**|Jiazhen Liu et.al.|[2403.11116](http://arxiv.org/abs/2403.11116)|null|
 |**2024-03-17**|**Tokensome: Towards a Genetic Vision-Language GPT for Explainable and Cognitive Karyotyping**|Haoxi Zhang et.al.|[2403.11073](http://arxiv.org/abs/2403.11073)|null|
@@ -479,7 +479,7 @@ layout: default
 |**2024-03-04**|**Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models**|Lei Li et.al.|[2403.00231](http://arxiv.org/abs/2403.00231)|null|
 |**2024-03-01**|**Multi-modal Attribute Prompting for Vision-Language Models**|Xin Liu et.al.|[2403.00219](http://arxiv.org/abs/2403.00219)|null|
 |**2024-02-29**|**Artwork Explanation in Large-scale Vision Language Models**|Kazuki Hayashi et.al.|[2403.00068](http://arxiv.org/abs/2403.00068)|null|
-|**2024-02-29**|**Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction**|Hao Li et.al.|[2402.19326](http://arxiv.org/abs/2402.19326)|null|
+|**2024-02-29**|**Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction**|Hao Li et.al.|[2402.19326](http://arxiv.org/abs/2402.19326)|**[link](https://github.com/ls1rius/wsi_five)**|
 |**2024-02-29**|**Typographic Attacks in Large Multimodal Models Can be Alleviated by More Informative Prompts**|Hao Cheng et.al.|[2402.19150](http://arxiv.org/abs/2402.19150)|null|
 |**2024-02-28**|**IBD: Alleviating Hallucinations in Large Vision-Language Models via Image-Biased Decoding**|Lanyun Zhu et.al.|[2402.18476](http://arxiv.org/abs/2402.18476)|null|
 |**2024-02-29**|**A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision Language Models**|Xiujie Song et.al.|[2402.18409](http://arxiv.org/abs/2402.18409)|null|
@@ -623,7 +623,7 @@ layout: default
 |**2024-01-06**|**Large Language Models as Visual Cross-Domain Learners**|Shuhao Chen et.al.|[2401.03253](http://arxiv.org/abs/2401.03253)|**[link](https://github.com/LL-a-VO/VLLaVO)**|
 |**2024-01-05**|**Object-oriented backdoor attack against image captioning**|Meiling Li et.al.|[2401.02600](http://arxiv.org/abs/2401.02600)|null|
 |**2024-01-08**|**Vulnerabilities Unveiled: Adversarially Attacking a Multimodal Vision Language Model for Pathology Imaging**|Jai Prakash Veerla et.al.|[2401.02565](http://arxiv.org/abs/2401.02565)|null|
-|**2024-01-04**|**Improved Zero-Shot Classification by Adapting VLMs with Text Descriptions**|Oindrila Saha et.al.|[2401.02460](http://arxiv.org/abs/2401.02460)|null|
+|**2024-01-04**|**Improved Zero-Shot Classification by Adapting VLMs with Text Descriptions**|Oindrila Saha et.al.|[2401.02460](http://arxiv.org/abs/2401.02460)|**[link](https://github.com/cvl-umass/adaptclipzs)**|
 |**2024-01-04**|**Learning to Prompt with Text Only Supervision for Vision-Language Models**|Muhammad Uzair Khattak et.al.|[2401.02418](http://arxiv.org/abs/2401.02418)|**[link](https://github.com/muzairkhattak/protext)**|
 |**2024-01-10**|**ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning**|Fanqing Meng et.al.|[2401.02384](http://arxiv.org/abs/2401.02384)|**[link](https://github.com/opengvlab/chartast)**|
 |**2024-01-04**|**Prompt Decoupling for Text-to-Image Person Re-identification**|Weihao Li et.al.|[2401.02173](http://arxiv.org/abs/2401.02173)|null|
