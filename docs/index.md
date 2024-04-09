@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.08
+## Updated on 2024.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-04**|**InsectMamba: Insect Pest Classification with State Space Model**|Qianning Wang et.al.|[2404.03611](http://arxiv.org/abs/2404.03611)|null|
-|**2024-03-30**|**LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion**|Pancheng Zhao et.al.|[2404.00292](http://arxiv.org/abs/2404.00292)|null|
+|**2024-04-07**|**LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion**|Pancheng Zhao et.al.|[2404.00292](http://arxiv.org/abs/2404.00292)|null|
 |**2024-03-21**|**Latent Diffusion Models for Attribute-Preserving Image Anonymization**|Luca Piano et.al.|[2403.14790](http://arxiv.org/abs/2403.14790)|null|
 |**2024-03-04**|**Weaponization of Conscience in Cybercrime and Online Fraud: A Novel Systems Theory**|Michelle Espinoza et.al.|[2403.14667](http://arxiv.org/abs/2403.14667)|null|
 |**2024-03-14**|**Semi- and Weakly-Supervised Learning for Mammogram Mass Segmentation with Limited Annotations**|Xinyu Xiong et.al.|[2403.09315](http://arxiv.org/abs/2403.09315)|null|
