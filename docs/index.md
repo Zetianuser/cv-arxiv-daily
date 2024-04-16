@@ -115,7 +115,7 @@ layout: default
 |**2024-03-23**|**IllusionVQA: A Challenging Optical Illusion Dataset for Vision Language Models**|Haz Sameen Shahgir et.al.|[2403.15952](http://arxiv.org/abs/2403.15952)|**[link](https://github.com/csebuetnlp/illusionvqa)**|
 |**2024-03-21**|**Sequence-to-Sequence Language Models for Character and Emotion Detection in Dream Narratives**|Gustave Cortal et.al.|[2403.15486](http://arxiv.org/abs/2403.15486)|null|
 |**2024-03-22**|**ESG Classification by Implicit Rule Learning via GPT-4**|Hyo Jeong Yun et.al.|[2403.15040](http://arxiv.org/abs/2403.15040)|null|
-|**2024-03-22**|**Comprehensive Evaluation and Insights into the Use of Large Language Models in the Automation of Behavior-Driven Development Acceptance Test Formulation**|Shanthi Karpurapu et.al.|[2403.14965](http://arxiv.org/abs/2403.14965)|null|
+|**2024-03-22**|**Comprehensive Evaluation and Insights into the Use of Large Language Models in the Automation of Behavior-Driven Development Acceptance Test Formulation**|Shanthi Karpurapu et.al.|[2403.14965](http://arxiv.org/abs/2403.14965)|**[link](https://github.com/karpurapus/bddgpt-automate-tests)**|
 |**2024-03-22**|**Stance Reasoner: Zero-Shot Stance Detection on Social Media with Explicit Reasoning**|Maksym Taranukhin et.al.|[2403.14895](http://arxiv.org/abs/2403.14895)|**[link](https://github.com/maksym-taranukhin/stance_reasoner)**|
 |**2024-03-21**|**Building Accurate Translation-Tailored LLMs with Language Aware Instruction Tuning**|Changtong Zan et.al.|[2403.14399](http://arxiv.org/abs/2403.14399)|null|
 |**2024-03-21**|**PE-GPT: A Physics-Informed Interactive Large Language Model for Power Converter Modulation Design**|Fanfan Lin et.al.|[2403.14059](http://arxiv.org/abs/2403.14059)|null|
@@ -177,7 +177,7 @@ layout: default
 |**2024-03-01**|**Cross-Lingual Learning vs. Low-Resource Fine-Tuning: A Case Study with Fact-Checking in Turkish**|Recep Firat Cekinel et.al.|[2403.00411](http://arxiv.org/abs/2403.00411)|**[link](https://github.com/firatcekinel/fctr)**|
 |**2024-02-29**|**Training Dynamics of Multi-Head Softmax Attention for In-Context Learning: Emergence, Convergence, and Optimality**|Siyu Chen et.al.|[2402.19442](http://arxiv.org/abs/2402.19442)|null|
 |**2024-02-29**|**Teaching Large Language Models an Unseen Language on the Fly**|Chen Zhang et.al.|[2402.19167](http://arxiv.org/abs/2402.19167)|**[link](https://github.com/luciusssss/zhuangbench)**|
-|**2024-02-29**|**Dual Operating Modes of In-Context Learning**|Ziqian Lin et.al.|[2402.18819](http://arxiv.org/abs/2402.18819)|null|
+|**2024-02-29**|**Dual Operating Modes of In-Context Learning**|Ziqian Lin et.al.|[2402.18819](http://arxiv.org/abs/2402.18819)|**[link](https://github.com/uw-madison-lee-lab/dual_operating_modes_of_icl)**|
 |**2024-02-28**|**Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling**|Mahdi Karami et.al.|[2402.18508](http://arxiv.org/abs/2402.18508)|null|
 |**2024-02-28**|**Few-Shot Fairness: Unveiling LLM's Potential for Fairness-Aware Classification**|Garima Chhikara et.al.|[2402.18502](http://arxiv.org/abs/2402.18502)|null|
 |**2024-02-28**|**Large Language Models As Evolution Strategies**|Robert Tjarko Lange et.al.|[2402.18381](http://arxiv.org/abs/2402.18381)|null|
