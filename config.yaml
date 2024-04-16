@@ -28,6 +28,8 @@ keywords:
         filters: ["ICL", "In Context Learning"]
     "VLM":
         filters: ["Vision Language Model", "VLM"]
+    "Visual In-context":
+        filters: ["Visual in-context", "in-context"]
     # "SLAM": 
     #     filters: ["SLAM", "Visual Odometry"]
     # "SFM":
