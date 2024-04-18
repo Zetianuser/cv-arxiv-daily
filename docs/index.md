@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.17
+## Updated on 2024.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -361,7 +361,7 @@ layout: default
 |**2024-04-16**|**Private Attribute Inference from Images with Vision-Language Models**|Batuhan Tömekçe et.al.|[2404.10618](http://arxiv.org/abs/2404.10618)|null|
 |**2024-04-16**|**Automated Evaluation of Large Vision-Language Models on Self-driving Corner Cases**|Yanze Li et.al.|[2404.10595](http://arxiv.org/abs/2404.10595)|null|
 |**2024-04-16**|**Self-Supervised Visual Preference Alignment**|Ke Zhu et.al.|[2404.10501](http://arxiv.org/abs/2404.10501)|null|
-|**2024-04-16**|**Optimization of Prompt Learning via Multi-Knowledge Representation for Vision-Language Models**|Enming Zhang et.al.|[2404.10357](http://arxiv.org/abs/2404.10357)|null|
+|**2024-04-17**|**Optimization of Prompt Learning via Multi-Knowledge Representation for Vision-Language Models**|Enming Zhang et.al.|[2404.10357](http://arxiv.org/abs/2404.10357)|null|
 |**2024-04-16**|**Prescribing the Right Remedy: Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning**|Rui Hu et.al.|[2404.10332](http://arxiv.org/abs/2404.10332)|null|
 |**2024-04-16**|**MoE-TinyMed: Mixture of Experts for Tiny Medical Large Vision-Language Models**|Songtao Jiang et.al.|[2404.10237](http://arxiv.org/abs/2404.10237)|**[link](https://github.com/jiangsongtao/tinymed)**|
 |**2024-04-16**|**Consistency and Uncertainty: Identifying Unreliable Responses From Black-Box Vision-Language Models for Selective Visual Question Answering**|Zaid Khan et.al.|[2404.10193](http://arxiv.org/abs/2404.10193)|null|
