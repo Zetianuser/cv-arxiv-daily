@@ -28,6 +28,8 @@ keywords:
         filters: ["ICL", "In Context Learning"]
     "Visual-ICL":
         filters: ["ICL", "visual"]
+    "V-ICL":
+        filters: ["In Context Learning", "Visual"]
     "VLM":
         filters: ["Vision Language Model", "VLM"]
     # "SLAM": 
