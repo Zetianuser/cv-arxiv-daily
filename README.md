@@ -12,6 +12,7 @@
     <li><a href=#camouflage>Camouflage</a></li>
     <li><a href=#in-context>In-context</a></li>
     <li><a href=#vlm>VLM</a></li>
+    <li><a href=#v-icl>V-ICL</a></li>
   </ol>
 </details>
 
@@ -63,6 +64,23 @@
 |**2024-04-16**|**Automated Evaluation of Large Vision-Language Models on Self-driving Corner Cases**|Yanze Li et.al.|[2404.10595](http://arxiv.org/abs/2404.10595)|null|
 |**2024-04-16**|**Self-Supervised Visual Preference Alignment**|Ke Zhu et.al.|[2404.10501](http://arxiv.org/abs/2404.10501)|null|
 |**2024-04-17**|**Optimization of Prompt Learning via Multi-Knowledge Representation for Vision-Language Models**|Enming Zhang et.al.|[2404.10357](http://arxiv.org/abs/2404.10357)|null|
+
+<p align=right>(<a href=#updated-on-20240418>back to top</a>)</p>
+
+## V-ICL
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-04-17**|**In-Context Learning State Vector with Inner and Momentum Optimization**|Dongfang Li et.al.|[2404.11225](http://arxiv.org/abs/2404.11225)|**[link](https://github.com/hitsz-tmg/icl-state-vector)**|
+|**2024-04-17**|**Position Engineering: Boosting Large Language Models through Positional Information Manipulation**|Zhiyuan He et.al.|[2404.11216](http://arxiv.org/abs/2404.11216)|null|
+|**2024-04-17**|**Many-Shot In-Context Learning**|Rishabh Agarwal et.al.|[2404.11018](http://arxiv.org/abs/2404.11018)|null|
+|**2024-04-16**|**Search Beyond Queries: Training Smaller Language Models for Web Interactions via Reinforcement Learning**|Moghis Fereidouni et.al.|[2404.10887](http://arxiv.org/abs/2404.10887)|null|
+|**2024-04-16**|**Unveiling the Misuse Potential of Base Large Language Models via In-Context Learning**|Xiao Wang et.al.|[2404.10552](http://arxiv.org/abs/2404.10552)|null|
+|**2024-04-15**|**Memory Sharing for Large Language Model based Agents**|Hang Gao et.al.|[2404.09982](http://arxiv.org/abs/2404.09982)|null|
+|**2024-04-15**|**Evolving Interpretable Visual Classifiers with Large Language Models**|Mia Chiquier et.al.|[2404.09941](http://arxiv.org/abs/2404.09941)|null|
+|**2024-04-15**|**In-Context Translation: Towards Unifying Image Recognition, Processing, and Generation**|Han Xue et.al.|[2404.09633](http://arxiv.org/abs/2404.09633)|null|
+|**2024-04-15**|**Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**|Sungwon Han et.al.|[2404.09491](http://arxiv.org/abs/2404.09491)|**[link](https://github.com/sungwon-han/featllm)**|
+|**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
 
 <p align=right>(<a href=#updated-on-20240418>back to top</a>)</p>
 
