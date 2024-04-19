@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**An Overview of Electromagnetic Illusions: Empowering Smart Environments with Reconfigurable Metasurfaces**|Hamidreza Taghvaee et.al.|[2404.12089](http://arxiv.org/abs/2404.12089)|null|
+|**2024-04-18**|**Enhance Robustness of Language Models Against Variation Attack through Graph Integration**|Zi Xiong et.al.|[2404.12014](http://arxiv.org/abs/2404.12014)|null|
 |**2024-04-13**|**Shifting Spotlight for Co-supervision: A Simple yet Efficient Single-branch Network to See Through Camouflage**|Yang Hu et.al.|[2404.08936](http://arxiv.org/abs/2404.08936)|null|
 |**2024-04-04**|**InsectMamba: Insect Pest Classification with State Space Model**|Qianning Wang et.al.|[2404.03611](http://arxiv.org/abs/2404.03611)|null|
 |**2024-04-13**|**LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion**|Pancheng Zhao et.al.|[2404.00292](http://arxiv.org/abs/2404.00292)|**[link](https://github.com/panchengzhao/lake-red)**|
@@ -65,6 +67,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Point-In-Context: Understanding Point Cloud via In-Context Learning**|Mengyuan Liu et.al.|[2404.12352](http://arxiv.org/abs/2404.12352)|null|
+|**2024-04-18**|**Exploring the landscape of large language models: Foundations, techniques, and challenges**|Milad Moradi et.al.|[2404.11973](http://arxiv.org/abs/2404.11973)|null|
 |**2024-04-17**|**In-Context Learning State Vector with Inner and Momentum Optimization**|Dongfang Li et.al.|[2404.11225](http://arxiv.org/abs/2404.11225)|**[link](https://github.com/hitsz-tmg/icl-state-vector)**|
 |**2024-04-17**|**Position Engineering: Boosting Large Language Models through Positional Information Manipulation**|Zhiyuan He et.al.|[2404.11216](http://arxiv.org/abs/2404.11216)|null|
 |**2024-04-17**|**Many-Shot In-Context Learning**|Rishabh Agarwal et.al.|[2404.11018](http://arxiv.org/abs/2404.11018)|null|
@@ -372,6 +376,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning**|Hang Hua et.al.|[2404.12353](http://arxiv.org/abs/2404.12353)|null|
+|**2024-04-18**|**What does CLIP know about peeling a banana?**|Claudia Cuttano et.al.|[2404.12015](http://arxiv.org/abs/2404.12015)|null|
+|**2024-04-18**|**Progressive Multi-modal Conditional Prompt Tuning**|Xiaoyu Qiu et.al.|[2404.11864](http://arxiv.org/abs/2404.11864)|null|
 |**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605](http://arxiv.org/abs/2404.11605)|**[link](https://github.com/shark0-0/vg4d)**|
 |**2024-04-17**|**A Progressive Framework of Vision-language Knowledge Distillation and Alignment for Multilingual Scene**|Wenbo Zhang et.al.|[2404.11249](http://arxiv.org/abs/2404.11249)|null|
 |**2024-04-17**|**Lightweight Unsupervised Federated Learning with Pretrained Vision Language Model**|Hao Yan et.al.|[2404.11046](http://arxiv.org/abs/2404.11046)|null|
@@ -759,6 +766,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Point-In-Context: Understanding Point Cloud via In-Context Learning**|Mengyuan Liu et.al.|[2404.12352](http://arxiv.org/abs/2404.12352)|null|
+|**2024-04-18**|**Exploring the landscape of large language models: Foundations, techniques, and challenges**|Milad Moradi et.al.|[2404.11973](http://arxiv.org/abs/2404.11973)|null|
 |**2024-04-17**|**In-Context Learning State Vector with Inner and Momentum Optimization**|Dongfang Li et.al.|[2404.11225](http://arxiv.org/abs/2404.11225)|**[link](https://github.com/hitsz-tmg/icl-state-vector)**|
 |**2024-04-17**|**Position Engineering: Boosting Large Language Models through Positional Information Manipulation**|Zhiyuan He et.al.|[2404.11216](http://arxiv.org/abs/2404.11216)|null|
 |**2024-04-17**|**Many-Shot In-Context Learning**|Rishabh Agarwal et.al.|[2404.11018](http://arxiv.org/abs/2404.11018)|null|
