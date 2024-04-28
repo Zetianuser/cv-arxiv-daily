@@ -402,7 +402,7 @@
 |**2024-04-24**|**MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI**|Kaining Ying et.al.|[2404.16006](http://arxiv.org/abs/2404.16006)|null|
 |**2024-04-24**|**Mammo-CLIP: Leveraging Contrastive Language-Image Pre-training (CLIP) for Enhanced Breast Cancer Diagnosis with Multi-view Mammography**|Xuxin Chen et.al.|[2404.15946](http://arxiv.org/abs/2404.15946)|null|
 |**2024-04-24**|**Seeing Beyond Classes: Zero-Shot Grounded Situation Recognition via Language Explainer**|Jiaming Lei et.al.|[2404.15785](http://arxiv.org/abs/2404.15785)|null|
-|**2024-04-23**|**BattleAgent: Multi-modal Dynamic Emulation on Historical Battles to Complement Historical Analysis**|Shuhang Lin et.al.|[2404.15532](http://arxiv.org/abs/2404.15532)|null|
+|**2024-04-23**|**BattleAgent: Multi-modal Dynamic Emulation on Historical Battles to Complement Historical Analysis**|Shuhang Lin et.al.|[2404.15532](http://arxiv.org/abs/2404.15532)|**[link](https://github.com/agiresearch/battleagent)**|
 |**2024-04-23**|**MedDr: Diagnosis-Guided Bootstrapping for Large-Scale Medical Vision-Language Learning**|Sunan He et.al.|[2404.15127](http://arxiv.org/abs/2404.15127)|null|
 |**2024-04-21**|**Interpreting COVID Lateral Flow Tests' Results with Foundation Models**|Stuti Pandey et.al.|[2404.14990](http://arxiv.org/abs/2404.14990)|null|
 |**2024-04-23**|**Driver Activity Classification Using Generalizable Representations from Vision-Language Models**|Ross Greer et.al.|[2404.14906](http://arxiv.org/abs/2404.14906)|null|
