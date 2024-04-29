@@ -143,7 +143,7 @@
 |**2024-03-26**|**Naive Bayes-based Context Extension for Large Language Models**|Jianlin Su et.al.|[2403.17552](http://arxiv.org/abs/2403.17552)|**[link](https://github.com/amurtadha/nbce-master)**|
 |**2024-03-26**|**ILLUMINER: Instruction-tuned Large Language Models as Few-shot Intent Classifier and Slot Filler**|Paramita Mirza et.al.|[2403.17536](http://arxiv.org/abs/2403.17536)|**[link](https://github.com/opengptx/illuminer)**|
 |**2024-03-25**|**A Comprehensive Study of the Capabilities of Large Language Models for Vulnerability Detection**|Benjamin Steenhoek et.al.|[2403.17218](http://arxiv.org/abs/2403.17218)|null|
-|**2024-03-25**|**MetaAligner: Conditional Weak-to-Strong Correction for Generalizable Multi-Objective Alignment of Language Models**|Kailai Yang et.al.|[2403.17141](http://arxiv.org/abs/2403.17141)|null|
+|**2024-03-25**|**MetaAligner: Conditional Weak-to-Strong Correction for Generalizable Multi-Objective Alignment of Language Models**|Kailai Yang et.al.|[2403.17141](http://arxiv.org/abs/2403.17141)|**[link](https://github.com/stevekgyang/metaaligner)**|
 |**2024-03-25**|**The Strong Pull of Prior Knowledge in Large Language Models and Its Impact on Emotion Recognition**|Georgios Chochlakis et.al.|[2403.17125](http://arxiv.org/abs/2403.17125)|null|
 |**2024-03-25**|**SegICL: A Universal In-context Learning Framework for Enhanced Segmentation in Medical Imaging**|Lingdong Shen et.al.|[2403.16578](http://arxiv.org/abs/2403.16578)|null|
 |**2024-03-27**|**LLMs Are Few-Shot In-Context Low-Resource Language Learners**|Samuel Cahyawijaya et.al.|[2403.16512](http://arxiv.org/abs/2403.16512)|null|
@@ -299,13 +299,13 @@
 |**2024-02-09**|**In-Context Principle Learning from Mistakes**|Tianjun Zhang et.al.|[2402.05403](http://arxiv.org/abs/2402.05403)|null|
 |**2024-02-07**|**InCoRo: In-Context Learning for Robotics Control with Feedback Loops**|Jiaqiang Ye Zhu et.al.|[2402.05188](http://arxiv.org/abs/2402.05188)|null|
 |**2024-02-07**|**L4Q: Parameter Efficient Quantization-Aware Training on Large Language Models via LoRA-wise LSQ**|Hyesung Jeon et.al.|[2402.04902](http://arxiv.org/abs/2402.04902)|null|
-|**2024-02-06**|**Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks**|Jongho Park et.al.|[2402.04248](http://arxiv.org/abs/2402.04248)|null|
+|**2024-02-06**|**Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks**|Jongho Park et.al.|[2402.04248](http://arxiv.org/abs/2402.04248)|**[link](https://github.com/krafton-ai/mambaformer-icl)**|
 |**2024-02-06**|**In-context learning agents are asymmetric belief updaters**|Johannes A. Schubert et.al.|[2402.03969](http://arxiv.org/abs/2402.03969)|null|
 |**2024-02-06**|**Rethinking Skill Extraction in the Job Market Domain using Large Language Models**|Khanh Cao Nguyen et.al.|[2402.03832](http://arxiv.org/abs/2402.03832)|null|
 |**2024-02-05**|**Enhancing the Stability of LLM-based Speech Generation Systems through Self-Supervised Representations**|Álvaro Martín-Cortinas et.al.|[2402.03407](http://arxiv.org/abs/2402.03407)|null|
 |**2024-02-05**|**The Matrix: A Bayesian learning model for LLMs**|Siddhartha Dalal et.al.|[2402.03175](http://arxiv.org/abs/2402.03175)|null|
 |**2024-02-05**|**Multi: Multimodal Understanding Leaderboard with Text and Images**|Zichen Zhu et.al.|[2402.03173](http://arxiv.org/abs/2402.03173)|null|
-|**2024-02-05**|**Is Mamba Capable of In-Context Learning?**|Riccardo Grazzi et.al.|[2402.03170](http://arxiv.org/abs/2402.03170)|null|
+|**2024-02-05**|**Is Mamba Capable of In-Context Learning?**|Riccardo Grazzi et.al.|[2402.03170](http://arxiv.org/abs/2402.03170)|**[link](https://github.com/automl/is_mamba_capable_of_icl)**|
 |**2024-02-05**|**Automatic Combination of Sample Selection Strategies for Few-Shot Learning**|Branislav Pecher et.al.|[2402.03038](http://arxiv.org/abs/2402.03038)|null|
 |**2024-02-05**|**How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning**|Zeping Yu et.al.|[2402.02872](http://arxiv.org/abs/2402.02872)|null|
 |**2024-02-04**|**Are Large Language Models Table-based Fact-Checkers?**|Hangwen Zhang et.al.|[2402.02549](http://arxiv.org/abs/2402.02549)|null|
@@ -323,7 +323,7 @@
 |**2024-02-01**|**Benefits of Transformer: In-Context Learning in Linear Regression Tasks with Unstructured Data**|Yue Xing et.al.|[2402.00743](http://arxiv.org/abs/2402.00743)|null|
 |**2024-02-01**|**Improving Weak-to-Strong Generalization with Scalable Oversight and Ensemble Learning**|Jitao Sang et.al.|[2402.00667](http://arxiv.org/abs/2402.00667)|**[link](https://github.com/adam-bjtu/w2sg)**|
 |**2024-01-31**|**Enhancing Large Language Model with Decomposed Reasoning for Emotion Cause Pair Extraction**|Jialiang Wu et.al.|[2401.17716](http://arxiv.org/abs/2401.17716)|null|
-|**2024-01-31**|**Assertion Detection Large Language Model In-context Learning LoRA Fine-tuning**|Yuelyu Ji et.al.|[2401.17602](http://arxiv.org/abs/2401.17602)|null|
+|**2024-01-31**|**Assertion Detection Large Language Model In-context Learning LoRA Fine-tuning**|Yuelyu Ji et.al.|[2401.17602](http://arxiv.org/abs/2401.17602)|**[link](https://github.com/joydajunspacecraft/assertion_llm)**|
 |**2024-01-30**|**Superiority of Multi-Head Attention in In-Context Linear Regression**|Yingqian Cui et.al.|[2401.17426](http://arxiv.org/abs/2401.17426)|null|
 |**2024-01-30**|**Customizing Language Model Responses with Contrastive In-Context Learning**|Xiang Gao et.al.|[2401.17390](http://arxiv.org/abs/2401.17390)|null|
 |**2024-01-29**|**ToPro: Token-Level Prompt Decomposition for Cross-Lingual Sequence Labeling Tasks**|Bolei Ma et.al.|[2401.16589](http://arxiv.org/abs/2401.16589)|**[link](https://github.com/boleima/topro)**|
@@ -421,7 +421,7 @@
 |**2024-04-19**|**Cross-Modal Adapter: Parameter-Efficient Transfer Learning Approach for Vision-Language Models**|Juncheng Yang et.al.|[2404.12588](http://arxiv.org/abs/2404.12588)|null|
 |**2024-04-18**|**V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning**|Hang Hua et.al.|[2404.12353](http://arxiv.org/abs/2404.12353)|null|
 |**2024-04-18**|**What does CLIP know about peeling a banana?**|Claudia Cuttano et.al.|[2404.12015](http://arxiv.org/abs/2404.12015)|null|
-|**2024-04-18**|**Progressive Multi-modal Conditional Prompt Tuning**|Xiaoyu Qiu et.al.|[2404.11864](http://arxiv.org/abs/2404.11864)|null|
+|**2024-04-18**|**Progressive Multi-modal Conditional Prompt Tuning**|Xiaoyu Qiu et.al.|[2404.11864](http://arxiv.org/abs/2404.11864)|**[link](https://github.com/qiuxiaoyu9954/prompt)**|
 |**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605](http://arxiv.org/abs/2404.11605)|**[link](https://github.com/shark0-0/vg4d)**|
 |**2024-04-17**|**A Progressive Framework of Vision-language Knowledge Distillation and Alignment for Multilingual Scene**|Wenbo Zhang et.al.|[2404.11249](http://arxiv.org/abs/2404.11249)|null|
 |**2024-04-17**|**Lightweight Unsupervised Federated Learning with Pretrained Vision Language Model**|Hao Yan et.al.|[2404.11046](http://arxiv.org/abs/2404.11046)|null|
@@ -484,7 +484,7 @@
 |**2024-04-02**|**Bi-LORA: A Vision-Language Approach for Synthetic Image Detection**|Mamadou Keita et.al.|[2404.01959](http://arxiv.org/abs/2404.01959)|null|
 |**2024-04-02**|**VLRM: Vision-Language Models act as Reward Models for Image Captioning**|Maksim Dzabraev et.al.|[2404.01911](http://arxiv.org/abs/2404.01911)|null|
 |**2024-04-01**|**OVFoodSeg: Elevating Open-Vocabulary Food Image Segmentation via Image-Informed Textual Representation**|Xiongwei Wu et.al.|[2404.01409](http://arxiv.org/abs/2404.01409)|null|
-|**2024-04-02**|**Open-Vocabulary Federated Learning with Multimodal Prototyping**|Huimin Zeng et.al.|[2404.01232](http://arxiv.org/abs/2404.01232)|null|
+|**2024-04-02**|**Open-Vocabulary Federated Learning with Multimodal Prototyping**|Huimin Zeng et.al.|[2404.01232](http://arxiv.org/abs/2404.01232)|**[link](https://github.com/huiminzeng/fed-mp)**|
 |**2024-04-01**|**Privacy Backdoors: Enhancing Membership Inference through Poisoning Pre-trained Models**|Yuxin Wen et.al.|[2404.01231](http://arxiv.org/abs/2404.01231)|null|
 |**2024-04-01**|**Vision-language models for decoding provider attention during neonatal resuscitation**|Felipe Parodi et.al.|[2404.01207](http://arxiv.org/abs/2404.01207)|null|
 |**2024-04-01**|**SyncMask: Synchronized Attentional Masking for Fashion-centric Vision-Language Pretraining**|Chull Hwan Song et.al.|[2404.01156](http://arxiv.org/abs/2404.01156)|null|
@@ -591,7 +591,7 @@
 |**2024-03-10**|**A streamlined Approach to Multimodal Few-Shot Class Incremental Learning for Fine-Grained Datasets**|Thang Doan et.al.|[2403.06295](http://arxiv.org/abs/2403.06295)|**[link](https://github.com/tldoan/clip-m3)**|
 |**2024-03-10**|**In-context Prompt Learning for Test-time Vision Recognition with Frozen Vision-language Model**|Junhui Yin et.al.|[2403.06126](http://arxiv.org/abs/2403.06126)|null|
 |**2024-03-11**|**DeepSeek-VL: Towards Real-World Vision-Language Understanding**|Haoyu Lu et.al.|[2403.05525](http://arxiv.org/abs/2403.05525)|**[link](https://github.com/deepseek-ai/deepseek-vl)**|
-|**2024-03-08**|**Exploring Robust Features for Few-Shot Object Detection in Satellite Imagery**|Xavier Bou et.al.|[2403.05381](http://arxiv.org/abs/2403.05381)|null|
+|**2024-03-08**|**Exploring Robust Features for Few-Shot Object Detection in Satellite Imagery**|Xavier Bou et.al.|[2403.05381](http://arxiv.org/abs/2403.05381)|**[link](https://github.com/xavibou/ovdsat)**|
 |**2024-03-08**|**VLM-PL: Advanced Pseudo Labeling approach Class Incremental Object Detection with Vision-Language Model**|Junsu Kim et.al.|[2403.05346](http://arxiv.org/abs/2403.05346)|null|
 |**2024-03-08**|**Debiasing Large Visual Language Models**|Yi-Fan Zhang et.al.|[2403.05262](http://arxiv.org/abs/2403.05262)|**[link](https://github.com/yfzhang114/llava-align)**|
 |**2024-03-08**|**CLIP-Gaze: Towards General Gaze Estimation via Visual-Linguistic Model**|Pengwei Yin et.al.|[2403.05124](http://arxiv.org/abs/2403.05124)|null|
@@ -635,7 +635,7 @@
 |**2024-02-24**|**Exploring Failure Cases in Multimodal Reasoning About Physical Dynamics**|Sadaf Ghaffari et.al.|[2402.15654](http://arxiv.org/abs/2402.15654)|null|
 |**2024-02-23**|**Selective "Selective Prediction": Reducing Unnecessary Abstention in Vision-Language Reasoning**|Tejas Srinivasan et.al.|[2402.15610](http://arxiv.org/abs/2402.15610)|null|
 |**2024-02-23**|**Representing Online Handwriting for Recognition in Large Vision-Language Models**|Anastasiia Fadeeva et.al.|[2402.15307](http://arxiv.org/abs/2402.15307)|null|
-|**2024-02-23**|**Seeing is Believing: Mitigating Hallucination in Large Vision-Language Models via CLIP-Guided Decoding**|Ailin Deng et.al.|[2402.15300](http://arxiv.org/abs/2402.15300)|null|
+|**2024-02-23**|**Seeing is Believing: Mitigating Hallucination in Large Vision-Language Models via CLIP-Guided Decoding**|Ailin Deng et.al.|[2402.15300](http://arxiv.org/abs/2402.15300)|**[link](https://github.com/d-ailin/clip-guided-decoding)**|
 |**2024-02-22**|**CLoVe: Encoding Compositional Language in Contrastive Vision-Language Models**|Santiago Castro et.al.|[2402.15021](http://arxiv.org/abs/2402.15021)|**[link](https://github.com/netflix/clove)**|
 |**2024-02-22**|**PALO: A Polyglot Large Multimodal Model for 5B People**|Muhammad Maaz et.al.|[2402.14818](http://arxiv.org/abs/2402.14818)|**[link](https://github.com/mbzuai-oryx/palo)**|
 |**2024-02-22**|**Uncertainty-Aware Evaluation for Vision-Language Models**|Vasily Kostumov et.al.|[2402.14418](http://arxiv.org/abs/2402.14418)|**[link](https://github.com/ensec-ai/vlm-uncertainty-bench)**|
@@ -666,7 +666,7 @@
 |**2024-02-15**|**On the Safety Concerns of Deploying LLMs/VLMs in Robotics: Highlighting the Risks and Vulnerabilities**|Xiyang Wu et.al.|[2402.10340](http://arxiv.org/abs/2402.10340)|null|
 |**2024-02-15**|**Mind the Modality Gap: Towards a Remote Sensing Vision-Language Model via Cross-modal Alignment**|Angelos Zavras et.al.|[2402.09816](http://arxiv.org/abs/2402.09816)|null|
 |**2024-02-16**|**MultiMedEval: A Benchmark and a Toolkit for Evaluating Medical Vision-Language Models**|Corentin Royer et.al.|[2402.09262](http://arxiv.org/abs/2402.09262)|**[link](https://github.com/corentin-ryr/multimedeval)**|
-|**2024-02-14**|**OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM**|Yutao Hu et.al.|[2402.09181](http://arxiv.org/abs/2402.09181)|null|
+|**2024-02-14**|**OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM**|Yutao Hu et.al.|[2402.09181](http://arxiv.org/abs/2402.09181)|**[link](https://github.com/opengvlab/multi-modality-arena)**|
 |**2024-02-14**|**Pretraining Vision-Language Model for Difference Visual Question Answering in Longitudinal Chest X-rays**|Yeongjae Cho et.al.|[2402.08966](http://arxiv.org/abs/2402.08966)|null|
 |**2024-02-14**|**Open-Vocabulary Segmentation with Unpaired Mask-Text Supervision**|Zhaoqing Wang et.al.|[2402.08960](http://arxiv.org/abs/2402.08960)|**[link](https://github.com/derrickwang005/uni-ovseg.pytorch)**|
 |**2024-02-13**|**Mitigating Object Hallucination in Large Vision-Language Models via Classifier-Free Guidance**|Linxi Zhao et.al.|[2402.08680](http://arxiv.org/abs/2402.08680)|null|
