@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**Spider: A Unified Framework for Context-dependent Concept Understanding**|Xiaoqi Zhao et.al.|[2405.01002](http://arxiv.org/abs/2405.01002)|**[link](https://github.com/xiaoqi-zhao-dlut/spider-unicdseg)**|
 |**2024-04-24**|**BotDGT: Dynamicity-aware Social Bot Detection with Dynamic Graph Transformers**|Buyun He et.al.|[2404.15070](http://arxiv.org/abs/2404.15070)|null|
 |**2024-04-18**|**An Overview of Electromagnetic Illusions: Empowering Smart Environments with Reconfigurable Metasurfaces**|Hamidreza Taghvaee et.al.|[2404.12089](http://arxiv.org/abs/2404.12089)|null|
 |**2024-04-18**|**Enhance Robustness of Language Models Against Variation Attack through Graph Integration**|Zi Xiong et.al.|[2404.12014](http://arxiv.org/abs/2404.12014)|null|
@@ -59,6 +60,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection**|Yanjing Yang et.al.|[2405.01202](http://arxiv.org/abs/2405.01202)|null|
+|**2024-05-02**|**"In-Context Learning" or: How I learned to stop worrying and love "Applied Information Retrieval"**|Andrew Parry et.al.|[2405.01116](http://arxiv.org/abs/2405.01116)|null|
+|**2024-05-01**|**Efficient and Responsible Adaptation of Large Language Models for Robust Top-k Recommendations**|Kirandeep Kaur et.al.|[2405.00824](http://arxiv.org/abs/2405.00824)|null|
 |**2024-04-30**|**Graphical Reasoning: LLM-based Semi-Open Relation Extraction**|Yicheng Tao et.al.|[2405.00216](http://arxiv.org/abs/2405.00216)|null|
 |**2024-04-30**|**In-Context Learning with Long-Context Models: An In-Depth Exploration**|Amanda Bertsch et.al.|[2405.00200](http://arxiv.org/abs/2405.00200)|null|
 |**2024-04-29**|**It's Difficult to be Neutral -- Human and LLM-based Sentiment Annotation of Patient Comments**|Petter Mæhlum et.al.|[2404.18832](http://arxiv.org/abs/2404.18832)|null|
@@ -394,6 +398,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**V-FLUTE: Visual Figurative Language Understanding with Textual Explanations**|Arkadiy Saakyan et.al.|[2405.01474](http://arxiv.org/abs/2405.01474)|null|
+|**2024-05-02**|**Understanding Retrieval-Augmented Task Adaptation for Vision-Language Models**|Yifei Ming et.al.|[2405.01468](http://arxiv.org/abs/2405.01468)|null|
+|**2024-05-02**|**MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors**|Yuan Tang et.al.|[2405.01413](http://arxiv.org/abs/2405.01413)|null|
+|**2024-05-02**|**Learning Object States from Actions via Large Language Models**|Masatoshi Tateno et.al.|[2405.01090](http://arxiv.org/abs/2405.01090)|null|
+|**2024-05-02**|**Few Shot Class Incremental Learning using Vision-Language models**|Anurag Kumar et.al.|[2405.01040](http://arxiv.org/abs/2405.01040)|null|
+|**2024-05-01**|**Beyond Human Vision: The Role of Large Vision Language Models in Microscope Image Analysis**|Prateek Verma et.al.|[2405.00876](http://arxiv.org/abs/2405.00876)|null|
+|**2024-05-01**|**CLIPArTT: Light-weight Adaptation of CLIP to New Domains at Test Time**|Gustavo Adolfo Vargas Hakim et.al.|[2405.00754](http://arxiv.org/abs/2405.00754)|null|
 |**2024-05-01**|**Exploring Self-Supervised Vision Transformers for Deepfake Detection: A Comparative Analysis**|Huy H. Nguyen et.al.|[2405.00355](http://arxiv.org/abs/2405.00355)|null|
 |**2024-04-30**|**GUing: A Mobile GUI Search Engine using a Vision-Language Model**|Jialiang Wei et.al.|[2405.00145](http://arxiv.org/abs/2405.00145)|**[link](https://github.com/jl-wei/guing)**|
 |**2024-04-30**|**MetaCoCo: A New Few-Shot Classification Benchmark with Spurious Correlation**|Min Zhang et.al.|[2404.19644](http://arxiv.org/abs/2404.19644)|null|
@@ -822,6 +833,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection**|Yanjing Yang et.al.|[2405.01202](http://arxiv.org/abs/2405.01202)|null|
+|**2024-05-02**|**"In-Context Learning" or: How I learned to stop worrying and love "Applied Information Retrieval"**|Andrew Parry et.al.|[2405.01116](http://arxiv.org/abs/2405.01116)|null|
+|**2024-05-01**|**Efficient and Responsible Adaptation of Large Language Models for Robust Top-k Recommendations**|Kirandeep Kaur et.al.|[2405.00824](http://arxiv.org/abs/2405.00824)|null|
 |**2024-04-30**|**Graphical Reasoning: LLM-based Semi-Open Relation Extraction**|Yicheng Tao et.al.|[2405.00216](http://arxiv.org/abs/2405.00216)|null|
 |**2024-04-30**|**In-Context Learning with Long-Context Models: An In-Depth Exploration**|Amanda Bertsch et.al.|[2405.00200](http://arxiv.org/abs/2405.00200)|null|
 |**2024-04-29**|**It's Difficult to be Neutral -- Human and LLM-based Sentiment Annotation of Patient Comments**|Petter Mæhlum et.al.|[2404.18832](http://arxiv.org/abs/2404.18832)|null|
