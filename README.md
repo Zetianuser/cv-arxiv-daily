@@ -70,6 +70,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**ChatHuman: Language-driven 3D Human Understanding with Retrieval-Augmented Tool Reasoning**|Jing Lin et.al.|[2405.04533](http://arxiv.org/abs/2405.04533)|null|
+|**2024-05-07**|**In-context Learning for Automated Driving Scenarios**|Ziqi Zhou et.al.|[2405.04135](http://arxiv.org/abs/2405.04135)|null|
+|**2024-05-07**|**Locally Differentially Private In-Context Learning**|Chunyan Zheng et.al.|[2405.04032](http://arxiv.org/abs/2405.04032)|null|
+|**2024-05-06**|**OmniActions: Predicting Digital Actions in Response to Real-World Multimodal Sensory Inputs with LLMs**|Jiahao Nick Li et.al.|[2405.03901](http://arxiv.org/abs/2405.03901)|null|
 |**2024-05-06**|**Are Human Rules Necessary? Generating Reusable APIs with CoT Reasoning and In-Context Learning**|Yubo Mai et.al.|[2405.03509](http://arxiv.org/abs/2405.03509)|null|
 |**2024-05-06**|**OMP-Engineer: Bridging Syntax Analysis and In-Context Learning for Efficient Automated OpenMP Parallelization**|Weidong Wang et.al.|[2405.03215](http://arxiv.org/abs/2405.03215)|null|
 |**2024-05-04**|**CoE-SQL: In-Context Learning for Multi-Turn Text-to-SQL with Chain-of-Editions**|Hanchong Zhang et.al.|[2405.02712](http://arxiv.org/abs/2405.02712)|null|
@@ -421,6 +425,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Unveiling Disparities in Web Task Handling Between Human and Web Agent**|Kihoon Son et.al.|[2405.04497](http://arxiv.org/abs/2405.04497)|null|
+|**2024-05-07**|**Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks**|Georgios Pantazopoulos et.al.|[2405.04403](http://arxiv.org/abs/2405.04403)|**[link](https://github.com/gpantaz/vl_jailbreak)**|
+|**2024-05-06**|**VSA4VQA: Scaling a Vector Symbolic Architecture to Visual Question Answering on Natural Images**|Anna Penzkofer et.al.|[2405.03852](http://arxiv.org/abs/2405.03852)|null|
 |**2024-05-06**|**Knowledge-aware Text-Image Retrieval for Remote Sensing Images**|Li Mi et.al.|[2405.03373](http://arxiv.org/abs/2405.03373)|null|
 |**2024-05-06**|**Adapting Dual-encoder Vision-language Models for Paraphrased Retrieval**|Jiacheng Cheng et.al.|[2405.03190](http://arxiv.org/abs/2405.03190)|null|
 |**2024-05-05**|**Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training**|Wenyu Zhang et.al.|[2405.02954](http://arxiv.org/abs/2405.02954)|null|
@@ -869,6 +876,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**ChatHuman: Language-driven 3D Human Understanding with Retrieval-Augmented Tool Reasoning**|Jing Lin et.al.|[2405.04533](http://arxiv.org/abs/2405.04533)|null|
+|**2024-05-07**|**In-context Learning for Automated Driving Scenarios**|Ziqi Zhou et.al.|[2405.04135](http://arxiv.org/abs/2405.04135)|null|
+|**2024-05-07**|**Locally Differentially Private In-Context Learning**|Chunyan Zheng et.al.|[2405.04032](http://arxiv.org/abs/2405.04032)|null|
+|**2024-05-06**|**OmniActions: Predicting Digital Actions in Response to Real-World Multimodal Sensory Inputs with LLMs**|Jiahao Nick Li et.al.|[2405.03901](http://arxiv.org/abs/2405.03901)|null|
 |**2024-05-06**|**Are Human Rules Necessary? Generating Reusable APIs with CoT Reasoning and In-Context Learning**|Yubo Mai et.al.|[2405.03509](http://arxiv.org/abs/2405.03509)|null|
 |**2024-05-06**|**OMP-Engineer: Bridging Syntax Analysis and In-Context Learning for Efficient Automated OpenMP Parallelization**|Weidong Wang et.al.|[2405.03215](http://arxiv.org/abs/2405.03215)|null|
 |**2024-05-04**|**CoE-SQL: In-Context Learning for Multi-Turn Text-to-SQL with Chain-of-Editions**|Hanchong Zhang et.al.|[2405.02712](http://arxiv.org/abs/2405.02712)|null|
