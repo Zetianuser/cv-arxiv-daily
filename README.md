@@ -474,7 +474,7 @@
 |**2024-05-06**|**Adapting Dual-encoder Vision-language Models for Paraphrased Retrieval**|Jiacheng Cheng et.al.|[2405.03190](http://arxiv.org/abs/2405.03190)|null|
 |**2024-05-05**|**Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training**|Wenyu Zhang et.al.|[2405.02954](http://arxiv.org/abs/2405.02954)|null|
 |**2024-05-05**|**Overconfidence is Key: Verbalized Uncertainty Evaluation in Large Language and Vision-Language Models**|Tobias Groot et.al.|[2405.02917](http://arxiv.org/abs/2405.02917)|null|
-|**2024-05-05**|**Octopi: Object Property Reasoning with Large Tactile-Language Models**|Samson Yu et.al.|[2405.02794](http://arxiv.org/abs/2405.02794)|null|
+|**2024-05-05**|**Octopi: Object Property Reasoning with Large Tactile-Language Models**|Samson Yu et.al.|[2405.02794](http://arxiv.org/abs/2405.02794)|**[link](https://github.com/clear-nus/octopi)**|
 |**2024-05-05**|**ImageInWords: Unlocking Hyper-Detailed Image Descriptions**|Roopal Garg et.al.|[2405.02793](http://arxiv.org/abs/2405.02793)|**[link](https://github.com/google/imageinwords)**|
 |**2024-05-03**|**On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?**|Maxime Zanella et.al.|[2405.02266](http://arxiv.org/abs/2405.02266)|**[link](https://github.com/maxzanella/mta)**|
 |**2024-05-03**|**What matters when building vision-language models?**|Hugo Laurençon et.al.|[2405.02246](http://arxiv.org/abs/2405.02246)|null|
