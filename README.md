@@ -72,6 +72,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|null|
+|**2024-05-20**|**Asymptotic theory of in-context learning by linear attention**|Yue M. Lu et.al.|[2405.11751](http://arxiv.org/abs/2405.11751)|null|
+|**2024-05-19**|**Effective In-Context Example Selection through Data Compression**|Zhongxiang Sun et.al.|[2405.11465](http://arxiv.org/abs/2405.11465)|null|
+|**2024-05-19**|**MAML-en-LLM: Model Agnostic Meta-Training of LLMs for Improved In-Context Learning**|Sanchit Sinha et.al.|[2405.11446](http://arxiv.org/abs/2405.11446)|null|
+|**2024-05-19**|**Large Language Models are Biased Reinforcement Learners**|William M. Hayes et.al.|[2405.11422](http://arxiv.org/abs/2405.11422)|**[link](https://github.com/william-hayes/llms-biased-rl)**|
+|**2024-05-18**|**Natural Is The Best: Model-Agnostic Code Simplification for Pre-trained Large Language Models**|Yan Wang et.al.|[2405.11196](http://arxiv.org/abs/2405.11196)|null|
+|**2024-05-17**|**Large Language Models in Wireless Application Design: In-Context Learning-enhanced Automatic Network Intrusion Detection**|Han Zhang et.al.|[2405.11002](http://arxiv.org/abs/2405.11002)|null|
 |**2024-05-17**|**Feature-Adaptive and Data-Scalable In-Context Learning**|Jiahao Li et.al.|[2405.10738](http://arxiv.org/abs/2405.10738)|**[link](https://github.com/jiahaozhenbang/fads-icl)**|
 |**2024-05-20**|**Language Models can Exploit Cross-Task In-context Learning for Data-Scarce Novel Tasks**|Anwoy Chatterjee et.al.|[2405.10548](http://arxiv.org/abs/2405.10548)|null|
 |**2024-05-17**|**In-context Contrastive Learning for Event Causality Identification**|Chao Liang et.al.|[2405.10512](http://arxiv.org/abs/2405.10512)|null|
@@ -449,6 +456,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Rethinking Overlooked Aspects in Vision-Language Models**|Yuan Liu et.al.|[2405.11850](http://arxiv.org/abs/2405.11850)|null|
+|**2024-05-19**|**Searching Realistic-Looking Adversarial Objects For Autonomous Driving Systems**|Shengxiang Sun et.al.|[2405.11629](http://arxiv.org/abs/2405.11629)|null|
+|**2024-05-18**|**MediCLIP: Adapting CLIP for Few-shot Medical Image Anomaly Detection**|Ximiao Zhang et.al.|[2405.11315](http://arxiv.org/abs/2405.11315)|**[link](https://github.com/cnulab/mediclip)**|
+|**2024-05-18**|**Enhancing Fine-Grained Image Classifications via Cascaded Vision Language Models**|Canshi Wei et.al.|[2405.11301](http://arxiv.org/abs/2405.11301)|null|
+|**2024-05-18**|**Revisiting the Robust Generalization of Adversarial Prompt Tuning**|Fan Yang et.al.|[2405.11154](http://arxiv.org/abs/2405.11154)|null|
+|**2024-05-18**|**Detecting Multimodal Situations with Insufficient Context and Abstaining from Baseless Predictions**|Junzhang Liu et.al.|[2405.11145](http://arxiv.org/abs/2405.11145)|null|
 |**2024-05-17**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 |**2024-05-16**|**Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**|Yu Gui et.al.|[2405.10301](http://arxiv.org/abs/2405.10301)|null|
 |**2024-05-17**|**Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**|Yuexiang Zhai et.al.|[2405.10292](http://arxiv.org/abs/2405.10292)|null|
@@ -923,6 +936,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|null|
+|**2024-05-20**|**Asymptotic theory of in-context learning by linear attention**|Yue M. Lu et.al.|[2405.11751](http://arxiv.org/abs/2405.11751)|null|
+|**2024-05-19**|**Effective In-Context Example Selection through Data Compression**|Zhongxiang Sun et.al.|[2405.11465](http://arxiv.org/abs/2405.11465)|null|
+|**2024-05-19**|**MAML-en-LLM: Model Agnostic Meta-Training of LLMs for Improved In-Context Learning**|Sanchit Sinha et.al.|[2405.11446](http://arxiv.org/abs/2405.11446)|null|
+|**2024-05-19**|**Large Language Models are Biased Reinforcement Learners**|William M. Hayes et.al.|[2405.11422](http://arxiv.org/abs/2405.11422)|**[link](https://github.com/william-hayes/llms-biased-rl)**|
+|**2024-05-18**|**Natural Is The Best: Model-Agnostic Code Simplification for Pre-trained Large Language Models**|Yan Wang et.al.|[2405.11196](http://arxiv.org/abs/2405.11196)|null|
+|**2024-05-17**|**Large Language Models in Wireless Application Design: In-Context Learning-enhanced Automatic Network Intrusion Detection**|Han Zhang et.al.|[2405.11002](http://arxiv.org/abs/2405.11002)|null|
 |**2024-05-17**|**Feature-Adaptive and Data-Scalable In-Context Learning**|Jiahao Li et.al.|[2405.10738](http://arxiv.org/abs/2405.10738)|**[link](https://github.com/jiahaozhenbang/fads-icl)**|
 |**2024-05-20**|**Language Models can Exploit Cross-Task In-context Learning for Data-Scarce Novel Tasks**|Anwoy Chatterjee et.al.|[2405.10548](http://arxiv.org/abs/2405.10548)|null|
 |**2024-05-17**|**In-context Contrastive Learning for Event Causality Identification**|Chao Liang et.al.|[2405.10512](http://arxiv.org/abs/2405.10512)|null|
