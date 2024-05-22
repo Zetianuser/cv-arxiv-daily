@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.21
+## Updated on 2024.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -63,8 +63,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|null|
-|**2024-05-20**|**Asymptotic theory of in-context learning by linear attention**|Yue M. Lu et.al.|[2405.11751](http://arxiv.org/abs/2405.11751)|null|
+|**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|**[link](https://github.com/jameszhou-gl/icl-distribution-shift)**|
+|**2024-05-20**|**Asymptotic theory of in-context learning by linear attention**|Yue M. Lu et.al.|[2405.11751](http://arxiv.org/abs/2405.11751)|**[link](https://github.com/Pehlevan-Group/icl-asymptotic)**|
 |**2024-05-19**|**Effective In-Context Example Selection through Data Compression**|Zhongxiang Sun et.al.|[2405.11465](http://arxiv.org/abs/2405.11465)|null|
 |**2024-05-19**|**MAML-en-LLM: Model Agnostic Meta-Training of LLMs for Improved In-Context Learning**|Sanchit Sinha et.al.|[2405.11446](http://arxiv.org/abs/2405.11446)|null|
 |**2024-05-19**|**Large Language Models are Biased Reinforcement Learners**|William M. Hayes et.al.|[2405.11422](http://arxiv.org/abs/2405.11422)|**[link](https://github.com/william-hayes/llms-biased-rl)**|
@@ -921,8 +921,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|null|
-|**2024-05-20**|**Asymptotic theory of in-context learning by linear attention**|Yue M. Lu et.al.|[2405.11751](http://arxiv.org/abs/2405.11751)|null|
+|**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|**[link](https://github.com/jameszhou-gl/icl-distribution-shift)**|
+|**2024-05-20**|**Asymptotic theory of in-context learning by linear attention**|Yue M. Lu et.al.|[2405.11751](http://arxiv.org/abs/2405.11751)|**[link](https://github.com/Pehlevan-Group/icl-asymptotic)**|
 |**2024-05-19**|**Effective In-Context Example Selection through Data Compression**|Zhongxiang Sun et.al.|[2405.11465](http://arxiv.org/abs/2405.11465)|null|
 |**2024-05-19**|**MAML-en-LLM: Model Agnostic Meta-Training of LLMs for Improved In-Context Learning**|Sanchit Sinha et.al.|[2405.11446](http://arxiv.org/abs/2405.11446)|null|
 |**2024-05-19**|**Large Language Models are Biased Reinforcement Learners**|William M. Hayes et.al.|[2405.11422](http://arxiv.org/abs/2405.11422)|**[link](https://github.com/william-hayes/llms-biased-rl)**|
