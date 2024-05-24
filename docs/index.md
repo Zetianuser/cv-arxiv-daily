@@ -63,6 +63,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Evaluating Large Language Models for Public Health Classification and Extraction Tasks**|Joshua Harris et.al.|[2405.14766](http://arxiv.org/abs/2405.14766)|null|
+|**2024-05-23**|**Implicit In-context Learning**|Zhuowei Li et.al.|[2405.14660](http://arxiv.org/abs/2405.14660)|null|
+|**2024-05-23**|**Emotion Identification for French in Written Texts: Considering their Modes of Expression as a Step Towards Text Complexity Analysis**|Aline Étienne et.al.|[2405.14385](http://arxiv.org/abs/2405.14385)|null|
+|**2024-05-23**|**Let's Fuse Step by Step: A Generative Fusion Decoding Algorithm with LLMs for Multi-modal Text Recognition**|Chan-Jan Hsu et.al.|[2405.14259](http://arxiv.org/abs/2405.14259)|null|
+|**2024-05-22**|**Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning**|Jiuqi Wang et.al.|[2405.13861](http://arxiv.org/abs/2405.13861)|null|
+|**2024-05-22**|**Why In-Context Learning Transformers are Tabular Data Classifiers**|Felix den Breejen et.al.|[2405.13396](http://arxiv.org/abs/2405.13396)|**[link](https://github.com/felixdenbreejen/tabforestpfn)**|
+|**2024-05-21**|**Comparative Analysis of Different Efficient Fine Tuning Methods of Large Language Models (LLMs) in Low-Resource Setting**|Krishna Prasad Varadarajan Srinivasan et.al.|[2405.13181](http://arxiv.org/abs/2405.13181)|null|
 |**2024-05-21**|**Quantifying Emergence in Large Language Models**|Hang Chen et.al.|[2405.12617](http://arxiv.org/abs/2405.12617)|**[link](https://github.com/zodiark-ch/emergence-of-llms)**|
 |**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|**[link](https://github.com/jameszhou-gl/icl-distribution-shift)**|
 |**2024-05-20**|**Asymptotic theory of in-context learning by linear attention**|Yue M. Lu et.al.|[2405.11751](http://arxiv.org/abs/2405.11751)|**[link](https://github.com/Pehlevan-Group/icl-asymptotic)**|
@@ -446,6 +453,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**PuzzleAvatar: Assembling 3D Avatars from Personal Albums**|Yuliang Xiu et.al.|[2405.14869](http://arxiv.org/abs/2405.14869)|null|
+|**2024-05-23**|**Designing A Sustainable Marine Debris Clean-up Framework without Human Labels**|Raymond Wang et.al.|[2405.14815](http://arxiv.org/abs/2405.14815)|null|
+|**2024-05-23**|**Towards Cross-modal Backward-compatible Representation Learning for Vision-Language Models**|Young Kyun Jang et.al.|[2405.14715](http://arxiv.org/abs/2405.14715)|null|
+|**2024-05-23**|**Calibrated Self-Rewarding Vision Language Models**|Yiyang Zhou et.al.|[2405.14622](http://arxiv.org/abs/2405.14622)|null|
+|**2024-05-23**|**UDKAG: Augmenting Large Vision-Language Models with Up-to-Date Knowledge**|Chuanhao Li et.al.|[2405.14554](http://arxiv.org/abs/2405.14554)|null|
+|**2024-05-23**|**AnomalyDINO: Boosting Patch-based Few-shot Anomaly Detection with DINOv2**|Simon Damm et.al.|[2405.14529](http://arxiv.org/abs/2405.14529)|null|
+|**2024-05-23**|**Boosting Medical Image-based Cancer Detection via Text-guided Supervision from Reports**|Guangyu Guo et.al.|[2405.14230](http://arxiv.org/abs/2405.14230)|null|
+|**2024-05-23**|**Unveiling the Tapestry of Consistency in Large Vision-Language Models**|Yuan Zhang et.al.|[2405.14156](http://arxiv.org/abs/2405.14156)|null|
+|**2024-05-23**|**Imagery as Inquiry: Exploring A Multimodal Dataset for Conversational Recommendation**|Se-eun Yoon et.al.|[2405.14142](http://arxiv.org/abs/2405.14142)|null|
+|**2024-05-22**|**Refining Skewed Perceptions in Vision-Language Models through Visual Representations**|Haocheng Dai et.al.|[2405.14030](http://arxiv.org/abs/2405.14030)|null|
 |**2024-05-21**|**C3L: Content Correlated Vision-Language Instruction Tuning Data Generation via Contrastive Learning**|Ji Ma et.al.|[2405.12752](http://arxiv.org/abs/2405.12752)|null|
 |**2024-05-21**|**EmoEdit: Evoking Emotions through Image Manipulation**|Jingyuan Yang et.al.|[2405.12661](http://arxiv.org/abs/2405.12661)|null|
 |**2024-05-22**|**Mammo-CLIP: A Vision Language Foundation Model to Enhance Data Efficiency and Robustness in Mammography**|Shantanu Ghosh et.al.|[2405.12255](http://arxiv.org/abs/2405.12255)|**[link](https://github.com/batmanlab/mammo-clip)**|
@@ -925,6 +942,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Evaluating Large Language Models for Public Health Classification and Extraction Tasks**|Joshua Harris et.al.|[2405.14766](http://arxiv.org/abs/2405.14766)|null|
+|**2024-05-23**|**Implicit In-context Learning**|Zhuowei Li et.al.|[2405.14660](http://arxiv.org/abs/2405.14660)|null|
+|**2024-05-23**|**Emotion Identification for French in Written Texts: Considering their Modes of Expression as a Step Towards Text Complexity Analysis**|Aline Étienne et.al.|[2405.14385](http://arxiv.org/abs/2405.14385)|null|
+|**2024-05-23**|**Let's Fuse Step by Step: A Generative Fusion Decoding Algorithm with LLMs for Multi-modal Text Recognition**|Chan-Jan Hsu et.al.|[2405.14259](http://arxiv.org/abs/2405.14259)|null|
+|**2024-05-22**|**Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning**|Jiuqi Wang et.al.|[2405.13861](http://arxiv.org/abs/2405.13861)|null|
+|**2024-05-22**|**Why In-Context Learning Transformers are Tabular Data Classifiers**|Felix den Breejen et.al.|[2405.13396](http://arxiv.org/abs/2405.13396)|**[link](https://github.com/felixdenbreejen/tabforestpfn)**|
+|**2024-05-21**|**Comparative Analysis of Different Efficient Fine Tuning Methods of Large Language Models (LLMs) in Low-Resource Setting**|Krishna Prasad Varadarajan Srinivasan et.al.|[2405.13181](http://arxiv.org/abs/2405.13181)|null|
 |**2024-05-21**|**Quantifying Emergence in Large Language Models**|Hang Chen et.al.|[2405.12617](http://arxiv.org/abs/2405.12617)|**[link](https://github.com/zodiark-ch/emergence-of-llms)**|
 |**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|**[link](https://github.com/jameszhou-gl/icl-distribution-shift)**|
 |**2024-05-20**|**Asymptotic theory of in-context learning by linear attention**|Yue M. Lu et.al.|[2405.11751](http://arxiv.org/abs/2405.11751)|**[link](https://github.com/Pehlevan-Group/icl-asymptotic)**|
