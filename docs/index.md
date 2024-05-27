@@ -63,6 +63,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**MLPs Learn In-Context**|William L. Tong et.al.|[2405.15618](http://arxiv.org/abs/2405.15618)|null|
+|**2024-05-24**|**Synergizing In-context Learning with Hints for End-to-end Task-oriented Dialog Systems**|Vishal Vivek Saley et.al.|[2405.15585](http://arxiv.org/abs/2405.15585)|null|
+|**2024-05-24**|**Learning Beyond Pattern Matching? Assaying Mathematical Understanding in LLMs**|Siyuan Guo et.al.|[2405.15485](http://arxiv.org/abs/2405.15485)|null|
+|**2024-05-24**|**Before Generation, Align it! A Novel and Effective Strategy for Mitigating Hallucinations in Text-to-SQL Generation**|Ge Qu et.al.|[2405.15307](http://arxiv.org/abs/2405.15307)|null|
+|**2024-05-24**|**Towards Global Optimal Visual In-Context Learning Prompt Selection**|Chengming Xu et.al.|[2405.15279](http://arxiv.org/abs/2405.15279)|null|
+|**2024-05-24**|**Off-the-shelf ChatGPT is a Good Few-shot Human Motion Predictor**|Haoxuan Qu et.al.|[2405.15267](http://arxiv.org/abs/2405.15267)|null|
+|**2024-05-24**|**Towards Better Understanding of In-Context Learning Ability from In-Context Uncertainty Quantification**|Shang Liu et.al.|[2405.15115](http://arxiv.org/abs/2405.15115)|null|
+|**2024-05-23**|**Linking In-context Learning in Transformers to Human Episodic Memory**|Li Ji-An et.al.|[2405.14992](http://arxiv.org/abs/2405.14992)|null|
+|**2024-05-23**|**In-context Time Series Predictor**|Jiecheng Lu et.al.|[2405.14982](http://arxiv.org/abs/2405.14982)|null|
 |**2024-05-23**|**Evaluating Large Language Models for Public Health Classification and Extraction Tasks**|Joshua Harris et.al.|[2405.14766](http://arxiv.org/abs/2405.14766)|null|
 |**2024-05-23**|**Implicit In-context Learning**|Zhuowei Li et.al.|[2405.14660](http://arxiv.org/abs/2405.14660)|null|
 |**2024-05-23**|**Emotion Identification for French in Written Texts: Considering their Modes of Expression as a Step Towards Text Complexity Analysis**|Aline Étienne et.al.|[2405.14385](http://arxiv.org/abs/2405.14385)|null|
@@ -453,6 +462,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Disease-informed Adaptation of Vision-Language Models**|Jiajin Zhang et.al.|[2405.15728](http://arxiv.org/abs/2405.15728)|**[link](https://github.com/rpidial/disease-informed-vlm-adaptation)**|
+|**2024-05-24**|**VDGD: Mitigating LVLM Hallucinations in Cognitive Prompts by Bridging the Visual Perception Gap**|Sreyan Ghosh et.al.|[2405.15683](http://arxiv.org/abs/2405.15683)|null|
+|**2024-05-24**|**Composed Image Retrieval for Remote Sensing**|Bill Psomas et.al.|[2405.15587](http://arxiv.org/abs/2405.15587)|null|
+|**2024-05-24**|**Open-Vocabulary SAM3D: Understand Any 3D Scene**|Hanchen Tai et.al.|[2405.15580](http://arxiv.org/abs/2405.15580)|null|
+|**2024-05-24**|**Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization**|Beitao Chen et.al.|[2405.15356](http://arxiv.org/abs/2405.15356)|null|
+|**2024-05-24**|**Learning Invariant Causal Mechanism from Vision-Language Models**|Zeen Song et.al.|[2405.15289](http://arxiv.org/abs/2405.15289)|null|
+|**2024-05-24**|**Learning from True-False Labels via Multi-modal Prompt Retrieving**|Zhongnian Li et.al.|[2405.15228](http://arxiv.org/abs/2405.15228)|**[link](https://github.com/tranquilxu/tmp)**|
+|**2024-05-24**|**CLIP model is an Efficient Online Lifelong Learner**|Leyuan Wang et.al.|[2405.15155](http://arxiv.org/abs/2405.15155)|null|
+|**2024-05-23**|**Agentic Skill Discovery**|Xufeng Zhao et.al.|[2405.15019](http://arxiv.org/abs/2405.15019)|null|
+|**2024-05-23**|**A Lost Opportunity for Vision-Language Models: A Comparative Study of Online Test-time Adaptation for Vision-Language Models**|Mario Döbler et.al.|[2405.14977](http://arxiv.org/abs/2405.14977)|**[link](https://github.com/mariodoebler/test-time-adaptation)**|
 |**2024-05-23**|**PuzzleAvatar: Assembling 3D Avatars from Personal Albums**|Yuliang Xiu et.al.|[2405.14869](http://arxiv.org/abs/2405.14869)|null|
 |**2024-05-23**|**Designing A Sustainable Marine Debris Clean-up Framework without Human Labels**|Raymond Wang et.al.|[2405.14815](http://arxiv.org/abs/2405.14815)|null|
 |**2024-05-23**|**Towards Cross-modal Backward-compatible Representation Learning for Vision-Language Models**|Young Kyun Jang et.al.|[2405.14715](http://arxiv.org/abs/2405.14715)|null|
@@ -942,6 +961,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**MLPs Learn In-Context**|William L. Tong et.al.|[2405.15618](http://arxiv.org/abs/2405.15618)|null|
+|**2024-05-24**|**Synergizing In-context Learning with Hints for End-to-end Task-oriented Dialog Systems**|Vishal Vivek Saley et.al.|[2405.15585](http://arxiv.org/abs/2405.15585)|null|
+|**2024-05-24**|**Learning Beyond Pattern Matching? Assaying Mathematical Understanding in LLMs**|Siyuan Guo et.al.|[2405.15485](http://arxiv.org/abs/2405.15485)|null|
+|**2024-05-24**|**Before Generation, Align it! A Novel and Effective Strategy for Mitigating Hallucinations in Text-to-SQL Generation**|Ge Qu et.al.|[2405.15307](http://arxiv.org/abs/2405.15307)|null|
+|**2024-05-24**|**Towards Global Optimal Visual In-Context Learning Prompt Selection**|Chengming Xu et.al.|[2405.15279](http://arxiv.org/abs/2405.15279)|null|
+|**2024-05-24**|**Off-the-shelf ChatGPT is a Good Few-shot Human Motion Predictor**|Haoxuan Qu et.al.|[2405.15267](http://arxiv.org/abs/2405.15267)|null|
+|**2024-05-24**|**Towards Better Understanding of In-Context Learning Ability from In-Context Uncertainty Quantification**|Shang Liu et.al.|[2405.15115](http://arxiv.org/abs/2405.15115)|null|
+|**2024-05-23**|**Linking In-context Learning in Transformers to Human Episodic Memory**|Li Ji-An et.al.|[2405.14992](http://arxiv.org/abs/2405.14992)|null|
+|**2024-05-23**|**In-context Time Series Predictor**|Jiecheng Lu et.al.|[2405.14982](http://arxiv.org/abs/2405.14982)|null|
 |**2024-05-23**|**Evaluating Large Language Models for Public Health Classification and Extraction Tasks**|Joshua Harris et.al.|[2405.14766](http://arxiv.org/abs/2405.14766)|null|
 |**2024-05-23**|**Implicit In-context Learning**|Zhuowei Li et.al.|[2405.14660](http://arxiv.org/abs/2405.14660)|null|
 |**2024-05-23**|**Emotion Identification for French in Written Texts: Considering their Modes of Expression as a Step Towards Text Complexity Analysis**|Aline Étienne et.al.|[2405.14385](http://arxiv.org/abs/2405.14385)|null|
