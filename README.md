@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-25**|**GreenCOD: A Green Camouflaged Object Detection Method**|Hong-Shuo Chen et.al.|[2405.16144](http://arxiv.org/abs/2405.16144)|null|
 |**2024-05-09**|**Depth Awakens: A Depth-perceptual Attention Fusion Network for RGB-D Camouflaged Object Detection**|Xinran Liua et.al.|[2405.05614](http://arxiv.org/abs/2405.05614)|null|
 |**2024-05-10**|**Honeyfile Camouflage: Hiding Fake Files in Plain Sight**|Roelien C. Timmer et.al.|[2405.04758](http://arxiv.org/abs/2405.04758)|null|
 |**2024-05-07**|**Adaptive Guidance Learning for Camouflaged Object Detection**|Zhennan Chen et.al.|[2405.02824](http://arxiv.org/abs/2405.02824)|null|
@@ -72,6 +73,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**On the Noise Robustness of In-Context Learning for Text Generation**|Hongfu Gao et.al.|[2405.17264](http://arxiv.org/abs/2405.17264)|null|
+|**2024-05-27**|**Transformer In-Context Learning for Categorical Data**|Aaron T. Wang et.al.|[2405.17248](http://arxiv.org/abs/2405.17248)|null|
+|**2024-05-27**|**Benchmarking General Purpose In-Context Learning**|Fan Wang et.al.|[2405.17234](http://arxiv.org/abs/2405.17234)|null|
+|**2024-05-27**|**Unifying Demonstration Selection and Compression for In-Context Learning**|Jun Gao et.al.|[2405.17062](http://arxiv.org/abs/2405.17062)|null|
+|**2024-05-27**|**SelfCP: Compressing Long Prompt to 1/12 Using the Frozen Large Language Model Itself**|Jun Gao et.al.|[2405.17052](http://arxiv.org/abs/2405.17052)|null|
+|**2024-05-27**|**On Mesa-Optimization in Autoregressively Trained Transformers: Emergence and Capability**|Chenyu Zheng et.al.|[2405.16845](http://arxiv.org/abs/2405.16845)|null|
+|**2024-05-27**|**Automatic Domain Adaptation by Transformers in In-Context Learning**|Ryuichiro Hataya et.al.|[2405.16819](http://arxiv.org/abs/2405.16819)|null|
+|**2024-05-27**|**ARC: A Generalist Graph Anomaly Detector with In-Context Learning**|Yixin Liu et.al.|[2405.16771](http://arxiv.org/abs/2405.16771)|null|
+|**2024-05-25**|**Learning to Reason via Program Generation, Emulation, and Search**|Nathaniel Weir et.al.|[2405.16337](http://arxiv.org/abs/2405.16337)|**[link](https://github.com/nweir127/cogex)**|
+|**2024-05-25**|**Mixture of In-Context Prompters for Tabular PFNs**|Derek Xu et.al.|[2405.16156](http://arxiv.org/abs/2405.16156)|null|
 |**2024-05-24**|**MLPs Learn In-Context**|William L. Tong et.al.|[2405.15618](http://arxiv.org/abs/2405.15618)|null|
 |**2024-05-24**|**Synergizing In-context Learning with Hints for End-to-end Task-oriented Dialog Systems**|Vishal Vivek Saley et.al.|[2405.15585](http://arxiv.org/abs/2405.15585)|null|
 |**2024-05-24**|**Learning Beyond Pattern Matching? Assaying Mathematical Understanding in LLMs**|Siyuan Guo et.al.|[2405.15485](http://arxiv.org/abs/2405.15485)|null|
@@ -473,6 +484,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**An Introduction to Vision-Language Modeling**|Florian Bordes et.al.|[2405.17247](http://arxiv.org/abs/2405.17247)|null|
+|**2024-05-27**|**Diagnosing the Compositional Knowledge of Vision Language Models from a Game-Theoretic View**|Jin Wang et.al.|[2405.17201](http://arxiv.org/abs/2405.17201)|null|
+|**2024-05-27**|**Think Before You Act: A Two-Stage Framework for Mitigating Gender Bias Towards Vision-Language Tasks**|Yunqi Zhang et.al.|[2405.16860](http://arxiv.org/abs/2405.16860)|**[link](https://github.com/zyq0000/gama)**|
+|**2024-05-27**|**PromptFix: You Prompt and We Fix the Photo**|Yongsheng Yu et.al.|[2405.16785](http://arxiv.org/abs/2405.16785)|null|
+|**2024-05-25**|**Vision Language Models for Spreadsheet Understanding: Challenges and Opportunities**|Shiyu Xia et.al.|[2405.16234](http://arxiv.org/abs/2405.16234)|null|
+|**2024-05-25**|**Enhancing Near OOD Detection in Prompt Learning: Maximum Gains, Minimal Costs**|Myong Chol Jung et.al.|[2405.16091](http://arxiv.org/abs/2405.16091)|null|
+|**2024-05-24**|**Enhancing Visual-Language Modality Alignment in Large Vision Language Models via Self-Improvement**|Xiyao Wang et.al.|[2405.15973](http://arxiv.org/abs/2405.15973)|null|
 |**2024-05-24**|**Disease-informed Adaptation of Vision-Language Models**|Jiajin Zhang et.al.|[2405.15728](http://arxiv.org/abs/2405.15728)|**[link](https://github.com/rpidial/disease-informed-vlm-adaptation)**|
 |**2024-05-24**|**VDGD: Mitigating LVLM Hallucinations in Cognitive Prompts by Bridging the Visual Perception Gap**|Sreyan Ghosh et.al.|[2405.15683](http://arxiv.org/abs/2405.15683)|null|
 |**2024-05-24**|**Composed Image Retrieval for Remote Sensing**|Bill Psomas et.al.|[2405.15587](http://arxiv.org/abs/2405.15587)|null|
@@ -976,6 +994,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**On the Noise Robustness of In-Context Learning for Text Generation**|Hongfu Gao et.al.|[2405.17264](http://arxiv.org/abs/2405.17264)|null|
+|**2024-05-27**|**Transformer In-Context Learning for Categorical Data**|Aaron T. Wang et.al.|[2405.17248](http://arxiv.org/abs/2405.17248)|null|
+|**2024-05-27**|**Benchmarking General Purpose In-Context Learning**|Fan Wang et.al.|[2405.17234](http://arxiv.org/abs/2405.17234)|null|
+|**2024-05-27**|**Unifying Demonstration Selection and Compression for In-Context Learning**|Jun Gao et.al.|[2405.17062](http://arxiv.org/abs/2405.17062)|null|
+|**2024-05-27**|**SelfCP: Compressing Long Prompt to 1/12 Using the Frozen Large Language Model Itself**|Jun Gao et.al.|[2405.17052](http://arxiv.org/abs/2405.17052)|null|
+|**2024-05-27**|**On Mesa-Optimization in Autoregressively Trained Transformers: Emergence and Capability**|Chenyu Zheng et.al.|[2405.16845](http://arxiv.org/abs/2405.16845)|null|
+|**2024-05-27**|**Automatic Domain Adaptation by Transformers in In-Context Learning**|Ryuichiro Hataya et.al.|[2405.16819](http://arxiv.org/abs/2405.16819)|null|
+|**2024-05-27**|**ARC: A Generalist Graph Anomaly Detector with In-Context Learning**|Yixin Liu et.al.|[2405.16771](http://arxiv.org/abs/2405.16771)|null|
+|**2024-05-25**|**Learning to Reason via Program Generation, Emulation, and Search**|Nathaniel Weir et.al.|[2405.16337](http://arxiv.org/abs/2405.16337)|**[link](https://github.com/nweir127/cogex)**|
+|**2024-05-25**|**Mixture of In-Context Prompters for Tabular PFNs**|Derek Xu et.al.|[2405.16156](http://arxiv.org/abs/2405.16156)|null|
 |**2024-05-24**|**MLPs Learn In-Context**|William L. Tong et.al.|[2405.15618](http://arxiv.org/abs/2405.15618)|null|
 |**2024-05-24**|**Synergizing In-context Learning with Hints for End-to-end Task-oriented Dialog Systems**|Vishal Vivek Saley et.al.|[2405.15585](http://arxiv.org/abs/2405.15585)|null|
 |**2024-05-24**|**Learning Beyond Pattern Matching? Assaying Mathematical Understanding in LLMs**|Siyuan Guo et.al.|[2405.15485](http://arxiv.org/abs/2405.15485)|null|
