@@ -73,6 +73,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Multi-modal Generation via Cross-Modal In-Context Learning**|Amandeep Kumar et.al.|[2405.18304](http://arxiv.org/abs/2405.18304)|**[link](https://github.com/virobo-15/mgcc)**|
+|**2024-05-28**|**IM-Context: In-Context Learning for Imbalanced Regression Tasks**|Ismail Nejjar et.al.|[2405.18202](http://arxiv.org/abs/2405.18202)|null|
+|**2024-05-28**|**Knowledge Circuits in Pretrained Transformers**|Yunzhi Yao et.al.|[2405.17969](http://arxiv.org/abs/2405.17969)|**[link](https://github.com/zjunlp/knowledgecircuits)**|
+|**2024-05-28**|**FlashST: A Simple and Universal Prompt-Tuning Framework for Traffic Prediction**|Zhonghang Li et.al.|[2405.17898](http://arxiv.org/abs/2405.17898)|**[link](https://github.com/hkuds/flashst)**|
+|**2024-05-28**|**Benchmark Underestimates the Readiness of Multi-lingual Dialogue Agents**|Andrew H. Lee et.al.|[2405.17840](http://arxiv.org/abs/2405.17840)|null|
+|**2024-05-28**|**EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?**|Boshen Xu et.al.|[2405.17719](http://arxiv.org/abs/2405.17719)|**[link](https://github.com/xuboshen/egoncepp)**|
+|**2024-05-27**|**RAGSys: Item-Cold-Start Recommender as RAG System**|Emile Contal et.al.|[2405.17587](http://arxiv.org/abs/2405.17587)|null|
 |**2024-05-27**|**On the Noise Robustness of In-Context Learning for Text Generation**|Hongfu Gao et.al.|[2405.17264](http://arxiv.org/abs/2405.17264)|null|
 |**2024-05-27**|**Transformer In-Context Learning for Categorical Data**|Aaron T. Wang et.al.|[2405.17248](http://arxiv.org/abs/2405.17248)|null|
 |**2024-05-27**|**Benchmarking General Purpose In-Context Learning**|Fan Wang et.al.|[2405.17234](http://arxiv.org/abs/2405.17234)|null|
@@ -484,6 +491,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**WIDIn: Wording Image for Domain-Invariant Representation in Single-Source Domain Generalization**|Jiawei Ma et.al.|[2405.18405](http://arxiv.org/abs/2405.18405)|null|
+|**2024-05-28**|**Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?**|Yifan Bai et.al.|[2405.18361](http://arxiv.org/abs/2405.18361)|null|
+|**2024-05-28**|**Frustratingly Easy Test-Time Adaptation of Vision-Language Models**|Matteo Farina et.al.|[2405.18330](http://arxiv.org/abs/2405.18330)|**[link](https://github.com/farinamatteo/zero)**|
+|**2024-05-28**|**White-box Multimodal Jailbreaks Against Large Vision-Language Models**|Ruofan Wang et.al.|[2405.17894](http://arxiv.org/abs/2405.17894)|null|
+|**2024-05-28**|**Seeing the Image: Prioritizing Visual Correlation by Contrastive Alignment**|Xin Xiao et.al.|[2405.17871](http://arxiv.org/abs/2405.17871)|null|
+|**2024-05-28**|**RITUAL: Random Image Transformations as a Universal Anti-hallucination Lever in LVLMs**|Sangmin Woo et.al.|[2405.17821](http://arxiv.org/abs/2405.17821)|null|
+|**2024-05-28**|**Don't Miss the Forest for the Trees: Attentional Vision Calibration for Large Vision Language Models**|Sangmin Woo et.al.|[2405.17820](http://arxiv.org/abs/2405.17820)|null|
 |**2024-05-27**|**An Introduction to Vision-Language Modeling**|Florian Bordes et.al.|[2405.17247](http://arxiv.org/abs/2405.17247)|null|
 |**2024-05-27**|**Diagnosing the Compositional Knowledge of Vision Language Models from a Game-Theoretic View**|Jin Wang et.al.|[2405.17201](http://arxiv.org/abs/2405.17201)|null|
 |**2024-05-27**|**Think Before You Act: A Two-Stage Framework for Mitigating Gender Bias Towards Vision-Language Tasks**|Yunqi Zhang et.al.|[2405.16860](http://arxiv.org/abs/2405.16860)|**[link](https://github.com/zyq0000/gama)**|
@@ -994,6 +1008,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Multi-modal Generation via Cross-Modal In-Context Learning**|Amandeep Kumar et.al.|[2405.18304](http://arxiv.org/abs/2405.18304)|**[link](https://github.com/virobo-15/mgcc)**|
+|**2024-05-28**|**IM-Context: In-Context Learning for Imbalanced Regression Tasks**|Ismail Nejjar et.al.|[2405.18202](http://arxiv.org/abs/2405.18202)|null|
+|**2024-05-28**|**Knowledge Circuits in Pretrained Transformers**|Yunzhi Yao et.al.|[2405.17969](http://arxiv.org/abs/2405.17969)|**[link](https://github.com/zjunlp/knowledgecircuits)**|
+|**2024-05-28**|**FlashST: A Simple and Universal Prompt-Tuning Framework for Traffic Prediction**|Zhonghang Li et.al.|[2405.17898](http://arxiv.org/abs/2405.17898)|**[link](https://github.com/hkuds/flashst)**|
+|**2024-05-28**|**Benchmark Underestimates the Readiness of Multi-lingual Dialogue Agents**|Andrew H. Lee et.al.|[2405.17840](http://arxiv.org/abs/2405.17840)|null|
+|**2024-05-28**|**EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?**|Boshen Xu et.al.|[2405.17719](http://arxiv.org/abs/2405.17719)|**[link](https://github.com/xuboshen/egoncepp)**|
+|**2024-05-27**|**RAGSys: Item-Cold-Start Recommender as RAG System**|Emile Contal et.al.|[2405.17587](http://arxiv.org/abs/2405.17587)|null|
 |**2024-05-27**|**On the Noise Robustness of In-Context Learning for Text Generation**|Hongfu Gao et.al.|[2405.17264](http://arxiv.org/abs/2405.17264)|null|
 |**2024-05-27**|**Transformer In-Context Learning for Categorical Data**|Aaron T. Wang et.al.|[2405.17248](http://arxiv.org/abs/2405.17248)|null|
 |**2024-05-27**|**Benchmarking General Purpose In-Context Learning**|Fan Wang et.al.|[2405.17234](http://arxiv.org/abs/2405.17234)|null|
