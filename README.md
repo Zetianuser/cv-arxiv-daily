@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.06
+## Updated on 2024.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -67,16 +67,16 @@
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
 |**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
 
-<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240607>back to top</a>)</p>
 
 ## In-context
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-05**|**Log Parsing with Self-Generated In-Context Learning and Self-Correction**|Yifan Wu et.al.|[2406.03376](http://arxiv.org/abs/2406.03376)|null|
-|**2024-06-05**|**StatBot.Swiss: Bilingual Open Data Exploration in Natural Language**|Farhad Nooralahzadeh et.al.|[2406.03170](http://arxiv.org/abs/2406.03170)|null|
+|**2024-06-06**|**StatBot.Swiss: Bilingual Open Data Exploration in Natural Language**|Farhad Nooralahzadeh et.al.|[2406.03170](http://arxiv.org/abs/2406.03170)|null|
 |**2024-06-05**|**Improving In-Context Learning with Prediction Feedback for Sentiment Analysis**|Hongling Xu et.al.|[2406.02911](http://arxiv.org/abs/2406.02911)|null|
-|**2024-06-05**|**Exact Conversion of In-Context Learning to Model Weights**|Brian K Chen et.al.|[2406.02847](http://arxiv.org/abs/2406.02847)|null|
+|**2024-06-06**|**Exact Conversion of In-Context Learning to Model Weights in Linearized-Attention Transformers**|Brian K Chen et.al.|[2406.02847](http://arxiv.org/abs/2406.02847)|null|
 |**2024-06-04**|**E-ICL: Enhancing Fine-Grained Emotion Recognition through the Lens of Prototype Theory**|Zhou Yang et.al.|[2406.02642](http://arxiv.org/abs/2406.02642)|null|
 |**2024-06-04**|**Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks**|Tianyu He et.al.|[2406.02550](http://arxiv.org/abs/2406.02550)|**[link](https://github.com/ablghtianyi/ICL_Modular_Arithmetic)**|
 |**2024-06-04**|**Seed-TTS: A Family of High-Quality Versatile Speech Generation Models**|Philip Anastassiou et.al.|[2406.02430](http://arxiv.org/abs/2406.02430)|null|
@@ -509,7 +509,7 @@
 |**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075](http://arxiv.org/abs/2312.11075)|null|
 |**2023-12-18**|**APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation**|Chengran Yang et.al.|[2312.10934](http://arxiv.org/abs/2312.10934)|null|
 
-<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240607>back to top</a>)</p>
 
 ## VLM
 
@@ -518,7 +518,7 @@
 |**2024-06-05**|**Exploiting LMM-based knowledge for image classification tasks**|Maria Tzelepi et.al.|[2406.03071](http://arxiv.org/abs/2406.03071)|null|
 |**2024-06-05**|**Balancing Performance and Efficiency in Zero-shot Robotic Navigation**|Dmytro Kuzmenko et.al.|[2406.03015](http://arxiv.org/abs/2406.03015)|null|
 |**2024-06-05**|**Visual-Text Cross Alignment: Refining the Similarity Score in Vision-Language Models**|Jinhao Li et.al.|[2406.02915](http://arxiv.org/abs/2406.02915)|**[link](https://github.com/tmlr-group/wca)**|
-|**2024-06-04**|**LADI v2: Multi-label Dataset and Classifiers for Low-Altitude Disaster Imagery**|Samuel Scheele et.al.|[2406.02780](http://arxiv.org/abs/2406.02780)|null|
+|**2024-06-04**|**LADI v2: Multi-label Dataset and Classifiers for Low-Altitude Disaster Imagery**|Samuel Scheele et.al.|[2406.02780](http://arxiv.org/abs/2406.02780)|**[link](https://github.com/LADI-Dataset/ladi-overview)**|
 |**2024-06-04**|**TopViewRS: Vision-Language Models as Top-View Spatial Reasoners**|Chengzu Li et.al.|[2406.02537](http://arxiv.org/abs/2406.02537)|null|
 |**2024-06-04**|**On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept**|Guangliang Liu et.al.|[2406.02378](http://arxiv.org/abs/2406.02378)|null|
 |**2024-06-04**|**Radar Spectra-Language Model for Automotive Scene Parsing**|Mariia Pushkareva et.al.|[2406.02158](http://arxiv.org/abs/2406.02158)|null|
@@ -1055,7 +1055,7 @@
 |**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423](http://arxiv.org/abs/2312.12423)|null|
 |**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379](http://arxiv.org/abs/2312.12379)|null|
 
-<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240607>back to top</a>)</p>
 
 ## Visual In-context
 
@@ -1063,16 +1063,16 @@
 |---|---|---|---|---|
 |**2024-02-18**|**Visual In-Context Learning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2402.11574](http://arxiv.org/abs/2402.11574)|null|
 
-<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240607>back to top</a>)</p>
 
 ## V-ICL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-05**|**Log Parsing with Self-Generated In-Context Learning and Self-Correction**|Yifan Wu et.al.|[2406.03376](http://arxiv.org/abs/2406.03376)|null|
-|**2024-06-05**|**StatBot.Swiss: Bilingual Open Data Exploration in Natural Language**|Farhad Nooralahzadeh et.al.|[2406.03170](http://arxiv.org/abs/2406.03170)|null|
+|**2024-06-06**|**StatBot.Swiss: Bilingual Open Data Exploration in Natural Language**|Farhad Nooralahzadeh et.al.|[2406.03170](http://arxiv.org/abs/2406.03170)|null|
 |**2024-06-05**|**Improving In-Context Learning with Prediction Feedback for Sentiment Analysis**|Hongling Xu et.al.|[2406.02911](http://arxiv.org/abs/2406.02911)|null|
-|**2024-06-05**|**Exact Conversion of In-Context Learning to Model Weights**|Brian K Chen et.al.|[2406.02847](http://arxiv.org/abs/2406.02847)|null|
+|**2024-06-06**|**Exact Conversion of In-Context Learning to Model Weights in Linearized-Attention Transformers**|Brian K Chen et.al.|[2406.02847](http://arxiv.org/abs/2406.02847)|null|
 |**2024-06-04**|**E-ICL: Enhancing Fine-Grained Emotion Recognition through the Lens of Prototype Theory**|Zhou Yang et.al.|[2406.02642](http://arxiv.org/abs/2406.02642)|null|
 |**2024-06-04**|**Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks**|Tianyu He et.al.|[2406.02550](http://arxiv.org/abs/2406.02550)|**[link](https://github.com/ablghtianyi/ICL_Modular_Arithmetic)**|
 |**2024-06-04**|**Seed-TTS: A Family of High-Quality Versatile Speech Generation Models**|Philip Anastassiou et.al.|[2406.02430](http://arxiv.org/abs/2406.02430)|null|
@@ -1215,7 +1215,7 @@
 |**2024-04-15**|**Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**|Sungwon Han et.al.|[2404.09491](http://arxiv.org/abs/2404.09491)|**[link](https://github.com/sungwon-han/featllm)**|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
 
-<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240607>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
