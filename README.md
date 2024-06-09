@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.08
+## Updated on 2024.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -67,7 +67,7 @@
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
 |**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## In-context
 
@@ -79,7 +79,7 @@
 |**2024-06-06**|**FastGAS: Fast Graph-based Annotation Selection for In-Context Learning**|Zihan Chen et.al.|[2406.03730](http://arxiv.org/abs/2406.03730)|null|
 |**2024-06-05**|**Log Parsing with Self-Generated In-Context Learning and Self-Correction**|Yifan Wu et.al.|[2406.03376](http://arxiv.org/abs/2406.03376)|null|
 |**2024-06-06**|**StatBot.Swiss: Bilingual Open Data Exploration in Natural Language**|Farhad Nooralahzadeh et.al.|[2406.03170](http://arxiv.org/abs/2406.03170)|null|
-|**2024-06-05**|**Improving In-Context Learning with Prediction Feedback for Sentiment Analysis**|Hongling Xu et.al.|[2406.02911](http://arxiv.org/abs/2406.02911)|null|
+|**2024-06-05**|**Improving In-Context Learning with Prediction Feedback for Sentiment Analysis**|Hongling Xu et.al.|[2406.02911](http://arxiv.org/abs/2406.02911)|**[link](https://github.com/HITSZ-HLT/Feedback-ICL)**|
 |**2024-06-06**|**Exact Conversion of In-Context Learning to Model Weights in Linearized-Attention Transformers**|Brian K Chen et.al.|[2406.02847](http://arxiv.org/abs/2406.02847)|null|
 |**2024-06-04**|**E-ICL: Enhancing Fine-Grained Emotion Recognition through the Lens of Prototype Theory**|Zhou Yang et.al.|[2406.02642](http://arxiv.org/abs/2406.02642)|null|
 |**2024-06-04**|**Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks**|Tianyu He et.al.|[2406.02550](http://arxiv.org/abs/2406.02550)|**[link](https://github.com/ablghtianyi/ICL_Modular_Arithmetic)**|
@@ -513,14 +513,14 @@
 |**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075](http://arxiv.org/abs/2312.11075)|null|
 |**2023-12-18**|**APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation**|Chengran Yang et.al.|[2312.10934](http://arxiv.org/abs/2312.10934)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-06**|**VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval**|Junjie Zhou et.al.|[2406.04292](http://arxiv.org/abs/2406.04292)|**[link](https://github.com/flagopen/flagembedding)**|
-|**2024-06-06**|**Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt**|Zonghao Ying et.al.|[2406.04031](http://arxiv.org/abs/2406.04031)|null|
+|**2024-06-06**|**Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt**|Zonghao Ying et.al.|[2406.04031](http://arxiv.org/abs/2406.04031)|**[link](https://github.com/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt)**|
 |**2024-06-06**|**Exploring the Zero-Shot Capabilities of Vision-Language Models for Improving Gaze Following**|Anshul Gupta et.al.|[2406.03907](http://arxiv.org/abs/2406.03907)|null|
 |**2024-06-06**|**VisLTR: Visualization-in-the-Loop Table Reasoning**|Jianing Hao et.al.|[2406.03753](http://arxiv.org/abs/2406.03753)|null|
 |**2024-06-05**|**CountCLIP -- [Re] Teaching CLIP to Count to Ten**|Harshvardhan Mestha et.al.|[2406.03586](http://arxiv.org/abs/2406.03586)|**[link](https://github.com/SforAiDl/CountCLIP)**|
@@ -528,7 +528,7 @@
 |**2024-06-05**|**Balancing Performance and Efficiency in Zero-shot Robotic Navigation**|Dmytro Kuzmenko et.al.|[2406.03015](http://arxiv.org/abs/2406.03015)|null|
 |**2024-06-05**|**Visual-Text Cross Alignment: Refining the Similarity Score in Vision-Language Models**|Jinhao Li et.al.|[2406.02915](http://arxiv.org/abs/2406.02915)|**[link](https://github.com/tmlr-group/wca)**|
 |**2024-06-04**|**LADI v2: Multi-label Dataset and Classifiers for Low-Altitude Disaster Imagery**|Samuel Scheele et.al.|[2406.02780](http://arxiv.org/abs/2406.02780)|**[link](https://github.com/LADI-Dataset/ladi-overview)**|
-|**2024-06-04**|**TopViewRS: Vision-Language Models as Top-View Spatial Reasoners**|Chengzu Li et.al.|[2406.02537](http://arxiv.org/abs/2406.02537)|null|
+|**2024-06-04**|**TopViewRS: Vision-Language Models as Top-View Spatial Reasoners**|Chengzu Li et.al.|[2406.02537](http://arxiv.org/abs/2406.02537)|**[link](https://github.com/cambridgeltl/topviewrs)**|
 |**2024-06-04**|**On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept**|Guangliang Liu et.al.|[2406.02378](http://arxiv.org/abs/2406.02378)|null|
 |**2024-06-04**|**Radar Spectra-Language Model for Automotive Scene Parsing**|Mariia Pushkareva et.al.|[2406.02158](http://arxiv.org/abs/2406.02158)|null|
 |**2024-06-04**|**HPE-CogVLM: New Head Pose Grounding Task Exploration on Vision Language Model**|Yu Tian et.al.|[2406.01914](http://arxiv.org/abs/2406.01914)|null|
@@ -1064,7 +1064,7 @@
 |**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423](http://arxiv.org/abs/2312.12423)|null|
 |**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379](http://arxiv.org/abs/2312.12379)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## Visual In-context
 
@@ -1072,7 +1072,7 @@
 |---|---|---|---|---|
 |**2024-02-18**|**Visual In-Context Learning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2402.11574](http://arxiv.org/abs/2402.11574)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## V-ICL
 
@@ -1084,7 +1084,7 @@
 |**2024-06-06**|**FastGAS: Fast Graph-based Annotation Selection for In-Context Learning**|Zihan Chen et.al.|[2406.03730](http://arxiv.org/abs/2406.03730)|null|
 |**2024-06-05**|**Log Parsing with Self-Generated In-Context Learning and Self-Correction**|Yifan Wu et.al.|[2406.03376](http://arxiv.org/abs/2406.03376)|null|
 |**2024-06-06**|**StatBot.Swiss: Bilingual Open Data Exploration in Natural Language**|Farhad Nooralahzadeh et.al.|[2406.03170](http://arxiv.org/abs/2406.03170)|null|
-|**2024-06-05**|**Improving In-Context Learning with Prediction Feedback for Sentiment Analysis**|Hongling Xu et.al.|[2406.02911](http://arxiv.org/abs/2406.02911)|null|
+|**2024-06-05**|**Improving In-Context Learning with Prediction Feedback for Sentiment Analysis**|Hongling Xu et.al.|[2406.02911](http://arxiv.org/abs/2406.02911)|**[link](https://github.com/HITSZ-HLT/Feedback-ICL)**|
 |**2024-06-06**|**Exact Conversion of In-Context Learning to Model Weights in Linearized-Attention Transformers**|Brian K Chen et.al.|[2406.02847](http://arxiv.org/abs/2406.02847)|null|
 |**2024-06-04**|**E-ICL: Enhancing Fine-Grained Emotion Recognition through the Lens of Prototype Theory**|Zhou Yang et.al.|[2406.02642](http://arxiv.org/abs/2406.02642)|null|
 |**2024-06-04**|**Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks**|Tianyu He et.al.|[2406.02550](http://arxiv.org/abs/2406.02550)|**[link](https://github.com/ablghtianyi/ICL_Modular_Arithmetic)**|
@@ -1228,7 +1228,7 @@
 |**2024-04-15**|**Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**|Sungwon Han et.al.|[2404.09491](http://arxiv.org/abs/2404.09491)|**[link](https://github.com/sungwon-han/featllm)**|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
