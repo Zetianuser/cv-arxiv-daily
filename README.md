@@ -73,6 +73,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Scenarios and Approaches for Situated Natural Language Explanations**|Pengshuo Qiu et.al.|[2406.05035](http://arxiv.org/abs/2406.05035)|null|
+|**2024-06-07**|**BERTs are Generative In-Context Learners**|David Samuel et.al.|[2406.04823](http://arxiv.org/abs/2406.04823)|**[link](https://github.com/ltgoslo/bert-in-context)**|
+|**2024-06-07**|**Large Language Model-guided Document Selection**|Xiang Kong et.al.|[2406.04638](http://arxiv.org/abs/2406.04638)|null|
+|**2024-06-06**|**llmNER: (Zero|Few)-Shot Named Entity Recognition, Exploiting the Power of Large Language Models**|Fabián Villena et.al.|[2406.04528](http://arxiv.org/abs/2406.04528)|null|
+|**2024-06-06**|**Aligning Large Language Models with Self-generated Preference Data**|Dongyoung Kim et.al.|[2406.04412](http://arxiv.org/abs/2406.04412)|null|
+|**2024-06-06**|**VHDL-Eval: A Framework for Evaluating Large Language Models in VHDL Code Generation**|Prashanth Vijayaraghavan et.al.|[2406.04379](http://arxiv.org/abs/2406.04379)|null|
 |**2024-06-06**|**What Do Language Models Learn in Context? The Structured Task Hypothesis**|Jiaoda Li et.al.|[2406.04216](http://arxiv.org/abs/2406.04216)|null|
 |**2024-06-06**|**Exploring the Zero-Shot Capabilities of Vision-Language Models for Improving Gaze Following**|Anshul Gupta et.al.|[2406.03907](http://arxiv.org/abs/2406.03907)|null|
 |**2024-06-06**|**Enhancing In-Context Learning Performance with just SVD-Based Weight Pruning: A Theoretical Perspective**|Xinhao Yao et.al.|[2406.03768](http://arxiv.org/abs/2406.03768)|null|
@@ -519,6 +525,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**3rd Place Solution for MeViS Track in CVPR 2024 PVUW workshop: Motion Expression guided Video Segmentation**|Feiyu Pan et.al.|[2406.04842](http://arxiv.org/abs/2406.04842)|null|
+|**2024-06-07**|**OVMR: Open-Vocabulary Recognition with Multi-Modal References**|Zehong Ma et.al.|[2406.04675](http://arxiv.org/abs/2406.04675)|**[link](https://github.com/zehong-ma/ovmr)**|
+|**2024-06-06**|**Evaluating Large Vision-Language Models' Understanding of Real-World Complexities Through Synthetic Benchmarks**|Haokun Zhou et.al.|[2406.04470](http://arxiv.org/abs/2406.04470)|null|
+|**2024-06-06**|**Efficient 3D-Aware Facial Image Editing via Attribute-Specific Prompt Learning**|Amandeep Kumar et.al.|[2406.04413](http://arxiv.org/abs/2406.04413)|**[link](https://github.com/virobo-15/efficient-3d-aware-facial-image-editing)**|
 |**2024-06-06**|**VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval**|Junjie Zhou et.al.|[2406.04292](http://arxiv.org/abs/2406.04292)|**[link](https://github.com/flagopen/flagembedding)**|
 |**2024-06-06**|**Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt**|Zonghao Ying et.al.|[2406.04031](http://arxiv.org/abs/2406.04031)|**[link](https://github.com/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt)**|
 |**2024-06-06**|**Exploring the Zero-Shot Capabilities of Vision-Language Models for Improving Gaze Following**|Anshul Gupta et.al.|[2406.03907](http://arxiv.org/abs/2406.03907)|null|
@@ -1078,6 +1088,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Scenarios and Approaches for Situated Natural Language Explanations**|Pengshuo Qiu et.al.|[2406.05035](http://arxiv.org/abs/2406.05035)|null|
+|**2024-06-07**|**BERTs are Generative In-Context Learners**|David Samuel et.al.|[2406.04823](http://arxiv.org/abs/2406.04823)|**[link](https://github.com/ltgoslo/bert-in-context)**|
+|**2024-06-07**|**Large Language Model-guided Document Selection**|Xiang Kong et.al.|[2406.04638](http://arxiv.org/abs/2406.04638)|null|
+|**2024-06-06**|**llmNER: (Zero|Few)-Shot Named Entity Recognition, Exploiting the Power of Large Language Models**|Fabián Villena et.al.|[2406.04528](http://arxiv.org/abs/2406.04528)|null|
+|**2024-06-06**|**Aligning Large Language Models with Self-generated Preference Data**|Dongyoung Kim et.al.|[2406.04412](http://arxiv.org/abs/2406.04412)|null|
+|**2024-06-06**|**VHDL-Eval: A Framework for Evaluating Large Language Models in VHDL Code Generation**|Prashanth Vijayaraghavan et.al.|[2406.04379](http://arxiv.org/abs/2406.04379)|null|
 |**2024-06-06**|**What Do Language Models Learn in Context? The Structured Task Hypothesis**|Jiaoda Li et.al.|[2406.04216](http://arxiv.org/abs/2406.04216)|null|
 |**2024-06-06**|**Exploring the Zero-Shot Capabilities of Vision-Language Models for Improving Gaze Following**|Anshul Gupta et.al.|[2406.03907](http://arxiv.org/abs/2406.03907)|null|
 |**2024-06-06**|**Enhancing In-Context Learning Performance with just SVD-Based Weight Pruning: A Theoretical Perspective**|Xinhao Yao et.al.|[2406.03768](http://arxiv.org/abs/2406.03768)|null|
