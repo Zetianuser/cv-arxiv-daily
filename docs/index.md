@@ -88,7 +88,7 @@ layout: default
 |**2024-05-31**|**The Point of View of a Sentiment: Towards Clinician Bias Detection in Psychiatric Notes**|Alissa A. Valentine et.al.|[2405.20582](http://arxiv.org/abs/2405.20582)|null|
 |**2024-05-30**|**Would I Lie To You? Inference Time Alignment of Language Models using Direct Preference Heads**|Avelina Asada Hadji-Kyriacou et.al.|[2405.20053](http://arxiv.org/abs/2405.20053)|**[link](https://github.com/Avelina9X/direct-preference-heads)**|
 |**2024-05-30**|**From Words to Actions: Unveiling the Theoretical Underpinnings of LLM-Driven Autonomous Systems**|Jianliang He et.al.|[2405.19883](http://arxiv.org/abs/2405.19883)|null|
-|**2024-05-30**|**Is In-Context Learning Sufficient for Instruction Following in LLMs?**|Hao Zhao et.al.|[2405.19874](http://arxiv.org/abs/2405.19874)|null|
+|**2024-05-30**|**Is In-Context Learning Sufficient for Instruction Following in LLMs?**|Hao Zhao et.al.|[2405.19874](http://arxiv.org/abs/2405.19874)|**[link](https://github.com/tml-epfl/icl-alignment)**|
 |**2024-05-30**|**Why Larger Language Models Do In-context Learning Differently?**|Zhenmei Shi et.al.|[2405.19592](http://arxiv.org/abs/2405.19592)|null|
 |**2024-05-29**|**Does learning the right latent variables necessarily improve in-context learning?**|Sarthak Mittal et.al.|[2405.19162](http://arxiv.org/abs/2405.19162)|**[link](https://github.com/ericelmoznino/explicit_implicit_icl)**|
 |**2024-05-28**|**A Theoretical Understanding of Self-Correction through In-context Alignment**|Yifei Wang et.al.|[2405.18634](http://arxiv.org/abs/2405.18634)|null|
@@ -109,7 +109,7 @@ layout: default
 |**2024-05-27**|**ARC: A Generalist Graph Anomaly Detector with In-Context Learning**|Yixin Liu et.al.|[2405.16771](http://arxiv.org/abs/2405.16771)|null|
 |**2024-05-25**|**Learning to Reason via Program Generation, Emulation, and Search**|Nathaniel Weir et.al.|[2405.16337](http://arxiv.org/abs/2405.16337)|**[link](https://github.com/nweir127/cogex)**|
 |**2024-05-25**|**Mixture of In-Context Prompters for Tabular PFNs**|Derek Xu et.al.|[2405.16156](http://arxiv.org/abs/2405.16156)|null|
-|**2024-05-24**|**MLPs Learn In-Context**|William L. Tong et.al.|[2405.15618](http://arxiv.org/abs/2405.15618)|null|
+|**2024-05-24**|**MLPs Learn In-Context**|William L. Tong et.al.|[2405.15618](http://arxiv.org/abs/2405.15618)|**[link](https://github.com/wtong98/mlp-icl)**|
 |**2024-05-24**|**Synergizing In-context Learning with Hints for End-to-end Task-oriented Dialog Systems**|Vishal Vivek Saley et.al.|[2405.15585](http://arxiv.org/abs/2405.15585)|**[link](https://github.com/18907305772/maker)**|
 |**2024-05-24**|**Learning Beyond Pattern Matching? Assaying Mathematical Understanding in LLMs**|Siyuan Guo et.al.|[2405.15485](http://arxiv.org/abs/2405.15485)|null|
 |**2024-05-24**|**Before Generation, Align it! A Novel and Effective Strategy for Mitigating Hallucinations in Text-to-SQL Generation**|Ge Qu et.al.|[2405.15307](http://arxiv.org/abs/2405.15307)|**[link](https://github.com/quge2023/TA-SQL)**|
@@ -359,14 +359,14 @@ layout: default
 |**2024-02-22**|**On the Tip of the Tongue: Analyzing Conceptual Representation in Large Language Models with Reverse-Dictionary Probe**|Ningyu Xu et.al.|[2402.14404](http://arxiv.org/abs/2402.14404)|**[link](https://github.com/ningyuxu/tip_of_tongue)**|
 |**2024-02-22**|**A Simple Framework Uniting Visual In-context Learning with Masked Image Modeling to Improve Ultrasound Segmentation**|Yuyue Zhou et.al.|[2402.14300](http://arxiv.org/abs/2402.14300)|**[link](https://github.com/yuyue2uofa/simicl)**|
 |**2024-02-21**|**Analysing The Impact of Sequence Composition on Language Model Pre-Training**|Yu Zhao et.al.|[2402.13991](http://arxiv.org/abs/2402.13991)|**[link](https://github.com/yuzhaouoe/pretraining-data-packing)**|
-|**2024-02-21**|**$\texttt{Se}^2$: $\textit{Se}$quential Example $\textit{Se}$ lection for In-Context Learning**|Haoyu Liu et.al.|[2402.13874](http://arxiv.org/abs/2402.13874)|null|
+|**2024-02-21**|**$\texttt{Se}^2$: $\textit{Se}$quential Example $\textit{Se}$ lection for In-Context Learning**|Haoyu Liu et.al.|[2402.13874](http://arxiv.org/abs/2402.13874)|**[link](https://github.com/microsoft/lmops)**|
 |**2024-02-21**|**Unlocking Instructive In-Context Learning with Tabular Prompting for Relational Triple Extraction**|Guozheng Li et.al.|[2402.13741](http://arxiv.org/abs/2402.13741)|null|
 |**2024-02-21**|**Unsupervised Text Style Transfer via LLMs and Attention Masking with Multi-way Interactions**|Lei Pan et.al.|[2402.13647](http://arxiv.org/abs/2402.13647)|null|
 |**2024-02-21**|**A Multimodal In-Context Tuning Approach for E-Commerce Product Description Generation**|Yunxin Li et.al.|[2402.13587](http://arxiv.org/abs/2402.13587)|**[link](https://github.com/hitsz-tmg/multimodal-in-context-tuning)**|
 |**2024-02-21**|**CAMELoT: Towards Large Language Models with Training-Free Consolidated Associative Memory**|Zexue He et.al.|[2402.13449](http://arxiv.org/abs/2402.13449)|null|
 |**2024-02-20**|**Harnessing Large Language Models as Post-hoc Correctors**|Zhiqiang Zhong et.al.|[2402.13414](http://arxiv.org/abs/2402.13414)|null|
 |**2024-02-20**|**Identifying Semantic Induction Heads to Understand In-Context Learning**|Jie Ren et.al.|[2402.13055](http://arxiv.org/abs/2402.13055)|null|
-|**2024-02-20**|**The Impact of Demonstrations on Multilingual In-Context Learning: A Multidimensional Analysis**|Miaoran Zhang et.al.|[2402.12976](http://arxiv.org/abs/2402.12976)|null|
+|**2024-02-20**|**The Impact of Demonstrations on Multilingual In-Context Learning: A Multidimensional Analysis**|Miaoran Zhang et.al.|[2402.12976](http://arxiv.org/abs/2402.12976)|**[link](https://github.com/uds-lsv/multilingual-icl-analysis)**|
 |**2024-02-20**|**Fine-Tuning, Prompting, In-Context Learning and Instruction-Tuning: How Many Labelled Samples Do We Need?**|Branislav Pecher et.al.|[2402.12819](http://arxiv.org/abs/2402.12819)|null|
 |**2024-02-20**|**On Sensitivity of Learning with Limited Labelled Data to the Effects of Randomness: Impact of Interactions and Systematic Choices**|Branislav Pecher et.al.|[2402.12817](http://arxiv.org/abs/2402.12817)|null|
 |**2024-02-19**|**Standardize: Aligning Language Models with Expert-Defined Standards for Content Generation**|Joseph Marvin Imperial et.al.|[2402.12593](http://arxiv.org/abs/2402.12593)|null|
@@ -376,7 +376,7 @@ layout: default
 |**2024-02-19**|**Self-AMPLIFY: Improving Small Language Models with Self Post Hoc Explanations**|Milan Bhan et.al.|[2402.12038](http://arxiv.org/abs/2402.12038)|null|
 |**2024-02-19**|**Modularized Networks for Few-shot Hateful Meme Detection**|Rui Cao et.al.|[2402.11845](http://arxiv.org/abs/2402.11845)|**[link](https://github.com/social-ai-studio/mod_hate)**|
 |**2024-02-19**|**In-Context Learning Demonstration Selection via Influence Analysis**|Vinay M. S. et.al.|[2402.11750](http://arxiv.org/abs/2402.11750)|null|
-|**2024-02-18**|**GNNavi: Navigating the Information Flow in Large Language Models by Graph Neural Network**|Shuzhou Yuan et.al.|[2402.11709](http://arxiv.org/abs/2402.11709)|null|
+|**2024-02-18**|**GNNavi: Navigating the Information Flow in Large Language Models by Graph Neural Network**|Shuzhou Yuan et.al.|[2402.11709](http://arxiv.org/abs/2402.11709)|**[link](https://github.com/shuzhouyuan/gnnavi)**|
 |**2024-02-18**|**In-Context Learning with Transformers: Softmax Attention Adapts to Function Lipschitzness**|Liam Collins et.al.|[2402.11639](http://arxiv.org/abs/2402.11639)|null|
 |**2024-02-18**|**Visual In-Context Learning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2402.11574](http://arxiv.org/abs/2402.11574)|null|
 |**2024-02-18**|**Learning to Learn Faster from Human Feedback with Language Model Predictive Control**|Jacky Liang et.al.|[2402.11450](http://arxiv.org/abs/2402.11450)|null|
@@ -391,7 +391,7 @@ layout: default
 |**2024-02-16**|**Measuring and Reducing LLM Hallucination without Gold-Standard Answers via Expertise-Weighting**|Jiaheng Wei et.al.|[2402.10412](http://arxiv.org/abs/2402.10412)|null|
 |**2024-02-15**|**Prompt-Based Bias Calibration for Better Zero/Few-Shot Learning of Language Models**|Kang He et.al.|[2402.10353](http://arxiv.org/abs/2402.10353)|null|
 |**2024-02-15**|**Uncertainty Decomposition and Quantification for In-Context Learning of Large Language Models**|Chen Ling et.al.|[2402.10189](http://arxiv.org/abs/2402.10189)|**[link](https://github.com/lingchen0331/uq_icl)**|
-|**2024-02-15**|**Self-Augmented In-Context Learning for Unsupervised Word Translation**|Yaoyiran Li et.al.|[2402.10024](http://arxiv.org/abs/2402.10024)|null|
+|**2024-02-15**|**Self-Augmented In-Context Learning for Unsupervised Word Translation**|Yaoyiran Li et.al.|[2402.10024](http://arxiv.org/abs/2402.10024)|**[link](https://github.com/cambridgeltl/sail-bli)**|
 |**2024-02-15**|**Crafting a Good Prompt or Providing Exemplary Dialogues? A Study of In-Context Learning for Persona-based Dialogue Generation**|Jiashu Pu et.al.|[2402.09954](http://arxiv.org/abs/2402.09954)|null|
 |**2024-02-15**|**Beyond Imitation: Generating Human Mobility from Context-aware Reasoning with Large Language Models**|Chenyang Shao et.al.|[2402.09836](http://arxiv.org/abs/2402.09836)|null|
 |**2024-02-15**|**QuRating: Selecting High-Quality Data for Training Language Models**|Alexander Wettig et.al.|[2402.09739](http://arxiv.org/abs/2402.09739)|**[link](https://github.com/princeton-nlp/qurating)**|
@@ -581,7 +581,7 @@ layout: default
 |**2024-05-23**|**UDKAG: Augmenting Large Vision-Language Models with Up-to-Date Knowledge**|Chuanhao Li et.al.|[2405.14554](http://arxiv.org/abs/2405.14554)|null|
 |**2024-05-23**|**AnomalyDINO: Boosting Patch-based Few-shot Anomaly Detection with DINOv2**|Simon Damm et.al.|[2405.14529](http://arxiv.org/abs/2405.14529)|null|
 |**2024-05-23**|**Boosting Medical Image-based Cancer Detection via Text-guided Supervision from Reports**|Guangyu Guo et.al.|[2405.14230](http://arxiv.org/abs/2405.14230)|null|
-|**2024-05-23**|**Unveiling the Tapestry of Consistency in Large Vision-Language Models**|Yuan Zhang et.al.|[2405.14156](http://arxiv.org/abs/2405.14156)|null|
+|**2024-05-23**|**Unveiling the Tapestry of Consistency in Large Vision-Language Models**|Yuan Zhang et.al.|[2405.14156](http://arxiv.org/abs/2405.14156)|**[link](https://github.com/foundation-multimodal-models/conbench)**|
 |**2024-05-23**|**Imagery as Inquiry: Exploring A Multimodal Dataset for Conversational Recommendation**|Se-eun Yoon et.al.|[2405.14142](http://arxiv.org/abs/2405.14142)|null|
 |**2024-05-22**|**Refining Skewed Perceptions in Vision-Language Models through Visual Representations**|Haocheng Dai et.al.|[2405.14030](http://arxiv.org/abs/2405.14030)|null|
 |**2024-05-21**|**C3L: Content Correlated Vision-Language Instruction Tuning Data Generation via Contrastive Learning**|Ji Ma et.al.|[2405.12752](http://arxiv.org/abs/2405.12752)|null|
@@ -603,7 +603,7 @@ layout: default
 |**2024-05-15**|**A Survey On Text-to-3D Contents Generation In The Wild**|Chenhan Jiang et.al.|[2405.09431](http://arxiv.org/abs/2405.09431)|null|
 |**2024-05-15**|**Xmodel-VLM: A Simple Baseline for Multimodal Vision Language Model**|Wanting Xu et.al.|[2405.09215](http://arxiv.org/abs/2405.09215)|**[link](https://github.com/xiaoduoailab/xmodelvlm)**|
 |**2024-05-14**|**Contextual Emotion Recognition using Large Vision Language Models**|Yasaman Etesam et.al.|[2405.08992](http://arxiv.org/abs/2405.08992)|null|
-|**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668](http://arxiv.org/abs/2405.08668)|null|
+|**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668](http://arxiv.org/abs/2405.08668)|**[link](https://github.com/caoql98/GDPL)**|
 |**2024-05-14**|**Open-Vocabulary Object Detection via Neighboring Region Attention Alignment**|Sunyuan Qiang et.al.|[2405.08593](http://arxiv.org/abs/2405.08593)|null|
 |**2024-05-13**|**Can Better Text Semantics in Prompt Tuning Improve VLM Generalization?**|Hari Chandana Kuchibhotla et.al.|[2405.07921](http://arxiv.org/abs/2405.07921)|null|
 |**2024-05-12**|**DiffGen: Robot Demonstration Generation via Differentiable Physics Simulation, Differentiable Rendering, and Vision-Language Model**|Yang Jin et.al.|[2405.07309](http://arxiv.org/abs/2405.07309)|null|
@@ -634,7 +634,7 @@ layout: default
 |**2024-05-02**|**Learning Object States from Actions via Large Language Models**|Masatoshi Tateno et.al.|[2405.01090](http://arxiv.org/abs/2405.01090)|null|
 |**2024-05-02**|**Few Shot Class Incremental Learning using Vision-Language models**|Anurag Kumar et.al.|[2405.01040](http://arxiv.org/abs/2405.01040)|null|
 |**2024-05-01**|**Beyond Human Vision: The Role of Large Vision Language Models in Microscope Image Analysis**|Prateek Verma et.al.|[2405.00876](http://arxiv.org/abs/2405.00876)|null|
-|**2024-05-01**|**CLIPArTT: Light-weight Adaptation of CLIP to New Domains at Test Time**|Gustavo Adolfo Vargas Hakim et.al.|[2405.00754](http://arxiv.org/abs/2405.00754)|null|
+|**2024-05-01**|**CLIPArTT: Light-weight Adaptation of CLIP to New Domains at Test Time**|Gustavo Adolfo Vargas Hakim et.al.|[2405.00754](http://arxiv.org/abs/2405.00754)|**[link](https://github.com/dosowiechi/clipartt)**|
 |**2024-05-01**|**Exploring Self-Supervised Vision Transformers for Deepfake Detection: A Comparative Analysis**|Huy H. Nguyen et.al.|[2405.00355](http://arxiv.org/abs/2405.00355)|null|
 |**2024-04-30**|**GUing: A Mobile GUI Search Engine using a Vision-Language Model**|Jialiang Wei et.al.|[2405.00145](http://arxiv.org/abs/2405.00145)|**[link](https://github.com/jl-wei/guing)**|
 |**2024-04-30**|**MetaCoCo: A New Few-Shot Classification Benchmark with Spurious Correlation**|Min Zhang et.al.|[2404.19644](http://arxiv.org/abs/2404.19644)|null|
@@ -729,7 +729,7 @@ layout: default
 |**2024-04-05**|**Image-Text Co-Decomposition for Text-Supervised Semantic Segmentation**|Ji-Jia Wu et.al.|[2404.04231](http://arxiv.org/abs/2404.04231)|**[link](https://github.com/072jiajia/image-text-co-decomposition)**|
 |**2024-04-05**|**Label Propagation for Zero-shot Classification with Vision-Language Models**|Vladan Stojnić et.al.|[2404.04072](http://arxiv.org/abs/2404.04072)|**[link](https://github.com/vladan-stojnic/zlap)**|
 |**2024-04-04**|**Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity**|Jake Varley et.al.|[2404.03570](http://arxiv.org/abs/2404.03570)|null|
-|**2024-04-03**|**LVLM-Intrepret: An Interpretability Tool for Large Vision-Language Models**|Gabriela Ben Melech Stan et.al.|[2404.03118](http://arxiv.org/abs/2404.03118)|null|
+|**2024-04-03**|**LVLM-Intrepret: An Interpretability Tool for Large Vision-Language Models**|Gabriela Ben Melech Stan et.al.|[2404.03118](http://arxiv.org/abs/2404.03118)|**[link](https://github.com/IntelLabs/lvlm-interpret)**|
 |**2024-04-03**|**AWOL: Analysis WithOut synthesis using Language**|Silvia Zuffi et.al.|[2404.03042](http://arxiv.org/abs/2404.03042)|null|
 |**2024-04-03**|**I-Design: Personalized LLM Interior Designer**|Ata Çelen et.al.|[2404.02838](http://arxiv.org/abs/2404.02838)|null|
 |**2024-04-03**|**Harnessing the Power of Large Vision Language Models for Synthetic Image Detection**|Mamadou Keita et.al.|[2404.02726](http://arxiv.org/abs/2404.02726)|**[link](https://github.com/mamadou-keita/vlm-detect)**|
@@ -944,13 +944,13 @@ layout: default
 |**2024-02-08**|**Exploring Visual Culture Awareness in GPT-4V: A Comprehensive Probing**|Yong Cao et.al.|[2402.06015](http://arxiv.org/abs/2402.06015)|null|
 |**2024-02-08**|**Examining Gender and Racial Bias in Large Vision-Language Models Using a Novel Dataset of Parallel Images**|Kathleen C. Fraser et.al.|[2402.05779](http://arxiv.org/abs/2402.05779)|**[link](https://github.com/katiefraser/pairs)**|
 |**2024-02-08**|**Real-World Robot Applications of Foundation Models: A Review**|Kento Kawaharazuka et.al.|[2402.05741](http://arxiv.org/abs/2402.05741)|null|
-|**2024-02-07**|**Language-Based Augmentation to Address Shortcut Learning in Object Goal Navigation**|Dennis Hoftijzer et.al.|[2402.05090](http://arxiv.org/abs/2402.05090)|null|
+|**2024-02-07**|**Language-Based Augmentation to Address Shortcut Learning in Object Goal Navigation**|Dennis Hoftijzer et.al.|[2402.05090](http://arxiv.org/abs/2402.05090)|**[link](https://github.com/dennishoftijzer/l-b_augmentation)**|
 |**2024-02-07**|**Code as Reward: Empowering Reinforcement Learning with VLMs**|David Venuto et.al.|[2402.04764](http://arxiv.org/abs/2402.04764)|null|
 |**2024-02-07**|**Open-Vocabulary Calibration for Vision-Language Models**|Shuoyuan Wang et.al.|[2402.04655](http://arxiv.org/abs/2402.04655)|null|
 |**2024-02-07**|**LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors**|Sheng Jin et.al.|[2402.04630](http://arxiv.org/abs/2402.04630)|null|
 |**2024-02-07**|**ScreenAI: A Vision-Language Model for UI and Infographics Understanding**|Gilles Baechler et.al.|[2402.04615](http://arxiv.org/abs/2402.04615)|**[link](https://github.com/google-research-datasets/screen_qa)**|
 |**2024-02-06**|**CogCoM: Train Large Vision-Language Models Diving into Details through Chain of Manipulations**|Ji Qi et.al.|[2402.04236](http://arxiv.org/abs/2402.04236)|**[link](https://github.com/thudm/cogcom)**|
-|**2024-02-06**|**Connecting the Dots: Collaborative Fine-tuning for Black-Box Vision-Language Models**|Zhengbo Wang et.al.|[2402.04050](http://arxiv.org/abs/2402.04050)|null|
+|**2024-02-06**|**Connecting the Dots: Collaborative Fine-tuning for Black-Box Vision-Language Models**|Zhengbo Wang et.al.|[2402.04050](http://arxiv.org/abs/2402.04050)|**[link](https://github.com/mrflogs/craft)**|
 |**2024-02-06**|**Exploring Low-Resource Medical Image Classification with Weakly Supervised Prompt Learning**|Fudan Zheng et.al.|[2402.03783](http://arxiv.org/abs/2402.03783)|null|
 |**2024-02-06**|**MobileVLM V2: Faster and Stronger Baseline for Vision Language Model**|Xiangxiang Chu et.al.|[2402.03766](http://arxiv.org/abs/2402.03766)|**[link](https://github.com/meituan-automl/mobilevlm)**|
 |**2024-02-06**|**Partially Recentralization Softmax Loss for Vision-Language Models Robustness**|Hao Wang et.al.|[2402.03627](http://arxiv.org/abs/2402.03627)|null|
@@ -1087,7 +1087,7 @@ layout: default
 |**2024-05-31**|**The Point of View of a Sentiment: Towards Clinician Bias Detection in Psychiatric Notes**|Alissa A. Valentine et.al.|[2405.20582](http://arxiv.org/abs/2405.20582)|null|
 |**2024-05-30**|**Would I Lie To You? Inference Time Alignment of Language Models using Direct Preference Heads**|Avelina Asada Hadji-Kyriacou et.al.|[2405.20053](http://arxiv.org/abs/2405.20053)|**[link](https://github.com/Avelina9X/direct-preference-heads)**|
 |**2024-05-30**|**From Words to Actions: Unveiling the Theoretical Underpinnings of LLM-Driven Autonomous Systems**|Jianliang He et.al.|[2405.19883](http://arxiv.org/abs/2405.19883)|null|
-|**2024-05-30**|**Is In-Context Learning Sufficient for Instruction Following in LLMs?**|Hao Zhao et.al.|[2405.19874](http://arxiv.org/abs/2405.19874)|null|
+|**2024-05-30**|**Is In-Context Learning Sufficient for Instruction Following in LLMs?**|Hao Zhao et.al.|[2405.19874](http://arxiv.org/abs/2405.19874)|**[link](https://github.com/tml-epfl/icl-alignment)**|
 |**2024-05-30**|**Why Larger Language Models Do In-context Learning Differently?**|Zhenmei Shi et.al.|[2405.19592](http://arxiv.org/abs/2405.19592)|null|
 |**2024-05-29**|**Does learning the right latent variables necessarily improve in-context learning?**|Sarthak Mittal et.al.|[2405.19162](http://arxiv.org/abs/2405.19162)|**[link](https://github.com/ericelmoznino/explicit_implicit_icl)**|
 |**2024-05-28**|**A Theoretical Understanding of Self-Correction through In-context Alignment**|Yifei Wang et.al.|[2405.18634](http://arxiv.org/abs/2405.18634)|null|
@@ -1108,7 +1108,7 @@ layout: default
 |**2024-05-27**|**ARC: A Generalist Graph Anomaly Detector with In-Context Learning**|Yixin Liu et.al.|[2405.16771](http://arxiv.org/abs/2405.16771)|null|
 |**2024-05-25**|**Learning to Reason via Program Generation, Emulation, and Search**|Nathaniel Weir et.al.|[2405.16337](http://arxiv.org/abs/2405.16337)|**[link](https://github.com/nweir127/cogex)**|
 |**2024-05-25**|**Mixture of In-Context Prompters for Tabular PFNs**|Derek Xu et.al.|[2405.16156](http://arxiv.org/abs/2405.16156)|null|
-|**2024-05-24**|**MLPs Learn In-Context**|William L. Tong et.al.|[2405.15618](http://arxiv.org/abs/2405.15618)|null|
+|**2024-05-24**|**MLPs Learn In-Context**|William L. Tong et.al.|[2405.15618](http://arxiv.org/abs/2405.15618)|**[link](https://github.com/wtong98/mlp-icl)**|
 |**2024-05-24**|**Synergizing In-context Learning with Hints for End-to-end Task-oriented Dialog Systems**|Vishal Vivek Saley et.al.|[2405.15585](http://arxiv.org/abs/2405.15585)|**[link](https://github.com/18907305772/maker)**|
 |**2024-05-24**|**Learning Beyond Pattern Matching? Assaying Mathematical Understanding in LLMs**|Siyuan Guo et.al.|[2405.15485](http://arxiv.org/abs/2405.15485)|null|
 |**2024-05-24**|**Before Generation, Align it! A Novel and Effective Strategy for Mitigating Hallucinations in Text-to-SQL Generation**|Ge Qu et.al.|[2405.15307](http://arxiv.org/abs/2405.15307)|**[link](https://github.com/quge2023/TA-SQL)**|
