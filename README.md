@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-09**|**SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention**|Muhammad Nawfal Meeran et.al.|[2406.05802](http://arxiv.org/abs/2406.05802)|null|
+|**2024-06-09**|**Utilizing Grounded SAM for self-supervised frugal camouflaged human detection**|Matthias Pijarowski et.al.|[2406.05776](http://arxiv.org/abs/2406.05776)|null|
 |**2024-05-25**|**GreenCOD: A Green Camouflaged Object Detection Method**|Hong-Shuo Chen et.al.|[2405.16144](http://arxiv.org/abs/2405.16144)|null|
 |**2024-05-09**|**Depth Awakens: A Depth-perceptual Attention Fusion Network for RGB-D Camouflaged Object Detection**|Xinran Liua et.al.|[2405.05614](http://arxiv.org/abs/2405.05614)|null|
 |**2024-05-10**|**Honeyfile Camouflage: Hiding Fake Files in Plain Sight**|Roelien C. Timmer et.al.|[2405.04758](http://arxiv.org/abs/2405.04758)|null|
@@ -73,6 +75,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Should We Fine-Tune or RAG? Evaluating Different Techniques to Adapt LLMs for Dialogue**|Simone Alghisi et.al.|[2406.06399](http://arxiv.org/abs/2406.06399)|null|
+|**2024-06-09**|**LGR2: Language Guided Reward Relabeling for Accelerating Hierarchical Reinforcement Learning**|Utsav Singh et.al.|[2406.05881](http://arxiv.org/abs/2406.05881)|null|
+|**2024-06-09**|**TR2MTL: LLM based framework for Metric Temporal Logic Formalization of Traffic Rules**|Kumar Manas et.al.|[2406.05709](http://arxiv.org/abs/2406.05709)|null|
+|**2024-06-08**|**ThatiAR: Subjectivity Detection in Arabic News Sentences**|Reem Suwaileh et.al.|[2406.05559](http://arxiv.org/abs/2406.05559)|null|
+|**2024-06-08**|**RAG-Enhanced Commit Message Generation**|Linghao Zhang et.al.|[2406.05514](http://arxiv.org/abs/2406.05514)|null|
+|**2024-06-07**|**TabPFGen -- Tabular Data Generation with TabPFN**|Junwei Ma et.al.|[2406.05216](http://arxiv.org/abs/2406.05216)|null|
+|**2024-06-07**|**Retrieval & Fine-Tuning for In-Context Tabular Models**|Valentin Thomas et.al.|[2406.05207](http://arxiv.org/abs/2406.05207)|null|
 |**2024-06-07**|**Scenarios and Approaches for Situated Natural Language Explanations**|Pengshuo Qiu et.al.|[2406.05035](http://arxiv.org/abs/2406.05035)|null|
 |**2024-06-07**|**BERTs are Generative In-Context Learners**|David Samuel et.al.|[2406.04823](http://arxiv.org/abs/2406.04823)|**[link](https://github.com/ltgoslo/bert-in-context)**|
 |**2024-06-07**|**Large Language Model-guided Document Selection**|Xiang Kong et.al.|[2406.04638](http://arxiv.org/abs/2406.04638)|null|
@@ -525,6 +534,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Merlin: A Vision Language Foundation Model for 3D Computed Tomography**|Louis Blankemeier et.al.|[2406.06512](http://arxiv.org/abs/2406.06512)|null|
+|**2024-06-10**|**Direct Preference Optimization for Suppressing Hallucinated Prior Exams in Radiology Report Generation**|Oishi Banerjee et.al.|[2406.06496](http://arxiv.org/abs/2406.06496)|null|
+|**2024-06-10**|**VCR: Visual Caption Restoration**|Tianyu Zhang et.al.|[2406.06462](http://arxiv.org/abs/2406.06462)|null|
+|**2024-06-10**|**Data Augmentation in Earth Observation: A Diffusion Model Approach**|Tiago Sousa et.al.|[2406.06218](http://arxiv.org/abs/2406.06218)|null|
+|**2024-06-10**|**CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models**|Peng Xia et.al.|[2406.06007](http://arxiv.org/abs/2406.06007)|**[link](https://github.com/richard-peng-xia/cares)**|
+|**2024-06-10**|**CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark**|David Romero et.al.|[2406.05967](http://arxiv.org/abs/2406.05967)|null|
+|**2024-06-09**|**EmbSpatial-Bench: Benchmarking Spatial Understanding for Embodied Tasks with Large Vision-Language Models**|Mengfei Du et.al.|[2406.05756](http://arxiv.org/abs/2406.05756)|**[link](https://github.com/mengfeidu/embspatial-bench)**|
+|**2024-06-09**|**ALGO: Object-Grounded Visual Commonsense Reasoning for Open-World Egocentric Action Recognition**|Sanjoy Kundu et.al.|[2406.05722](http://arxiv.org/abs/2406.05722)|null|
+|**2024-06-08**|**Aligning Human Knowledge with Visual Concepts Towards Explainable Medical Image Classification**|Yunhe Gao et.al.|[2406.05596](http://arxiv.org/abs/2406.05596)|null|
+|**2024-06-08**|**Regularized Training with Generated Datasets for Name-Only Transfer of Vision-Language Models**|Minho Park et.al.|[2406.05432](http://arxiv.org/abs/2406.05432)|null|
 |**2024-06-07**|**3rd Place Solution for MeViS Track in CVPR 2024 PVUW workshop: Motion Expression guided Video Segmentation**|Feiyu Pan et.al.|[2406.04842](http://arxiv.org/abs/2406.04842)|null|
 |**2024-06-07**|**OVMR: Open-Vocabulary Recognition with Multi-Modal References**|Zehong Ma et.al.|[2406.04675](http://arxiv.org/abs/2406.04675)|**[link](https://github.com/zehong-ma/ovmr)**|
 |**2024-06-06**|**Evaluating Large Vision-Language Models' Understanding of Real-World Complexities Through Synthetic Benchmarks**|Haokun Zhou et.al.|[2406.04470](http://arxiv.org/abs/2406.04470)|null|
@@ -1088,6 +1107,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Should We Fine-Tune or RAG? Evaluating Different Techniques to Adapt LLMs for Dialogue**|Simone Alghisi et.al.|[2406.06399](http://arxiv.org/abs/2406.06399)|null|
+|**2024-06-09**|**LGR2: Language Guided Reward Relabeling for Accelerating Hierarchical Reinforcement Learning**|Utsav Singh et.al.|[2406.05881](http://arxiv.org/abs/2406.05881)|null|
+|**2024-06-09**|**TR2MTL: LLM based framework for Metric Temporal Logic Formalization of Traffic Rules**|Kumar Manas et.al.|[2406.05709](http://arxiv.org/abs/2406.05709)|null|
+|**2024-06-08**|**ThatiAR: Subjectivity Detection in Arabic News Sentences**|Reem Suwaileh et.al.|[2406.05559](http://arxiv.org/abs/2406.05559)|null|
+|**2024-06-08**|**RAG-Enhanced Commit Message Generation**|Linghao Zhang et.al.|[2406.05514](http://arxiv.org/abs/2406.05514)|null|
+|**2024-06-07**|**TabPFGen -- Tabular Data Generation with TabPFN**|Junwei Ma et.al.|[2406.05216](http://arxiv.org/abs/2406.05216)|null|
+|**2024-06-07**|**Retrieval & Fine-Tuning for In-Context Tabular Models**|Valentin Thomas et.al.|[2406.05207](http://arxiv.org/abs/2406.05207)|null|
 |**2024-06-07**|**Scenarios and Approaches for Situated Natural Language Explanations**|Pengshuo Qiu et.al.|[2406.05035](http://arxiv.org/abs/2406.05035)|null|
 |**2024-06-07**|**BERTs are Generative In-Context Learners**|David Samuel et.al.|[2406.04823](http://arxiv.org/abs/2406.04823)|**[link](https://github.com/ltgoslo/bert-in-context)**|
 |**2024-06-07**|**Large Language Model-guided Document Selection**|Xiang Kong et.al.|[2406.04638](http://arxiv.org/abs/2406.04638)|null|
