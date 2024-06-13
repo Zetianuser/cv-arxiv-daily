@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.12
+## Updated on 2024.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -531,7 +531,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-11**|**A3VLM: Actionable Articulation-Aware Vision Language Model**|Siyuan Huang et.al.|[2406.07549](http://arxiv.org/abs/2406.07549)|null|
+|**2024-06-11**|**A3VLM: Actionable Articulation-Aware Vision Language Model**|Siyuan Huang et.al.|[2406.07549](http://arxiv.org/abs/2406.07549)|**[link](https://github.com/changhaonan/a3vlm)**|
 |**2024-06-11**|**Let Go of Your Labels with Unsupervised Transfer**|Artyom Gadetsky et.al.|[2406.07236](http://arxiv.org/abs/2406.07236)|**[link](https://github.com/mlbio-epfl/turtle)**|
 |**2024-06-11**|**FaceGPT: Self-supervised Learning to Chat about 3D Human Faces**|Haoran Wang et.al.|[2406.07163](http://arxiv.org/abs/2406.07163)|null|
 |**2024-06-11**|**Beyond Bare Queries: Open-Vocabulary Object Retrieval with 3D Scene Graph**|Sergey Linok et.al.|[2406.07113](http://arxiv.org/abs/2406.07113)|null|
