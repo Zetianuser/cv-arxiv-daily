@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -69,7 +69,7 @@
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
 |**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
 
-<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
 
 ## In-context
 
@@ -77,14 +77,14 @@
 |---|---|---|---|---|
 |**2024-06-12**|**State Soup: In-Context Skill Learning, Retrieval and Mixing**|Maciej Pióro et.al.|[2406.08423](http://arxiv.org/abs/2406.08423)|null|
 |**2024-06-12**|**OmniCorpus: An Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text**|Qingyun Li et.al.|[2406.08418](http://arxiv.org/abs/2406.08418)|**[link](https://github.com/opengvlab/omnicorpus)**|
-|**2024-06-12**|**Guiding In-Context Learning of LLMs through Quality Estimation for Machine Translation**|Javad Pourmostafa Roshan Sharami et.al.|[2406.07970](http://arxiv.org/abs/2406.07970)|null|
+|**2024-06-12**|**Guiding In-Context Learning of LLMs through Quality Estimation for Machine Translation**|Javad Pourmostafa Roshan Sharami et.al.|[2406.07970](http://arxiv.org/abs/2406.07970)|**[link](https://github.com/JoyeBright/ICLviaQE)**|
 |**2024-06-12**|**DeTriever: Decoder-representation-based Retriever for Improving NL2SQL In-Context Learning**|Yuxi Feng et.al.|[2406.07913](http://arxiv.org/abs/2406.07913)|null|
 |**2024-06-12**|**An Empirical Study of Mamba-based Language Models**|Roger Waleffe et.al.|[2406.07887](http://arxiv.org/abs/2406.07887)|null|
 |**2024-06-12**|**Are Large Language Models Good Statisticians?**|Yizhang Zhu et.al.|[2406.07815](http://arxiv.org/abs/2406.07815)|**[link](https://github.com/derrickzhuyz/statqa)**|
 |**2024-06-11**|**Estimating the Hallucination Rate of Generative AI**|Andrew Jesson et.al.|[2406.07457](http://arxiv.org/abs/2406.07457)|null|
-|**2024-06-11**|**On the Robustness of Document-Level Relation Extraction Models to Entity Name Variations**|Shiao Meng et.al.|[2406.07444](http://arxiv.org/abs/2406.07444)|null|
+|**2024-06-11**|**On the Robustness of Document-Level Relation Extraction Models to Entity Name Variations**|Shiao Meng et.al.|[2406.07444](http://arxiv.org/abs/2406.07444)|**[link](https://github.com/THU-BPM/Env-DocRE)**|
 |**2024-06-11**|**Efficiently Exploring Large Language Models for Document-Level Machine Translation with In-context Learning**|Menglong Cui et.al.|[2406.07081](http://arxiv.org/abs/2406.07081)|null|
-|**2024-06-11**|**DARA: Decomposition-Alignment-Reasoning Autonomous Language Agent for Question Answering over Knowledge Graphs**|Haishuo Fang et.al.|[2406.07080](http://arxiv.org/abs/2406.07080)|null|
+|**2024-06-11**|**DARA: Decomposition-Alignment-Reasoning Autonomous Language Agent for Question Answering over Knowledge Graphs**|Haishuo Fang et.al.|[2406.07080](http://arxiv.org/abs/2406.07080)|**[link](https://github.com/UKPLab/acl2024-DARA)**|
 |**2024-06-11**|**CAAP: Context-Aware Action Planning Prompting to Solve Computer Tasks with Front-End UI Only**|Junhee Cho et.al.|[2406.06947](http://arxiv.org/abs/2406.06947)|**[link](https://github.com/caap-agent/caap-agent)**|
 |**2024-06-11**|**Eyeballing Combinatorial Problems: A Case Study of Using Multimodal Large Language Models to Solve Traveling Salesman Problems**|Mohammed Elhenawy et.al.|[2406.06865](http://arxiv.org/abs/2406.06865)|null|
 |**2024-06-10**|**Leveraging Large Language Models for Knowledge-free Weak Supervision in Clinical Natural Language Processing**|Enshuo Hsu et.al.|[2406.06723](http://arxiv.org/abs/2406.06723)|null|
@@ -542,7 +542,7 @@
 |**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075](http://arxiv.org/abs/2312.11075)|null|
 |**2023-12-18**|**APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation**|Chengran Yang et.al.|[2312.10934](http://arxiv.org/abs/2312.10934)|null|
 
-<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
 
 ## VLM
 
@@ -550,9 +550,9 @@
 |---|---|---|---|---|
 |**2024-06-12**|**What If We Recaption Billions of Web Images with LLaMA-3?**|Xianhang Li et.al.|[2406.08478](http://arxiv.org/abs/2406.08478)|null|
 |**2024-06-12**|**AToM-Bot: Embodied Fulfillment of Unspoken Human Needs with Affective Theory of Mind**|Wei Ding et.al.|[2406.08455](http://arxiv.org/abs/2406.08455)|null|
-|**2024-06-12**|**ConMe: Rethinking Evaluation of Compositional Reasoning for Modern VLMs**|Irene Huang et.al.|[2406.08164](http://arxiv.org/abs/2406.08164)|null|
+|**2024-06-12**|**ConMe: Rethinking Evaluation of Compositional Reasoning for Modern VLMs**|Irene Huang et.al.|[2406.08164](http://arxiv.org/abs/2406.08164)|**[link](https://github.com/jmiemirza/conme)**|
 |**2024-06-12**|**Fewer Tokens and Fewer Videos: Extending Video Understanding Abilities in Large Vision-Language Models**|Shimin Chen et.al.|[2406.08024](http://arxiv.org/abs/2406.08024)|null|
-|**2024-06-11**|**A3VLM: Actionable Articulation-Aware Vision Language Model**|Siyuan Huang et.al.|[2406.07549](http://arxiv.org/abs/2406.07549)|**[link](https://github.com/changhaonan/a3vlm)**|
+|**2024-06-13**|**A3VLM: Actionable Articulation-Aware Vision Language Model**|Siyuan Huang et.al.|[2406.07549](http://arxiv.org/abs/2406.07549)|**[link](https://github.com/changhaonan/a3vlm)**|
 |**2024-06-11**|**Let Go of Your Labels with Unsupervised Transfer**|Artyom Gadetsky et.al.|[2406.07236](http://arxiv.org/abs/2406.07236)|**[link](https://github.com/mlbio-epfl/turtle)**|
 |**2024-06-11**|**FaceGPT: Self-supervised Learning to Chat about 3D Human Faces**|Haoran Wang et.al.|[2406.07163](http://arxiv.org/abs/2406.07163)|null|
 |**2024-06-11**|**Beyond Bare Queries: Open-Vocabulary Object Retrieval with 3D Scene Graph**|Sergey Linok et.al.|[2406.07113](http://arxiv.org/abs/2406.07113)|null|
@@ -1116,7 +1116,7 @@
 |**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423](http://arxiv.org/abs/2312.12423)|null|
 |**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379](http://arxiv.org/abs/2312.12379)|null|
 
-<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
 
 ## Visual In-context
 
@@ -1124,7 +1124,7 @@
 |---|---|---|---|---|
 |**2024-02-18**|**Visual In-Context Learning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2402.11574](http://arxiv.org/abs/2402.11574)|null|
 
-<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
 
 ## V-ICL
 
@@ -1132,14 +1132,14 @@
 |---|---|---|---|---|
 |**2024-06-12**|**State Soup: In-Context Skill Learning, Retrieval and Mixing**|Maciej Pióro et.al.|[2406.08423](http://arxiv.org/abs/2406.08423)|null|
 |**2024-06-12**|**OmniCorpus: An Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text**|Qingyun Li et.al.|[2406.08418](http://arxiv.org/abs/2406.08418)|**[link](https://github.com/opengvlab/omnicorpus)**|
-|**2024-06-12**|**Guiding In-Context Learning of LLMs through Quality Estimation for Machine Translation**|Javad Pourmostafa Roshan Sharami et.al.|[2406.07970](http://arxiv.org/abs/2406.07970)|null|
+|**2024-06-12**|**Guiding In-Context Learning of LLMs through Quality Estimation for Machine Translation**|Javad Pourmostafa Roshan Sharami et.al.|[2406.07970](http://arxiv.org/abs/2406.07970)|**[link](https://github.com/JoyeBright/ICLviaQE)**|
 |**2024-06-12**|**DeTriever: Decoder-representation-based Retriever for Improving NL2SQL In-Context Learning**|Yuxi Feng et.al.|[2406.07913](http://arxiv.org/abs/2406.07913)|null|
 |**2024-06-12**|**An Empirical Study of Mamba-based Language Models**|Roger Waleffe et.al.|[2406.07887](http://arxiv.org/abs/2406.07887)|null|
 |**2024-06-12**|**Are Large Language Models Good Statisticians?**|Yizhang Zhu et.al.|[2406.07815](http://arxiv.org/abs/2406.07815)|**[link](https://github.com/derrickzhuyz/statqa)**|
 |**2024-06-11**|**Estimating the Hallucination Rate of Generative AI**|Andrew Jesson et.al.|[2406.07457](http://arxiv.org/abs/2406.07457)|null|
-|**2024-06-11**|**On the Robustness of Document-Level Relation Extraction Models to Entity Name Variations**|Shiao Meng et.al.|[2406.07444](http://arxiv.org/abs/2406.07444)|null|
+|**2024-06-11**|**On the Robustness of Document-Level Relation Extraction Models to Entity Name Variations**|Shiao Meng et.al.|[2406.07444](http://arxiv.org/abs/2406.07444)|**[link](https://github.com/THU-BPM/Env-DocRE)**|
 |**2024-06-11**|**Efficiently Exploring Large Language Models for Document-Level Machine Translation with In-context Learning**|Menglong Cui et.al.|[2406.07081](http://arxiv.org/abs/2406.07081)|null|
-|**2024-06-11**|**DARA: Decomposition-Alignment-Reasoning Autonomous Language Agent for Question Answering over Knowledge Graphs**|Haishuo Fang et.al.|[2406.07080](http://arxiv.org/abs/2406.07080)|null|
+|**2024-06-11**|**DARA: Decomposition-Alignment-Reasoning Autonomous Language Agent for Question Answering over Knowledge Graphs**|Haishuo Fang et.al.|[2406.07080](http://arxiv.org/abs/2406.07080)|**[link](https://github.com/UKPLab/acl2024-DARA)**|
 |**2024-06-11**|**CAAP: Context-Aware Action Planning Prompting to Solve Computer Tasks with Front-End UI Only**|Junhee Cho et.al.|[2406.06947](http://arxiv.org/abs/2406.06947)|**[link](https://github.com/caap-agent/caap-agent)**|
 |**2024-06-11**|**Eyeballing Combinatorial Problems: A Case Study of Using Multimodal Large Language Models to Solve Traveling Salesman Problems**|Mohammed Elhenawy et.al.|[2406.06865](http://arxiv.org/abs/2406.06865)|null|
 |**2024-06-10**|**Leveraging Large Language Models for Knowledge-free Weak Supervision in Clinical Natural Language Processing**|Enshuo Hsu et.al.|[2406.06723](http://arxiv.org/abs/2406.06723)|null|
@@ -1307,7 +1307,7 @@
 |**2024-04-15**|**Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**|Sungwon Han et.al.|[2404.09491](http://arxiv.org/abs/2404.09491)|**[link](https://github.com/sungwon-han/featllm)**|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
 
-<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
