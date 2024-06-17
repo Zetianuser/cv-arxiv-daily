@@ -82,7 +82,7 @@ layout: default
 |**2024-06-11**|**CAAP: Context-Aware Action Planning Prompting to Solve Computer Tasks with Front-End UI Only**|Junhee Cho et.al.|[2406.06947](http://arxiv.org/abs/2406.06947)|**[link](https://github.com/caap-agent/caap-agent)**|
 |**2024-06-11**|**Eyeballing Combinatorial Problems: A Case Study of Using Multimodal Large Language Models to Solve Traveling Salesman Problems**|Mohammed Elhenawy et.al.|[2406.06865](http://arxiv.org/abs/2406.06865)|null|
 |**2024-06-10**|**Leveraging Large Language Models for Knowledge-free Weak Supervision in Clinical Natural Language Processing**|Enshuo Hsu et.al.|[2406.06723](http://arxiv.org/abs/2406.06723)|null|
-|**2024-06-10**|**In-Context Learning and Fine-Tuning GPT for Argument Mining**|Jérémie Cabessa et.al.|[2406.06699](http://arxiv.org/abs/2406.06699)|null|
+|**2024-06-10**|**In-Context Learning and Fine-Tuning GPT for Argument Mining**|Jérémie Cabessa et.al.|[2406.06699](http://arxiv.org/abs/2406.06699)|**[link](https://github.com/JeremCab/AMwithGPT)**|
 |**2024-06-10**|**Should We Fine-Tune or RAG? Evaluating Different Techniques to Adapt LLMs for Dialogue**|Simone Alghisi et.al.|[2406.06399](http://arxiv.org/abs/2406.06399)|null|
 |**2024-06-09**|**LGR2: Language Guided Reward Relabeling for Accelerating Hierarchical Reinforcement Learning**|Utsav Singh et.al.|[2406.05881](http://arxiv.org/abs/2406.05881)|null|
 |**2024-06-09**|**TR2MTL: LLM based framework for Metric Temporal Logic Formalization of Traffic Rules**|Kumar Manas et.al.|[2406.05709](http://arxiv.org/abs/2406.05709)|null|
@@ -93,12 +93,12 @@ layout: default
 |**2024-06-07**|**Scenarios and Approaches for Situated Natural Language Explanations**|Pengshuo Qiu et.al.|[2406.05035](http://arxiv.org/abs/2406.05035)|null|
 |**2024-06-07**|**BERTs are Generative In-Context Learners**|David Samuel et.al.|[2406.04823](http://arxiv.org/abs/2406.04823)|**[link](https://github.com/ltgoslo/bert-in-context)**|
 |**2024-06-07**|**Large Language Model-guided Document Selection**|Xiang Kong et.al.|[2406.04638](http://arxiv.org/abs/2406.04638)|null|
-|**2024-06-06**|**llmNER: (Zero|Few)-Shot Named Entity Recognition, Exploiting the Power of Large Language Models**|Fabián Villena et.al.|[2406.04528](http://arxiv.org/abs/2406.04528)|null|
+|**2024-06-06**|**llmNER: (Zero|Few)-Shot Named Entity Recognition, Exploiting the Power of Large Language Models**|Fabián Villena et.al.|[2406.04528](http://arxiv.org/abs/2406.04528)|
 |**2024-06-06**|**Aligning Large Language Models with Self-generated Preference Data**|Dongyoung Kim et.al.|[2406.04412](http://arxiv.org/abs/2406.04412)|null|
 |**2024-06-06**|**VHDL-Eval: A Framework for Evaluating Large Language Models in VHDL Code Generation**|Prashanth Vijayaraghavan et.al.|[2406.04379](http://arxiv.org/abs/2406.04379)|null|
-|**2024-06-08**|**What Do Language Models Learn in Context? The Structured Task Hypothesis**|Jiaoda Li et.al.|[2406.04216](http://arxiv.org/abs/2406.04216)|null|
+|**2024-06-08**|**What Do Language Models Learn in Context? The Structured Task Hypothesis**|Jiaoda Li et.al.|[2406.04216](http://arxiv.org/abs/2406.04216)|**[link](https://github.com/eth-lre/llm_icl)**|
 |**2024-06-06**|**Exploring the Zero-Shot Capabilities of Vision-Language Models for Improving Gaze Following**|Anshul Gupta et.al.|[2406.03907](http://arxiv.org/abs/2406.03907)|null|
-|**2024-06-06**|**Enhancing In-Context Learning Performance with just SVD-Based Weight Pruning: A Theoretical Perspective**|Xinhao Yao et.al.|[2406.03768](http://arxiv.org/abs/2406.03768)|null|
+|**2024-06-06**|**Enhancing In-Context Learning Performance with just SVD-Based Weight Pruning: A Theoretical Perspective**|Xinhao Yao et.al.|[2406.03768](http://arxiv.org/abs/2406.03768)|**[link](https://github.com/chen123ctrls/enhancingicl_svdpruning)**|
 |**2024-06-06**|**FastGAS: Fast Graph-based Annotation Selection for In-Context Learning**|Zihan Chen et.al.|[2406.03730](http://arxiv.org/abs/2406.03730)|null|
 |**2024-06-05**|**Log Parsing with Self-Generated In-Context Learning and Self-Correction**|Yifan Wu et.al.|[2406.03376](http://arxiv.org/abs/2406.03376)|null|
 |**2024-06-06**|**StatBot.Swiss: Bilingual Open Data Exploration in Natural Language**|Farhad Nooralahzadeh et.al.|[2406.03170](http://arxiv.org/abs/2406.03170)|null|
@@ -106,7 +106,7 @@ layout: default
 |**2024-06-06**|**Exact Conversion of In-Context Learning to Model Weights in Linearized-Attention Transformers**|Brian K Chen et.al.|[2406.02847](http://arxiv.org/abs/2406.02847)|null|
 |**2024-06-04**|**E-ICL: Enhancing Fine-Grained Emotion Recognition through the Lens of Prototype Theory**|Zhou Yang et.al.|[2406.02642](http://arxiv.org/abs/2406.02642)|null|
 |**2024-06-04**|**Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks**|Tianyu He et.al.|[2406.02550](http://arxiv.org/abs/2406.02550)|**[link](https://github.com/ablghtianyi/ICL_Modular_Arithmetic)**|
-|**2024-06-04**|**Seed-TTS: A Family of High-Quality Versatile Speech Generation Models**|Philip Anastassiou et.al.|[2406.02430](http://arxiv.org/abs/2406.02430)|null|
+|**2024-06-04**|**Seed-TTS: A Family of High-Quality Versatile Speech Generation Models**|Philip Anastassiou et.al.|[2406.02430](http://arxiv.org/abs/2406.02430)|**[link](https://github.com/BytedanceSpeech/seed-tts-eval)**|
 |**2024-06-04**|**Self-Supervised Singing Voice Pre-Training towards Speech-to-Singing Conversion**|Ruiqi Li et.al.|[2406.02429](http://arxiv.org/abs/2406.02429)|null|
 |**2024-06-04**|**Phonetic Enhanced Language Modeling for Text-to-Speech Synthesis**|Kun Zhou et.al.|[2406.02009](http://arxiv.org/abs/2406.02009)|null|
 |**2024-06-04**|**Eliciting the Priors of Large Language Models using Iterated In-Context Learning**|Jian-Qiao Zhu et.al.|[2406.01860](http://arxiv.org/abs/2406.01860)|null|
@@ -166,7 +166,7 @@ layout: default
 |**2024-05-18**|**Natural Is The Best: Model-Agnostic Code Simplification for Pre-trained Large Language Models**|Yan Wang et.al.|[2405.11196](http://arxiv.org/abs/2405.11196)|**[link](https://github.com/gksajy/slimcode)**|
 |**2024-05-17**|**Large Language Models in Wireless Application Design: In-Context Learning-enhanced Automatic Network Intrusion Detection**|Han Zhang et.al.|[2405.11002](http://arxiv.org/abs/2405.11002)|null|
 |**2024-05-17**|**Feature-Adaptive and Data-Scalable In-Context Learning**|Jiahao Li et.al.|[2405.10738](http://arxiv.org/abs/2405.10738)|**[link](https://github.com/jiahaozhenbang/fads-icl)**|
-|**2024-05-20**|**Language Models can Exploit Cross-Task In-context Learning for Data-Scarce Novel Tasks**|Anwoy Chatterjee et.al.|[2405.10548](http://arxiv.org/abs/2405.10548)|null|
+|**2024-05-20**|**Language Models can Exploit Cross-Task In-context Learning for Data-Scarce Novel Tasks**|Anwoy Chatterjee et.al.|[2405.10548](http://arxiv.org/abs/2405.10548)|**[link](https://github.com/c-anwoy/cross-task-icl)**|
 |**2024-05-17**|**In-context Contrastive Learning for Event Causality Identification**|Chao Liang et.al.|[2405.10512](http://arxiv.org/abs/2405.10512)|null|
 |**2024-05-16**|**Dynamic In-context Learning with Conversational Models for Data Extraction and Materials Property Prediction**|Chinedu Ekuma et.al.|[2405.10448](http://arxiv.org/abs/2405.10448)|**[link](https://github.com/gmp007/propertyextractor)**|
 |**2024-05-16**|**Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model**|Zheng Gu et.al.|[2405.10316](http://arxiv.org/abs/2405.10316)|null|
@@ -218,7 +218,7 @@ layout: default
 |**2024-04-26**|**Automated Data Visualization from Natural Language via Large Language Models: An Exploratory Study**|Yang Wu et.al.|[2404.17136](http://arxiv.org/abs/2404.17136)|**[link](https://github.com/CGCL-codes/naturalcc)**|
 |**2024-04-25**|**Türkçe Dil Modellerinin Performans Karşılaştırması Performance Comparison of Turkish Language Models**|Eren Dogan et.al.|[2404.17010](http://arxiv.org/abs/2404.17010)|null|
 |**2024-04-25**|**Improving Diversity of Commonsense Generation by Large Language Models via In-Context Learning**|Tianhui Zhang et.al.|[2404.16807](http://arxiv.org/abs/2404.16807)|null|
-|**2024-04-25**|**In-Context Freeze-Thaw Bayesian Optimization for Hyperparameter Optimization**|Herilalaina Rakotoarison et.al.|[2404.16795](http://arxiv.org/abs/2404.16795)|null|
+|**2024-04-25**|**In-Context Freeze-Thaw Bayesian Optimization for Hyperparameter Optimization**|Herilalaina Rakotoarison et.al.|[2404.16795](http://arxiv.org/abs/2404.16795)|**[link](https://github.com/automl/ifbo)**|
 |**2024-04-25**|**What Makes Multimodal In-Context Learning Work?**|Folco Bertini Baldassini et.al.|[2404.15736](http://arxiv.org/abs/2404.15736)|**[link](https://gitlab.com/folbaeni/multimodal-icl)**|
 |**2024-04-23**|**XC-Cache: Cross-Attending to Cached Context for Efficient LLM Inference**|João Monteiro et.al.|[2404.15420](http://arxiv.org/abs/2404.15420)|null|
 |**2024-04-21**|**Socratic Planner: Inquiry-Based Zero-Shot Planning for Embodied Instruction Following**|Suyeon Shin et.al.|[2404.15190](http://arxiv.org/abs/2404.15190)|null|
@@ -444,7 +444,7 @@ layout: default
 |**2024-02-09**|**On the Out-Of-Distribution Generalization of Multimodal Large Language Models**|Xingxuan Zhang et.al.|[2402.06599](http://arxiv.org/abs/2402.06599)|null|
 |**2024-02-09**|**InternLM-Math: Open Math Large Language Models Toward Verifiable Reasoning**|Huaiyuan Ying et.al.|[2402.06332](http://arxiv.org/abs/2402.06332)|**[link](https://github.com/internlm/internlm-math)**|
 |**2024-02-08**|**In-Context Learning Can Re-learn Forbidden Tasks**|Sophie Xhonneux et.al.|[2402.05723](http://arxiv.org/abs/2402.05723)|null|
-|**2024-02-08**|**NoisyICL: A Little Noise in Model Parameters Calibrates In-context Learning**|Yufeng Zhao et.al.|[2402.05515](http://arxiv.org/abs/2402.05515)|null|
+|**2024-02-08**|**NoisyICL: A Little Noise in Model Parameters Calibrates In-context Learning**|Yufeng Zhao et.al.|[2402.05515](http://arxiv.org/abs/2402.05515)|**[link](https://github.com/hhkz/noisyicl)**|
 |**2024-02-09**|**In-Context Principle Learning from Mistakes**|Tianjun Zhang et.al.|[2402.05403](http://arxiv.org/abs/2402.05403)|null|
 |**2024-02-07**|**InCoRo: In-Context Learning for Robotics Control with Feedback Loops**|Jiaqiang Ye Zhu et.al.|[2402.05188](http://arxiv.org/abs/2402.05188)|null|
 |**2024-02-07**|**L4Q: Parameter Efficient Quantization-Aware Training on Large Language Models via LoRA-wise LSQ**|Hyesung Jeon et.al.|[2402.04902](http://arxiv.org/abs/2402.04902)|null|
@@ -904,7 +904,7 @@ layout: default
 |**2024-03-12**|**MoPE-CLIP: Structured Pruning for Efficient Vision-Language Models with Module-wise Pruning Error Metric**|Haokun Lin et.al.|[2403.07839](http://arxiv.org/abs/2403.07839)|null|
 |**2024-03-12**|**Unified Source-Free Domain Adaptation**|Song Tang et.al.|[2403.07601](http://arxiv.org/abs/2403.07601)|**[link](https://github.com/tntek/source-free-domain-adaptation)**|
 |**2024-03-12**|**In-context learning enables multimodal large language models to classify cancer pathology images**|Dyke Ferber et.al.|[2403.07407](http://arxiv.org/abs/2403.07407)|null|
-|**2024-03-12**|**KEBench: A Benchmark on Knowledge Editing for Large Vision-Language Models**|Han Huang et.al.|[2403.07350](http://arxiv.org/abs/2403.07350)|null|
+|**2024-03-12**|**KEBench: A Benchmark on Knowledge Editing for Large Vision-Language Models**|Han Huang et.al.|[2403.07350](http://arxiv.org/abs/2403.07350)|**[link](https://github.com/vlkeb/vlkeb)**|
 |**2024-03-12**|**Multi-task Manipulation Policy Modeling with Visuomotor Latent Diffusion**|Wenhui Tan et.al.|[2403.07312](http://arxiv.org/abs/2403.07312)|**[link](https://github.com/alberttan404/rold)**|
 |**2024-03-12**|**Calibrating Multi-modal Representations: A Pursuit of Group Robustness without Annotations**|Chenyu You et.al.|[2403.07241](http://arxiv.org/abs/2403.07241)|**[link](https://github.com/charlesyou999648/cfr)**|
 |**2024-03-11**|**Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation**|Xinyao Li et.al.|[2403.06946](http://arxiv.org/abs/2403.06946)|**[link](https://github.com/tl-uestc/unimos)**|
@@ -943,7 +943,7 @@ layout: default
 |**2024-02-29**|**Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction**|Hao Li et.al.|[2402.19326](http://arxiv.org/abs/2402.19326)|**[link](https://github.com/ls1rius/wsi_five)**|
 |**2024-02-29**|**Typographic Attacks in Large Multimodal Models Can be Alleviated by More Informative Prompts**|Hao Cheng et.al.|[2402.19150](http://arxiv.org/abs/2402.19150)|null|
 |**2024-02-28**|**IBD: Alleviating Hallucinations in Large Vision-Language Models via Image-Biased Decoding**|Lanyun Zhu et.al.|[2402.18476](http://arxiv.org/abs/2402.18476)|null|
-|**2024-02-29**|**A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision Language Models**|Xiujie Song et.al.|[2402.18409](http://arxiv.org/abs/2402.18409)|null|
+|**2024-02-29**|**A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision Language Models**|Xiujie Song et.al.|[2402.18409](http://arxiv.org/abs/2402.18409)|**[link](https://github.com/xiujiesong/cog-bench)**|
 |**2024-02-28**|**SynArtifact: Classifying and Alleviating Artifacts in Synthetic Images via Vision-Language Model**|Bin Cao et.al.|[2402.18068](http://arxiv.org/abs/2402.18068)|null|
 |**2024-02-28**|**Vision Language Model-based Caption Evaluation Method Leveraging Visual Context Extraction**|Koki Maeda et.al.|[2402.17969](http://arxiv.org/abs/2402.17969)|null|
 |**2024-02-27**|**Demonstrating and Reducing Shortcuts in Vision-Language Representation Learning**|Maurits Bleeker et.al.|[2402.17510](http://arxiv.org/abs/2402.17510)|**[link](https://github.com/mauritsbleeker/svl-framework)**|
@@ -1011,7 +1011,7 @@ layout: default
 |**2024-02-08**|**Real-World Robot Applications of Foundation Models: A Review**|Kento Kawaharazuka et.al.|[2402.05741](http://arxiv.org/abs/2402.05741)|null|
 |**2024-02-07**|**Language-Based Augmentation to Address Shortcut Learning in Object Goal Navigation**|Dennis Hoftijzer et.al.|[2402.05090](http://arxiv.org/abs/2402.05090)|**[link](https://github.com/dennishoftijzer/l-b_augmentation)**|
 |**2024-02-07**|**Code as Reward: Empowering Reinforcement Learning with VLMs**|David Venuto et.al.|[2402.04764](http://arxiv.org/abs/2402.04764)|null|
-|**2024-02-07**|**Open-Vocabulary Calibration for Vision-Language Models**|Shuoyuan Wang et.al.|[2402.04655](http://arxiv.org/abs/2402.04655)|null|
+|**2024-02-07**|**Open-Vocabulary Calibration for Vision-Language Models**|Shuoyuan Wang et.al.|[2402.04655](http://arxiv.org/abs/2402.04655)|**[link](https://github.com/ml-stat-Sustech/CLIP_Calibration)**|
 |**2024-02-07**|**LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors**|Sheng Jin et.al.|[2402.04630](http://arxiv.org/abs/2402.04630)|null|
 |**2024-02-07**|**ScreenAI: A Vision-Language Model for UI and Infographics Understanding**|Gilles Baechler et.al.|[2402.04615](http://arxiv.org/abs/2402.04615)|**[link](https://github.com/google-research-datasets/screen_qa)**|
 |**2024-02-06**|**CogCoM: Train Large Vision-Language Models Diving into Details through Chain of Manipulations**|Ji Qi et.al.|[2402.04236](http://arxiv.org/abs/2402.04236)|**[link](https://github.com/thudm/cogcom)**|
@@ -1144,7 +1144,7 @@ layout: default
 |**2024-06-11**|**CAAP: Context-Aware Action Planning Prompting to Solve Computer Tasks with Front-End UI Only**|Junhee Cho et.al.|[2406.06947](http://arxiv.org/abs/2406.06947)|**[link](https://github.com/caap-agent/caap-agent)**|
 |**2024-06-11**|**Eyeballing Combinatorial Problems: A Case Study of Using Multimodal Large Language Models to Solve Traveling Salesman Problems**|Mohammed Elhenawy et.al.|[2406.06865](http://arxiv.org/abs/2406.06865)|null|
 |**2024-06-10**|**Leveraging Large Language Models for Knowledge-free Weak Supervision in Clinical Natural Language Processing**|Enshuo Hsu et.al.|[2406.06723](http://arxiv.org/abs/2406.06723)|null|
-|**2024-06-10**|**In-Context Learning and Fine-Tuning GPT for Argument Mining**|Jérémie Cabessa et.al.|[2406.06699](http://arxiv.org/abs/2406.06699)|null|
+|**2024-06-10**|**In-Context Learning and Fine-Tuning GPT for Argument Mining**|Jérémie Cabessa et.al.|[2406.06699](http://arxiv.org/abs/2406.06699)|**[link](https://github.com/JeremCab/AMwithGPT)**|
 |**2024-06-10**|**Should We Fine-Tune or RAG? Evaluating Different Techniques to Adapt LLMs for Dialogue**|Simone Alghisi et.al.|[2406.06399](http://arxiv.org/abs/2406.06399)|null|
 |**2024-06-09**|**LGR2: Language Guided Reward Relabeling for Accelerating Hierarchical Reinforcement Learning**|Utsav Singh et.al.|[2406.05881](http://arxiv.org/abs/2406.05881)|null|
 |**2024-06-09**|**TR2MTL: LLM based framework for Metric Temporal Logic Formalization of Traffic Rules**|Kumar Manas et.al.|[2406.05709](http://arxiv.org/abs/2406.05709)|null|
@@ -1155,12 +1155,12 @@ layout: default
 |**2024-06-07**|**Scenarios and Approaches for Situated Natural Language Explanations**|Pengshuo Qiu et.al.|[2406.05035](http://arxiv.org/abs/2406.05035)|null|
 |**2024-06-07**|**BERTs are Generative In-Context Learners**|David Samuel et.al.|[2406.04823](http://arxiv.org/abs/2406.04823)|**[link](https://github.com/ltgoslo/bert-in-context)**|
 |**2024-06-07**|**Large Language Model-guided Document Selection**|Xiang Kong et.al.|[2406.04638](http://arxiv.org/abs/2406.04638)|null|
-|**2024-06-06**|**llmNER: (Zero|Few)-Shot Named Entity Recognition, Exploiting the Power of Large Language Models**|Fabián Villena et.al.|[2406.04528](http://arxiv.org/abs/2406.04528)|null|
+|**2024-06-06**|**llmNER: (Zero|Few)-Shot Named Entity Recognition, Exploiting the Power of Large Language Models**|Fabián Villena et.al.|[2406.04528](http://arxiv.org/abs/2406.04528)|
 |**2024-06-06**|**Aligning Large Language Models with Self-generated Preference Data**|Dongyoung Kim et.al.|[2406.04412](http://arxiv.org/abs/2406.04412)|null|
 |**2024-06-06**|**VHDL-Eval: A Framework for Evaluating Large Language Models in VHDL Code Generation**|Prashanth Vijayaraghavan et.al.|[2406.04379](http://arxiv.org/abs/2406.04379)|null|
-|**2024-06-08**|**What Do Language Models Learn in Context? The Structured Task Hypothesis**|Jiaoda Li et.al.|[2406.04216](http://arxiv.org/abs/2406.04216)|null|
+|**2024-06-08**|**What Do Language Models Learn in Context? The Structured Task Hypothesis**|Jiaoda Li et.al.|[2406.04216](http://arxiv.org/abs/2406.04216)|**[link](https://github.com/eth-lre/llm_icl)**|
 |**2024-06-06**|**Exploring the Zero-Shot Capabilities of Vision-Language Models for Improving Gaze Following**|Anshul Gupta et.al.|[2406.03907](http://arxiv.org/abs/2406.03907)|null|
-|**2024-06-06**|**Enhancing In-Context Learning Performance with just SVD-Based Weight Pruning: A Theoretical Perspective**|Xinhao Yao et.al.|[2406.03768](http://arxiv.org/abs/2406.03768)|null|
+|**2024-06-06**|**Enhancing In-Context Learning Performance with just SVD-Based Weight Pruning: A Theoretical Perspective**|Xinhao Yao et.al.|[2406.03768](http://arxiv.org/abs/2406.03768)|**[link](https://github.com/chen123ctrls/enhancingicl_svdpruning)**|
 |**2024-06-06**|**FastGAS: Fast Graph-based Annotation Selection for In-Context Learning**|Zihan Chen et.al.|[2406.03730](http://arxiv.org/abs/2406.03730)|null|
 |**2024-06-05**|**Log Parsing with Self-Generated In-Context Learning and Self-Correction**|Yifan Wu et.al.|[2406.03376](http://arxiv.org/abs/2406.03376)|null|
 |**2024-06-06**|**StatBot.Swiss: Bilingual Open Data Exploration in Natural Language**|Farhad Nooralahzadeh et.al.|[2406.03170](http://arxiv.org/abs/2406.03170)|null|
@@ -1168,7 +1168,7 @@ layout: default
 |**2024-06-06**|**Exact Conversion of In-Context Learning to Model Weights in Linearized-Attention Transformers**|Brian K Chen et.al.|[2406.02847](http://arxiv.org/abs/2406.02847)|null|
 |**2024-06-04**|**E-ICL: Enhancing Fine-Grained Emotion Recognition through the Lens of Prototype Theory**|Zhou Yang et.al.|[2406.02642](http://arxiv.org/abs/2406.02642)|null|
 |**2024-06-04**|**Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks**|Tianyu He et.al.|[2406.02550](http://arxiv.org/abs/2406.02550)|**[link](https://github.com/ablghtianyi/ICL_Modular_Arithmetic)**|
-|**2024-06-04**|**Seed-TTS: A Family of High-Quality Versatile Speech Generation Models**|Philip Anastassiou et.al.|[2406.02430](http://arxiv.org/abs/2406.02430)|null|
+|**2024-06-04**|**Seed-TTS: A Family of High-Quality Versatile Speech Generation Models**|Philip Anastassiou et.al.|[2406.02430](http://arxiv.org/abs/2406.02430)|**[link](https://github.com/BytedanceSpeech/seed-tts-eval)**|
 |**2024-06-04**|**Self-Supervised Singing Voice Pre-Training towards Speech-to-Singing Conversion**|Ruiqi Li et.al.|[2406.02429](http://arxiv.org/abs/2406.02429)|null|
 |**2024-06-04**|**Phonetic Enhanced Language Modeling for Text-to-Speech Synthesis**|Kun Zhou et.al.|[2406.02009](http://arxiv.org/abs/2406.02009)|null|
 |**2024-06-04**|**Eliciting the Priors of Large Language Models using Iterated In-Context Learning**|Jian-Qiao Zhu et.al.|[2406.01860](http://arxiv.org/abs/2406.01860)|null|
@@ -1228,7 +1228,7 @@ layout: default
 |**2024-05-18**|**Natural Is The Best: Model-Agnostic Code Simplification for Pre-trained Large Language Models**|Yan Wang et.al.|[2405.11196](http://arxiv.org/abs/2405.11196)|**[link](https://github.com/gksajy/slimcode)**|
 |**2024-05-17**|**Large Language Models in Wireless Application Design: In-Context Learning-enhanced Automatic Network Intrusion Detection**|Han Zhang et.al.|[2405.11002](http://arxiv.org/abs/2405.11002)|null|
 |**2024-05-17**|**Feature-Adaptive and Data-Scalable In-Context Learning**|Jiahao Li et.al.|[2405.10738](http://arxiv.org/abs/2405.10738)|**[link](https://github.com/jiahaozhenbang/fads-icl)**|
-|**2024-05-20**|**Language Models can Exploit Cross-Task In-context Learning for Data-Scarce Novel Tasks**|Anwoy Chatterjee et.al.|[2405.10548](http://arxiv.org/abs/2405.10548)|null|
+|**2024-05-20**|**Language Models can Exploit Cross-Task In-context Learning for Data-Scarce Novel Tasks**|Anwoy Chatterjee et.al.|[2405.10548](http://arxiv.org/abs/2405.10548)|**[link](https://github.com/c-anwoy/cross-task-icl)**|
 |**2024-05-17**|**In-context Contrastive Learning for Event Causality Identification**|Chao Liang et.al.|[2405.10512](http://arxiv.org/abs/2405.10512)|null|
 |**2024-05-16**|**Dynamic In-context Learning with Conversational Models for Data Extraction and Materials Property Prediction**|Chinedu Ekuma et.al.|[2405.10448](http://arxiv.org/abs/2405.10448)|**[link](https://github.com/gmp007/propertyextractor)**|
 |**2024-05-16**|**Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model**|Zheng Gu et.al.|[2405.10316](http://arxiv.org/abs/2405.10316)|null|
@@ -1280,7 +1280,7 @@ layout: default
 |**2024-04-26**|**Automated Data Visualization from Natural Language via Large Language Models: An Exploratory Study**|Yang Wu et.al.|[2404.17136](http://arxiv.org/abs/2404.17136)|**[link](https://github.com/CGCL-codes/naturalcc)**|
 |**2024-04-25**|**Türkçe Dil Modellerinin Performans Karşılaştırması Performance Comparison of Turkish Language Models**|Eren Dogan et.al.|[2404.17010](http://arxiv.org/abs/2404.17010)|null|
 |**2024-04-25**|**Improving Diversity of Commonsense Generation by Large Language Models via In-Context Learning**|Tianhui Zhang et.al.|[2404.16807](http://arxiv.org/abs/2404.16807)|null|
-|**2024-04-25**|**In-Context Freeze-Thaw Bayesian Optimization for Hyperparameter Optimization**|Herilalaina Rakotoarison et.al.|[2404.16795](http://arxiv.org/abs/2404.16795)|null|
+|**2024-04-25**|**In-Context Freeze-Thaw Bayesian Optimization for Hyperparameter Optimization**|Herilalaina Rakotoarison et.al.|[2404.16795](http://arxiv.org/abs/2404.16795)|**[link](https://github.com/automl/ifbo)**|
 |**2024-04-25**|**What Makes Multimodal In-Context Learning Work?**|Folco Bertini Baldassini et.al.|[2404.15736](http://arxiv.org/abs/2404.15736)|**[link](https://gitlab.com/folbaeni/multimodal-icl)**|
 |**2024-04-23**|**XC-Cache: Cross-Attending to Cached Context for Efficient LLM Inference**|João Monteiro et.al.|[2404.15420](http://arxiv.org/abs/2404.15420)|null|
 |**2024-04-21**|**Socratic Planner: Inquiry-Based Zero-Shot Planning for Embodied Instruction Following**|Suyeon Shin et.al.|[2404.15190](http://arxiv.org/abs/2404.15190)|null|
