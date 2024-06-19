@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**PFID: Privacy First Inference Delegation Framework for LLMs**|Haoyan Yang et.al.|[2406.12238](http://arxiv.org/abs/2406.12238)|null|
 |**2024-06-17**|**YOLO-FEDER FusionNet: A Novel Deep Learning Architecture for Drone Detection**|Tamara R. Lenhard et.al.|[2406.11641](http://arxiv.org/abs/2406.11641)|null|
 |**2024-06-09**|**SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention**|Muhammad Nawfal Meeran et.al.|[2406.05802](http://arxiv.org/abs/2406.05802)|**[link](https://github.com/spidernitt/sam-pm)**|
 |**2024-06-09**|**Utilizing Grounded SAM for self-supervised frugal camouflaged human detection**|Matthias Pijarowski et.al.|[2406.05776](http://arxiv.org/abs/2406.05776)|null|
@@ -76,6 +77,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Can Large Language Models Always Solve Easy Problems if They Can Solve Harder Ones?**|Zhe Yang et.al.|[2406.12809](http://arxiv.org/abs/2406.12809)|null|
+|**2024-06-18**|**In-Context Learning of Energy Functions**|Rylan Schaeffer et.al.|[2406.12785](http://arxiv.org/abs/2406.12785)|null|
+|**2024-06-18**|**Can We Trust Large Language Models Generated Code? A Framework for In-Context Learning, Security Patterns, and Code Evaluations Across Diverse LLMs**|Ahmad Mohsin et.al.|[2406.12513](http://arxiv.org/abs/2406.12513)|null|
+|**2024-06-18**|**Navigating the Labyrinth: Evaluating and Enhancing LLMs' Ability to Reason About Search Problems**|Nasim Borazjanizadeh et.al.|[2406.12172](http://arxiv.org/abs/2406.12172)|null|
+|**2024-06-17**|**Soft Prompting for Unlearning in Large Language Models**|Karuna Bhaila et.al.|[2406.12038](http://arxiv.org/abs/2406.12038)|**[link](https://github.com/karuna-bhaila/llm_unlearning)**|
 |**2024-06-17**|**Multi-Layer Ranking with Large Language Models for News Source Recommendation**|Wenjia Zhang et.al.|[2406.11745](http://arxiv.org/abs/2406.11745)|null|
 |**2024-06-17**|**Meta Reasoning for Large Language Models**|Peizhong Gao et.al.|[2406.11698](http://arxiv.org/abs/2406.11698)|null|
 |**2024-06-17**|**Can Many-Shot In-Context Learning Help Long-Context LLM Judges? See More, Judge Better!**|Mingyang Song et.al.|[2406.11629](http://arxiv.org/abs/2406.11629)|**[link](https://github.com/nick7nlp/SeeMoreJudgeBetter)**|
@@ -566,6 +572,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**AGLA: Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention**|Wenbin An et.al.|[2406.12718](http://arxiv.org/abs/2406.12718)|null|
+|**2024-06-18**|**Do More Details Always Introduce More Hallucinations in LVLM-based Image Captioning?**|Mingqian Feng et.al.|[2406.12663](http://arxiv.org/abs/2406.12663)|null|
+|**2024-06-18**|**Efficient and Long-Tailed Generalization for Pre-trained Vision-Language Model**|Jiang-Xin Shi et.al.|[2406.12638](http://arxiv.org/abs/2406.12638)|null|
+|**2024-06-18**|**VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding**|Xiang Li et.al.|[2406.12384](http://arxiv.org/abs/2406.12384)|**[link](https://github.com/lx709/vrsbench)**|
+|**2024-06-18**|**VoCo-LLaMA: Towards Vision Compression with Large Language Models**|Xubing Ye et.al.|[2406.12275](http://arxiv.org/abs/2406.12275)|null|
+|**2024-06-18**|**The Solution for CVPR2024 Foundational Few-Shot Object Detection Challenge**|Hongpeng Pan et.al.|[2406.12225](http://arxiv.org/abs/2406.12225)|null|
+|**2024-06-17**|**SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model**|Yongting Zhang et.al.|[2406.12030](http://arxiv.org/abs/2406.12030)|**[link](https://github.com/echosechen/spa-vl-rlhf)**|
 |**2024-06-17**|**MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs**|Ziyu Liu et.al.|[2406.11833](http://arxiv.org/abs/2406.11833)|**[link](https://github.com/liuziyu77/mmdu)**|
 |**2024-06-17**|**Unveiling Encoder-Free Vision-Language Models**|Haiwen Diao et.al.|[2406.11832](http://arxiv.org/abs/2406.11832)|**[link](https://github.com/baaivision/eve)**|
 |**2024-06-17**|**On Efficient Language and Vision Assistants for Visually-Situated Natural Language Understanding: What Matters in Reading and Reasoning**|Geewook Kim et.al.|[2406.11823](http://arxiv.org/abs/2406.11823)|**[link](https://github.com/naver-ai/elva)**|
@@ -1177,6 +1190,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Can Large Language Models Always Solve Easy Problems if They Can Solve Harder Ones?**|Zhe Yang et.al.|[2406.12809](http://arxiv.org/abs/2406.12809)|null|
+|**2024-06-18**|**In-Context Learning of Energy Functions**|Rylan Schaeffer et.al.|[2406.12785](http://arxiv.org/abs/2406.12785)|null|
+|**2024-06-18**|**Can We Trust Large Language Models Generated Code? A Framework for In-Context Learning, Security Patterns, and Code Evaluations Across Diverse LLMs**|Ahmad Mohsin et.al.|[2406.12513](http://arxiv.org/abs/2406.12513)|null|
+|**2024-06-18**|**Navigating the Labyrinth: Evaluating and Enhancing LLMs' Ability to Reason About Search Problems**|Nasim Borazjanizadeh et.al.|[2406.12172](http://arxiv.org/abs/2406.12172)|null|
+|**2024-06-17**|**Soft Prompting for Unlearning in Large Language Models**|Karuna Bhaila et.al.|[2406.12038](http://arxiv.org/abs/2406.12038)|**[link](https://github.com/karuna-bhaila/llm_unlearning)**|
 |**2024-06-17**|**Multi-Layer Ranking with Large Language Models for News Source Recommendation**|Wenjia Zhang et.al.|[2406.11745](http://arxiv.org/abs/2406.11745)|null|
 |**2024-06-17**|**Meta Reasoning for Large Language Models**|Peizhong Gao et.al.|[2406.11698](http://arxiv.org/abs/2406.11698)|null|
 |**2024-06-17**|**Can Many-Shot In-Context Learning Help Long-Context LLM Judges? See More, Judge Better!**|Mingyang Song et.al.|[2406.11629](http://arxiv.org/abs/2406.11629)|**[link](https://github.com/nick7nlp/SeeMoreJudgeBetter)**|
