@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.21
+## Updated on 2024.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -68,7 +68,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-20**|**Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data**|Johannes Treutlein et.al.|[2406.14546](http://arxiv.org/abs/2406.14546)|null|
+|**2024-06-20**|**Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data**|Johannes Treutlein et.al.|[2406.14546](http://arxiv.org/abs/2406.14546)|**[link](https://github.com/choidami/inductive-oocr)**|
 |**2024-06-20**|**Improving Expert Radiology Report Summarization by Prompting Large Language Models with a Layperson Summary**|Xingmeng Zhao et.al.|[2406.14500](http://arxiv.org/abs/2406.14500)|null|
 |**2024-06-20**|**Data-Centric AI in the Age of Large Language Models**|Xinyi Xu et.al.|[2406.14473](http://arxiv.org/abs/2406.14473)|null|
 |**2024-06-20**|**SeCoKD: Aligning Large Language Models for In-Context Learning with Fewer Shots**|Weixing Wang et.al.|[2406.14208](http://arxiv.org/abs/2406.14208)|null|
@@ -1195,7 +1195,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-20**|**Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data**|Johannes Treutlein et.al.|[2406.14546](http://arxiv.org/abs/2406.14546)|null|
+|**2024-06-20**|**Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data**|Johannes Treutlein et.al.|[2406.14546](http://arxiv.org/abs/2406.14546)|**[link](https://github.com/choidami/inductive-oocr)**|
 |**2024-06-20**|**Improving Expert Radiology Report Summarization by Prompting Large Language Models with a Layperson Summary**|Xingmeng Zhao et.al.|[2406.14500](http://arxiv.org/abs/2406.14500)|null|
 |**2024-06-20**|**Data-Centric AI in the Age of Large Language Models**|Xinyi Xu et.al.|[2406.14473](http://arxiv.org/abs/2406.14473)|null|
 |**2024-06-20**|**SeCoKD: Aligning Large Language Models for In-Context Learning with Fewer Shots**|Weixing Wang et.al.|[2406.14208](http://arxiv.org/abs/2406.14208)|null|
