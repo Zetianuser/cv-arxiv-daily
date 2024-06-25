@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.24
+## Updated on 2024.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -77,7 +77,7 @@ layout: default
 |**2024-06-20**|**Data-Centric AI in the Age of Large Language Models**|Xinyi Xu et.al.|[2406.14473](http://arxiv.org/abs/2406.14473)|null|
 |**2024-06-20**|**SeCoKD: Aligning Large Language Models for In-Context Learning with Fewer Shots**|Weixing Wang et.al.|[2406.14208](http://arxiv.org/abs/2406.14208)|null|
 |**2024-06-20**|**Investigating the Pre-Training Dynamics of In-Context Learning: Task Recognition vs. Task Learning**|Xiaolei Wang et.al.|[2406.14022](http://arxiv.org/abs/2406.14022)|**[link](https://github.com/rucaibox/competitive-icl)**|
-|**2024-06-19**|**Can Few-shot Work in Long-Context? Recycling the Context to Generate Demonstrations**|Arie Cattan et.al.|[2406.13632](http://arxiv.org/abs/2406.13632)|null|
+|**2024-06-23**|**Can Few-shot Work in Long-Context? Recycling the Context to Generate Demonstrations**|Arie Cattan et.al.|[2406.13632](http://arxiv.org/abs/2406.13632)|null|
 |**2024-06-19**|**InstructRAG: Instructing Retrieval-Augmented Generation with Explicit Denoising**|Zhepei Wei et.al.|[2406.13629](http://arxiv.org/abs/2406.13629)|null|
 |**2024-06-19**|**In-Context In-Context Learning with Transformer Neural Processes**|Matthew Ashman et.al.|[2406.13493](http://arxiv.org/abs/2406.13493)|null|
 |**2024-06-19**|**ZeroDL: Zero-shot Distribution Learning for Text Clustering via Large Language Models**|Hwiyeol Jo et.al.|[2406.13342](http://arxiv.org/abs/2406.13342)|null|
@@ -1211,7 +1211,7 @@ layout: default
 |**2024-06-20**|**Data-Centric AI in the Age of Large Language Models**|Xinyi Xu et.al.|[2406.14473](http://arxiv.org/abs/2406.14473)|null|
 |**2024-06-20**|**SeCoKD: Aligning Large Language Models for In-Context Learning with Fewer Shots**|Weixing Wang et.al.|[2406.14208](http://arxiv.org/abs/2406.14208)|null|
 |**2024-06-20**|**Investigating the Pre-Training Dynamics of In-Context Learning: Task Recognition vs. Task Learning**|Xiaolei Wang et.al.|[2406.14022](http://arxiv.org/abs/2406.14022)|**[link](https://github.com/rucaibox/competitive-icl)**|
-|**2024-06-19**|**Can Few-shot Work in Long-Context? Recycling the Context to Generate Demonstrations**|Arie Cattan et.al.|[2406.13632](http://arxiv.org/abs/2406.13632)|null|
+|**2024-06-23**|**Can Few-shot Work in Long-Context? Recycling the Context to Generate Demonstrations**|Arie Cattan et.al.|[2406.13632](http://arxiv.org/abs/2406.13632)|null|
 |**2024-06-19**|**InstructRAG: Instructing Retrieval-Augmented Generation with Explicit Denoising**|Zhepei Wei et.al.|[2406.13629](http://arxiv.org/abs/2406.13629)|null|
 |**2024-06-19**|**In-Context In-Context Learning with Transformer Neural Processes**|Matthew Ashman et.al.|[2406.13493](http://arxiv.org/abs/2406.13493)|null|
 |**2024-06-19**|**ZeroDL: Zero-shot Distribution Learning for Text Clustering via Large Language Models**|Hwiyeol Jo et.al.|[2406.13342](http://arxiv.org/abs/2406.13342)|null|

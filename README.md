@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.24
+## Updated on 2024.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -71,7 +71,7 @@
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
 |**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
 
-<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
 
 ## In-context
 
@@ -86,7 +86,7 @@
 |**2024-06-20**|**Data-Centric AI in the Age of Large Language Models**|Xinyi Xu et.al.|[2406.14473](http://arxiv.org/abs/2406.14473)|null|
 |**2024-06-20**|**SeCoKD: Aligning Large Language Models for In-Context Learning with Fewer Shots**|Weixing Wang et.al.|[2406.14208](http://arxiv.org/abs/2406.14208)|null|
 |**2024-06-20**|**Investigating the Pre-Training Dynamics of In-Context Learning: Task Recognition vs. Task Learning**|Xiaolei Wang et.al.|[2406.14022](http://arxiv.org/abs/2406.14022)|**[link](https://github.com/rucaibox/competitive-icl)**|
-|**2024-06-19**|**Can Few-shot Work in Long-Context? Recycling the Context to Generate Demonstrations**|Arie Cattan et.al.|[2406.13632](http://arxiv.org/abs/2406.13632)|null|
+|**2024-06-23**|**Can Few-shot Work in Long-Context? Recycling the Context to Generate Demonstrations**|Arie Cattan et.al.|[2406.13632](http://arxiv.org/abs/2406.13632)|null|
 |**2024-06-19**|**InstructRAG: Instructing Retrieval-Augmented Generation with Explicit Denoising**|Zhepei Wei et.al.|[2406.13629](http://arxiv.org/abs/2406.13629)|null|
 |**2024-06-19**|**In-Context In-Context Learning with Transformer Neural Processes**|Matthew Ashman et.al.|[2406.13493](http://arxiv.org/abs/2406.13493)|null|
 |**2024-06-19**|**ZeroDL: Zero-shot Distribution Learning for Text Clustering via Large Language Models**|Hwiyeol Jo et.al.|[2406.13342](http://arxiv.org/abs/2406.13342)|null|
@@ -580,7 +580,7 @@
 |**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075](http://arxiv.org/abs/2312.11075)|null|
 |**2023-12-18**|**APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation**|Chengran Yang et.al.|[2312.10934](http://arxiv.org/abs/2312.10934)|null|
 
-<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
 
 ## VLM
 
@@ -1203,7 +1203,7 @@
 |**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423](http://arxiv.org/abs/2312.12423)|null|
 |**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379](http://arxiv.org/abs/2312.12379)|null|
 
-<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
 
 ## Visual In-context
 
@@ -1211,7 +1211,7 @@
 |---|---|---|---|---|
 |**2024-02-18**|**Visual In-Context Learning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2402.11574](http://arxiv.org/abs/2402.11574)|null|
 
-<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
 
 ## V-ICL
 
@@ -1226,7 +1226,7 @@
 |**2024-06-20**|**Data-Centric AI in the Age of Large Language Models**|Xinyi Xu et.al.|[2406.14473](http://arxiv.org/abs/2406.14473)|null|
 |**2024-06-20**|**SeCoKD: Aligning Large Language Models for In-Context Learning with Fewer Shots**|Weixing Wang et.al.|[2406.14208](http://arxiv.org/abs/2406.14208)|null|
 |**2024-06-20**|**Investigating the Pre-Training Dynamics of In-Context Learning: Task Recognition vs. Task Learning**|Xiaolei Wang et.al.|[2406.14022](http://arxiv.org/abs/2406.14022)|**[link](https://github.com/rucaibox/competitive-icl)**|
-|**2024-06-19**|**Can Few-shot Work in Long-Context? Recycling the Context to Generate Demonstrations**|Arie Cattan et.al.|[2406.13632](http://arxiv.org/abs/2406.13632)|null|
+|**2024-06-23**|**Can Few-shot Work in Long-Context? Recycling the Context to Generate Demonstrations**|Arie Cattan et.al.|[2406.13632](http://arxiv.org/abs/2406.13632)|null|
 |**2024-06-19**|**InstructRAG: Instructing Retrieval-Augmented Generation with Explicit Denoising**|Zhepei Wei et.al.|[2406.13629](http://arxiv.org/abs/2406.13629)|null|
 |**2024-06-19**|**In-Context In-Context Learning with Transformer Neural Processes**|Matthew Ashman et.al.|[2406.13493](http://arxiv.org/abs/2406.13493)|null|
 |**2024-06-19**|**ZeroDL: Zero-shot Distribution Learning for Text Clustering via Large Language Models**|Hwiyeol Jo et.al.|[2406.13342](http://arxiv.org/abs/2406.13342)|null|
@@ -1430,7 +1430,7 @@
 |**2024-04-15**|**Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**|Sungwon Han et.al.|[2404.09491](http://arxiv.org/abs/2404.09491)|**[link](https://github.com/sungwon-han/featllm)**|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
 
-<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
