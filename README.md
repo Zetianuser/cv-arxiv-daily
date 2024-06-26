@@ -77,6 +77,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning**|Ercong Nie et.al.|[2406.17764](http://arxiv.org/abs/2406.17764)|null|
+|**2024-06-25**|**Knowledge Distillation in Automated Annotation: Supervised Text Classification with LLM-Generated Training Labels**|Nicholas Pangakis et.al.|[2406.17633](http://arxiv.org/abs/2406.17633)|null|
+|**2024-06-25**|**Retrieval-Augmented Code Generation for Situated Action Generation: A Case Study on Minecraft**|Chalamalasetti Kranti et.al.|[2406.17553](http://arxiv.org/abs/2406.17553)|null|
+|**2024-06-25**|**Retrieval-style In-Context Learning for Few-shot Hierarchical Text Classification**|Huiyao Chen et.al.|[2406.17534](http://arxiv.org/abs/2406.17534)|null|
+|**2024-06-25**|**Enhancing Tool Retrieval with Iterative Feedback from Large Language Models**|Qiancheng Xu et.al.|[2406.17465](http://arxiv.org/abs/2406.17465)|null|
+|**2024-06-25**|**A Three-Pronged Approach to Cross-Lingual Adaptation with Multilingual LLMs**|Vaibhav Singh et.al.|[2406.17377](http://arxiv.org/abs/2406.17377)|null|
+|**2024-06-25**|**Self-Constructed Context Decompilation with Fined-grained Alignment Enhancement**|Yunlong Feng et.al.|[2406.17233](http://arxiv.org/abs/2406.17233)|null|
 |**2024-06-24**|**Finding Transformer Circuits with Edge Pruning**|Adithya Bhaskar et.al.|[2406.16778](http://arxiv.org/abs/2406.16778)|**[link](https://github.com/princeton-nlp/edge-pruning)**|
 |**2024-06-24**|**Token-based Decision Criteria Are Suboptimal in In-context Learning**|Hakaze Cho et.al.|[2406.16535](http://arxiv.org/abs/2406.16535)|null|
 |**2024-06-24**|**DemoRank: Selecting Effective Demonstrations for Large Language Models in Ranking Task**|Wenhan Liu et.al.|[2406.16332](http://arxiv.org/abs/2406.16332)|null|
@@ -593,6 +600,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**EXTRACT: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data**|Jesse Zhang et.al.|[2406.17768](http://arxiv.org/abs/2406.17768)|null|
+|**2024-06-25**|**DKPROMPT: Domain Knowledge Prompting Vision-Language Models for Open-World Planning**|Xiaohan Zhang et.al.|[2406.17659](http://arxiv.org/abs/2406.17659)|null|
+|**2024-06-24**|**Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models**|Bei Yan et.al.|[2406.17115](http://arxiv.org/abs/2406.17115)|**[link](https://github.com/hqhbench/hqhbench)**|
 |**2024-06-24**|**Losing Visual Needles in Image Haystacks: Vision Language Models are Easily Distracted in Short and Long Contexts**|Aditya Sharma et.al.|[2406.16851](http://arxiv.org/abs/2406.16851)|null|
 |**2024-06-24**|**ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance**|Shuwei Shi et.al.|[2406.16476](http://arxiv.org/abs/2406.16476)|null|
 |**2024-06-24**|**Evaluating Visual and Cultural Interpretation: The K-Viscuit Benchmark with Human-VLM Collaboration**|Yujin Baek et.al.|[2406.16469](http://arxiv.org/abs/2406.16469)|null|
@@ -1233,6 +1243,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning**|Ercong Nie et.al.|[2406.17764](http://arxiv.org/abs/2406.17764)|null|
+|**2024-06-25**|**Knowledge Distillation in Automated Annotation: Supervised Text Classification with LLM-Generated Training Labels**|Nicholas Pangakis et.al.|[2406.17633](http://arxiv.org/abs/2406.17633)|null|
+|**2024-06-25**|**Retrieval-Augmented Code Generation for Situated Action Generation: A Case Study on Minecraft**|Chalamalasetti Kranti et.al.|[2406.17553](http://arxiv.org/abs/2406.17553)|null|
+|**2024-06-25**|**Retrieval-style In-Context Learning for Few-shot Hierarchical Text Classification**|Huiyao Chen et.al.|[2406.17534](http://arxiv.org/abs/2406.17534)|null|
+|**2024-06-25**|**Enhancing Tool Retrieval with Iterative Feedback from Large Language Models**|Qiancheng Xu et.al.|[2406.17465](http://arxiv.org/abs/2406.17465)|null|
+|**2024-06-25**|**A Three-Pronged Approach to Cross-Lingual Adaptation with Multilingual LLMs**|Vaibhav Singh et.al.|[2406.17377](http://arxiv.org/abs/2406.17377)|null|
+|**2024-06-25**|**Self-Constructed Context Decompilation with Fined-grained Alignment Enhancement**|Yunlong Feng et.al.|[2406.17233](http://arxiv.org/abs/2406.17233)|null|
 |**2024-06-24**|**Finding Transformer Circuits with Edge Pruning**|Adithya Bhaskar et.al.|[2406.16778](http://arxiv.org/abs/2406.16778)|**[link](https://github.com/princeton-nlp/edge-pruning)**|
 |**2024-06-24**|**Token-based Decision Criteria Are Suboptimal in In-context Learning**|Hakaze Cho et.al.|[2406.16535](http://arxiv.org/abs/2406.16535)|null|
 |**2024-06-24**|**DemoRank: Selecting Effective Demonstrations for Large Language Models in Ranking Task**|Wenhan Liu et.al.|[2406.16332](http://arxiv.org/abs/2406.16332)|null|
