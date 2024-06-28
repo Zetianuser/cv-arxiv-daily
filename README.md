@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -71,7 +71,7 @@
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
 |**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
 
-<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240628>back to top</a>)</p>
 
 ## In-context
 
@@ -86,7 +86,7 @@
 |**2024-06-25**|**BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning**|Ercong Nie et.al.|[2406.17764](http://arxiv.org/abs/2406.17764)|null|
 |**2024-06-25**|**Knowledge Distillation in Automated Annotation: Supervised Text Classification with LLM-Generated Training Labels**|Nicholas Pangakis et.al.|[2406.17633](http://arxiv.org/abs/2406.17633)|null|
 |**2024-06-25**|**Retrieval-Augmented Code Generation for Situated Action Generation: A Case Study on Minecraft**|Chalamalasetti Kranti et.al.|[2406.17553](http://arxiv.org/abs/2406.17553)|null|
-|**2024-06-25**|**Retrieval-style In-Context Learning for Few-shot Hierarchical Text Classification**|Huiyao Chen et.al.|[2406.17534](http://arxiv.org/abs/2406.17534)|null|
+|**2024-06-25**|**Retrieval-style In-Context Learning for Few-shot Hierarchical Text Classification**|Huiyao Chen et.al.|[2406.17534](http://arxiv.org/abs/2406.17534)|**[link](https://github.com/DreamH1gh/TACL2024)**|
 |**2024-06-25**|**Enhancing Tool Retrieval with Iterative Feedback from Large Language Models**|Qiancheng Xu et.al.|[2406.17465](http://arxiv.org/abs/2406.17465)|null|
 |**2024-06-25**|**A Three-Pronged Approach to Cross-Lingual Adaptation with Multilingual LLMs**|Vaibhav Singh et.al.|[2406.17377](http://arxiv.org/abs/2406.17377)|null|
 |**2024-06-25**|**Self-Constructed Context Decompilation with Fined-grained Alignment Enhancement**|Yunlong Feng et.al.|[2406.17233](http://arxiv.org/abs/2406.17233)|null|
@@ -600,7 +600,7 @@
 |**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075](http://arxiv.org/abs/2312.11075)|null|
 |**2023-12-18**|**APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation**|Chengran Yang et.al.|[2312.10934](http://arxiv.org/abs/2312.10934)|null|
 
-<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240628>back to top</a>)</p>
 
 ## VLM
 
@@ -609,7 +609,7 @@
 |**2024-06-26**|**Human-free Prompted Based Anomaly Detection: prompt optimization with Meta-guiding prompt scheme**|Pi-Wei Chen et.al.|[2406.18197](http://arxiv.org/abs/2406.18197)|null|
 |**2024-06-26**|**Leveraging Pre-trained Models for FF-to-FFPE Histopathological Image Translation**|Qilai Zhang et.al.|[2406.18054](http://arxiv.org/abs/2406.18054)|null|
 |**2024-06-26**|**Multimodal foundation world models for generalist embodied agents**|Pietro Mazzaglia et.al.|[2406.18043](http://arxiv.org/abs/2406.18043)|null|
-|**2024-06-25**|**Evaluating Fairness in Large Vision-Language Models Across Diverse Demographic Attributes and Prompts**|Xuyang Wu et.al.|[2406.17974](http://arxiv.org/abs/2406.17974)|null|
+|**2024-06-25**|**Evaluating Fairness in Large Vision-Language Models Across Diverse Demographic Attributes and Prompts**|Xuyang Wu et.al.|[2406.17974](http://arxiv.org/abs/2406.17974)|**[link](https://github.com/elviswxy/LVLM_fairness)**|
 |**2024-06-25**|**EXTRACT: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data**|Jesse Zhang et.al.|[2406.17768](http://arxiv.org/abs/2406.17768)|null|
 |**2024-06-25**|**DKPROMPT: Domain Knowledge Prompting Vision-Language Models for Open-World Planning**|Xiaohan Zhang et.al.|[2406.17659](http://arxiv.org/abs/2406.17659)|null|
 |**2024-06-24**|**Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models**|Bei Yan et.al.|[2406.17115](http://arxiv.org/abs/2406.17115)|**[link](https://github.com/hqhbench/hqhbench)**|
@@ -1239,7 +1239,7 @@
 |**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423](http://arxiv.org/abs/2312.12423)|null|
 |**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379](http://arxiv.org/abs/2312.12379)|null|
 
-<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240628>back to top</a>)</p>
 
 ## Visual In-context
 
@@ -1247,7 +1247,7 @@
 |---|---|---|---|---|
 |**2024-02-18**|**Visual In-Context Learning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2402.11574](http://arxiv.org/abs/2402.11574)|null|
 
-<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240628>back to top</a>)</p>
 
 ## V-ICL
 
@@ -1262,7 +1262,7 @@
 |**2024-06-25**|**BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning**|Ercong Nie et.al.|[2406.17764](http://arxiv.org/abs/2406.17764)|null|
 |**2024-06-25**|**Knowledge Distillation in Automated Annotation: Supervised Text Classification with LLM-Generated Training Labels**|Nicholas Pangakis et.al.|[2406.17633](http://arxiv.org/abs/2406.17633)|null|
 |**2024-06-25**|**Retrieval-Augmented Code Generation for Situated Action Generation: A Case Study on Minecraft**|Chalamalasetti Kranti et.al.|[2406.17553](http://arxiv.org/abs/2406.17553)|null|
-|**2024-06-25**|**Retrieval-style In-Context Learning for Few-shot Hierarchical Text Classification**|Huiyao Chen et.al.|[2406.17534](http://arxiv.org/abs/2406.17534)|null|
+|**2024-06-25**|**Retrieval-style In-Context Learning for Few-shot Hierarchical Text Classification**|Huiyao Chen et.al.|[2406.17534](http://arxiv.org/abs/2406.17534)|**[link](https://github.com/DreamH1gh/TACL2024)**|
 |**2024-06-25**|**Enhancing Tool Retrieval with Iterative Feedback from Large Language Models**|Qiancheng Xu et.al.|[2406.17465](http://arxiv.org/abs/2406.17465)|null|
 |**2024-06-25**|**A Three-Pronged Approach to Cross-Lingual Adaptation with Multilingual LLMs**|Vaibhav Singh et.al.|[2406.17377](http://arxiv.org/abs/2406.17377)|null|
 |**2024-06-25**|**Self-Constructed Context Decompilation with Fined-grained Alignment Enhancement**|Yunlong Feng et.al.|[2406.17233](http://arxiv.org/abs/2406.17233)|null|
@@ -1486,7 +1486,7 @@
 |**2024-04-15**|**Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**|Sungwon Han et.al.|[2404.09491](http://arxiv.org/abs/2404.09491)|**[link](https://github.com/sungwon-han/featllm)**|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
 
-<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240628>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
