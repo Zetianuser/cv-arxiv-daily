@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -70,7 +70,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-27**|**Aligning Teacher with Student Preferences for Tailored Training Data Generation**|Yantao Liu et.al.|[2406.19227](http://arxiv.org/abs/2406.19227)|null|
 |**2024-06-27**|**STBench: Assessing the Ability of Large Language Models in Spatio-Temporal Analysis**|Wenbin Li et.al.|[2406.19065](http://arxiv.org/abs/2406.19065)|**[link](https://github.com/lwbxc/stbench)**|
-|**2024-06-27**|**Efficient course recommendations with T5-based ranking and summarization**|Thijmen Bijl et.al.|[2406.19018](http://arxiv.org/abs/2406.19018)|null|
+|**2024-06-27**|**Efficient course recommendations with T5-based ranking and summarization**|Thijmen Bijl et.al.|[2406.19018](http://arxiv.org/abs/2406.19018)|**[link](https://github.com/tbijl/course_ranking_data)**|
 |**2024-06-27**|**Can we teach language models to gloss endangered languages?**|Michael Ginn et.al.|[2406.18895](http://arxiv.org/abs/2406.18895)|null|
 |**2024-06-27**|**SSP: Self-Supervised Prompting for Cross-Lingual Transfer to Low-Resource Languages using Large Language Models**|Vipul Rathore et.al.|[2406.18880](http://arxiv.org/abs/2406.18880)|**[link](https://github.com/dair-iitd/SSP)**|
 |**2024-06-26**|**ADO-LLM: Analog Design Bayesian Optimization with In-Context Learning of Large Language Models**|Yuxuan Yin et.al.|[2406.18770](http://arxiv.org/abs/2406.18770)|null|
@@ -604,11 +604,11 @@ layout: default
 |**2024-06-27**|**RAVEN: Multitask Retrieval Augmented Vision-Language Learning**|Varun Nagaraj Rao et.al.|[2406.19150](http://arxiv.org/abs/2406.19150)|null|
 |**2024-06-27**|**CELLO: Causal Evaluation of Large Vision-Language Models**|Meiqi Chen et.al.|[2406.19131](http://arxiv.org/abs/2406.19131)|**[link](https://github.com/opencausalab/cello)**|
 |**2024-06-27**|**Evidential Concept Embedding Models: Towards Reliable Concept Explanations for Skin Disease Diagnosis**|Yibo Gao et.al.|[2406.19130](http://arxiv.org/abs/2406.19130)|**[link](https://github.com/obiyoag/evi-cem)**|
-|**2024-06-27**|**RoboUniView: Visual-Language Model with Unified View Representation for Robotic Manipulaiton**|Fanfan Liu et.al.|[2406.18977](http://arxiv.org/abs/2406.18977)|null|
-|**2024-06-27**|**Manipulate-Anything: Automating Real-World Robots using Vision-Language Models**|Jiafei Duan et.al.|[2406.18915](http://arxiv.org/abs/2406.18915)|null|
+|**2024-06-27**|**RoboUniView: Visual-Language Model with Unified View Representation for Robotic Manipulaiton**|Fanfan Liu et.al.|[2406.18977](http://arxiv.org/abs/2406.18977)|**[link](https://github.com/liufanfanlff/robouniview)**|
+|**2024-06-28**|**Manipulate-Anything: Automating Real-World Robots using Vision-Language Models**|Jiafei Duan et.al.|[2406.18915](http://arxiv.org/abs/2406.18915)|null|
 |**2024-06-27**|**Advancing Cross-domain Discriminability in Continual Learning of Vison-Language Models**|Yicheng Xu et.al.|[2406.18868](http://arxiv.org/abs/2406.18868)|null|
 |**2024-06-27**|**Dysca: A Dynamic and Scalable Benchmark for Evaluating Perception Ability of LVLMs**|Jie Zhang et.al.|[2406.18849](http://arxiv.org/abs/2406.18849)|**[link](https://github.com/benchmark-dysca/dysca)**|
-|**2024-06-27**|**Revisiting Backdoor Attacks against Large Vision-Language Models**|Siyuan Liang et.al.|[2406.18844](http://arxiv.org/abs/2406.18844)|null|
+|**2024-06-28**|**Revisiting Backdoor Attacks against Large Vision-Language Models**|Siyuan Liang et.al.|[2406.18844](http://arxiv.org/abs/2406.18844)|null|
 |**2024-06-26**|**MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data**|William Berman et.al.|[2406.18790](http://arxiv.org/abs/2406.18790)|null|
 |**2024-06-26**|**3D Feature Distillation with Object-Centric Priors**|Georgios Tziafas et.al.|[2406.18742](http://arxiv.org/abs/2406.18742)|null|
 |**2024-06-26**|**Human-free Prompted Based Anomaly Detection: prompt optimization with Meta-guiding prompt scheme**|Pi-Wei Chen et.al.|[2406.18197](http://arxiv.org/abs/2406.18197)|null|
@@ -1256,7 +1256,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-27**|**Aligning Teacher with Student Preferences for Tailored Training Data Generation**|Yantao Liu et.al.|[2406.19227](http://arxiv.org/abs/2406.19227)|null|
 |**2024-06-27**|**STBench: Assessing the Ability of Large Language Models in Spatio-Temporal Analysis**|Wenbin Li et.al.|[2406.19065](http://arxiv.org/abs/2406.19065)|**[link](https://github.com/lwbxc/stbench)**|
-|**2024-06-27**|**Efficient course recommendations with T5-based ranking and summarization**|Thijmen Bijl et.al.|[2406.19018](http://arxiv.org/abs/2406.19018)|null|
+|**2024-06-27**|**Efficient course recommendations with T5-based ranking and summarization**|Thijmen Bijl et.al.|[2406.19018](http://arxiv.org/abs/2406.19018)|**[link](https://github.com/tbijl/course_ranking_data)**|
 |**2024-06-27**|**Can we teach language models to gloss endangered languages?**|Michael Ginn et.al.|[2406.18895](http://arxiv.org/abs/2406.18895)|null|
 |**2024-06-27**|**SSP: Self-Supervised Prompting for Cross-Lingual Transfer to Low-Resource Languages using Large Language Models**|Vipul Rathore et.al.|[2406.18880](http://arxiv.org/abs/2406.18880)|**[link](https://github.com/dair-iitd/SSP)**|
 |**2024-06-26**|**ADO-LLM: Analog Design Bayesian Optimization with In-Context Learning of Large Language Models**|Yuxuan Yin et.al.|[2406.18770](http://arxiv.org/abs/2406.18770)|null|
