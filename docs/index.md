@@ -61,7 +61,7 @@ layout: default
 |**2023-11-28**|**Cross-level Attention with Overlapped Windows for Camouflaged Object Detection**|Jiepan Li et.al.|[2311.16618](http://arxiv.org/abs/2311.16618)|null|
 |**2023-11-25**|**VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning**|Ziyang Luo et.al.|[2311.15011](http://arxiv.org/abs/2311.15011)|**[link](https://github.com/sssssuperior/vscode)**|
 |**2023-11-19**|**Generalization and Hallucination of Large Vision-Language Models through a Camouflaged Lens**|Lv Tang et.al.|[2311.11273](http://arxiv.org/abs/2311.11273)|null|
-|**2023-11-19**|**Open-Vocabulary Camouflaged Object Segmentation**|Youwei Pang et.al.|[2311.11241](http://arxiv.org/abs/2311.11241)|null|
+|**2023-11-19**|**Open-Vocabulary Camouflaged Object Segmentation**|Youwei Pang et.al.|[2311.11241](http://arxiv.org/abs/2311.11241)|**[link](https://github.com/lartpang/ovcamo)**|
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
 |**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
 
@@ -104,7 +104,7 @@ layout: default
 |**2024-06-25**|**Self-Constructed Context Decompilation with Fined-grained Alignment Enhancement**|Yunlong Feng et.al.|[2406.17233](http://arxiv.org/abs/2406.17233)|null|
 |**2024-06-24**|**Finding Transformer Circuits with Edge Pruning**|Adithya Bhaskar et.al.|[2406.16778](http://arxiv.org/abs/2406.16778)|**[link](https://github.com/princeton-nlp/edge-pruning)**|
 |**2024-06-24**|**Token-based Decision Criteria Are Suboptimal in In-context Learning**|Hakaze Cho et.al.|[2406.16535](http://arxiv.org/abs/2406.16535)|null|
-|**2024-06-24**|**DemoRank: Selecting Effective Demonstrations for Large Language Models in Ranking Task**|Wenhan Liu et.al.|[2406.16332](http://arxiv.org/abs/2406.16332)|null|
+|**2024-06-24**|**DemoRank: Selecting Effective Demonstrations for Large Language Models in Ranking Task**|Wenhan Liu et.al.|[2406.16332](http://arxiv.org/abs/2406.16332)|**[link](https://github.com/8421bcd/demorank)**|
 |**2024-06-23**|**Distributed Rule Vectors is A Key Mechanism in Large Language Models' In-Context Learning**|Bowen Zheng et.al.|[2406.16007](http://arxiv.org/abs/2406.16007)|null|
 |**2024-06-22**|**Uncovering Hidden Intentions: Exploring Prompt Recovery for Deeper Insights into Generated Texts**|Louis Give et.al.|[2406.15871](http://arxiv.org/abs/2406.15871)|null|
 |**2024-06-21**|**Shortcomings of LLMs for Low-Resource Translation: Retrieval and Understanding are Both the Problem**|Sara Court et.al.|[2406.15625](http://arxiv.org/abs/2406.15625)|null|
@@ -352,7 +352,7 @@ layout: default
 |**2024-04-02**|**Exploring Automated Distractor Generation for Math Multiple-choice Questions via Large Language Models**|Wanyong Feng et.al.|[2404.02124](http://arxiv.org/abs/2404.02124)|**[link](https://github.com/umass-ml4ed/prompt_distractor_generation_naacl)**|
 |**2024-04-04**|**Long-context LLMs Struggle with Long In-context Learning**|Tianle Li et.al.|[2404.02060](http://arxiv.org/abs/2404.02060)|**[link](https://github.com/tiger-ai-lab/longiclbench)**|
 |**2024-04-02**|**Deconstructing In-Context Learning: Understanding Prompts via Corruption**|Namrata Shivagunde et.al.|[2404.02054](http://arxiv.org/abs/2404.02054)|**[link](https://github.com/text-machine-lab/understanding_prompts_via_corruption)**|
-|**2024-04-02**|**Improving Retrieval Augmented Open-Domain Question-Answering with Vectorized Contexts**|Zhuo Chen et.al.|[2404.02022](http://arxiv.org/abs/2404.02022)|null|
+|**2024-04-02**|**Improving Retrieval Augmented Open-Domain Question-Answering with Vectorized Contexts**|Zhuo Chen et.al.|[2404.02022](http://arxiv.org/abs/2404.02022)|**[link](https://github.com/alibaba-nlp/vec-ra-odqa)**|
 |**2024-04-02**|**Large Language Models for Orchestrating Bimanual Robots**|Kun Chu et.al.|[2404.02018](http://arxiv.org/abs/2404.02018)|null|
 |**2024-04-02**|**Team UTSA-NLP at SemEval 2024 Task 5: Prompt Ensembling for Argument Reasoning in Civil Procedures with GPT4**|Dan Schumacher et.al.|[2404.01961](http://arxiv.org/abs/2404.01961)|**[link](https://github.com/danschumac1/civilpromptreasoninggpt4)**|
 |**2024-04-02**|**Self-Improvement Programming for Temporal Knowledge Graph Question Answering**|Zhuo Chen et.al.|[2404.01720](http://arxiv.org/abs/2404.01720)|null|
@@ -637,7 +637,7 @@ layout: default
 |**2024-07-01**|**CLIP the Divergence: Language-guided Unsupervised Domain Adaptation**|Jinjing Zhu et.al.|[2407.01842](http://arxiv.org/abs/2407.01842)|null|
 |**2024-07-01**|**μ-Bench: A Vision-Language Benchmark for Microscopy Understanding**|Alejandro Lozano et.al.|[2407.01791](http://arxiv.org/abs/2407.01791)|null|
 |**2024-06-28**|**LLaRA: Supercharging Robot Learning Data for Vision-Language Policy**|Xiang Li et.al.|[2406.20095](http://arxiv.org/abs/2406.20095)|**[link](https://github.com/lostxine/llara)**|
-|**2024-06-28**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076](http://arxiv.org/abs/2406.20076)|null|
+|**2024-06-28**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076](http://arxiv.org/abs/2406.20076)|**[link](https://github.com/hustvl/evf-sam)**|
 |**2024-06-28**|**STLLaVA-Med: Self-Training Large Language and Vision Assistant for Medical**|Guohao Sun et.al.|[2406.19973](http://arxiv.org/abs/2406.19973)|null|
 |**2024-06-28**|**From the Least to the Most: Building a Plug-and-Play Visual Reasoner via Data Synthesis**|Chuanqi Cheng et.al.|[2406.19934](http://arxiv.org/abs/2406.19934)|null|
 |**2024-06-28**|**Solving Token Gradient Conflict in Mixture-of-Experts for Large Vision-Language Model**|Longrong Yang et.al.|[2406.19905](http://arxiv.org/abs/2406.19905)|**[link](https://github.com/longrongyang/stgc)**|
@@ -1152,7 +1152,7 @@ layout: default
 |**2024-02-17**|**CoLLaVO: Crayon Large Language and Vision mOdel**|Byung-Kwan Lee et.al.|[2402.11248](http://arxiv.org/abs/2402.11248)|**[link](https://github.com/ByungKwanLee/CoLLaVO-Crayon-Large-Language-and-Vision-mOdel)**|
 |**2024-02-16**|**PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter**|Junfei Xiao et.al.|[2402.10896](http://arxiv.org/abs/2402.10896)|null|
 |**2024-02-16**|**Question-Instructed Visual Descriptions for Zero-Shot Video Question Answering**|David Romero et.al.|[2402.10698](http://arxiv.org/abs/2402.10698)|null|
-|**2024-02-16**|**OpenFMNav: Towards Open-Set Zero-Shot Object Navigation via Vision-Language Foundation Models**|Yuxuan Kuang et.al.|[2402.10670](http://arxiv.org/abs/2402.10670)|null|
+|**2024-02-16**|**OpenFMNav: Towards Open-Set Zero-Shot Object Navigation via Vision-Language Foundation Models**|Yuxuan Kuang et.al.|[2402.10670](http://arxiv.org/abs/2402.10670)|**[link](https://github.com/yxKryptonite/OpenFMNav)**|
 |**2024-02-15**|**On the Safety Concerns of Deploying LLMs/VLMs in Robotics: Highlighting the Risks and Vulnerabilities**|Xiyang Wu et.al.|[2402.10340](http://arxiv.org/abs/2402.10340)|null|
 |**2024-02-15**|**Mind the Modality Gap: Towards a Remote Sensing Vision-Language Model via Cross-modal Alignment**|Angelos Zavras et.al.|[2402.09816](http://arxiv.org/abs/2402.09816)|null|
 |**2024-02-16**|**MultiMedEval: A Benchmark and a Toolkit for Evaluating Medical Vision-Language Models**|Corentin Royer et.al.|[2402.09262](http://arxiv.org/abs/2402.09262)|**[link](https://github.com/corentin-ryr/multimedeval)**|
@@ -1330,7 +1330,7 @@ layout: default
 |**2024-06-25**|**Self-Constructed Context Decompilation with Fined-grained Alignment Enhancement**|Yunlong Feng et.al.|[2406.17233](http://arxiv.org/abs/2406.17233)|null|
 |**2024-06-24**|**Finding Transformer Circuits with Edge Pruning**|Adithya Bhaskar et.al.|[2406.16778](http://arxiv.org/abs/2406.16778)|**[link](https://github.com/princeton-nlp/edge-pruning)**|
 |**2024-06-24**|**Token-based Decision Criteria Are Suboptimal in In-context Learning**|Hakaze Cho et.al.|[2406.16535](http://arxiv.org/abs/2406.16535)|null|
-|**2024-06-24**|**DemoRank: Selecting Effective Demonstrations for Large Language Models in Ranking Task**|Wenhan Liu et.al.|[2406.16332](http://arxiv.org/abs/2406.16332)|null|
+|**2024-06-24**|**DemoRank: Selecting Effective Demonstrations for Large Language Models in Ranking Task**|Wenhan Liu et.al.|[2406.16332](http://arxiv.org/abs/2406.16332)|**[link](https://github.com/8421bcd/demorank)**|
 |**2024-06-23**|**Distributed Rule Vectors is A Key Mechanism in Large Language Models' In-Context Learning**|Bowen Zheng et.al.|[2406.16007](http://arxiv.org/abs/2406.16007)|null|
 |**2024-06-22**|**Uncovering Hidden Intentions: Exploring Prompt Recovery for Deeper Insights into Generated Texts**|Louis Give et.al.|[2406.15871](http://arxiv.org/abs/2406.15871)|null|
 |**2024-06-21**|**Shortcomings of LLMs for Low-Resource Translation: Retrieval and Understanding are Both the Problem**|Sara Court et.al.|[2406.15625](http://arxiv.org/abs/2406.15625)|null|
