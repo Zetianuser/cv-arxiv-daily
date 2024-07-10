@@ -69,6 +69,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**Induction Heads as an Essential Mechanism for Pattern Matching in In-context Learning**|J. Crosbie et.al.|[2407.07011](http://arxiv.org/abs/2407.07011)|null|
+|**2024-07-09**|**ICLGuard: Controlling In-Context Learning Behavior for Applicability Authorization**|Wai Man Si et.al.|[2407.06955](http://arxiv.org/abs/2407.06955)|null|
 |**2024-07-08**|**Generation and De-Identification of Indian Clinical Discharge Summaries using LLMs**|Sanjeet Singh et.al.|[2407.05887](http://arxiv.org/abs/2407.05887)|null|
 |**2024-07-08**|**Cross-domain Few-shot In-context Learning for Enhancing Traffic Sign Recognition**|Yaozong Gan et.al.|[2407.05814](http://arxiv.org/abs/2407.05814)|null|
 |**2024-07-08**|**Empirical Study of Symmetrical Reasoning in Conversational Chatbots**|Daniela N. Rim et.al.|[2407.05734](http://arxiv.org/abs/2407.05734)|null|
@@ -76,7 +78,7 @@ layout: default
 |**2024-07-08**|**Sub-SA: Strengthen In-context Learning via Submodular Selective Annotation**|Jian Qian et.al.|[2407.05693](http://arxiv.org/abs/2407.05693)|**[link](https://github.com/jamesqian11/subsa)**|
 |**2024-07-08**|**Retrieved In-Context Principles from Previous Mistakes**|Hao Sun et.al.|[2407.05682](http://arxiv.org/abs/2407.05682)|null|
 |**2024-07-08**|**GMC: A General Framework of Multi-stage Context Learning and Utilization for Visual Detection Tasks**|Xuan Wang et.al.|[2407.05566](http://arxiv.org/abs/2407.05566)|null|
-|**2024-07-07**|**Just read twice: closing the recall gap for recurrent language models**|Simran Arora et.al.|[2407.05483](http://arxiv.org/abs/2407.05483)|null|
+|**2024-07-07**|**Just read twice: closing the recall gap for recurrent language models**|Simran Arora et.al.|[2407.05483](http://arxiv.org/abs/2407.05483)|**[link](https://github.com/HazyResearch/prefix-linear-attention)**|
 |**2024-07-04**|**FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs**|Tongyi SpeechTeam et.al.|[2407.04051](http://arxiv.org/abs/2407.04051)|null|
 |**2024-07-03**|**Improving Retrieval-augmented Text-to-SQL with AST-based Ranking and Schema Pruning**|Zhili Shen et.al.|[2407.03227](http://arxiv.org/abs/2407.03227)|null|
 |**2024-07-03**|**Exploring the Capabilities of LLMs for Code Change Related Tasks**|Lishui Fan et.al.|[2407.02824](http://arxiv.org/abs/2407.02824)|null|
@@ -625,11 +627,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**Exploring Scalability of Self-Training for Open-Vocabulary Temporal Action Localization**|Jeongseok Hyun et.al.|[2407.07024](http://arxiv.org/abs/2407.07024)|**[link](https://github.com/hyunjs/stov-tal)**|
+|**2024-07-09**|**CoLA: Conditional Dropout and Language-driven Robust Dual-modal Salient Object Detection**|Shuang Hao et.al.|[2407.06780](http://arxiv.org/abs/2407.06780)|**[link](https://github.com/ssecv/CoLA)**|
+|**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730](http://arxiv.org/abs/2407.06730)|null|
+|**2024-07-09**|**Vision language models are blind**|Pooyan Rahmanzadehgervi et.al.|[2407.06581](http://arxiv.org/abs/2407.06581)|null|
+|**2024-07-08**|**A Single Transformer for Scalable Vision-Language Modeling**|Yangyi Chen et.al.|[2407.06438](http://arxiv.org/abs/2407.06438)|**[link](https://github.com/yangyi-chen/solo)**|
 |**2024-07-08**|**Multi-Object Hallucination in Vision-Language Models**|Xuweiyi Chen et.al.|[2407.06192](http://arxiv.org/abs/2407.06192)|null|
-|**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189](http://arxiv.org/abs/2407.06189)|null|
+|**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189](http://arxiv.org/abs/2407.06189)|**[link](https://github.com/orrzohar/Video-STaR)**|
 |**2024-07-08**|**Vision-Language Models under Cultural and Inclusive Considerations**|Antonia Karamolegkou et.al.|[2407.06177](http://arxiv.org/abs/2407.06177)|null|
 |**2024-07-08**|**Enhancing Vision-Language Models with Scene Graphs for Traffic Accident Understanding**|Aaron Lohner et.al.|[2407.05910](http://arxiv.org/abs/2407.05910)|null|
-|**2024-07-08**|**HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels**|Yingying Jiang et.al.|[2407.05795](http://arxiv.org/abs/2407.05795)|null|
+|**2024-07-09**|**HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels**|Yingying Jiang et.al.|[2407.05795](http://arxiv.org/abs/2407.05795)|null|
 |**2024-07-08**|**OneDiff: A Generalist Model for Image Difference**|Erdong Hu et.al.|[2407.05645](http://arxiv.org/abs/2407.05645)|null|
 |**2024-07-07**|**Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models**|Longxiang Tang et.al.|[2407.05342](http://arxiv.org/abs/2407.05342)|**[link](https://github.com/lloongx/diki)**|
 |**2024-07-07**|**WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks**|Léo Boisvert et.al.|[2407.05291](http://arxiv.org/abs/2407.05291)|**[link](https://github.com/servicenow/workarena)**|
@@ -1324,6 +1331,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**Induction Heads as an Essential Mechanism for Pattern Matching in In-context Learning**|J. Crosbie et.al.|[2407.07011](http://arxiv.org/abs/2407.07011)|null|
+|**2024-07-09**|**ICLGuard: Controlling In-Context Learning Behavior for Applicability Authorization**|Wai Man Si et.al.|[2407.06955](http://arxiv.org/abs/2407.06955)|null|
 |**2024-07-08**|**Generation and De-Identification of Indian Clinical Discharge Summaries using LLMs**|Sanjeet Singh et.al.|[2407.05887](http://arxiv.org/abs/2407.05887)|null|
 |**2024-07-08**|**Cross-domain Few-shot In-context Learning for Enhancing Traffic Sign Recognition**|Yaozong Gan et.al.|[2407.05814](http://arxiv.org/abs/2407.05814)|null|
 |**2024-07-08**|**Empirical Study of Symmetrical Reasoning in Conversational Chatbots**|Daniela N. Rim et.al.|[2407.05734](http://arxiv.org/abs/2407.05734)|null|
@@ -1331,7 +1340,7 @@ layout: default
 |**2024-07-08**|**Sub-SA: Strengthen In-context Learning via Submodular Selective Annotation**|Jian Qian et.al.|[2407.05693](http://arxiv.org/abs/2407.05693)|**[link](https://github.com/jamesqian11/subsa)**|
 |**2024-07-08**|**Retrieved In-Context Principles from Previous Mistakes**|Hao Sun et.al.|[2407.05682](http://arxiv.org/abs/2407.05682)|null|
 |**2024-07-08**|**GMC: A General Framework of Multi-stage Context Learning and Utilization for Visual Detection Tasks**|Xuan Wang et.al.|[2407.05566](http://arxiv.org/abs/2407.05566)|null|
-|**2024-07-07**|**Just read twice: closing the recall gap for recurrent language models**|Simran Arora et.al.|[2407.05483](http://arxiv.org/abs/2407.05483)|null|
+|**2024-07-07**|**Just read twice: closing the recall gap for recurrent language models**|Simran Arora et.al.|[2407.05483](http://arxiv.org/abs/2407.05483)|**[link](https://github.com/HazyResearch/prefix-linear-attention)**|
 |**2024-07-04**|**FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs**|Tongyi SpeechTeam et.al.|[2407.04051](http://arxiv.org/abs/2407.04051)|null|
 |**2024-07-03**|**Improving Retrieval-augmented Text-to-SQL with AST-based Ranking and Schema Pruning**|Zhili Shen et.al.|[2407.03227](http://arxiv.org/abs/2407.03227)|null|
 |**2024-07-03**|**Exploring the Capabilities of LLMs for Code Change Related Tasks**|Lishui Fan et.al.|[2407.02824](http://arxiv.org/abs/2407.02824)|null|
