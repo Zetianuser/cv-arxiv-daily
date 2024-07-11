@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Edge-dominance games on graphs**|Farid Arthaud et.al.|[2407.07785](http://arxiv.org/abs/2407.07785)|null|
 |**2024-07-02**|**Adversarial Magnification to Deceive Deepfake Detection through Super Resolution**|Davide Alessandro Coccomini et.al.|[2407.02670](http://arxiv.org/abs/2407.02670)|**[link](https://github.com/davide-coccomini/adversarial-magnification-to-deceive-deepfake-detection-through-super-resolution)**|
 |**2024-06-18**|**PFID: Privacy First Inference Delegation Framework for LLMs**|Haoyan Yang et.al.|[2406.12238](http://arxiv.org/abs/2406.12238)|null|
 |**2024-06-17**|**YOLO-FEDER FusionNet: A Novel Deep Learning Architecture for Drone Detection**|Tamara R. Lenhard et.al.|[2406.11641](http://arxiv.org/abs/2406.11641)|null|
@@ -69,6 +70,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Video In-context Learning**|Wentao Zhang et.al.|[2407.07356](http://arxiv.org/abs/2407.07356)|null|
 |**2024-07-09**|**Induction Heads as an Essential Mechanism for Pattern Matching in In-context Learning**|J. Crosbie et.al.|[2407.07011](http://arxiv.org/abs/2407.07011)|null|
 |**2024-07-09**|**ICLGuard: Controlling In-Context Learning Behavior for Applicability Authorization**|Wai Man Si et.al.|[2407.06955](http://arxiv.org/abs/2407.06955)|null|
 |**2024-07-08**|**Generation and De-Identification of Indian Clinical Discharge Summaries using LLMs**|Sanjeet Singh et.al.|[2407.05887](http://arxiv.org/abs/2407.05887)|null|
@@ -627,6 +629,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Decompose and Compare Consistency: Measuring VLMs' Answer Reliability via Task-Decomposition Consistency Comparison**|Qian Yang et.al.|[2407.07840](http://arxiv.org/abs/2407.07840)|null|
+|**2024-07-10**|**Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**|Hao-Tien Lewis Chiang et.al.|[2407.07775](http://arxiv.org/abs/2407.07775)|null|
+|**2024-07-10**|**PaliGemma: A versatile 3B VLM for transfer**|Lucas Beyer et.al.|[2407.07726](http://arxiv.org/abs/2407.07726)|null|
+|**2024-07-10**|**Tuning Vision-Language Models with Candidate Labels by Prompt Alignment**|Zhifang Zhang et.al.|[2407.07638](http://arxiv.org/abs/2407.07638)|null|
+|**2024-07-10**|**IDA-VLM: Towards Movie Understanding via ID-Aware Large Vision-Language Model**|Yatai Ji et.al.|[2407.07577](http://arxiv.org/abs/2407.07577)|**[link](https://github.com/jiyt17/ida-vlm)**|
+|**2024-07-10**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|**[link](https://github.com/liudaizong/awesome-lvlm-attack)**|
+|**2024-07-10**|**Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems**|Chashi Mahiul Islam et.al.|[2407.07392](http://arxiv.org/abs/2407.07392)|null|
+|**2024-07-10**|**Towards a text-based quantitative and explainable histopathology image analysis**|Anh Tien Nguyen et.al.|[2407.07360](http://arxiv.org/abs/2407.07360)|null|
+|**2024-07-10**|**CosmoCLIP: Generalizing Large Vision-Language Models for Astronomical Imaging**|Raza Imam et.al.|[2407.07315](http://arxiv.org/abs/2407.07315)|null|
 |**2024-07-09**|**Exploring Scalability of Self-Training for Open-Vocabulary Temporal Action Localization**|Jeongseok Hyun et.al.|[2407.07024](http://arxiv.org/abs/2407.07024)|**[link](https://github.com/hyunjs/stov-tal)**|
 |**2024-07-09**|**CoLA: Conditional Dropout and Language-driven Robust Dual-modal Salient Object Detection**|Shuang Hao et.al.|[2407.06780](http://arxiv.org/abs/2407.06780)|**[link](https://github.com/ssecv/CoLA)**|
 |**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730](http://arxiv.org/abs/2407.06730)|null|
@@ -1331,6 +1342,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Video In-context Learning**|Wentao Zhang et.al.|[2407.07356](http://arxiv.org/abs/2407.07356)|null|
 |**2024-07-09**|**Induction Heads as an Essential Mechanism for Pattern Matching in In-context Learning**|J. Crosbie et.al.|[2407.07011](http://arxiv.org/abs/2407.07011)|null|
 |**2024-07-09**|**ICLGuard: Controlling In-Context Learning Behavior for Applicability Authorization**|Wai Man Si et.al.|[2407.06955](http://arxiv.org/abs/2407.06955)|null|
 |**2024-07-08**|**Generation and De-Identification of Indian Clinical Discharge Summaries using LLMs**|Sanjeet Singh et.al.|[2407.05887](http://arxiv.org/abs/2407.05887)|null|
