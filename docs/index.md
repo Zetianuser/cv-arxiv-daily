@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.11
+## Updated on 2024.07.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -632,7 +632,7 @@ layout: default
 |**2024-07-10**|**Decompose and Compare Consistency: Measuring VLMs' Answer Reliability via Task-Decomposition Consistency Comparison**|Qian Yang et.al.|[2407.07840](http://arxiv.org/abs/2407.07840)|null|
 |**2024-07-10**|**Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**|Hao-Tien Lewis Chiang et.al.|[2407.07775](http://arxiv.org/abs/2407.07775)|null|
 |**2024-07-10**|**PaliGemma: A versatile 3B VLM for transfer**|Lucas Beyer et.al.|[2407.07726](http://arxiv.org/abs/2407.07726)|null|
-|**2024-07-10**|**Tuning Vision-Language Models with Candidate Labels by Prompt Alignment**|Zhifang Zhang et.al.|[2407.07638](http://arxiv.org/abs/2407.07638)|null|
+|**2024-07-11**|**Tuning Vision-Language Models with Candidate Labels by Prompt Alignment**|Zhifang Zhang et.al.|[2407.07638](http://arxiv.org/abs/2407.07638)|null|
 |**2024-07-10**|**IDA-VLM: Towards Movie Understanding via ID-Aware Large Vision-Language Model**|Yatai Ji et.al.|[2407.07577](http://arxiv.org/abs/2407.07577)|**[link](https://github.com/jiyt17/ida-vlm)**|
 |**2024-07-10**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|**[link](https://github.com/liudaizong/awesome-lvlm-attack)**|
 |**2024-07-10**|**Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems**|Chashi Mahiul Islam et.al.|[2407.07392](http://arxiv.org/abs/2407.07392)|null|
