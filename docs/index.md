@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.12
+## Updated on 2024.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -636,7 +636,7 @@ layout: default
 |**2024-07-10**|**IDA-VLM: Towards Movie Understanding via ID-Aware Large Vision-Language Model**|Yatai Ji et.al.|[2407.07577](http://arxiv.org/abs/2407.07577)|**[link](https://github.com/jiyt17/ida-vlm)**|
 |**2024-07-10**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|**[link](https://github.com/liudaizong/awesome-lvlm-attack)**|
 |**2024-07-10**|**Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems**|Chashi Mahiul Islam et.al.|[2407.07392](http://arxiv.org/abs/2407.07392)|null|
-|**2024-07-10**|**Towards a text-based quantitative and explainable histopathology image analysis**|Anh Tien Nguyen et.al.|[2407.07360](http://arxiv.org/abs/2407.07360)|null|
+|**2024-07-10**|**Towards a text-based quantitative and explainable histopathology image analysis**|Anh Tien Nguyen et.al.|[2407.07360](http://arxiv.org/abs/2407.07360)|**[link](https://github.com/QuIIL/TQx)**|
 |**2024-07-10**|**CosmoCLIP: Generalizing Large Vision-Language Models for Astronomical Imaging**|Raza Imam et.al.|[2407.07315](http://arxiv.org/abs/2407.07315)|null|
 |**2024-07-09**|**Exploring Scalability of Self-Training for Open-Vocabulary Temporal Action Localization**|Jeongseok Hyun et.al.|[2407.07024](http://arxiv.org/abs/2407.07024)|**[link](https://github.com/hyunjs/stov-tal)**|
 |**2024-07-09**|**CoLA: Conditional Dropout and Language-driven Robust Dual-modal Salient Object Detection**|Shuang Hao et.al.|[2407.06780](http://arxiv.org/abs/2407.06780)|**[link](https://github.com/ssecv/CoLA)**|
