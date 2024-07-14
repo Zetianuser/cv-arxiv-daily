@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.13
+## Updated on 2024.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -73,12 +73,13 @@
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
 |**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
 
-<p align=right>(<a href=#updated-on-20240713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240714>back to top</a>)</p>
 
 ## In-context
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**RB-SQL: A Retrieval-based LLM Framework for Text-to-SQL**|Zhenhe Wu et.al.|[2407.08273](http://arxiv.org/abs/2407.08273)|null|
 |**2024-07-10**|**Video In-context Learning**|Wentao Zhang et.al.|[2407.07356](http://arxiv.org/abs/2407.07356)|null|
 |**2024-07-09**|**Induction Heads as an Essential Mechanism for Pattern Matching in In-context Learning**|J. Crosbie et.al.|[2407.07011](http://arxiv.org/abs/2407.07011)|null|
 |**2024-07-09**|**ICLGuard: Controlling In-Context Learning Behavior for Applicability Authorization**|Wai Man Si et.al.|[2407.06955](http://arxiv.org/abs/2407.06955)|null|
@@ -634,12 +635,22 @@
 |**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075](http://arxiv.org/abs/2312.11075)|null|
 |**2023-12-18**|**APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation**|Chengran Yang et.al.|[2312.10934](http://arxiv.org/abs/2312.10934)|null|
 
-<p align=right>(<a href=#updated-on-20240713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240714>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Extracting Training Data from Document-Based VQA Models**|Francesco Pinto et.al.|[2407.08707](http://arxiv.org/abs/2407.08707)|null|
+|**2024-07-11**|**HiRes-LLaVA: Restoring Fragmentation Input in High-Resolution Large Vision-Language Models**|Runhui Huang et.al.|[2407.08706](http://arxiv.org/abs/2407.08706)|null|
+|**2024-07-11**|**Robotic Control via Embodied Chain-of-Thought Reasoning**|Zawalski Michał et.al.|[2407.08693](http://arxiv.org/abs/2407.08693)|null|
+|**2024-07-11**|**NODE-Adapter: Neural Ordinary Differential Equations for Better Vision-Language Reasoning**|Yi Zhang et.al.|[2407.08672](http://arxiv.org/abs/2407.08672)|null|
+|**2024-07-11**|**Bootstrapping Vision-language Models for Self-supervised Remote Physiological Measurement**|Zijie Yue et.al.|[2407.08507](http://arxiv.org/abs/2407.08507)|null|
+|**2024-07-11**|**Specialist vision-language models for clinical ophthalmology**|Robbie Holland et.al.|[2407.08410](http://arxiv.org/abs/2407.08410)|null|
+|**2024-07-11**|**Enhancing Robustness of Vision-Language Models through Orthogonality Learning and Cross-Regularization**|Jinlong Li et.al.|[2407.08374](http://arxiv.org/abs/2407.08374)|null|
+|**2024-07-11**|**Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation**|Tong Shao et.al.|[2407.08268](http://arxiv.org/abs/2407.08268)|null|
+|**2024-07-11**|**AddressCLIP: Empowering Vision-Language Models for City-wide Image Address Localization**|Shixiong Xu et.al.|[2407.08156](http://arxiv.org/abs/2407.08156)|**[link](https://github.com/xsx1001/addressclip)**|
+|**2024-07-11**|**Live Fitness Coaching as a Testbed for Situated Interaction**|Sunny Panchal et.al.|[2407.08101](http://arxiv.org/abs/2407.08101)|null|
 |**2024-07-10**|**Decompose and Compare Consistency: Measuring VLMs' Answer Reliability via Task-Decomposition Consistency Comparison**|Qian Yang et.al.|[2407.07840](http://arxiv.org/abs/2407.07840)|null|
 |**2024-07-10**|**Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**|Hao-Tien Lewis Chiang et.al.|[2407.07775](http://arxiv.org/abs/2407.07775)|null|
 |**2024-07-10**|**PaliGemma: A versatile 3B VLM for transfer**|Lucas Beyer et.al.|[2407.07726](http://arxiv.org/abs/2407.07726)|null|
@@ -1343,7 +1354,7 @@
 |**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423](http://arxiv.org/abs/2312.12423)|null|
 |**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379](http://arxiv.org/abs/2312.12379)|null|
 
-<p align=right>(<a href=#updated-on-20240713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240714>back to top</a>)</p>
 
 ## Visual In-context
 
@@ -1351,12 +1362,13 @@
 |---|---|---|---|---|
 |**2024-02-18**|**Visual In-Context Learning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2402.11574](http://arxiv.org/abs/2402.11574)|null|
 
-<p align=right>(<a href=#updated-on-20240713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240714>back to top</a>)</p>
 
 ## V-ICL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**RB-SQL: A Retrieval-based LLM Framework for Text-to-SQL**|Zhenhe Wu et.al.|[2407.08273](http://arxiv.org/abs/2407.08273)|null|
 |**2024-07-10**|**Video In-context Learning**|Wentao Zhang et.al.|[2407.07356](http://arxiv.org/abs/2407.07356)|null|
 |**2024-07-09**|**Induction Heads as an Essential Mechanism for Pattern Matching in In-context Learning**|J. Crosbie et.al.|[2407.07011](http://arxiv.org/abs/2407.07011)|null|
 |**2024-07-09**|**ICLGuard: Controlling In-Context Learning Behavior for Applicability Authorization**|Wai Man Si et.al.|[2407.06955](http://arxiv.org/abs/2407.06955)|null|
@@ -1622,7 +1634,7 @@
 |**2024-04-15**|**Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**|Sungwon Han et.al.|[2404.09491](http://arxiv.org/abs/2404.09491)|**[link](https://github.com/sungwon-han/featllm)**|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
 
-<p align=right>(<a href=#updated-on-20240713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240714>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

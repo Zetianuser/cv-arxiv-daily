@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.13
+## Updated on 2024.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -70,6 +70,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**RB-SQL: A Retrieval-based LLM Framework for Text-to-SQL**|Zhenhe Wu et.al.|[2407.08273](http://arxiv.org/abs/2407.08273)|null|
 |**2024-07-10**|**Video In-context Learning**|Wentao Zhang et.al.|[2407.07356](http://arxiv.org/abs/2407.07356)|null|
 |**2024-07-09**|**Induction Heads as an Essential Mechanism for Pattern Matching in In-context Learning**|J. Crosbie et.al.|[2407.07011](http://arxiv.org/abs/2407.07011)|null|
 |**2024-07-09**|**ICLGuard: Controlling In-Context Learning Behavior for Applicability Authorization**|Wai Man Si et.al.|[2407.06955](http://arxiv.org/abs/2407.06955)|null|
@@ -629,6 +630,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**Extracting Training Data from Document-Based VQA Models**|Francesco Pinto et.al.|[2407.08707](http://arxiv.org/abs/2407.08707)|null|
+|**2024-07-11**|**HiRes-LLaVA: Restoring Fragmentation Input in High-Resolution Large Vision-Language Models**|Runhui Huang et.al.|[2407.08706](http://arxiv.org/abs/2407.08706)|null|
+|**2024-07-11**|**Robotic Control via Embodied Chain-of-Thought Reasoning**|Zawalski Michał et.al.|[2407.08693](http://arxiv.org/abs/2407.08693)|null|
+|**2024-07-11**|**NODE-Adapter: Neural Ordinary Differential Equations for Better Vision-Language Reasoning**|Yi Zhang et.al.|[2407.08672](http://arxiv.org/abs/2407.08672)|null|
+|**2024-07-11**|**Bootstrapping Vision-language Models for Self-supervised Remote Physiological Measurement**|Zijie Yue et.al.|[2407.08507](http://arxiv.org/abs/2407.08507)|null|
+|**2024-07-11**|**Specialist vision-language models for clinical ophthalmology**|Robbie Holland et.al.|[2407.08410](http://arxiv.org/abs/2407.08410)|null|
+|**2024-07-11**|**Enhancing Robustness of Vision-Language Models through Orthogonality Learning and Cross-Regularization**|Jinlong Li et.al.|[2407.08374](http://arxiv.org/abs/2407.08374)|null|
+|**2024-07-11**|**Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation**|Tong Shao et.al.|[2407.08268](http://arxiv.org/abs/2407.08268)|null|
+|**2024-07-11**|**AddressCLIP: Empowering Vision-Language Models for City-wide Image Address Localization**|Shixiong Xu et.al.|[2407.08156](http://arxiv.org/abs/2407.08156)|**[link](https://github.com/xsx1001/addressclip)**|
+|**2024-07-11**|**Live Fitness Coaching as a Testbed for Situated Interaction**|Sunny Panchal et.al.|[2407.08101](http://arxiv.org/abs/2407.08101)|null|
 |**2024-07-10**|**Decompose and Compare Consistency: Measuring VLMs' Answer Reliability via Task-Decomposition Consistency Comparison**|Qian Yang et.al.|[2407.07840](http://arxiv.org/abs/2407.07840)|null|
 |**2024-07-10**|**Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**|Hao-Tien Lewis Chiang et.al.|[2407.07775](http://arxiv.org/abs/2407.07775)|null|
 |**2024-07-10**|**PaliGemma: A versatile 3B VLM for transfer**|Lucas Beyer et.al.|[2407.07726](http://arxiv.org/abs/2407.07726)|null|
@@ -1342,6 +1353,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**RB-SQL: A Retrieval-based LLM Framework for Text-to-SQL**|Zhenhe Wu et.al.|[2407.08273](http://arxiv.org/abs/2407.08273)|null|
 |**2024-07-10**|**Video In-context Learning**|Wentao Zhang et.al.|[2407.07356](http://arxiv.org/abs/2407.07356)|null|
 |**2024-07-09**|**Induction Heads as an Essential Mechanism for Pattern Matching in In-context Learning**|J. Crosbie et.al.|[2407.07011](http://arxiv.org/abs/2407.07011)|null|
 |**2024-07-09**|**ICLGuard: Controlling In-Context Learning Behavior for Applicability Authorization**|Wai Man Si et.al.|[2407.06955](http://arxiv.org/abs/2407.06955)|null|
