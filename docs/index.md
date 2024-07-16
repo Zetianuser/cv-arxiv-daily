@@ -70,6 +70,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**GPT Sonograpy: Hand Gesture Decoding from Forearm Ultrasound Images via VLM**|Keshav Bimbraw et.al.|[2407.10870](http://arxiv.org/abs/2407.10870)|null|
+|**2024-07-15**|**Sibyl: Simple yet Effective Agent Framework for Complex Real-world Reasoning**|Yulong Wang et.al.|[2407.10718](http://arxiv.org/abs/2407.10718)|**[link](https://github.com/ag2s1/sibyl-system)**|
+|**2024-07-15**|**Enhancing Retrieval and Managing Retrieval: A Four-Module Synergy for Improved Quality and Efficiency in RAG Systems**|Yunxiao Shi et.al.|[2407.10670](http://arxiv.org/abs/2407.10670)|**[link](https://github.com/ancientshi/erm4)**|
+|**2024-07-14**|**Visual Prompt Selection for In-Context Learning Segmentation**|Wei Suo et.al.|[2407.10233](http://arxiv.org/abs/2407.10233)|null|
+|**2024-07-13**|**Fine-grained Analysis of In-context Linear Estimation: Data, Architecture, and Beyond**|Yingcong Li et.al.|[2407.10005](http://arxiv.org/abs/2407.10005)|null|
 |**2024-07-12**|**HiPPO-Prophecy: State-Space Models can Provably Learn Dynamical Systems in Context**|Federico Arangath Joseph et.al.|[2407.09375](http://arxiv.org/abs/2407.09375)|null|
 |**2024-07-12**|**SpreadsheetLLM: Encoding Spreadsheets for Large Language Models**|Yuzhang Tian et.al.|[2407.09025](http://arxiv.org/abs/2407.09025)|null|
 |**2024-07-12**|**Empowering Few-Shot Relation Extraction with The Integration of Traditional RE Methods and Large Language Models**|Ye Liu et.al.|[2407.08967](http://arxiv.org/abs/2407.08967)|**[link](https://github.com/liuyeah/dsare)**|
@@ -635,6 +640,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?**|Ruisheng Cao et.al.|[2407.10956](http://arxiv.org/abs/2407.10956)|**[link](https://github.com/xlang-ai/spider2-v)**|
+|**2024-07-15**|**Benchmarking Vision Language Models for Cultural Understanding**|Shravan Nayak et.al.|[2407.10920](http://arxiv.org/abs/2407.10920)|null|
+|**2024-07-15**|**GPT Sonograpy: Hand Gesture Decoding from Forearm Ultrasound Images via VLM**|Keshav Bimbraw et.al.|[2407.10870](http://arxiv.org/abs/2407.10870)|null|
+|**2024-07-15**|**Physics-Inspired Generative Models in Medical Imaging: A Review**|Dennis Hein et.al.|[2407.10856](http://arxiv.org/abs/2407.10856)|null|
+|**2024-07-15**|**Quantized Prompt for Efficient Generalization of Vision-Language Models**|Tianxiang Hao et.al.|[2407.10704](http://arxiv.org/abs/2407.10704)|**[link](https://github.com/beyondhtx/qprompt)**|
+|**2024-07-15**|**OVLW-DETR: Open-Vocabulary Light-Weighted Detection Transformer**|Yu Wang et.al.|[2407.10655](http://arxiv.org/abs/2407.10655)|**[link](https://github.com/atten4vis/lw-detr)**|
+|**2024-07-15**|**NTSEBENCH: Cognitive Reasoning Benchmark for Vision Language Models**|Pranshu Pandya et.al.|[2407.10380](http://arxiv.org/abs/2407.10380)|null|
+|**2024-07-14**|**Affordance-Guided Reinforcement Learning via Visual Prompting**|Olivia Y. Lee et.al.|[2407.10341](http://arxiv.org/abs/2407.10341)|null|
+|**2024-07-13**|**VLMPC: Vision-Language Model Predictive Control for Robotic Manipulation**|Wentao Zhao et.al.|[2407.09829](http://arxiv.org/abs/2407.09829)|null|
+|**2024-07-13**|**3D Weakly Supervised Semantic Segmentation with 2D Vision-Language Guidance**|Xiaoxu Xu et.al.|[2407.09826](http://arxiv.org/abs/2407.09826)|null|
 |**2024-07-12**|**Open Vocabulary Multi-Label Video Classification**|Rohit Gupta et.al.|[2407.09073](http://arxiv.org/abs/2407.09073)|null|
 |**2024-07-12**|**Navi2Gaze: Leveraging Foundation Models for Navigation and Target Gazing**|Jun Zhu et.al.|[2407.09053](http://arxiv.org/abs/2407.09053)|null|
 |**2024-07-12**|**Textual Query-Driven Mask Transformer for Domain Generalized Segmentation**|Byeonghyun Pak et.al.|[2407.09033](http://arxiv.org/abs/2407.09033)|null|
@@ -1365,6 +1380,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**GPT Sonograpy: Hand Gesture Decoding from Forearm Ultrasound Images via VLM**|Keshav Bimbraw et.al.|[2407.10870](http://arxiv.org/abs/2407.10870)|null|
+|**2024-07-15**|**Sibyl: Simple yet Effective Agent Framework for Complex Real-world Reasoning**|Yulong Wang et.al.|[2407.10718](http://arxiv.org/abs/2407.10718)|**[link](https://github.com/ag2s1/sibyl-system)**|
+|**2024-07-15**|**Enhancing Retrieval and Managing Retrieval: A Four-Module Synergy for Improved Quality and Efficiency in RAG Systems**|Yunxiao Shi et.al.|[2407.10670](http://arxiv.org/abs/2407.10670)|**[link](https://github.com/ancientshi/erm4)**|
+|**2024-07-14**|**Visual Prompt Selection for In-Context Learning Segmentation**|Wei Suo et.al.|[2407.10233](http://arxiv.org/abs/2407.10233)|null|
+|**2024-07-13**|**Fine-grained Analysis of In-context Linear Estimation: Data, Architecture, and Beyond**|Yingcong Li et.al.|[2407.10005](http://arxiv.org/abs/2407.10005)|null|
 |**2024-07-12**|**HiPPO-Prophecy: State-Space Models can Provably Learn Dynamical Systems in Context**|Federico Arangath Joseph et.al.|[2407.09375](http://arxiv.org/abs/2407.09375)|null|
 |**2024-07-12**|**SpreadsheetLLM: Encoding Spreadsheets for Large Language Models**|Yuzhang Tian et.al.|[2407.09025](http://arxiv.org/abs/2407.09025)|null|
 |**2024-07-12**|**Empowering Few-Shot Relation Extraction with The Integration of Traditional RE Methods and Large Language Models**|Ye Liu et.al.|[2407.08967](http://arxiv.org/abs/2407.08967)|**[link](https://github.com/liuyeah/dsare)**|
