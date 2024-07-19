@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**Learning Camouflaged Object Detection from Noisy Pseudo Label**|Jin Zhang et.al.|[2407.13157](http://arxiv.org/abs/2407.13157)|null|
+|**2024-07-18**|**FocusDiffuser: Perceiving Local Disparities for Camouflaged Object Detection**|Jianwei Zhao et.al.|[2407.13133](http://arxiv.org/abs/2407.13133)|null|
 |**2024-07-17**|**Exploring Deeper! Segment Anything Model with Depth Perception for Camouflaged Object Detection**|Zhenni Yu et.al.|[2407.12339](http://arxiv.org/abs/2407.12339)|null|
 |**2024-07-10**|**Edge-dominance games on graphs**|Farid Arthaud et.al.|[2407.07785](http://arxiv.org/abs/2407.07785)|null|
 |**2024-07-02**|**Adversarial Magnification to Deceive Deepfake Detection through Super Resolution**|Davide Alessandro Coccomini et.al.|[2407.02670](http://arxiv.org/abs/2407.02670)|**[link](https://github.com/davide-coccomini/adversarial-magnification-to-deceive-deepfake-detection-through-super-resolution)**|
@@ -71,6 +73,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**Large Language Models as Reliable Knowledge Bases?**|Danna Zheng et.al.|[2407.13578](http://arxiv.org/abs/2407.13578)|null|
+|**2024-07-18**|**Can Open-Source LLMs Compete with Commercial Models? Exploring the Few-Shot Performance of Current GPT Models in Biomedical Tasks**|Samy Ateia et.al.|[2407.13511](http://arxiv.org/abs/2407.13511)|null|
+|**2024-07-18**|**Learning-From-Mistakes Prompting for Indigenous Language Translation**|You-Cheng Liao et.al.|[2407.13343](http://arxiv.org/abs/2407.13343)|null|
+|**2024-07-17**|**R+X: Retrieval and Execution from Everyday Human Videos**|Georgios Papagiannis et.al.|[2407.12957](http://arxiv.org/abs/2407.12957)|null|
+|**2024-07-16**|**Large Visual-Language Models Are Also Good Classifiers: A Study of In-Context Multimodal Fake News Detection**|Ye Jiang et.al.|[2407.12879](http://arxiv.org/abs/2407.12879)|null|
 |**2024-07-17**|**Evaluating Linguistic Capabilities of Multimodal LLMs in the Lens of Few-Shot Learning**|Mustafa Dogan et.al.|[2407.12498](http://arxiv.org/abs/2407.12498)|null|
 |**2024-07-16**|**Private prediction for large-scale synthetic text generation**|Kareem Amin et.al.|[2407.12108](http://arxiv.org/abs/2407.12108)|null|
 |**2024-07-16**|**AdaptEval: Evaluating Large Language Models on Domain Adaptation for Text Summarization**|Anum Afzal et.al.|[2407.11591](http://arxiv.org/abs/2407.11591)|null|
@@ -648,6 +655,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models**|Moon Ye-Bin et.al.|[2407.13442](http://arxiv.org/abs/2407.13442)|null|
+|**2024-07-18**|**Affordance Perception by a Knowledge-Guided Vision-Language Model with Efficient Error Correction**|Gertjan Burghouts et.al.|[2407.13368](http://arxiv.org/abs/2407.13368)|null|
+|**2024-07-17**|**R+X: Retrieval and Execution from Everyday Human Videos**|Georgios Papagiannis et.al.|[2407.12957](http://arxiv.org/abs/2407.12957)|null|
 |**2024-07-17**|**ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference**|Mengcheng Lan et.al.|[2407.12442](http://arxiv.org/abs/2407.12442)|null|
 |**2024-07-17**|**NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models**|Gengze Zhou et.al.|[2407.12366](http://arxiv.org/abs/2407.12366)|**[link](https://github.com/gengzezhou/navgpt-2)**|
 |**2024-07-17**|**VisionTrap: Vision-Augmented Trajectory Prediction Guided by Textual Descriptions**|Seokha Moon et.al.|[2407.12345](http://arxiv.org/abs/2407.12345)|null|
@@ -1403,6 +1413,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**Large Language Models as Reliable Knowledge Bases?**|Danna Zheng et.al.|[2407.13578](http://arxiv.org/abs/2407.13578)|null|
+|**2024-07-18**|**Can Open-Source LLMs Compete with Commercial Models? Exploring the Few-Shot Performance of Current GPT Models in Biomedical Tasks**|Samy Ateia et.al.|[2407.13511](http://arxiv.org/abs/2407.13511)|null|
+|**2024-07-18**|**Learning-From-Mistakes Prompting for Indigenous Language Translation**|You-Cheng Liao et.al.|[2407.13343](http://arxiv.org/abs/2407.13343)|null|
+|**2024-07-17**|**R+X: Retrieval and Execution from Everyday Human Videos**|Georgios Papagiannis et.al.|[2407.12957](http://arxiv.org/abs/2407.12957)|null|
+|**2024-07-16**|**Large Visual-Language Models Are Also Good Classifiers: A Study of In-Context Multimodal Fake News Detection**|Ye Jiang et.al.|[2407.12879](http://arxiv.org/abs/2407.12879)|null|
 |**2024-07-17**|**Evaluating Linguistic Capabilities of Multimodal LLMs in the Lens of Few-Shot Learning**|Mustafa Dogan et.al.|[2407.12498](http://arxiv.org/abs/2407.12498)|null|
 |**2024-07-16**|**Private prediction for large-scale synthetic text generation**|Kareem Amin et.al.|[2407.12108](http://arxiv.org/abs/2407.12108)|null|
 |**2024-07-16**|**AdaptEval: Evaluating Large Language Models on Domain Adaptation for Text Summarization**|Anum Afzal et.al.|[2407.11591](http://arxiv.org/abs/2407.11591)|null|

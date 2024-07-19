@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Learning Camouflaged Object Detection from Noisy Pseudo Label**|Jin Zhang et.al.|[2407.13157](http://arxiv.org/abs/2407.13157)|null|
+|**2024-07-18**|**FocusDiffuser: Perceiving Local Disparities for Camouflaged Object Detection**|Jianwei Zhao et.al.|[2407.13133](http://arxiv.org/abs/2407.13133)|null|
 |**2024-07-17**|**Exploring Deeper! Segment Anything Model with Depth Perception for Camouflaged Object Detection**|Zhenni Yu et.al.|[2407.12339](http://arxiv.org/abs/2407.12339)|null|
 |**2024-07-10**|**Edge-dominance games on graphs**|Farid Arthaud et.al.|[2407.07785](http://arxiv.org/abs/2407.07785)|null|
 |**2024-07-02**|**Adversarial Magnification to Deceive Deepfake Detection through Super Resolution**|Davide Alessandro Coccomini et.al.|[2407.02670](http://arxiv.org/abs/2407.02670)|**[link](https://github.com/davide-coccomini/adversarial-magnification-to-deceive-deepfake-detection-through-super-resolution)**|
@@ -74,12 +76,17 @@
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
 |**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
 
-<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240719>back to top</a>)</p>
 
 ## In-context
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Large Language Models as Reliable Knowledge Bases?**|Danna Zheng et.al.|[2407.13578](http://arxiv.org/abs/2407.13578)|null|
+|**2024-07-18**|**Can Open-Source LLMs Compete with Commercial Models? Exploring the Few-Shot Performance of Current GPT Models in Biomedical Tasks**|Samy Ateia et.al.|[2407.13511](http://arxiv.org/abs/2407.13511)|null|
+|**2024-07-18**|**Learning-From-Mistakes Prompting for Indigenous Language Translation**|You-Cheng Liao et.al.|[2407.13343](http://arxiv.org/abs/2407.13343)|null|
+|**2024-07-17**|**R+X: Retrieval and Execution from Everyday Human Videos**|Georgios Papagiannis et.al.|[2407.12957](http://arxiv.org/abs/2407.12957)|null|
+|**2024-07-16**|**Large Visual-Language Models Are Also Good Classifiers: A Study of In-Context Multimodal Fake News Detection**|Ye Jiang et.al.|[2407.12879](http://arxiv.org/abs/2407.12879)|null|
 |**2024-07-17**|**Evaluating Linguistic Capabilities of Multimodal LLMs in the Lens of Few-Shot Learning**|Mustafa Dogan et.al.|[2407.12498](http://arxiv.org/abs/2407.12498)|null|
 |**2024-07-16**|**Private prediction for large-scale synthetic text generation**|Kareem Amin et.al.|[2407.12108](http://arxiv.org/abs/2407.12108)|null|
 |**2024-07-16**|**AdaptEval: Evaluating Large Language Models on Domain Adaptation for Text Summarization**|Anum Afzal et.al.|[2407.11591](http://arxiv.org/abs/2407.11591)|null|
@@ -653,12 +660,15 @@
 |**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075](http://arxiv.org/abs/2312.11075)|null|
 |**2023-12-18**|**APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation**|Chengran Yang et.al.|[2312.10934](http://arxiv.org/abs/2312.10934)|null|
 
-<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240719>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models**|Moon Ye-Bin et.al.|[2407.13442](http://arxiv.org/abs/2407.13442)|null|
+|**2024-07-18**|**Affordance Perception by a Knowledge-Guided Vision-Language Model with Efficient Error Correction**|Gertjan Burghouts et.al.|[2407.13368](http://arxiv.org/abs/2407.13368)|null|
+|**2024-07-17**|**R+X: Retrieval and Execution from Everyday Human Videos**|Georgios Papagiannis et.al.|[2407.12957](http://arxiv.org/abs/2407.12957)|null|
 |**2024-07-17**|**ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference**|Mengcheng Lan et.al.|[2407.12442](http://arxiv.org/abs/2407.12442)|null|
 |**2024-07-17**|**NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models**|Gengze Zhou et.al.|[2407.12366](http://arxiv.org/abs/2407.12366)|**[link](https://github.com/gengzezhou/navgpt-2)**|
 |**2024-07-17**|**VisionTrap: Vision-Augmented Trajectory Prediction Guided by Textual Descriptions**|Seokha Moon et.al.|[2407.12345](http://arxiv.org/abs/2407.12345)|null|
@@ -1404,7 +1414,7 @@
 |**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423](http://arxiv.org/abs/2312.12423)|null|
 |**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379](http://arxiv.org/abs/2312.12379)|null|
 
-<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240719>back to top</a>)</p>
 
 ## Visual In-context
 
@@ -1412,12 +1422,17 @@
 |---|---|---|---|---|
 |**2024-02-18**|**Visual In-Context Learning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2402.11574](http://arxiv.org/abs/2402.11574)|null|
 
-<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240719>back to top</a>)</p>
 
 ## V-ICL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Large Language Models as Reliable Knowledge Bases?**|Danna Zheng et.al.|[2407.13578](http://arxiv.org/abs/2407.13578)|null|
+|**2024-07-18**|**Can Open-Source LLMs Compete with Commercial Models? Exploring the Few-Shot Performance of Current GPT Models in Biomedical Tasks**|Samy Ateia et.al.|[2407.13511](http://arxiv.org/abs/2407.13511)|null|
+|**2024-07-18**|**Learning-From-Mistakes Prompting for Indigenous Language Translation**|You-Cheng Liao et.al.|[2407.13343](http://arxiv.org/abs/2407.13343)|null|
+|**2024-07-17**|**R+X: Retrieval and Execution from Everyday Human Videos**|Georgios Papagiannis et.al.|[2407.12957](http://arxiv.org/abs/2407.12957)|null|
+|**2024-07-16**|**Large Visual-Language Models Are Also Good Classifiers: A Study of In-Context Multimodal Fake News Detection**|Ye Jiang et.al.|[2407.12879](http://arxiv.org/abs/2407.12879)|null|
 |**2024-07-17**|**Evaluating Linguistic Capabilities of Multimodal LLMs in the Lens of Few-Shot Learning**|Mustafa Dogan et.al.|[2407.12498](http://arxiv.org/abs/2407.12498)|null|
 |**2024-07-16**|**Private prediction for large-scale synthetic text generation**|Kareem Amin et.al.|[2407.12108](http://arxiv.org/abs/2407.12108)|null|
 |**2024-07-16**|**AdaptEval: Evaluating Large Language Models on Domain Adaptation for Text Summarization**|Anum Afzal et.al.|[2407.11591](http://arxiv.org/abs/2407.11591)|null|
@@ -1701,7 +1716,7 @@
 |**2024-04-15**|**Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**|Sungwon Han et.al.|[2404.09491](http://arxiv.org/abs/2404.09491)|**[link](https://github.com/sungwon-han/featllm)**|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
 
-<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240719>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
