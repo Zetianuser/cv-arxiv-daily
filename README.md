@@ -82,6 +82,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Do Large Language Models Have Compositional Ability? An Investigation into Limitations and Scalability**|Zhuoyan Xu et.al.|[2407.15720](http://arxiv.org/abs/2407.15720)|**[link](https://github.com/oliverxuzy/llm_compose)**|
+|**2024-07-22**|**In-Context Learning Improves Compositional Understanding of Vision-Language Models**|Matteo Nulli et.al.|[2407.15487](http://arxiv.org/abs/2407.15487)|**[link](https://github.com/hoezey/vlm-compositionality)**|
+|**2024-07-22**|**ZZU-NLP at SIGHAN-2024 dimABSA Task: Aspect-Based Sentiment Analysis with Coarse-to-Fine In-context Learning**|Senbin Zhu et.al.|[2407.15341](http://arxiv.org/abs/2407.15341)|null|
+|**2024-07-21**|**MIBench: Evaluating Multimodal Large Language Models over Multiple Images**|Haowei Liu et.al.|[2407.15272](http://arxiv.org/abs/2407.15272)|null|
 |**2024-07-19**|**Prompted Aspect Key Point Analysis for Quantitative Review Summarization**|An Quang Tang et.al.|[2407.14049](http://arxiv.org/abs/2407.14049)|**[link](https://github.com/antangrocket1312/pakpa)**|
 |**2024-07-19**|**ECCO: Can We Improve Model-Generated Code Efficiency Without Sacrificing Functional Correctness?**|Siddhant Waghjale et.al.|[2407.14044](http://arxiv.org/abs/2407.14044)|**[link](https://github.com/codeeff/ecco)**|
 |**2024-07-18**|**FANTAstic SEquences and Where to Find Them: Faithful and Efficient API Call Generation through State-tracked Constrained Decoding and Reranking**|Zhuoer Wang et.al.|[2407.13945](http://arxiv.org/abs/2407.13945)|null|
@@ -669,6 +673,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection**|Yunkang Cao et.al.|[2407.15795](http://arxiv.org/abs/2407.15795)|**[link](https://github.com/caoyunkang/adaclip)**|
+|**2024-07-22**|**CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning**|Emanuele Frascaroli et.al.|[2407.15793](http://arxiv.org/abs/2407.15793)|**[link](https://github.com/aimagelab/mammoth)**|
+|**2024-07-22**|**Concept-Based Interpretable Reinforcement Learning with Limited to No Human Labels**|Zhuorui Ye et.al.|[2407.15786](http://arxiv.org/abs/2407.15786)|null|
+|**2024-07-22**|**Zero-Shot Embeddings Inform Learning and Forgetting with Vision-Language Encoders**|Laura Niss et.al.|[2407.15731](http://arxiv.org/abs/2407.15731)|null|
+|**2024-07-22**|**SAM2CLIP2SAM: Vision Language Model for Segmentation of 3D CT Scans for Covid-19 Detection**|Dimitrios Kollias et.al.|[2407.15728](http://arxiv.org/abs/2407.15728)|null|
+|**2024-07-22**|**HaloQuest: A Visual Hallucination Dataset for Advancing Multimodal Reasoning**|Zhecan Wang et.al.|[2407.15680](http://arxiv.org/abs/2407.15680)|null|
+|**2024-07-22**|**In-Context Learning Improves Compositional Understanding of Vision-Language Models**|Matteo Nulli et.al.|[2407.15487](http://arxiv.org/abs/2407.15487)|**[link](https://github.com/hoezey/vlm-compositionality)**|
+|**2024-07-22**|**WTS: A Pedestrian-Centric Traffic Video Dataset for Fine-grained Spatial-Temporal Understanding**|Quan Kong et.al.|[2407.15350](http://arxiv.org/abs/2407.15350)|null|
+|**2024-07-21**|**Assessing Brittleness of Image-Text Retrieval Benchmarks from Vision-Language Models Perspective**|Mariya Hendriksen et.al.|[2407.15239](http://arxiv.org/abs/2407.15239)|null|
+|**2024-07-21**|**When Do Universal Image Jailbreaks Transfer Between Vision-Language Models?**|Rylan Schaeffer et.al.|[2407.15211](http://arxiv.org/abs/2407.15211)|null|
 |**2024-07-19**|**DEAL: Disentangle and Localize Concept-level Explanations for VLMs**|Tang Li et.al.|[2407.14412](http://arxiv.org/abs/2407.14412)|null|
 |**2024-07-19**|**Multimodal Misinformation Detection using Large Vision-Language Models**|Sahar Tahmasebi et.al.|[2407.14321](http://arxiv.org/abs/2407.14321)|null|
 |**2024-07-19**|**Words2Contact: Identifying Support Contacts from Verbal Instructions Using Foundation Models**|Dionis Totsila et.al.|[2407.14229](http://arxiv.org/abs/2407.14229)|null|
@@ -1439,6 +1453,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Do Large Language Models Have Compositional Ability? An Investigation into Limitations and Scalability**|Zhuoyan Xu et.al.|[2407.15720](http://arxiv.org/abs/2407.15720)|**[link](https://github.com/oliverxuzy/llm_compose)**|
+|**2024-07-22**|**In-Context Learning Improves Compositional Understanding of Vision-Language Models**|Matteo Nulli et.al.|[2407.15487](http://arxiv.org/abs/2407.15487)|**[link](https://github.com/hoezey/vlm-compositionality)**|
+|**2024-07-22**|**ZZU-NLP at SIGHAN-2024 dimABSA Task: Aspect-Based Sentiment Analysis with Coarse-to-Fine In-context Learning**|Senbin Zhu et.al.|[2407.15341](http://arxiv.org/abs/2407.15341)|null|
+|**2024-07-21**|**MIBench: Evaluating Multimodal Large Language Models over Multiple Images**|Haowei Liu et.al.|[2407.15272](http://arxiv.org/abs/2407.15272)|null|
 |**2024-07-19**|**Prompted Aspect Key Point Analysis for Quantitative Review Summarization**|An Quang Tang et.al.|[2407.14049](http://arxiv.org/abs/2407.14049)|**[link](https://github.com/antangrocket1312/pakpa)**|
 |**2024-07-19**|**ECCO: Can We Improve Model-Generated Code Efficiency Without Sacrificing Functional Correctness?**|Siddhant Waghjale et.al.|[2407.14044](http://arxiv.org/abs/2407.14044)|**[link](https://github.com/codeeff/ecco)**|
 |**2024-07-18**|**FANTAstic SEquences and Where to Find Them: Faithful and Efficient API Call Generation through State-tracked Constrained Decoding and Reranking**|Zhuoer Wang et.al.|[2407.13945](http://arxiv.org/abs/2407.13945)|null|
