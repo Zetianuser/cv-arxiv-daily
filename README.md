@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.25
+## Updated on 2024.07.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -77,7 +77,7 @@
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
 |**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## In-context
 
@@ -86,10 +86,10 @@
 |**2024-07-24**|**Grammar-based Game Description Generation using Large Language Models**|Tsunehiko Tanaka et.al.|[2407.17404](http://arxiv.org/abs/2407.17404)|null|
 |**2024-07-24**|**Unveiling In-Context Learning: A Coordinate System to Understand Its Working Mechanism**|Anhao Zhao et.al.|[2407.17011](http://arxiv.org/abs/2407.17011)|null|
 |**2024-07-24**|**SelfPiCo: Self-Guided Partial Code Execution with LLMs**|Zhipeng Xue et.al.|[2407.16974](http://arxiv.org/abs/2407.16974)|null|
-|**2024-07-23**|**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**|Xiaoyue Xu et.al.|[2407.16695](http://arxiv.org/abs/2407.16695)|null|
+|**2024-07-23**|**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**|Xiaoyue Xu et.al.|[2407.16695](http://arxiv.org/abs/2407.16695)|**[link](https://github.com/ink-usc/lifelong-icl)**|
 |**2024-07-23**|**Can Large Language Models Automatically Jailbreak GPT-4V?**|Yuanwei Wu et.al.|[2407.16686](http://arxiv.org/abs/2407.16686)|null|
 |**2024-07-23**|**Assessing In-context Learning and Fine-tuning for Topic Classification of German Web Data**|Julian Schelb et.al.|[2407.16516](http://arxiv.org/abs/2407.16516)|null|
-|**2024-07-23**|**Evolutionary Prompt Design for LLM-Based Post-ASR Error Correction**|Rithik Sachdev et.al.|[2407.16370](http://arxiv.org/abs/2407.16370)|null|
+|**2024-07-23**|**Evolutionary Prompt Design for LLM-Based Post-ASR Error Correction**|Rithik Sachdev et.al.|[2407.16370](http://arxiv.org/abs/2407.16370)|**[link](https://github.com/rithiksachdev/PostASR-Correction-SLT2024)**|
 |**2024-07-23**|**PrimeGuard: Safe and Helpful LLMs through Tuning-Free Routing**|Blazej Manczak et.al.|[2407.16318](http://arxiv.org/abs/2407.16318)|**[link](https://github.com/dynamofl/primeguard)**|
 |**2024-07-22**|**Multilingual Fine-Grained News Headline Hallucination Detection**|Jiaming Shen et.al.|[2407.15975](http://arxiv.org/abs/2407.15975)|null|
 |**2024-07-22**|**Do Large Language Models Have Compositional Ability? An Investigation into Limitations and Scalability**|Zhuoyan Xu et.al.|[2407.15720](http://arxiv.org/abs/2407.15720)|**[link](https://github.com/oliverxuzy/llm_compose)**|
@@ -677,7 +677,7 @@
 |**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075](http://arxiv.org/abs/2312.11075)|null|
 |**2023-12-18**|**APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation**|Chengran Yang et.al.|[2312.10934](http://arxiv.org/abs/2312.10934)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## VLM
 
@@ -1455,7 +1455,7 @@
 |**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423](http://arxiv.org/abs/2312.12423)|null|
 |**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379](http://arxiv.org/abs/2312.12379)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## Visual In-context
 
@@ -1463,7 +1463,7 @@
 |---|---|---|---|---|
 |**2024-02-18**|**Visual In-Context Learning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2402.11574](http://arxiv.org/abs/2402.11574)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## V-ICL
 
@@ -1472,10 +1472,10 @@
 |**2024-07-24**|**Grammar-based Game Description Generation using Large Language Models**|Tsunehiko Tanaka et.al.|[2407.17404](http://arxiv.org/abs/2407.17404)|null|
 |**2024-07-24**|**Unveiling In-Context Learning: A Coordinate System to Understand Its Working Mechanism**|Anhao Zhao et.al.|[2407.17011](http://arxiv.org/abs/2407.17011)|null|
 |**2024-07-24**|**SelfPiCo: Self-Guided Partial Code Execution with LLMs**|Zhipeng Xue et.al.|[2407.16974](http://arxiv.org/abs/2407.16974)|null|
-|**2024-07-23**|**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**|Xiaoyue Xu et.al.|[2407.16695](http://arxiv.org/abs/2407.16695)|null|
+|**2024-07-23**|**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**|Xiaoyue Xu et.al.|[2407.16695](http://arxiv.org/abs/2407.16695)|**[link](https://github.com/ink-usc/lifelong-icl)**|
 |**2024-07-23**|**Can Large Language Models Automatically Jailbreak GPT-4V?**|Yuanwei Wu et.al.|[2407.16686](http://arxiv.org/abs/2407.16686)|null|
 |**2024-07-23**|**Assessing In-context Learning and Fine-tuning for Topic Classification of German Web Data**|Julian Schelb et.al.|[2407.16516](http://arxiv.org/abs/2407.16516)|null|
-|**2024-07-23**|**Evolutionary Prompt Design for LLM-Based Post-ASR Error Correction**|Rithik Sachdev et.al.|[2407.16370](http://arxiv.org/abs/2407.16370)|null|
+|**2024-07-23**|**Evolutionary Prompt Design for LLM-Based Post-ASR Error Correction**|Rithik Sachdev et.al.|[2407.16370](http://arxiv.org/abs/2407.16370)|**[link](https://github.com/rithiksachdev/PostASR-Correction-SLT2024)**|
 |**2024-07-23**|**PrimeGuard: Safe and Helpful LLMs through Tuning-Free Routing**|Blazej Manczak et.al.|[2407.16318](http://arxiv.org/abs/2407.16318)|**[link](https://github.com/dynamofl/primeguard)**|
 |**2024-07-22**|**Multilingual Fine-Grained News Headline Hallucination Detection**|Jiaming Shen et.al.|[2407.15975](http://arxiv.org/abs/2407.15975)|null|
 |**2024-07-22**|**Do Large Language Models Have Compositional Ability? An Investigation into Limitations and Scalability**|Zhuoyan Xu et.al.|[2407.15720](http://arxiv.org/abs/2407.15720)|**[link](https://github.com/oliverxuzy/llm_compose)**|
@@ -1773,7 +1773,7 @@
 |**2024-04-15**|**Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**|Sungwon Han et.al.|[2404.09491](http://arxiv.org/abs/2404.09491)|**[link](https://github.com/sungwon-han/featllm)**|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
