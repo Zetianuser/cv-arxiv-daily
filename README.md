@@ -83,6 +83,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**AgEval: A Benchmark for Zero-Shot and Few-Shot Plant Stress Phenotyping with Multimodal LLMs**|Muhammad Arbab Arshad et.al.|[2407.19617](http://arxiv.org/abs/2407.19617)|null|
+|**2024-07-27**|**Polynomial Regression as a Task for Understanding In-context Learning Through Finetuning and Alignment**|Max Wilcoxson et.al.|[2407.19346](http://arxiv.org/abs/2407.19346)|null|
+|**2024-07-27**|**Understanding Memorisation in LLMs: Dynamics, Influencing Factors, and Implications**|Till Speicher et.al.|[2407.19262](http://arxiv.org/abs/2407.19262)|null|
+|**2024-07-26**|**Many-Shot In-Context Learning for Molecular Inverse Design**|Saeed Moayedpour et.al.|[2407.19089](http://arxiv.org/abs/2407.19089)|null|
 |**2024-07-24**|**Large Language Models for Anomaly Detection in Computational Workflows: from Supervised Fine-Tuning to In-Context Learning**|Hongwei Jin et.al.|[2407.17545](http://arxiv.org/abs/2407.17545)|**[link](https://github.com/poseidon-workflows/llm_ad)**|
 |**2024-07-24**|**Grammar-based Game Description Generation using Large Language Models**|Tsunehiko Tanaka et.al.|[2407.17404](http://arxiv.org/abs/2407.17404)|null|
 |**2024-07-24**|**Unveiling In-Context Learning: A Coordinate System to Understand Its Working Mechanism**|Anhao Zhao et.al.|[2407.17011](http://arxiv.org/abs/2407.17011)|null|
@@ -684,6 +688,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**FlexAttention for Efficient High-Resolution Vision-Language Models**|Junyan Li et.al.|[2407.20228](http://arxiv.org/abs/2407.20228)|null|
+|**2024-07-29**|**Normality Addition via Normality Detection in Industrial Image Anomaly Detection Models**|Jihun Yi et.al.|[2407.19849](http://arxiv.org/abs/2407.19849)|null|
+|**2024-07-29**|**Harnessing Large Vision and Language Models in Agriculture: A Review**|Hongyan Zhu et.al.|[2407.19679](http://arxiv.org/abs/2407.19679)|null|
+|**2024-07-27**|**GP-VLS: A general-purpose vision language model for surgery**|Samuel Schmidgall et.al.|[2407.19305](http://arxiv.org/abs/2407.19305)|null|
+|**2024-07-26**|**Solving Robotics Problems in Zero-Shot with Vision-Language Models**|Zidan Wang et.al.|[2407.19094](http://arxiv.org/abs/2407.19094)|null|
 |**2024-07-26**|**Wolf: Captioning Everything with a World Summarization Framework**|Boyi Li et.al.|[2407.18908](http://arxiv.org/abs/2407.18908)|null|
 |**2024-07-25**|**UOUO: Uncontextualized Uncommon Objects for Measuring Knowledge Horizons of Vision Language Models**|Xinyu Pi et.al.|[2407.18391](http://arxiv.org/abs/2407.18391)|null|
 |**2024-07-25**|**$\mathbb{X}$ -Sample Contrastive Loss: Improving Contrastive Learning with Sample Similarity Graphs**|Vlad Sobal et.al.|[2407.18134](http://arxiv.org/abs/2407.18134)|null|
@@ -1475,6 +1484,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**AgEval: A Benchmark for Zero-Shot and Few-Shot Plant Stress Phenotyping with Multimodal LLMs**|Muhammad Arbab Arshad et.al.|[2407.19617](http://arxiv.org/abs/2407.19617)|null|
+|**2024-07-27**|**Polynomial Regression as a Task for Understanding In-context Learning Through Finetuning and Alignment**|Max Wilcoxson et.al.|[2407.19346](http://arxiv.org/abs/2407.19346)|null|
+|**2024-07-27**|**Understanding Memorisation in LLMs: Dynamics, Influencing Factors, and Implications**|Till Speicher et.al.|[2407.19262](http://arxiv.org/abs/2407.19262)|null|
+|**2024-07-26**|**Many-Shot In-Context Learning for Molecular Inverse Design**|Saeed Moayedpour et.al.|[2407.19089](http://arxiv.org/abs/2407.19089)|null|
 |**2024-07-24**|**Large Language Models for Anomaly Detection in Computational Workflows: from Supervised Fine-Tuning to In-Context Learning**|Hongwei Jin et.al.|[2407.17545](http://arxiv.org/abs/2407.17545)|**[link](https://github.com/poseidon-workflows/llm_ad)**|
 |**2024-07-24**|**Grammar-based Game Description Generation using Large Language Models**|Tsunehiko Tanaka et.al.|[2407.17404](http://arxiv.org/abs/2407.17404)|null|
 |**2024-07-24**|**Unveiling In-Context Learning: A Coordinate System to Understand Its Working Mechanism**|Anhao Zhao et.al.|[2407.17011](http://arxiv.org/abs/2407.17011)|null|
