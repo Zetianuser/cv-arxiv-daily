@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**VecAug: Unveiling Camouflaged Frauds with Cohort Augmentation for Enhanced Detection**|Fei Xiao et.al.|[2408.00513](http://arxiv.org/abs/2408.00513)|null|
 |**2024-07-31**|**Evaluating SAM2's Role in Camouflaged Object Detection: From SAM to SAM2**|Lv Tang et.al.|[2407.21596](http://arxiv.org/abs/2407.21596)|null|
 |**2024-07-24**|**Global and Local Confidence Based Fraud Detection Graph Neural Network**|Jiaxun Liu et.al.|[2407.17333](http://arxiv.org/abs/2407.17333)|null|
 |**2024-07-18**|**Learning Camouflaged Object Detection from Noisy Pseudo Label**|Jin Zhang et.al.|[2407.13157](http://arxiv.org/abs/2407.13157)|null|
@@ -84,6 +85,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**Intermittent Semi-working Mask: A New Masking Paradigm for LLMs**|Mingcong Lu et.al.|[2408.00539](http://arxiv.org/abs/2408.00539)|null|
+|**2024-08-01**|**Jailbreaking Text-to-Image Models with LLM-Based Agents**|Yingkai Dong et.al.|[2408.00523](http://arxiv.org/abs/2408.00523)|null|
+|**2024-08-01**|**In-Context Example Selection via Similarity Search Improves Low-Resource Machine Translation**|Armel Zebaze et.al.|[2408.00397](http://arxiv.org/abs/2408.00397)|null|
+|**2024-08-01**|**Adversarial Text Rewriting for Text-aware Recommender Systems**|Sejoon Oh et.al.|[2408.00312](http://arxiv.org/abs/2408.00312)|null|
+|**2024-08-01**|**QUITO: Accelerating Long-Context Reasoning through Query-Guided Context Compression**|Wenshan Wang et.al.|[2408.00274](http://arxiv.org/abs/2408.00274)|null|
+|**2024-08-01**|**Large Language Model (LLM)-enabled In-context Learning for Wireless Network Optimization: A Case Study of Power Control**|Hao Zhou et.al.|[2408.00214](http://arxiv.org/abs/2408.00214)|null|
+|**2024-07-31**|**Distributed In-Context Learning under Non-IID Among Clients**|Siqi Liang et.al.|[2408.00144](http://arxiv.org/abs/2408.00144)|null|
 |**2024-07-31**|**Chat2Layout: Interactive 3D Furniture Layout with a Multimodal LLM**|Can Wang et.al.|[2407.21333](http://arxiv.org/abs/2407.21333)|null|
 |**2024-07-27**|**LawLLM: Law Large Language Model for the US Legal System**|Dong Shu et.al.|[2407.21065](http://arxiv.org/abs/2407.21065)|null|
 |**2024-07-30**|**SSPA: Split-and-Synthesize Prompting with Gated Alignments for Multi-Label Image Recognition**|Hao Tan et.al.|[2407.20920](http://arxiv.org/abs/2407.20920)|null|
@@ -694,6 +702,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**Collaborative Vision-Text Representation Optimizing for Open-Vocabulary Segmentation**|Siyu Jiao et.al.|[2408.00744](http://arxiv.org/abs/2408.00744)|null|
+|**2024-08-01**|**ExpertAF: Expert Actionable Feedback from Video**|Kumar Ashutosh et.al.|[2408.00672](http://arxiv.org/abs/2408.00672)|null|
+|**2024-08-01**|**Are Bigger Encoders Always Better in Vision Large Models?**|Bozhou Li et.al.|[2408.00620](http://arxiv.org/abs/2408.00620)|null|
+|**2024-08-01**|**Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation**|Xiaoye Qu et.al.|[2408.00555](http://arxiv.org/abs/2408.00555)|null|
+|**2024-08-01**|**Mitigating Multilingual Hallucination in Large Vision-Language Models**|Xiaoye Qu et.al.|[2408.00550](http://arxiv.org/abs/2408.00550)|null|
+|**2024-08-01**|**Jailbreaking Text-to-Image Models with LLM-Based Agents**|Yingkai Dong et.al.|[2408.00523](http://arxiv.org/abs/2408.00523)|null|
+|**2024-08-01**|**DECIDER: Leveraging Foundation Model Priors for Improved Model Failure Detection and Explanation**|Rakshith Subramanyam et.al.|[2408.00331](http://arxiv.org/abs/2408.00331)|null|
+|**2024-08-01**|**OmniParser for Pure Vision Based GUI Agent**|Yadong Lu et.al.|[2408.00203](http://arxiv.org/abs/2408.00203)|null|
 |**2024-07-31**|**Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey**|Atsuyuki Miyai et.al.|[2407.21794](http://arxiv.org/abs/2407.21794)|null|
 |**2024-07-31**|**Vision-Language Model Based Handwriting Verification**|Mihir Chauhan et.al.|[2407.21788](http://arxiv.org/abs/2407.21788)|null|
 |**2024-07-31**|**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs**|Shi Liu et.al.|[2407.21771](http://arxiv.org/abs/2407.21771)|null|
@@ -1507,6 +1523,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**Intermittent Semi-working Mask: A New Masking Paradigm for LLMs**|Mingcong Lu et.al.|[2408.00539](http://arxiv.org/abs/2408.00539)|null|
+|**2024-08-01**|**Jailbreaking Text-to-Image Models with LLM-Based Agents**|Yingkai Dong et.al.|[2408.00523](http://arxiv.org/abs/2408.00523)|null|
+|**2024-08-01**|**In-Context Example Selection via Similarity Search Improves Low-Resource Machine Translation**|Armel Zebaze et.al.|[2408.00397](http://arxiv.org/abs/2408.00397)|null|
+|**2024-08-01**|**Adversarial Text Rewriting for Text-aware Recommender Systems**|Sejoon Oh et.al.|[2408.00312](http://arxiv.org/abs/2408.00312)|null|
+|**2024-08-01**|**QUITO: Accelerating Long-Context Reasoning through Query-Guided Context Compression**|Wenshan Wang et.al.|[2408.00274](http://arxiv.org/abs/2408.00274)|null|
+|**2024-08-01**|**Large Language Model (LLM)-enabled In-context Learning for Wireless Network Optimization: A Case Study of Power Control**|Hao Zhou et.al.|[2408.00214](http://arxiv.org/abs/2408.00214)|null|
+|**2024-07-31**|**Distributed In-Context Learning under Non-IID Among Clients**|Siqi Liang et.al.|[2408.00144](http://arxiv.org/abs/2408.00144)|null|
 |**2024-07-31**|**Chat2Layout: Interactive 3D Furniture Layout with a Multimodal LLM**|Can Wang et.al.|[2407.21333](http://arxiv.org/abs/2407.21333)|null|
 |**2024-07-27**|**LawLLM: Law Large Language Model for the US Legal System**|Dong Shu et.al.|[2407.21065](http://arxiv.org/abs/2407.21065)|null|
 |**2024-07-30**|**SSPA: Split-and-Synthesize Prompting with Gated Alignments for Multi-Label Image Recognition**|Hao Tan et.al.|[2407.20920](http://arxiv.org/abs/2407.20920)|null|
