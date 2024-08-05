@@ -67,7 +67,7 @@ layout: default
 |**2023-11-28**|**Large Model Based Referring Camouflaged Object Detection**|Shupeng Cheng et.al.|[2311.17122](http://arxiv.org/abs/2311.17122)|null|
 |**2023-11-28**|**Cross-level Attention with Overlapped Windows for Camouflaged Object Detection**|Jiepan Li et.al.|[2311.16618](http://arxiv.org/abs/2311.16618)|null|
 |**2023-11-25**|**VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning**|Ziyang Luo et.al.|[2311.15011](http://arxiv.org/abs/2311.15011)|**[link](https://github.com/sssssuperior/vscode)**|
-|**2023-11-19**|**Generalization and Hallucination of Large Vision-Language Models through a Camouflaged Lens**|Lv Tang et.al.|[2311.11273](http://arxiv.org/abs/2311.11273)|null|
+|**2023-11-19**|**Generalization and Hallucination of Large Vision-Language Models through a Camouflaged Lens**|Lv Tang et.al.|[2311.11273](http://arxiv.org/abs/2311.11273)|**[link](https://github.com/luckybird1994/mmcpf)**|
 |**2023-11-19**|**Open-Vocabulary Camouflaged Object Segmentation**|Youwei Pang et.al.|[2311.11241](http://arxiv.org/abs/2311.11241)|**[link](https://github.com/lartpang/ovcamo)**|
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
 |**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
@@ -1157,7 +1157,7 @@ layout: default
 |**2024-04-11**|**Transferable and Principled Efficiency for Open-Vocabulary Segmentation**|Jingxuan Xu et.al.|[2404.07448](http://arxiv.org/abs/2404.07448)|**[link](https://github.com/xujxyang/opentrans)**|
 |**2024-04-10**|**BRAVE: Broadening the visual encoding of vision-language models**|Oğuzhan Fatih Kar et.al.|[2404.07204](http://arxiv.org/abs/2404.07204)|null|
 |**2024-04-10**|**Scaling Laws for Data Filtering -- Data Curation cannot be Compute Agnostic**|Sachin Goyal et.al.|[2404.07177](http://arxiv.org/abs/2404.07177)|**[link](https://github.com/locuslab/scaling_laws_data_filtering)**|
-|**2024-04-10**|**ORacle: Large Vision-Language Models for Knowledge-Guided Holistic OR Domain Modeling**|Ege Özsoy et.al.|[2404.07031](http://arxiv.org/abs/2404.07031)|null|
+|**2024-04-10**|**ORacle: Large Vision-Language Models for Knowledge-Guided Holistic OR Domain Modeling**|Ege Özsoy et.al.|[2404.07031](http://arxiv.org/abs/2404.07031)|**[link](https://github.com/egeozsoy/Oracle)**|
 |**2024-04-10**|**Vision-Language Model-based Physical Reasoning for Robot Liquid Perception**|Wenqiang Lai et.al.|[2404.06904](http://arxiv.org/abs/2404.06904)|null|
 |**2024-04-09**|**InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD**|Xiaoyi Dong et.al.|[2404.06512](http://arxiv.org/abs/2404.06512)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2024-04-09**|**Can Feedback Enhance Semantic Grounding in Large Vision-Language Models?**|Yuan-Hong Liao et.al.|[2404.06510](http://arxiv.org/abs/2404.06510)|null|
@@ -1243,7 +1243,7 @@ layout: default
 |**2024-03-19**|**Negative Yields Positive: Unified Dual-Path Adapter for Vision-Language Models**|Ce Zhang et.al.|[2403.12964](http://arxiv.org/abs/2403.12964)|**[link](https://github.com/zhangce01/dualadapter)**|
 |**2024-03-19**|**Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models**|Elaine Sui et.al.|[2403.12952](http://arxiv.org/abs/2403.12952)|**[link](https://github.com/elaine-sui/tps)**|
 |**2024-03-19**|**Yell At Your Robot: Improving On-the-Fly from Language Corrections**|Lucy Xiaoyang Shi et.al.|[2403.12910](http://arxiv.org/abs/2403.12910)|null|
-|**2024-03-19**|**HYDRA: A Hyper Agent for Dynamic Compositional Visual Reasoning**|Fucai Ke et.al.|[2403.12884](http://arxiv.org/abs/2403.12884)|null|
+|**2024-03-19**|**HYDRA: A Hyper Agent for Dynamic Compositional Visual Reasoning**|Fucai Ke et.al.|[2403.12884](http://arxiv.org/abs/2403.12884)|**[link](https://github.com/ControlNet/HYDRA)**|
 |**2024-03-19**|**RelationVLM: Making Large Vision-Language Models Understand Visual Relations**|Zhipeng Huang et.al.|[2403.12801](http://arxiv.org/abs/2403.12801)|null|
 |**2024-03-19**|**Towards Multimodal In-Context Learning for Vision & Language Models**|Sivan Doveh et.al.|[2403.12736](http://arxiv.org/abs/2403.12736)|null|
 |**2024-03-19**|**Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs**|Victor Carbune et.al.|[2403.12596](http://arxiv.org/abs/2403.12596)|null|
