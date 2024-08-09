@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.08
+## Updated on 2024.08.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -713,7 +713,7 @@ layout: default
 |**2024-08-07**|**Openstory++: A Large-scale Dataset and Benchmark for Instance-aware Open-domain Visual Storytelling**|Zilyu Ye et.al.|[2408.03695](http://arxiv.org/abs/2408.03695)|null|
 |**2024-08-07**|**Teach CLIP to Develop a Number Sense for Ordinal Regression**|Yao Du et.al.|[2408.03574](http://arxiv.org/abs/2408.03574)|null|
 |**2024-08-07**|**Empirical Analysis of Large Vision-Language Models against Goal Hijacking via Visual Prompt Injection**|Subaru Kimura et.al.|[2408.03554](http://arxiv.org/abs/2408.03554)|null|
-|**2024-08-06**|**GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI**|Pengcheng Chen et.al.|[2408.03361](http://arxiv.org/abs/2408.03361)|null|
+|**2024-08-08**|**GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI**|Pengcheng Chen et.al.|[2408.03361](http://arxiv.org/abs/2408.03361)|null|
 |**2024-08-06**|**Leveraging Entity Information for Cross-Modality Correlation Learning: The Entity-Guided Multimodal Summarization**|Yanghai Zhang et.al.|[2408.03149](http://arxiv.org/abs/2408.03149)|null|
 |**2024-08-05**|**Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services**|Shaopeng Fu et.al.|[2408.02814](http://arxiv.org/abs/2408.02814)|null|
 |**2024-08-05**|**MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models**|Fanqing Meng et.al.|[2408.02718](http://arxiv.org/abs/2408.02718)|null|
