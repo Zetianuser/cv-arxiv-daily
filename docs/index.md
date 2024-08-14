@@ -79,6 +79,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-13**|**SceneGPT: A Language Model for 3D Scene Understanding**|Shivam Chandhok et.al.|[2408.06926](http://arxiv.org/abs/2408.06926)|null|
+|**2024-08-13**|**HLSPilot: LLM-based High-Level Synthesis**|Chenwei Xiong et.al.|[2408.06810](http://arxiv.org/abs/2408.06810)|null|
+|**2024-08-12**|**Hierarchical in-Context Reinforcement Learning with Hindsight Modular Reflections for Planning**|Chuanneng Sun et.al.|[2408.06520](http://arxiv.org/abs/2408.06520)|null|
+|**2024-08-12**|**Towards Autonomous Agents: Adaptive-planning, Reasoning, and Acting in Language Models**|Yen-Che Hsiao et.al.|[2408.06458](http://arxiv.org/abs/2408.06458)|**[link](https://github.com/yenchehsiao/autonomousllmagentwithadaptingplanning)**|
 |**2024-08-11**|**LLM-Based Robust Product Classification in Commerce and Compliance**|Sina Gholamian et.al.|[2408.05874](http://arxiv.org/abs/2408.05874)|null|
 |**2024-08-10**|**In-Context Exploiter for Extensive-Form Games**|Shuxin Li et.al.|[2408.05575](http://arxiv.org/abs/2408.05575)|null|
 |**2024-08-10**|**Large Language Model-based Role-Playing for Personalized Medical Jargon Extraction**|Jung Hoon Lim et.al.|[2408.05555](http://arxiv.org/abs/2408.05555)|null|
@@ -719,6 +723,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-13**|**Do Vision-Language Foundational models show Robust Visual Perception?**|Shivam Chandhok et.al.|[2408.06781](http://arxiv.org/abs/2408.06781)|**[link](https://github.com/shivam-chandhok/cpsc-540-project)**|
+|**2024-08-13**|**Response Wide Shut: Surprising Observations in Basic Vision Language Model Capabilities**|Shivam Chandhok et.al.|[2408.06721](http://arxiv.org/abs/2408.06721)|null|
+|**2024-08-13**|**IFShip: A Large Vision-Language Model for Interpretable Fine-grained Ship Classification via Domain Knowledge-Enhanced Instruction Tuning**|Mingning Guo et.al.|[2408.06631](http://arxiv.org/abs/2408.06631)|null|
+|**2024-08-13**|**ActPrompt: In-Domain Feature Adaptation via Action Cues for Video Temporal Grounding**|Yubin Wang et.al.|[2408.06622](http://arxiv.org/abs/2408.06622)|null|
 |**2024-08-12**|**Long-Form Answers to Visual Questions from Blind and Low Vision People**|Mina Huh et.al.|[2408.06303](http://arxiv.org/abs/2408.06303)|null|
 |**2024-08-12**|**OmniCLIP: Adapting CLIP for Video Recognition with Spatial-Temporal Omni-Scale Feature Learning**|Mushui Liu et.al.|[2408.06158](http://arxiv.org/abs/2408.06158)|null|
 |**2024-08-12**|**Adapting a Foundation Model for Space-based Tasks**|Matthew Foutter et.al.|[2408.05924](http://arxiv.org/abs/2408.05924)|null|
@@ -1572,6 +1580,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-13**|**SceneGPT: A Language Model for 3D Scene Understanding**|Shivam Chandhok et.al.|[2408.06926](http://arxiv.org/abs/2408.06926)|null|
+|**2024-08-13**|**HLSPilot: LLM-based High-Level Synthesis**|Chenwei Xiong et.al.|[2408.06810](http://arxiv.org/abs/2408.06810)|null|
+|**2024-08-12**|**Hierarchical in-Context Reinforcement Learning with Hindsight Modular Reflections for Planning**|Chuanneng Sun et.al.|[2408.06520](http://arxiv.org/abs/2408.06520)|null|
+|**2024-08-12**|**Towards Autonomous Agents: Adaptive-planning, Reasoning, and Acting in Language Models**|Yen-Che Hsiao et.al.|[2408.06458](http://arxiv.org/abs/2408.06458)|**[link](https://github.com/yenchehsiao/autonomousllmagentwithadaptingplanning)**|
 |**2024-08-11**|**LLM-Based Robust Product Classification in Commerce and Compliance**|Sina Gholamian et.al.|[2408.05874](http://arxiv.org/abs/2408.05874)|null|
 |**2024-08-10**|**In-Context Exploiter for Extensive-Form Games**|Shuxin Li et.al.|[2408.05575](http://arxiv.org/abs/2408.05575)|null|
 |**2024-08-10**|**Large Language Model-based Role-Playing for Personalized Medical Jargon Extraction**|Jung Hoon Lim et.al.|[2408.05555](http://arxiv.org/abs/2408.05555)|null|
