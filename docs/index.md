@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation**|Xinyu Xiong et.al.|[2408.08870](http://arxiv.org/abs/2408.08870)|**[link](https://github.com/wzh0120/sam2-unet)**|
 |**2024-08-15**|**CamoTeacher: Dual-Rotation Consistency Learning for Semi-Supervised Camouflaged Object Detection**|Xunfa Lai et.al.|[2408.08050](http://arxiv.org/abs/2408.08050)|null|
 |**2024-08-12**|**Multi-scale Contrastive Adaptor Learning for Segmenting Anything in Underperformed Scenes**|Ke Zhou et.al.|[2408.05936](http://arxiv.org/abs/2408.05936)|null|
 |**2024-08-10**|**SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More**|Tianrun Chen et.al.|[2408.04579](http://arxiv.org/abs/2408.04579)|null|
@@ -80,6 +81,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**|Le Xue et.al.|[2408.08872](http://arxiv.org/abs/2408.08872)|null|
+|**2024-08-16**|**Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions**|Chenming Tang et.al.|[2408.08780](http://arxiv.org/abs/2408.08780)|null|
+|**2024-08-16**|**LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression**|Yuqi Ye et.al.|[2408.08682](http://arxiv.org/abs/2408.08682)|null|
 |**2024-08-15**|**ArabLegalEval: A Multitask Benchmark for Assessing Arabic Legal Knowledge in Large Language Models**|Faris Hijazi et.al.|[2408.07983](http://arxiv.org/abs/2408.07983)|**[link](https://github.com/thiqah/arablegaleval)**|
 |**2024-08-16**|**MAG-SQL: Multi-Agent Generative Approach with Soft Schema Linking and Iterative Sub-SQL Refinement for Text-to-SQL**|Wenxuan Xie et.al.|[2408.07930](http://arxiv.org/abs/2408.07930)|**[link](https://github.com/LancelotXWX/MAG-SQL)**|
 |**2024-08-14**|**Cropper: Vision-Language Model for Image Cropping through In-Context Learning**|Seung Hyun Lee et.al.|[2408.07790](http://arxiv.org/abs/2408.07790)|null|
@@ -728,6 +732,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models**|Eman Ali et.al.|[2408.08855](http://arxiv.org/abs/2408.08855)|null|
+|**2024-08-16**|**Beyond the Hype: A dispassionate look at vision-language models in medical scenario**|Yang Nan et.al.|[2408.08704](http://arxiv.org/abs/2408.08704)|null|
+|**2024-08-16**|**TextCAVs: Debugging vision models using text**|Angus Nicolson et.al.|[2408.08652](http://arxiv.org/abs/2408.08652)|**[link](https://github.com/angusnicolson/textcavs)**|
+|**2024-08-16**|**\textit{MMJ-Bench}: A Comprehensive Study on Jailbreak Attacks and Defenses for Vision Language Models**|Fenghua Weng et.al.|[2408.08464](http://arxiv.org/abs/2408.08464)|null|
+|**2024-08-15**|**Penny-Wise and Pound-Foolish in Deepfake Detection**|Yabin Wang et.al.|[2408.08412](http://arxiv.org/abs/2408.08412)|**[link](https://github.com/iamwangyabin/poundnet)**|
+|**2024-08-15**|**Level Up Your Tutorials: VLMs for Game Tutorials Quality Assessment**|Daniele Rege Cambrin et.al.|[2408.08396](http://arxiv.org/abs/2408.08396)|null|
 |**2024-08-15**|**Towards Flexible Visual Relationship Segmentation**|Fangrui Zhu et.al.|[2408.08305](http://arxiv.org/abs/2408.08305)|null|
 |**2024-08-14**|**Cropper: Vision-Language Model for Image Cropping through In-Context Learning**|Seung Hyun Lee et.al.|[2408.07790](http://arxiv.org/abs/2408.07790)|null|
 |**2024-08-14**|**Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach**|Shizhou Zhang et.al.|[2408.07500](http://arxiv.org/abs/2408.07500)|**[link](https://github.com/fhr-l/vsla-clip)**|
@@ -1589,6 +1599,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**|Le Xue et.al.|[2408.08872](http://arxiv.org/abs/2408.08872)|null|
+|**2024-08-16**|**Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions**|Chenming Tang et.al.|[2408.08780](http://arxiv.org/abs/2408.08780)|null|
+|**2024-08-16**|**LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression**|Yuqi Ye et.al.|[2408.08682](http://arxiv.org/abs/2408.08682)|null|
 |**2024-08-15**|**ArabLegalEval: A Multitask Benchmark for Assessing Arabic Legal Knowledge in Large Language Models**|Faris Hijazi et.al.|[2408.07983](http://arxiv.org/abs/2408.07983)|**[link](https://github.com/thiqah/arablegaleval)**|
 |**2024-08-16**|**MAG-SQL: Multi-Agent Generative Approach with Soft Schema Linking and Iterative Sub-SQL Refinement for Text-to-SQL**|Wenxuan Xie et.al.|[2408.07930](http://arxiv.org/abs/2408.07930)|**[link](https://github.com/LancelotXWX/MAG-SQL)**|
 |**2024-08-14**|**Cropper: Vision-Language Model for Image Cropping through In-Context Learning**|Seung Hyun Lee et.al.|[2408.07790](http://arxiv.org/abs/2408.07790)|null|
