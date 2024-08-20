@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.19
+## Updated on 2024.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 |**2024-08-02**|**PGNeXt: High-Resolution Salient Object Detection via Pyramid Grafting Network**|Changqun Xia et.al.|[2408.01137](http://arxiv.org/abs/2408.01137)|null|
 |**2024-08-01**|**VecAug: Unveiling Camouflaged Frauds with Cohort Augmentation for Enhanced Detection**|Fei Xiao et.al.|[2408.00513](http://arxiv.org/abs/2408.00513)|null|
 |**2024-07-31**|**Evaluating SAM2's Role in Camouflaged Object Detection: From SAM to SAM2**|Lv Tang et.al.|[2407.21596](http://arxiv.org/abs/2407.21596)|null|
-|**2024-07-24**|**Global and Local Confidence Based Fraud Detection Graph Neural Network**|Jiaxun Liu et.al.|[2407.17333](http://arxiv.org/abs/2407.17333)|null|
+|**2024-08-18**|**Global Confidence Degree Based Graph Neural Network for Financial Fraud Detection**|Jiaxun Liu et.al.|[2407.17333](http://arxiv.org/abs/2407.17333)|null|
 |**2024-07-18**|**Learning Camouflaged Object Detection from Noisy Pseudo Label**|Jin Zhang et.al.|[2407.13157](http://arxiv.org/abs/2407.13157)|null|
 |**2024-07-18**|**FocusDiffuser: Perceiving Local Disparities for Camouflaged Object Detection**|Jianwei Zhao et.al.|[2407.13133](http://arxiv.org/abs/2407.13133)|null|
 |**2024-07-17**|**Exploring Deeper! Segment Anything Model with Depth Perception for Camouflaged Object Detection**|Zhenni Yu et.al.|[2407.12339](http://arxiv.org/abs/2407.12339)|null|
@@ -84,7 +84,7 @@
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
 |**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 ## In-context
 
@@ -98,7 +98,7 @@
 |**2024-08-14**|**Cropper: Vision-Language Model for Image Cropping through In-Context Learning**|Seung Hyun Lee et.al.|[2408.07790](http://arxiv.org/abs/2408.07790)|null|
 |**2024-08-14**|**Large Language Models Know What Makes Exemplary Contexts**|Quanyu Long et.al.|[2408.07505](http://arxiv.org/abs/2408.07505)|null|
 |**2024-08-13**|**SceneGPT: A Language Model for 3D Scene Understanding**|Shivam Chandhok et.al.|[2408.06926](http://arxiv.org/abs/2408.06926)|null|
-|**2024-08-13**|**HLSPilot: LLM-based High-Level Synthesis**|Chenwei Xiong et.al.|[2408.06810](http://arxiv.org/abs/2408.06810)|null|
+|**2024-08-13**|**HLSPilot: LLM-based High-Level Synthesis**|Chenwei Xiong et.al.|[2408.06810](http://arxiv.org/abs/2408.06810)|**[link](https://github.com/xcw-1010/hlspilot)**|
 |**2024-08-12**|**Hierarchical in-Context Reinforcement Learning with Hindsight Modular Reflections for Planning**|Chuanneng Sun et.al.|[2408.06520](http://arxiv.org/abs/2408.06520)|null|
 |**2024-08-12**|**Towards Autonomous Agents: Adaptive-planning, Reasoning, and Acting in Language Models**|Yen-Che Hsiao et.al.|[2408.06458](http://arxiv.org/abs/2408.06458)|**[link](https://github.com/yenchehsiao/autonomousllmagentwithadaptingplanning)**|
 |**2024-08-11**|**LLM-Based Robust Product Classification in Commerce and Compliance**|Sina Gholamian et.al.|[2408.05874](http://arxiv.org/abs/2408.05874)|null|
@@ -737,7 +737,7 @@
 |**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075](http://arxiv.org/abs/2312.11075)|null|
 |**2023-12-18**|**APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation**|Chengran Yang et.al.|[2312.10934](http://arxiv.org/abs/2312.10934)|null|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 ## VLM
 
@@ -1600,7 +1600,7 @@
 |**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423](http://arxiv.org/abs/2312.12423)|null|
 |**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379](http://arxiv.org/abs/2312.12379)|null|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 ## Visual In-context
 
@@ -1608,7 +1608,7 @@
 |---|---|---|---|---|
 |**2024-02-18**|**Visual In-Context Learning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2402.11574](http://arxiv.org/abs/2402.11574)|null|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 ## V-ICL
 
@@ -1622,7 +1622,7 @@
 |**2024-08-14**|**Cropper: Vision-Language Model for Image Cropping through In-Context Learning**|Seung Hyun Lee et.al.|[2408.07790](http://arxiv.org/abs/2408.07790)|null|
 |**2024-08-14**|**Large Language Models Know What Makes Exemplary Contexts**|Quanyu Long et.al.|[2408.07505](http://arxiv.org/abs/2408.07505)|null|
 |**2024-08-13**|**SceneGPT: A Language Model for 3D Scene Understanding**|Shivam Chandhok et.al.|[2408.06926](http://arxiv.org/abs/2408.06926)|null|
-|**2024-08-13**|**HLSPilot: LLM-based High-Level Synthesis**|Chenwei Xiong et.al.|[2408.06810](http://arxiv.org/abs/2408.06810)|null|
+|**2024-08-13**|**HLSPilot: LLM-based High-Level Synthesis**|Chenwei Xiong et.al.|[2408.06810](http://arxiv.org/abs/2408.06810)|**[link](https://github.com/xcw-1010/hlspilot)**|
 |**2024-08-12**|**Hierarchical in-Context Reinforcement Learning with Hindsight Modular Reflections for Planning**|Chuanneng Sun et.al.|[2408.06520](http://arxiv.org/abs/2408.06520)|null|
 |**2024-08-12**|**Towards Autonomous Agents: Adaptive-planning, Reasoning, and Acting in Language Models**|Yen-Che Hsiao et.al.|[2408.06458](http://arxiv.org/abs/2408.06458)|**[link](https://github.com/yenchehsiao/autonomousllmagentwithadaptingplanning)**|
 |**2024-08-11**|**LLM-Based Robust Product Classification in Commerce and Compliance**|Sina Gholamian et.al.|[2408.05874](http://arxiv.org/abs/2408.05874)|null|
@@ -1971,7 +1971,7 @@
 |**2024-04-15**|**Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**|Sungwon Han et.al.|[2404.09491](http://arxiv.org/abs/2404.09491)|**[link](https://github.com/sungwon-han/featllm)**|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
