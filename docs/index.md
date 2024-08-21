@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.20
+## Updated on 2024.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -90,7 +90,7 @@ layout: default
 |**2024-08-18**|**Out-of-distribution generalization via composition: a lens through induction heads in Transformers**|Jiajun Song et.al.|[2408.09503](http://arxiv.org/abs/2408.09503)|**[link](https://github.com/jiajunsong629/ood-generalization-via-composition)**|
 |**2024-08-16**|**Adaptive Guardrails For Large Language Models via Trust Modeling and In-Context Learning**|Jinwei Hu et.al.|[2408.08959](http://arxiv.org/abs/2408.08959)|null|
 |**2024-08-16**|**xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**|Le Xue et.al.|[2408.08872](http://arxiv.org/abs/2408.08872)|null|
-|**2024-08-16**|**Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions**|Chenming Tang et.al.|[2408.08780](http://arxiv.org/abs/2408.08780)|null|
+|**2024-08-20**|**Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions**|Chenming Tang et.al.|[2408.08780](http://arxiv.org/abs/2408.08780)|null|
 |**2024-08-16**|**LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression**|Yuqi Ye et.al.|[2408.08682](http://arxiv.org/abs/2408.08682)|null|
 |**2024-08-15**|**ArabLegalEval: A Multitask Benchmark for Assessing Arabic Legal Knowledge in Large Language Models**|Faris Hijazi et.al.|[2408.07983](http://arxiv.org/abs/2408.07983)|**[link](https://github.com/thiqah/arablegaleval)**|
 |**2024-08-16**|**MAG-SQL: Multi-Agent Generative Approach with Soft Schema Linking and Iterative Sub-SQL Refinement for Text-to-SQL**|Wenxuan Xie et.al.|[2408.07930](http://arxiv.org/abs/2408.07930)|**[link](https://github.com/LancelotXWX/MAG-SQL)**|
@@ -741,7 +741,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-19**|**SANER: Annotation-free Societal Attribute Neutralizer for Debiasing CLIP**|Yusuke Hirota et.al.|[2408.10202](http://arxiv.org/abs/2408.10202)|null|
-|**2024-08-19**|**LongVILA: Scaling Long-Context Visual Language Models for Long Videos**|Fuzhao Xue et.al.|[2408.10188](http://arxiv.org/abs/2408.10188)|**[link](https://github.com/nvlabs/vila)**|
+|**2024-08-20**|**LongVILA: Scaling Long-Context Visual Language Models for Long Videos**|Fuzhao Xue et.al.|[2408.10188](http://arxiv.org/abs/2408.10188)|**[link](https://github.com/nvlabs/vila)**|
 |**2024-08-19**|**Boosting Open-Domain Continual Learning via Leveraging Intra-domain Category-aware Prototype**|Yadong Lu et.al.|[2408.09984](http://arxiv.org/abs/2408.09984)|null|
 |**2024-08-19**|**Attribution Analysis Meets Model Editing: Advancing Knowledge Correction in Vision Language Models with VisEdit**|Qizhou Chen et.al.|[2408.09916](http://arxiv.org/abs/2408.09916)|null|
 |**2024-08-19**|**Cross-composition Feature Disentanglement for Compositional Zero-shot Learning**|Yuxia Geng et.al.|[2408.09786](http://arxiv.org/abs/2408.09786)|null|
@@ -1622,7 +1622,7 @@ layout: default
 |**2024-08-18**|**Out-of-distribution generalization via composition: a lens through induction heads in Transformers**|Jiajun Song et.al.|[2408.09503](http://arxiv.org/abs/2408.09503)|**[link](https://github.com/jiajunsong629/ood-generalization-via-composition)**|
 |**2024-08-16**|**Adaptive Guardrails For Large Language Models via Trust Modeling and In-Context Learning**|Jinwei Hu et.al.|[2408.08959](http://arxiv.org/abs/2408.08959)|null|
 |**2024-08-16**|**xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**|Le Xue et.al.|[2408.08872](http://arxiv.org/abs/2408.08872)|null|
-|**2024-08-16**|**Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions**|Chenming Tang et.al.|[2408.08780](http://arxiv.org/abs/2408.08780)|null|
+|**2024-08-20**|**Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions**|Chenming Tang et.al.|[2408.08780](http://arxiv.org/abs/2408.08780)|null|
 |**2024-08-16**|**LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression**|Yuqi Ye et.al.|[2408.08682](http://arxiv.org/abs/2408.08682)|null|
 |**2024-08-15**|**ArabLegalEval: A Multitask Benchmark for Assessing Arabic Legal Knowledge in Large Language Models**|Faris Hijazi et.al.|[2408.07983](http://arxiv.org/abs/2408.07983)|**[link](https://github.com/thiqah/arablegaleval)**|
 |**2024-08-16**|**MAG-SQL: Multi-Agent Generative Approach with Soft Schema Linking and Iterative Sub-SQL Refinement for Text-to-SQL**|Wenxuan Xie et.al.|[2408.07930](http://arxiv.org/abs/2408.07930)|**[link](https://github.com/LancelotXWX/MAG-SQL)**|
