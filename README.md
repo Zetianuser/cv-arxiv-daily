@@ -779,8 +779,8 @@
 |**2024-08-21**|**Towards Analyzing and Mitigating Sycophancy in Large Vision-Language Models**|Yunpu Zhao et.al.|[2408.11261](http://arxiv.org/abs/2408.11261)|null|
 |**2024-08-20**|**HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models in Resource-Constrained Environments**|Kazi Hasan Ibn Arif et.al.|[2408.10945](http://arxiv.org/abs/2408.10945)|**[link](https://github.com/hasanar1f/hired)**|
 |**2024-08-21**|**V-RoAst: A New Dataset for Visual Road Assessment**|Natchapon Jongwiriyanurak et.al.|[2408.10872](http://arxiv.org/abs/2408.10872)|null|
-|**2024-08-20**|**TDS-CLIP: Temporal Difference Side Network for Image-to-Video Transfer Learning**|Bin Wang et.al.|[2408.10688](http://arxiv.org/abs/2408.10688)|null|
-|**2024-08-20**|**MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval**|Haoran Tang et.al.|[2408.10575](http://arxiv.org/abs/2408.10575)|null|
+|**2024-08-20**|**TDS-CLIP: Temporal Difference Side Network for Image-to-Video Transfer Learning**|Bin Wang et.al.|[2408.10688](http://arxiv.org/abs/2408.10688)|**[link](https://github.com/BBYL9413/TDS-CLIP)**|
+|**2024-08-20**|**MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval**|Haoran Tang et.al.|[2408.10575](http://arxiv.org/abs/2408.10575)|**[link](https://github.com/hrtang22/MUSE)**|
 |**2024-08-19**|**CLIP-DPO: Vision-Language Models as a Source of Preference for Fixing Hallucinations in LVLMs**|Yassine Ouali et.al.|[2408.10433](http://arxiv.org/abs/2408.10433)|null|
 |**2024-08-19**|**SANER: Annotation-free Societal Attribute Neutralizer for Debiasing CLIP**|Yusuke Hirota et.al.|[2408.10202](http://arxiv.org/abs/2408.10202)|null|
 |**2024-08-21**|**LongVILA: Scaling Long-Context Visual Language Models for Long Videos**|Fuzhao Xue et.al.|[2408.10188](http://arxiv.org/abs/2408.10188)|**[link](https://github.com/nvlabs/vila)**|
@@ -796,7 +796,7 @@
 |**2024-08-16**|**TextCAVs: Debugging vision models using text**|Angus Nicolson et.al.|[2408.08652](http://arxiv.org/abs/2408.08652)|**[link](https://github.com/angusnicolson/textcavs)**|
 |**2024-08-16**|**\textit{MMJ-Bench}: A Comprehensive Study on Jailbreak Attacks and Defenses for Vision Language Models**|Fenghua Weng et.al.|[2408.08464](http://arxiv.org/abs/2408.08464)|null|
 |**2024-08-15**|**Penny-Wise and Pound-Foolish in Deepfake Detection**|Yabin Wang et.al.|[2408.08412](http://arxiv.org/abs/2408.08412)|**[link](https://github.com/iamwangyabin/poundnet)**|
-|**2024-08-15**|**Level Up Your Tutorials: VLMs for Game Tutorials Quality Assessment**|Daniele Rege Cambrin et.al.|[2408.08396](http://arxiv.org/abs/2408.08396)|null|
+|**2024-08-15**|**Level Up Your Tutorials: VLMs for Game Tutorials Quality Assessment**|Daniele Rege Cambrin et.al.|[2408.08396](http://arxiv.org/abs/2408.08396)|**[link](https://github.com/DarthReca/level-up-your-tutorials)**|
 |**2024-08-15**|**Towards Flexible Visual Relationship Segmentation**|Fangrui Zhu et.al.|[2408.08305](http://arxiv.org/abs/2408.08305)|null|
 |**2024-08-14**|**Cropper: Vision-Language Model for Image Cropping through In-Context Learning**|Seung Hyun Lee et.al.|[2408.07790](http://arxiv.org/abs/2408.07790)|null|
 |**2024-08-14**|**Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach**|Shizhou Zhang et.al.|[2408.07500](http://arxiv.org/abs/2408.07500)|**[link](https://github.com/fhr-l/vsla-clip)**|
@@ -806,7 +806,7 @@
 |**2024-08-13**|**IFShip: A Large Vision-Language Model for Interpretable Fine-grained Ship Classification via Domain Knowledge-Enhanced Instruction Tuning**|Mingning Guo et.al.|[2408.06631](http://arxiv.org/abs/2408.06631)|null|
 |**2024-08-13**|**ActPrompt: In-Domain Feature Adaptation via Action Cues for Video Temporal Grounding**|Yubin Wang et.al.|[2408.06622](http://arxiv.org/abs/2408.06622)|null|
 |**2024-08-12**|**Long-Form Answers to Visual Questions from Blind and Low Vision People**|Mina Huh et.al.|[2408.06303](http://arxiv.org/abs/2408.06303)|null|
-|**2024-08-12**|**OmniCLIP: Adapting CLIP for Video Recognition with Spatial-Temporal Omni-Scale Feature Learning**|Mushui Liu et.al.|[2408.06158](http://arxiv.org/abs/2408.06158)|null|
+|**2024-08-12**|**OmniCLIP: Adapting CLIP for Video Recognition with Spatial-Temporal Omni-Scale Feature Learning**|Mushui Liu et.al.|[2408.06158](http://arxiv.org/abs/2408.06158)|**[link](https://github.com/xiaobul/omniclip)**|
 |**2024-08-12**|**Adapting a Foundation Model for Space-based Tasks**|Matthew Foutter et.al.|[2408.05924](http://arxiv.org/abs/2408.05924)|null|
 |**2024-08-13**|**Weakly Supervised Video Anomaly Detection and Localization with Spatio-Temporal Prompts**|Peng Wu et.al.|[2408.05905](http://arxiv.org/abs/2408.05905)|null|
 |**2024-08-12**|**GlyphPattern: An Abstract Pattern Recognition for Vision-Language Models**|Zixuan Wu et.al.|[2408.05894](http://arxiv.org/abs/2408.05894)|**[link](https://github.com/Wellesley-EASEL-lab/GlyphPattern)**|
@@ -881,7 +881,7 @@
 |**2024-07-23**|**Category-Extensible Out-of-Distribution Detection via Hierarchical Context Descriptions**|Kai Liu et.al.|[2407.16725](http://arxiv.org/abs/2407.16725)|null|
 |**2024-07-23**|**Imperfect Vision Encoders: Efficient and Robust Tuning for Vision-Language Models**|Aristeidis Panos et.al.|[2407.16526](http://arxiv.org/abs/2407.16526)|null|
 |**2024-07-23**|**Cross Anything: General Quadruped Robot Navigation through Complex Terrains**|Shaoting Zhu et.al.|[2407.16412](http://arxiv.org/abs/2407.16412)|null|
-|**2024-07-22**|**Test-Time Low Rank Adaptation via Confidence Maximization for Zero-Shot Generalization of Vision-Language Models**|Raza Imam et.al.|[2407.15913](http://arxiv.org/abs/2407.15913)|null|
+|**2024-07-22**|**Test-Time Low Rank Adaptation via Confidence Maximization for Zero-Shot Generalization of Vision-Language Models**|Raza Imam et.al.|[2407.15913](http://arxiv.org/abs/2407.15913)|**[link](https://github.com/razaimam45/ttl-test-time-low-rank-adaptation)**|
 |**2024-07-22**|**AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection**|Yunkang Cao et.al.|[2407.15795](http://arxiv.org/abs/2407.15795)|**[link](https://github.com/caoyunkang/adaclip)**|
 |**2024-07-22**|**CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning**|Emanuele Frascaroli et.al.|[2407.15793](http://arxiv.org/abs/2407.15793)|**[link](https://github.com/aimagelab/mammoth)**|
 |**2024-07-22**|**Concept-Based Interpretable Reinforcement Learning with Limited to No Human Labels**|Zhuorui Ye et.al.|[2407.15786](http://arxiv.org/abs/2407.15786)|null|
@@ -1602,7 +1602,7 @@
 |**2024-01-12**|**An Axiomatic Approach to Model-Agnostic Concept Explanations**|Zhili Feng et.al.|[2401.06890](http://arxiv.org/abs/2401.06890)|null|
 |**2024-01-12**|**WisdoM: Improving Multimodal Sentiment Analysis by Fusing Contextual World Knowledge**|Wenbin Wang et.al.|[2401.06659](http://arxiv.org/abs/2401.06659)|null|
 |**2024-01-12**|**Prometheus-Vision: Vision-Language Model as a Judge for Fine-Grained Evaluation**|Seongyun Lee et.al.|[2401.06591](http://arxiv.org/abs/2401.06591)|**[link](https://github.com/kaistai/prometheus-vision)**|
-|**2024-01-16**|**Generalizing Visual Question Answering from Synthetic to Human-Written Questions via a Chain of QA with a Large Language Model**|Taehee Kim et.al.|[2401.06400](http://arxiv.org/abs/2401.06400)|null|
+|**2024-01-16**|**Generalizing Visual Question Answering from Synthetic to Human-Written Questions via a Chain of QA with a Large Language Model**|Taehee Kim et.al.|[2401.06400](http://arxiv.org/abs/2401.06400)|**[link](https://github.com/tae2hee/coqah)**|
 |**2024-01-12**|**AffordanceLLM: Grounding Affordance from Vision Language Models**|Shengyi Qian et.al.|[2401.06341](http://arxiv.org/abs/2401.06341)|null|
 |**2024-01-12**|**Application Of Vision-Language Models For Assessing Osteoarthritis Disease Severity**|Banafshe Felfeliyan et.al.|[2401.06331](http://arxiv.org/abs/2401.06331)|null|
 |**2024-01-11**|**Distilling Vision-Language Models on Millions of Videos**|Yue Zhao et.al.|[2401.06129](http://arxiv.org/abs/2401.06129)|null|
