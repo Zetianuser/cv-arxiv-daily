@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-25**|**Camouflaged_Object_Tracking__A_Benchmark**|Xiaoyu Guo et.al.|[2408.13877](http://arxiv.org/abs/2408.13877)|null|
 |**2024-08-22**|**BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking**|Hanzheng Wang et.al.|[2408.12232](http://arxiv.org/abs/2408.12232)|null|
 |**2024-08-22**|**Unlocking Attributes' Contribution to Successful Camouflage: A Combined Textual and VisualAnalysis Strategy**|Hong Zhang et.al.|[2408.12086](http://arxiv.org/abs/2408.12086)|**[link](https://github.com/lyu-yx/acumen)**|
 |**2024-08-20**|**Just a Hint: Point-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10777](http://arxiv.org/abs/2408.10777)|null|
@@ -89,6 +90,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418](http://arxiv.org/abs/2408.14418)|null|
+|**2024-08-26**|**Probing Causality Manipulation of Large Language Models**|Chenyang Zhang et.al.|[2408.14380](http://arxiv.org/abs/2408.14380)|**[link](https://github.com/tongjinlp/llm-causality-probing)**|
+|**2024-08-26**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340](http://arxiv.org/abs/2408.14340)|**[link](https://github.com/nicolaus625/fm4music)**|
+|**2024-08-26**|**Epidemic Information Extraction for Event-Based Surveillance using Large Language Models**|Sergio Consoli et.al.|[2408.14277](http://arxiv.org/abs/2408.14277)|null|
+|**2024-08-26**|**Towards Synthetic Trace Generation of Modeling Operations using In-Context Learning Approach**|Vittoriano Muttillo et.al.|[2408.14259](http://arxiv.org/abs/2408.14259)|null|
+|**2024-08-26**|**Focused Large Language Models are Stable Many-Shot Learners**|Peiwen Yuan et.al.|[2408.13987](http://arxiv.org/abs/2408.13987)|null|
+|**2024-08-24**|**Preliminary Investigations of a Multi-Faceted Robust and Synergistic Approach in Semiconductor Electron Micrograph Analysis: Integrating Vision Transformers with Large Language and Multimodal Models**|Sakhinana Sagar Srinivas et.al.|[2408.13621](http://arxiv.org/abs/2408.13621)|null|
 |**2024-08-23**|**In-Context Learning with Reinforcement Learning for Incomplete Utterance Rewriting**|Haowei Du et.al.|[2408.13028](http://arxiv.org/abs/2408.13028)|null|
 |**2024-08-23**|**Multimodal Contrastive In-Context Learning**|Yosuke Miyanishi et.al.|[2408.12959](http://arxiv.org/abs/2408.12959)|null|
 |**2024-08-23**|**Causal-Guided Active Learning for Debiasing Large Language Models**|Zhouhao Sun et.al.|[2408.12942](http://arxiv.org/abs/2408.12942)|null|
@@ -757,6 +765,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Social perception of faces in a vision-language model**|Carina I. Hausladen et.al.|[2408.14435](http://arxiv.org/abs/2408.14435)|**[link](https://github.com/carinahausladen/clip-face-bias)**|
+|**2024-08-26**|**More Pictures Say More: Visual Intersection Network for Open Set Object Detection**|Bingcheng Dong et.al.|[2408.14032](http://arxiv.org/abs/2408.14032)|null|
+|**2024-08-26**|**Nemesis: Normalizing the Soft-prompt Vectors of Vision-Language Models**|Shuai Fu et.al.|[2408.13979](http://arxiv.org/abs/2408.13979)|**[link](https://github.com/shyfoo/nemesis)**|
+|**2024-08-25**|**LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task**|Ali Asgarov et.al.|[2408.13909](http://arxiv.org/abs/2408.13909)|**[link](https://github.com/aliasgerovs/azclip)**|
+|**2024-08-25**|**Evaluating Attribute Comprehension in Large Vision-Language Models**|Haiwen Zhang et.al.|[2408.13898](http://arxiv.org/abs/2408.13898)|**[link](https://github.com/zhwwwww/attribute-comprehension-of-vlms)**|
 |**2024-08-23**|**VALE: A Multimodal Visual and Language Explanation Framework for Image Classifiers using eXplainable AI and Language Models**|Purushothaman Natarajan et.al.|[2408.12808](http://arxiv.org/abs/2408.12808)|null|
 |**2024-08-23**|**Cap2Sum: Learning to Summarize Videos by Generating Captions**|Cairong Zhao et.al.|[2408.12800](http://arxiv.org/abs/2408.12800)|null|
 |**2024-08-22**|**Building and better understanding vision-language models: insights and future directions**|Hugo Laurençon et.al.|[2408.12637](http://arxiv.org/abs/2408.12637)|null|
@@ -1654,6 +1667,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418](http://arxiv.org/abs/2408.14418)|null|
+|**2024-08-26**|**Probing Causality Manipulation of Large Language Models**|Chenyang Zhang et.al.|[2408.14380](http://arxiv.org/abs/2408.14380)|**[link](https://github.com/tongjinlp/llm-causality-probing)**|
+|**2024-08-26**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340](http://arxiv.org/abs/2408.14340)|**[link](https://github.com/nicolaus625/fm4music)**|
+|**2024-08-26**|**Epidemic Information Extraction for Event-Based Surveillance using Large Language Models**|Sergio Consoli et.al.|[2408.14277](http://arxiv.org/abs/2408.14277)|null|
+|**2024-08-26**|**Towards Synthetic Trace Generation of Modeling Operations using In-Context Learning Approach**|Vittoriano Muttillo et.al.|[2408.14259](http://arxiv.org/abs/2408.14259)|null|
+|**2024-08-26**|**Focused Large Language Models are Stable Many-Shot Learners**|Peiwen Yuan et.al.|[2408.13987](http://arxiv.org/abs/2408.13987)|null|
+|**2024-08-24**|**Preliminary Investigations of a Multi-Faceted Robust and Synergistic Approach in Semiconductor Electron Micrograph Analysis: Integrating Vision Transformers with Large Language and Multimodal Models**|Sakhinana Sagar Srinivas et.al.|[2408.13621](http://arxiv.org/abs/2408.13621)|null|
 |**2024-08-23**|**In-Context Learning with Reinforcement Learning for Incomplete Utterance Rewriting**|Haowei Du et.al.|[2408.13028](http://arxiv.org/abs/2408.13028)|null|
 |**2024-08-23**|**Multimodal Contrastive In-Context Learning**|Yosuke Miyanishi et.al.|[2408.12959](http://arxiv.org/abs/2408.12959)|null|
 |**2024-08-23**|**Causal-Guided Active Learning for Debiasing Large Language Models**|Zhouhao Sun et.al.|[2408.12942](http://arxiv.org/abs/2408.12942)|null|
