@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.26
+## Updated on 2024.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -95,7 +95,7 @@ layout: default
 |**2024-08-23**|**Investigating LLM Applications in E-Commerce**|Chester Palen-Michel et.al.|[2408.12779](http://arxiv.org/abs/2408.12779)|null|
 |**2024-08-22**|**Interactive DualChecker for Mitigating Hallucinations in Distilling Large Language Models**|Meiyun Wang et.al.|[2408.12326](http://arxiv.org/abs/2408.12326)|**[link](https://github.com/kirawang23/dualchecker)**|
 |**2024-08-22**|**Transformers are Minimax Optimal Nonparametric In-Context Learners**|Juno Kim et.al.|[2408.12186](http://arxiv.org/abs/2408.12186)|null|
-|**2024-08-22**|**uMedSum: A Unified Framework for Advancing Medical Abstractive Summarization**|Aishik Nagar et.al.|[2408.12095](http://arxiv.org/abs/2408.12095)|null|
+|**2024-08-26**|**uMedSum: A Unified Framework for Advancing Medical Abstractive Summarization**|Aishik Nagar et.al.|[2408.12095](http://arxiv.org/abs/2408.12095)|null|
 |**2024-08-22**|**Evidence-backed Fact Checking using RAG and Few-Shot In-Context Learning with LLMs**|Ronit Singhal et.al.|[2408.12060](http://arxiv.org/abs/2408.12060)|null|
 |**2024-08-21**|**Memorization In In-Context Learning**|Shahriar Golchin et.al.|[2408.11546](http://arxiv.org/abs/2408.11546)|null|
 |**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053](http://arxiv.org/abs/2408.11053)|**[link](https://github.com/nvlabs/verilog-eval)**|
@@ -1660,7 +1660,7 @@ layout: default
 |**2024-08-23**|**Investigating LLM Applications in E-Commerce**|Chester Palen-Michel et.al.|[2408.12779](http://arxiv.org/abs/2408.12779)|null|
 |**2024-08-22**|**Interactive DualChecker for Mitigating Hallucinations in Distilling Large Language Models**|Meiyun Wang et.al.|[2408.12326](http://arxiv.org/abs/2408.12326)|**[link](https://github.com/kirawang23/dualchecker)**|
 |**2024-08-22**|**Transformers are Minimax Optimal Nonparametric In-Context Learners**|Juno Kim et.al.|[2408.12186](http://arxiv.org/abs/2408.12186)|null|
-|**2024-08-22**|**uMedSum: A Unified Framework for Advancing Medical Abstractive Summarization**|Aishik Nagar et.al.|[2408.12095](http://arxiv.org/abs/2408.12095)|null|
+|**2024-08-26**|**uMedSum: A Unified Framework for Advancing Medical Abstractive Summarization**|Aishik Nagar et.al.|[2408.12095](http://arxiv.org/abs/2408.12095)|null|
 |**2024-08-22**|**Evidence-backed Fact Checking using RAG and Few-Shot In-Context Learning with LLMs**|Ronit Singhal et.al.|[2408.12060](http://arxiv.org/abs/2408.12060)|null|
 |**2024-08-21**|**Memorization In In-Context Learning**|Shahriar Golchin et.al.|[2408.11546](http://arxiv.org/abs/2408.11546)|null|
 |**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053](http://arxiv.org/abs/2408.11053)|**[link](https://github.com/nvlabs/verilog-eval)**|
