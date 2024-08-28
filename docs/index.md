@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**Hierarchical Graph Interaction Transformer with Dynamic Token Clustering for Camouflaged Object Detection**|Siyuan Yao et.al.|[2408.15020](http://arxiv.org/abs/2408.15020)|**[link](https://github.com/garyson1204/hginet)**|
+|**2024-08-26**|**A Survey of Camouflaged Object Detection and Beyond**|Fengyang Xiao et.al.|[2408.14562](http://arxiv.org/abs/2408.14562)|null|
 |**2024-08-25**|**Camouflaged_Object_Tracking__A_Benchmark**|Xiaoyu Guo et.al.|[2408.13877](http://arxiv.org/abs/2408.13877)|null|
 |**2024-08-22**|**BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking**|Hanzheng Wang et.al.|[2408.12232](http://arxiv.org/abs/2408.12232)|null|
 |**2024-08-22**|**Unlocking Attributes' Contribution to Successful Camouflage: A Combined Textual and VisualAnalysis Strategy**|Hong Zhang et.al.|[2408.12086](http://arxiv.org/abs/2408.12086)|**[link](https://github.com/lyu-yx/acumen)**|
@@ -765,6 +767,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**VHAKG: A Multi-modal Knowledge Graph Based on Synchronized Multi-view Videos of Daily Activities**|Shusaku Egami et.al.|[2408.14895](http://arxiv.org/abs/2408.14895)|null|
+|**2024-08-27**|**HPT++: Hierarchically Prompting Vision-Language Models with Multi-Granularity Knowledge Generation and Improved Structure Modeling**|Yubin Wang et.al.|[2408.14812](http://arxiv.org/abs/2408.14812)|null|
+|**2024-08-27**|**MROVSeg: Breaking the Resolution Curse of Vision-Language Models in Open-Vocabulary Semantic Segmentation**|Yuanbing Zhu et.al.|[2408.14776](http://arxiv.org/abs/2408.14776)|null|
+|**2024-08-27**|**RSTeller: Scaling Up Visual Language Modeling in Remote Sensing with Rich Linguistic Semantics from Openly Available Data and Large Language Models**|Junyao Ge et.al.|[2408.14744](http://arxiv.org/abs/2408.14744)|**[link](https://github.com/slytheringe/rsteller)**|
+|**2024-08-27**|**Snap and Diagnose: An Advanced Multimodal Retrieval System for Identifying Plant Diseases in the Wild**|Tianqi Wei et.al.|[2408.14723](http://arxiv.org/abs/2408.14723)|null|
 |**2024-08-26**|**Social perception of faces in a vision-language model**|Carina I. Hausladen et.al.|[2408.14435](http://arxiv.org/abs/2408.14435)|**[link](https://github.com/carinahausladen/clip-face-bias)**|
 |**2024-08-26**|**More Pictures Say More: Visual Intersection Network for Open Set Object Detection**|Bingcheng Dong et.al.|[2408.14032](http://arxiv.org/abs/2408.14032)|null|
 |**2024-08-26**|**Nemesis: Normalizing the Soft-prompt Vectors of Vision-Language Models**|Shuai Fu et.al.|[2408.13979](http://arxiv.org/abs/2408.13979)|**[link](https://github.com/shyfoo/nemesis)**|
