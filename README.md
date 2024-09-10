@@ -106,6 +106,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**Seek and Solve Reasoning for Table Question Answering**|Ruya Jiang et.al.|[2409.05286](http://arxiv.org/abs/2409.05286)|null|
+|**2024-09-08**|**Disentangling the Prosody and Semantic Information with Pre-trained Model for In-Context Learning based Zero-Shot Voice Conversion**|Zhengyang Chen et.al.|[2409.05004](http://arxiv.org/abs/2409.05004)|null|
+|**2024-09-07**|**MILE: A Mutation Testing Framework of In-Context Learning Systems**|Zeming Wei et.al.|[2409.04831](http://arxiv.org/abs/2409.04831)|**[link](https://github.com/weizeming/mile)**|
 |**2024-09-06**|**Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs**|Aliakbar Nafar et.al.|[2409.04318](http://arxiv.org/abs/2409.04318)|null|
 |**2024-09-06**|**Context is the Key: Backdoor Attacks for In-Context Learning with Vision Transformers**|Gorka Abad et.al.|[2409.04142](http://arxiv.org/abs/2409.04142)|null|
 |**2024-09-05**|**CACER: Clinical Concept Annotations for Cancer Events and Relations**|Yujuan Fu et.al.|[2409.03905](http://arxiv.org/abs/2409.03905)|null|
@@ -801,6 +804,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**DexDiff: Towards Extrinsic Dexterity Manipulation of Ungraspable Objects in Unrestricted Environments**|Chengzhong Ma et.al.|[2409.05493](http://arxiv.org/abs/2409.05493)|null|
+|**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413](http://arxiv.org/abs/2409.05413)|null|
+|**2024-09-09**|**A Survey of Multimodal Composite Editing and Retrieval**|Suyan Li et.al.|[2409.05405](http://arxiv.org/abs/2409.05405)|null|
+|**2024-09-09**|**Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling**|Georgios Pantazopoulos et.al.|[2409.05395](http://arxiv.org/abs/2409.05395)|null|
+|**2024-09-08**|**PIP: Detecting Adversarial Examples in Large Vision-Language Models via Attention Patterns of Irrelevant Probe Questions**|Yudong Zhang et.al.|[2409.05076](http://arxiv.org/abs/2409.05076)|null|
+|**2024-09-07**|**POINTS: Improving Your Vision-language Model with Affordable Strategies**|Yuan Liu et.al.|[2409.04828](http://arxiv.org/abs/2409.04828)|null|
+|**2024-09-07**|**Enhancing Outlier Knowledge for Few-Shot Out-of-Distribution Detection with Extensible Local Prompts**|Fanhu Zeng et.al.|[2409.04796](http://arxiv.org/abs/2409.04796)|null|
+|**2024-09-07**|**MuAP: Multi-step Adaptive Prompt Learning for Vision-Language Model with Missing Modality**|Ruiting Dai et.al.|[2409.04693](http://arxiv.org/abs/2409.04693)|null|
 |**2024-09-06**|**COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes**|Koen Kraaijveld et.al.|[2409.04053](http://arxiv.org/abs/2409.04053)|null|
 |**2024-09-06**|**Automating Robot Failure Recovery Using Vision-Language Models With Optimized Prompts**|Hongyi Chen et.al.|[2409.03966](http://arxiv.org/abs/2409.03966)|null|
 |**2024-09-05**|**Few-shot Adaptation of Medical Vision-Language Models**|Fereshteh Shakeri et.al.|[2409.03868](http://arxiv.org/abs/2409.03868)|**[link](https://github.com/fereshteshakeri/few-shot-medvlms)**|
@@ -1745,6 +1756,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**Seek and Solve Reasoning for Table Question Answering**|Ruya Jiang et.al.|[2409.05286](http://arxiv.org/abs/2409.05286)|null|
+|**2024-09-08**|**Disentangling the Prosody and Semantic Information with Pre-trained Model for In-Context Learning based Zero-Shot Voice Conversion**|Zhengyang Chen et.al.|[2409.05004](http://arxiv.org/abs/2409.05004)|null|
+|**2024-09-07**|**MILE: A Mutation Testing Framework of In-Context Learning Systems**|Zeming Wei et.al.|[2409.04831](http://arxiv.org/abs/2409.04831)|**[link](https://github.com/weizeming/mile)**|
 |**2024-09-06**|**Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs**|Aliakbar Nafar et.al.|[2409.04318](http://arxiv.org/abs/2409.04318)|null|
 |**2024-09-06**|**Context is the Key: Backdoor Attacks for In-Context Learning with Vision Transformers**|Gorka Abad et.al.|[2409.04142](http://arxiv.org/abs/2409.04142)|null|
 |**2024-09-05**|**CACER: Clinical Concept Annotations for Cancer Events and Relations**|Yujuan Fu et.al.|[2409.03905](http://arxiv.org/abs/2409.03905)|null|
