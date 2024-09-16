@@ -98,6 +98,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Optimizing Rare Word Accuracy in Direct Speech Translation with a Retrieval-and-Demonstration Approach**|Siqi Li et.al.|[2409.09009](http://arxiv.org/abs/2409.09009)|**[link](https://github.com/siqilii/retrieve-and-demonstration-st)**|
+|**2024-09-13**|**LLM-based Weak Supervision Framework for Query Intent Classification in Video Search**|Farnoosh Javadi et.al.|[2409.08931](http://arxiv.org/abs/2409.08931)|null|
+|**2024-09-13**|**LA-RAG:Enhancing LLM-based ASR Accuracy with Retrieval-Augmented Generation**|Shaojun Li et.al.|[2409.08597](http://arxiv.org/abs/2409.08597)|null|
 |**2024-09-12**|**Fine-tuning Large Language Models for Entity Matching**|Aaron Steiner et.al.|[2409.08185](http://arxiv.org/abs/2409.08185)|**[link](https://github.com/wbsg-uni-mannheim/tailormatch)**|
 |**2024-09-11**|**MEDIC: Towards a Comprehensive Framework for Evaluating LLMs in Clinical Applications**|Praveen K Kanithi et.al.|[2409.07314](http://arxiv.org/abs/2409.07314)|null|
 |**2024-09-10**|**Quantifying and Enabling the Interpretability of CLIP-like Models**|Avinash Madasu et.al.|[2409.06579](http://arxiv.org/abs/2409.06579)|null|
@@ -799,6 +802,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Knowledge-Enhanced Facial Expression Recognition with Emotional-to-Neutral Transformation**|Hangyu Li et.al.|[2409.08598](http://arxiv.org/abs/2409.08598)|null|
+|**2024-09-13**|**ChangeChat: An Interactive Model for Remote Sensing Change Analysis via Multimodal Instruction Tuning**|Pei Deng et.al.|[2409.08582](http://arxiv.org/abs/2409.08582)|null|
+|**2024-09-13**|**Generalization Boosted Adapter for Open-Vocabulary Segmentation**|Wenhao Xu et.al.|[2409.08468](http://arxiv.org/abs/2409.08468)|null|
+|**2024-09-12**|**Rethinking Prompting Strategies for Multi-Label Recognition with Partial Annotations**|Samyak Rawlekar et.al.|[2409.08381](http://arxiv.org/abs/2409.08381)|null|
 |**2024-09-12**|**ComAlign: Compositional Alignment in Vision-Language Models**|Ali Abdollah et.al.|[2409.08206](http://arxiv.org/abs/2409.08206)|null|
 |**2024-09-12**|**What Makes a Maze Look Like a Maze?**|Joy Hsu et.al.|[2409.08202](http://arxiv.org/abs/2409.08202)|null|
 |**2024-09-12**|**DSBench: How Far Are Data Science Agents to Becoming Data Science Experts?**|Liqiang Jing et.al.|[2409.07703](http://arxiv.org/abs/2409.07703)|**[link](https://github.com/liqiangjing/dsbench)**|
@@ -1761,6 +1768,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Optimizing Rare Word Accuracy in Direct Speech Translation with a Retrieval-and-Demonstration Approach**|Siqi Li et.al.|[2409.09009](http://arxiv.org/abs/2409.09009)|**[link](https://github.com/siqilii/retrieve-and-demonstration-st)**|
+|**2024-09-13**|**LLM-based Weak Supervision Framework for Query Intent Classification in Video Search**|Farnoosh Javadi et.al.|[2409.08931](http://arxiv.org/abs/2409.08931)|null|
+|**2024-09-13**|**LA-RAG:Enhancing LLM-based ASR Accuracy with Retrieval-Augmented Generation**|Shaojun Li et.al.|[2409.08597](http://arxiv.org/abs/2409.08597)|null|
 |**2024-09-12**|**Fine-tuning Large Language Models for Entity Matching**|Aaron Steiner et.al.|[2409.08185](http://arxiv.org/abs/2409.08185)|**[link](https://github.com/wbsg-uni-mannheim/tailormatch)**|
 |**2024-09-11**|**MEDIC: Towards a Comprehensive Framework for Evaluating LLMs in Clinical Applications**|Praveen K Kanithi et.al.|[2409.07314](http://arxiv.org/abs/2409.07314)|null|
 |**2024-09-10**|**Quantifying and Enabling the Interpretability of CLIP-like Models**|Avinash Madasu et.al.|[2409.06579](http://arxiv.org/abs/2409.06579)|null|
