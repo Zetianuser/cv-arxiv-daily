@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.16
+## Updated on 2024.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -101,7 +101,7 @@
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
 |**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
 
-<p align=right>(<a href=#updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
 
 ## In-context
 
@@ -807,7 +807,7 @@
 |**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075](http://arxiv.org/abs/2312.11075)|null|
 |**2023-12-18**|**APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation**|Chengran Yang et.al.|[2312.10934](http://arxiv.org/abs/2312.10934)|null|
 
-<p align=right>(<a href=#updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
 
 ## VLM
 
@@ -822,7 +822,7 @@
 |**2024-09-12**|**DSBench: How Far Are Data Science Agents to Becoming Data Science Experts?**|Liqiang Jing et.al.|[2409.07703](http://arxiv.org/abs/2409.07703)|**[link](https://github.com/liqiangjing/dsbench)**|
 |**2024-09-12**|**Open-Vocabulary Remote Sensing Image Semantic Segmentation**|Qinglong Cao et.al.|[2409.07683](http://arxiv.org/abs/2409.07683)|null|
 |**2024-09-11**|**Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks**|Md Zarif Hossain et.al.|[2409.07353](http://arxiv.org/abs/2409.07353)|**[link](https://github.com/speedlab-git/robust-encoder-against-jailbreak-attack)**|
-|**2024-09-11**|**MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**|Enming Zhang et.al.|[2409.07267](http://arxiv.org/abs/2409.07267)|**[link](https://github.com/emzucas/minidrive)**|
+|**2024-09-14**|**MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**|Enming Zhang et.al.|[2409.07267](http://arxiv.org/abs/2409.07267)|**[link](https://github.com/emzucas/minidrive)**|
 |**2024-09-11**|**Pushing the Limits of Vision-Language Models in Remote Sensing without Human Annotations**|Keumgang Cha et.al.|[2409.07048](http://arxiv.org/abs/2409.07048)|null|
 |**2024-09-10**|**ExIQA: Explainable Image Quality Assessment Using Distortion Attributes**|Sepehr Kazemi Ranjbar et.al.|[2409.06853](http://arxiv.org/abs/2409.06853)|null|
 |**2024-09-10**|**DetailCLIP: Detail-Oriented CLIP for Fine-Grained Tasks**|Amin Karimi Monsefi et.al.|[2409.06809](http://arxiv.org/abs/2409.06809)|**[link](https://github.com/KishoreP1/DetailCLIP)**|
@@ -1769,7 +1769,7 @@
 |**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423](http://arxiv.org/abs/2312.12423)|null|
 |**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379](http://arxiv.org/abs/2312.12379)|null|
 
-<p align=right>(<a href=#updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
 
 ## Visual In-context
 
@@ -1777,7 +1777,7 @@
 |---|---|---|---|---|
 |**2024-02-18**|**Visual In-Context Learning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2402.11574](http://arxiv.org/abs/2402.11574)|null|
 
-<p align=right>(<a href=#updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
 
 ## V-ICL
 
@@ -2193,7 +2193,7 @@
 |**2024-04-15**|**Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**|Sungwon Han et.al.|[2404.09491](http://arxiv.org/abs/2404.09491)|**[link](https://github.com/sungwon-han/featllm)**|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
 
-<p align=right>(<a href=#updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

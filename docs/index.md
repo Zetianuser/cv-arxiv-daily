@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.16
+## Updated on 2024.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -811,7 +811,7 @@ layout: default
 |**2024-09-12**|**DSBench: How Far Are Data Science Agents to Becoming Data Science Experts?**|Liqiang Jing et.al.|[2409.07703](http://arxiv.org/abs/2409.07703)|**[link](https://github.com/liqiangjing/dsbench)**|
 |**2024-09-12**|**Open-Vocabulary Remote Sensing Image Semantic Segmentation**|Qinglong Cao et.al.|[2409.07683](http://arxiv.org/abs/2409.07683)|null|
 |**2024-09-11**|**Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks**|Md Zarif Hossain et.al.|[2409.07353](http://arxiv.org/abs/2409.07353)|**[link](https://github.com/speedlab-git/robust-encoder-against-jailbreak-attack)**|
-|**2024-09-11**|**MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**|Enming Zhang et.al.|[2409.07267](http://arxiv.org/abs/2409.07267)|**[link](https://github.com/emzucas/minidrive)**|
+|**2024-09-14**|**MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**|Enming Zhang et.al.|[2409.07267](http://arxiv.org/abs/2409.07267)|**[link](https://github.com/emzucas/minidrive)**|
 |**2024-09-11**|**Pushing the Limits of Vision-Language Models in Remote Sensing without Human Annotations**|Keumgang Cha et.al.|[2409.07048](http://arxiv.org/abs/2409.07048)|null|
 |**2024-09-10**|**ExIQA: Explainable Image Quality Assessment Using Distortion Attributes**|Sepehr Kazemi Ranjbar et.al.|[2409.06853](http://arxiv.org/abs/2409.06853)|null|
 |**2024-09-10**|**DetailCLIP: Detail-Oriented CLIP for Fine-Grained Tasks**|Amin Karimi Monsefi et.al.|[2409.06809](http://arxiv.org/abs/2409.06809)|**[link](https://github.com/KishoreP1/DetailCLIP)**|
