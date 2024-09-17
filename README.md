@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-15**|**Optimality of Motion Camouflage Under Escape Uncertainty**|Mallory Gaspard et.al.|[2409.09890](http://arxiv.org/abs/2409.09890)|null|
+|**2024-09-15**|**GLCONet: Learning Multi-source Perception Representation for Camouflaged Object Detection**|Yanguang Sun et.al.|[2409.09588](http://arxiv.org/abs/2409.09588)|**[link](https://github.com/csysi/glconet)**|
 |**2024-09-11**|**Diff-VPS: Video Polyp Segmentation via a Multi-task Diffusion Network with Adversarial Temporal Reasoning**|Yingling Lu et.al.|[2409.07238](http://arxiv.org/abs/2409.07238)|**[link](https://github.com/lydia-yllu/diff-vps)**|
 |**2024-09-05**|**Active Fake: DeepFake Camouflage**|Pu Sun et.al.|[2409.03200](http://arxiv.org/abs/2409.03200)|null|
 |**2024-09-04**|**Evaluation Study on SAM 2 for Class-agnostic Instance-level Segmentation**|Tiantian Zhang et.al.|[2409.02567](http://arxiv.org/abs/2409.02567)|**[link](https://github.com/PJLallen/InstanceSAM2Eval)**|
@@ -107,6 +109,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**LLM as BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning**|Jicong Ao et.al.|[2409.10444](http://arxiv.org/abs/2409.10444)|null|
+|**2024-09-16**|**Meta-Whisper: Speech-Based Meta-ICL for ASR on Low-Resource Languages**|Ming-Hao Hsu et.al.|[2409.10429](http://arxiv.org/abs/2409.10429)|null|
+|**2024-09-16**|**From Text to Emoji: How PEFT-Driven Personality Manipulation Unleashes the Emoji Potential in LLMs**|Navya Jain et.al.|[2409.10245](http://arxiv.org/abs/2409.10245)|null|
+|**2024-09-16**|**Emo-DPO: Controllable Emotional Speech Synthesis through Direct Preference Optimization**|Xiaoxue Gao et.al.|[2409.10157](http://arxiv.org/abs/2409.10157)|null|
+|**2024-09-16**|**SelECT-SQL: Self-correcting ensemble Chain-of-Thought for Text-to-SQL**|Ke Shen et.al.|[2409.10007](http://arxiv.org/abs/2409.10007)|**[link](https://github.com/neuripspublishingresearchcode/select-sql)**|
+|**2024-09-15**|**AlpaPICO: Extraction of PICO Frames from Clinical Trial Documents Using LLMs**|Madhusudan Ghosh et.al.|[2409.09704](http://arxiv.org/abs/2409.09704)|**[link](https://github.com/shrimonmuke0202/alpapico)**|
+|**2024-09-14**|**Language Models "Grok" to Copy**|Ang Lv et.al.|[2409.09281](http://arxiv.org/abs/2409.09281)|null|
 |**2024-09-13**|**Optimizing Rare Word Accuracy in Direct Speech Translation with a Retrieval-and-Demonstration Approach**|Siqi Li et.al.|[2409.09009](http://arxiv.org/abs/2409.09009)|**[link](https://github.com/siqilii/retrieve-and-demonstration-st)**|
 |**2024-09-13**|**LLM-based Weak Supervision Framework for Query Intent Classification in Video Search**|Farnoosh Javadi et.al.|[2409.08931](http://arxiv.org/abs/2409.08931)|null|
 |**2024-09-13**|**LA-RAG:Enhancing LLM-based ASR Accuracy with Retrieval-Augmented Generation**|Shaojun Li et.al.|[2409.08597](http://arxiv.org/abs/2409.08597)|null|
@@ -813,6 +822,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**Do Pre-trained Vision-Language Models Encode Object States?**|Kaleb Newman et.al.|[2409.10488](http://arxiv.org/abs/2409.10488)|null|
+|**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
+|**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
+|**2024-09-16**|**NEUSIS: A Compositional Neuro-Symbolic Framework for Autonomous Perception, Reasoning, and Planning in Complex UAV Search Missions**|Zhixi Cai et.al.|[2409.10196](http://arxiv.org/abs/2409.10196)|null|
+|**2024-09-16**|**MotionCom: Automatic and Motion-Aware Image Composition with LLM and Video Diffusion Prior**|Weijing Tao et.al.|[2409.10090](http://arxiv.org/abs/2409.10090)|null|
+|**2024-09-16**|**IRIS: Interactive Responsive Intelligent Segmentation for 3D Affordance Analysis**|Meng Chu et.al.|[2409.10078](http://arxiv.org/abs/2409.10078)|null|
+|**2024-09-15**|**FSL-LVLM: Friction-Aware Safety Locomotion using Large Vision Language Model in Wheeled Robots**|Bo Peng et.al.|[2409.09845](http://arxiv.org/abs/2409.09845)|null|
+|**2024-09-15**|**Reasoning Paths with Reference Objects Elicit Quantitative Spatial Reasoning in Large Vision-Language Models**|Yuan-Hong Liao et.al.|[2409.09788](http://arxiv.org/abs/2409.09788)|null|
+|**2024-09-15**|**Finetuning CLIP to Reason about Pairwise Differences**|Dylan Sam et.al.|[2409.09721](http://arxiv.org/abs/2409.09721)|null|
+|**2024-09-15**|**Generative Semantic Communication via Textual Prompts: Latency Performance Tradeoffs**|Mengmeng Ren et.al.|[2409.09715](http://arxiv.org/abs/2409.09715)|null|
 |**2024-09-13**|**Knowledge-Enhanced Facial Expression Recognition with Emotional-to-Neutral Transformation**|Hangyu Li et.al.|[2409.08598](http://arxiv.org/abs/2409.08598)|null|
 |**2024-09-13**|**ChangeChat: An Interactive Model for Remote Sensing Change Analysis via Multimodal Instruction Tuning**|Pei Deng et.al.|[2409.08582](http://arxiv.org/abs/2409.08582)|null|
 |**2024-09-13**|**Generalization Boosted Adapter for Open-Vocabulary Segmentation**|Wenhao Xu et.al.|[2409.08468](http://arxiv.org/abs/2409.08468)|null|
@@ -1783,6 +1802,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**LLM as BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning**|Jicong Ao et.al.|[2409.10444](http://arxiv.org/abs/2409.10444)|null|
+|**2024-09-16**|**Meta-Whisper: Speech-Based Meta-ICL for ASR on Low-Resource Languages**|Ming-Hao Hsu et.al.|[2409.10429](http://arxiv.org/abs/2409.10429)|null|
+|**2024-09-16**|**From Text to Emoji: How PEFT-Driven Personality Manipulation Unleashes the Emoji Potential in LLMs**|Navya Jain et.al.|[2409.10245](http://arxiv.org/abs/2409.10245)|null|
+|**2024-09-16**|**Emo-DPO: Controllable Emotional Speech Synthesis through Direct Preference Optimization**|Xiaoxue Gao et.al.|[2409.10157](http://arxiv.org/abs/2409.10157)|null|
+|**2024-09-16**|**SelECT-SQL: Self-correcting ensemble Chain-of-Thought for Text-to-SQL**|Ke Shen et.al.|[2409.10007](http://arxiv.org/abs/2409.10007)|**[link](https://github.com/neuripspublishingresearchcode/select-sql)**|
+|**2024-09-15**|**AlpaPICO: Extraction of PICO Frames from Clinical Trial Documents Using LLMs**|Madhusudan Ghosh et.al.|[2409.09704](http://arxiv.org/abs/2409.09704)|**[link](https://github.com/shrimonmuke0202/alpapico)**|
+|**2024-09-14**|**Language Models "Grok" to Copy**|Ang Lv et.al.|[2409.09281](http://arxiv.org/abs/2409.09281)|null|
 |**2024-09-13**|**Optimizing Rare Word Accuracy in Direct Speech Translation with a Retrieval-and-Demonstration Approach**|Siqi Li et.al.|[2409.09009](http://arxiv.org/abs/2409.09009)|**[link](https://github.com/siqilii/retrieve-and-demonstration-st)**|
 |**2024-09-13**|**LLM-based Weak Supervision Framework for Query Intent Classification in Video Search**|Farnoosh Javadi et.al.|[2409.08931](http://arxiv.org/abs/2409.08931)|null|
 |**2024-09-13**|**LA-RAG:Enhancing LLM-based ASR Accuracy with Retrieval-Augmented Generation**|Shaojun Li et.al.|[2409.08597](http://arxiv.org/abs/2409.08597)|null|
