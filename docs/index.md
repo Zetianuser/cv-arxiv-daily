@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-01**|**NoPhish: Efficient Chrome Extension for Phishing Detection Using Machine Learning Techniques**|Leand Thaqi et.al.|[2409.10547](http://arxiv.org/abs/2409.10547)|null|
 |**2024-09-15**|**Optimality of Motion Camouflage Under Escape Uncertainty**|Mallory Gaspard et.al.|[2409.09890](http://arxiv.org/abs/2409.09890)|null|
 |**2024-09-15**|**GLCONet: Learning Multi-source Perception Representation for Camouflaged Object Detection**|Yanguang Sun et.al.|[2409.09588](http://arxiv.org/abs/2409.09588)|**[link](https://github.com/csysi/glconet)**|
 |**2024-09-11**|**Diff-VPS: Video Polyp Segmentation via a Multi-task Diffusion Network with Adversarial Temporal Reasoning**|Yingling Lu et.al.|[2409.07238](http://arxiv.org/abs/2409.07238)|**[link](https://github.com/lydia-yllu/diff-vps)**|
@@ -100,6 +101,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**THaMES: An End-to-End Tool for Hallucination Mitigation and Evaluation in Large Language Models**|Mengfei Liang et.al.|[2409.11353](http://arxiv.org/abs/2409.11353)|null|
+|**2024-09-17**|**Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse**|Maojia Song et.al.|[2409.11242](http://arxiv.org/abs/2409.11242)|**[link](https://github.com/declare-lab/trust-align)**|
+|**2024-09-17**|**Reasoning Graph Enhanced Exemplars Retrieval for In-Context Learning**|Yukang Lin et.al.|[2409.11147](http://arxiv.org/abs/2409.11147)|**[link](https://github.com/yukang-lin/rger)**|
+|**2024-09-17**|**Semformer: Transformer Language Models with Semantic Planning**|Yongjing Yin et.al.|[2409.11143](http://arxiv.org/abs/2409.11143)|null|
+|**2024-09-17**|**Towards No-Code Programming of Cobots: Experiments with Code Synthesis by Large Code Models for Conversational Programming**|Kranti Chalamalasetti et.al.|[2409.11041](http://arxiv.org/abs/2409.11041)|null|
 |**2024-09-16**|**LLM as BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning**|Jicong Ao et.al.|[2409.10444](http://arxiv.org/abs/2409.10444)|null|
 |**2024-09-16**|**Meta-Whisper: Speech-Based Meta-ICL for ASR on Low-Resource Languages**|Ming-Hao Hsu et.al.|[2409.10429](http://arxiv.org/abs/2409.10429)|null|
 |**2024-09-16**|**From Text to Emoji: How PEFT-Driven Personality Manipulation Unleashes the Emoji Potential in LLMs**|Navya Jain et.al.|[2409.10245](http://arxiv.org/abs/2409.10245)|null|
@@ -811,6 +817,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**CAST: Cross-modal Alignment Similarity Test for Vision Language Models**|Gautier Dagan et.al.|[2409.11007](http://arxiv.org/abs/2409.11007)|**[link](https://github.com/gautierdag/cast)**|
+|**2024-09-17**|**KALE: An Artwork Image Captioning System Augmented with Heterogeneous Graph**|Yanbei Jiang et.al.|[2409.10921](http://arxiv.org/abs/2409.10921)|**[link](https://github.com/yanbei-jiang/artwork-interpretation)**|
+|**2024-09-16**|**Benchmarking VLMs' Reasoning About Persuasive Atypical Images**|Sina Malakouti et.al.|[2409.10719](http://arxiv.org/abs/2409.10719)|null|
+|**2024-09-16**|**MotIF: Motion Instruction Fine-tuning**|Minyoung Hwang et.al.|[2409.10683](http://arxiv.org/abs/2409.10683)|null|
 |**2024-09-16**|**Do Pre-trained Vision-Language Models Encode Object States?**|Kaleb Newman et.al.|[2409.10488](http://arxiv.org/abs/2409.10488)|null|
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
@@ -1787,6 +1797,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**THaMES: An End-to-End Tool for Hallucination Mitigation and Evaluation in Large Language Models**|Mengfei Liang et.al.|[2409.11353](http://arxiv.org/abs/2409.11353)|null|
+|**2024-09-17**|**Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse**|Maojia Song et.al.|[2409.11242](http://arxiv.org/abs/2409.11242)|**[link](https://github.com/declare-lab/trust-align)**|
+|**2024-09-17**|**Reasoning Graph Enhanced Exemplars Retrieval for In-Context Learning**|Yukang Lin et.al.|[2409.11147](http://arxiv.org/abs/2409.11147)|**[link](https://github.com/yukang-lin/rger)**|
+|**2024-09-17**|**Semformer: Transformer Language Models with Semantic Planning**|Yongjing Yin et.al.|[2409.11143](http://arxiv.org/abs/2409.11143)|null|
+|**2024-09-17**|**Towards No-Code Programming of Cobots: Experiments with Code Synthesis by Large Code Models for Conversational Programming**|Kranti Chalamalasetti et.al.|[2409.11041](http://arxiv.org/abs/2409.11041)|null|
 |**2024-09-16**|**LLM as BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning**|Jicong Ao et.al.|[2409.10444](http://arxiv.org/abs/2409.10444)|null|
 |**2024-09-16**|**Meta-Whisper: Speech-Based Meta-ICL for ASR on Low-Resource Languages**|Ming-Hao Hsu et.al.|[2409.10429](http://arxiv.org/abs/2409.10429)|null|
 |**2024-09-16**|**From Text to Emoji: How PEFT-Driven Personality Manipulation Unleashes the Emoji Potential in LLMs**|Navya Jain et.al.|[2409.10245](http://arxiv.org/abs/2409.10245)|null|
