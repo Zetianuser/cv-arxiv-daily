@@ -101,6 +101,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**A Controlled Study on Long Context Extension and Generalization in LLMs**|Yi Lu et.al.|[2409.12181](http://arxiv.org/abs/2409.12181)|**[link](https://github.com/leooyii/lceg)**|
+|**2024-09-18**|**M2R-Whisper: Multi-stage and Multi-scale Retrieval Augmentation for Enhancing Whisper**|Jiaming Zhou et.al.|[2409.11889](http://arxiv.org/abs/2409.11889)|null|
+|**2024-09-18**|**Learning Task Planning from Multi-Modal Demonstration for Multi-Stage Contact-Rich Manipulation**|Kejia Chen et.al.|[2409.11863](http://arxiv.org/abs/2409.11863)|null|
+|**2024-09-18**|**RoboMorph: In-Context Meta-Learning for Robot Dynamics Modeling**|Manuel Bianchi Bazzi et.al.|[2409.11815](http://arxiv.org/abs/2409.11815)|null|
+|**2024-09-18**|**RUIE: Retrieval-based Unified Information Extraction using Large Language Model**|Xincheng Liao et.al.|[2409.11673](http://arxiv.org/abs/2409.11673)|null|
+|**2024-09-17**|**HEARTS: A Holistic Framework for Explainable, Sustainable and Robust Text Stereotype Detection**|Theo King et.al.|[2409.11579](http://arxiv.org/abs/2409.11579)|null|
 |**2024-09-17**|**THaMES: An End-to-End Tool for Hallucination Mitigation and Evaluation in Large Language Models**|Mengfei Liang et.al.|[2409.11353](http://arxiv.org/abs/2409.11353)|null|
 |**2024-09-17**|**Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse**|Maojia Song et.al.|[2409.11242](http://arxiv.org/abs/2409.11242)|**[link](https://github.com/declare-lab/trust-align)**|
 |**2024-09-17**|**Reasoning Graph Enhanced Exemplars Retrieval for In-Context Learning**|Yukang Lin et.al.|[2409.11147](http://arxiv.org/abs/2409.11147)|**[link](https://github.com/yukang-lin/rger)**|
@@ -817,6 +823,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**|Peng Wang et.al.|[2409.12191](http://arxiv.org/abs/2409.12191)|**[link](https://github.com/qwenlm/qwen2-vl)**|
+|**2024-09-18**|**Mixture of Prompt Learning for Vision Language Models**|Yu Du et.al.|[2409.12011](http://arxiv.org/abs/2409.12011)|null|
+|**2024-09-18**|**GauTOAO: Gaussian-based Task-Oriented Affordance of Objects**|Jiawen Wang et.al.|[2409.11941](http://arxiv.org/abs/2409.11941)|null|
+|**2024-09-18**|**LLM-wrapper: Black-Box Semantic-Aware Adaptation of Vision-Language Foundation Models**|Amaia Cardiel et.al.|[2409.11919](http://arxiv.org/abs/2409.11919)|null|
 |**2024-09-17**|**CAST: Cross-modal Alignment Similarity Test for Vision Language Models**|Gautier Dagan et.al.|[2409.11007](http://arxiv.org/abs/2409.11007)|**[link](https://github.com/gautierdag/cast)**|
 |**2024-09-17**|**KALE: An Artwork Image Captioning System Augmented with Heterogeneous Graph**|Yanbei Jiang et.al.|[2409.10921](http://arxiv.org/abs/2409.10921)|**[link](https://github.com/yanbei-jiang/artwork-interpretation)**|
 |**2024-09-16**|**Benchmarking VLMs' Reasoning About Persuasive Atypical Images**|Sina Malakouti et.al.|[2409.10719](http://arxiv.org/abs/2409.10719)|null|
@@ -1797,6 +1807,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**A Controlled Study on Long Context Extension and Generalization in LLMs**|Yi Lu et.al.|[2409.12181](http://arxiv.org/abs/2409.12181)|**[link](https://github.com/leooyii/lceg)**|
+|**2024-09-18**|**M2R-Whisper: Multi-stage and Multi-scale Retrieval Augmentation for Enhancing Whisper**|Jiaming Zhou et.al.|[2409.11889](http://arxiv.org/abs/2409.11889)|null|
+|**2024-09-18**|**Learning Task Planning from Multi-Modal Demonstration for Multi-Stage Contact-Rich Manipulation**|Kejia Chen et.al.|[2409.11863](http://arxiv.org/abs/2409.11863)|null|
+|**2024-09-18**|**RoboMorph: In-Context Meta-Learning for Robot Dynamics Modeling**|Manuel Bianchi Bazzi et.al.|[2409.11815](http://arxiv.org/abs/2409.11815)|null|
+|**2024-09-18**|**RUIE: Retrieval-based Unified Information Extraction using Large Language Model**|Xincheng Liao et.al.|[2409.11673](http://arxiv.org/abs/2409.11673)|null|
+|**2024-09-17**|**HEARTS: A Holistic Framework for Explainable, Sustainable and Robust Text Stereotype Detection**|Theo King et.al.|[2409.11579](http://arxiv.org/abs/2409.11579)|null|
 |**2024-09-17**|**THaMES: An End-to-End Tool for Hallucination Mitigation and Evaluation in Large Language Models**|Mengfei Liang et.al.|[2409.11353](http://arxiv.org/abs/2409.11353)|null|
 |**2024-09-17**|**Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse**|Maojia Song et.al.|[2409.11242](http://arxiv.org/abs/2409.11242)|**[link](https://github.com/declare-lab/trust-align)**|
 |**2024-09-17**|**Reasoning Graph Enhanced Exemplars Retrieval for In-Context Learning**|Yukang Lin et.al.|[2409.11147](http://arxiv.org/abs/2409.11147)|**[link](https://github.com/yukang-lin/rger)**|
