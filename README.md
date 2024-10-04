@@ -116,6 +116,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI**|Ahmad Elawady et.al.|[2410.02751](http://arxiv.org/abs/2410.02751)|**[link](https://github.com/aielawady/relic)**|
+|**2024-10-03**|**IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models**|Tuo An et.al.|[2410.02429](http://arxiv.org/abs/2410.02429)|null|
+|**2024-10-03**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369](http://arxiv.org/abs/2410.02369)|null|
+|**2024-10-03**|**Simplicity bias and optimization threshold in two-layer ReLU networks**|Etienne Boursier et.al.|[2410.02348](http://arxiv.org/abs/2410.02348)|null|
+|**2024-10-03**|**Calibrate to Discriminate: Improve In-Context Learning with Label-Free Comparative Inference**|Wei Cheng et.al.|[2410.02210](http://arxiv.org/abs/2410.02210)|null|
+|**2024-10-03**|**GraphIC: A Graph-Based In-Context Example Retrieval Model for Multi-Step Reasoning**|Jiale Fu et.al.|[2410.02203](http://arxiv.org/abs/2410.02203)|null|
+|**2024-10-03**|**Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis**|Hongkang Li et.al.|[2410.02167](http://arxiv.org/abs/2410.02167)|null|
 |**2024-10-02**|**Intent Detection in the Age of LLMs**|Gaurav Arora et.al.|[2410.01627](http://arxiv.org/abs/2410.01627)|null|
 |**2024-10-02**|**ENTP: Encoder-only Next Token Prediction**|Ethan Ewer et.al.|[2410.01600](http://arxiv.org/abs/2410.01600)|null|
 |**2024-10-02**|**Bayes' Power for Explaining In-Context Learning Generalizations**|Samuel Müller et.al.|[2410.01565](http://arxiv.org/abs/2410.01565)|null|
@@ -869,6 +876,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations**|Nick Jiang et.al.|[2410.02762](http://arxiv.org/abs/2410.02762)|**[link](https://github.com/nickjiang2378/vl-interp)**|
+|**2024-10-03**|**DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**|Zhaowei Wang et.al.|[2410.02730](http://arxiv.org/abs/2410.02730)|null|
+|**2024-10-03**|**Unified Multi-Modal Interleaved Document Representation for Information Retrieval**|Jaewoo Lee et.al.|[2410.02729](http://arxiv.org/abs/2410.02729)|null|
+|**2024-10-03**|**Understanding and Mitigating Miscalibration in Prompt Tuning for Vision-Language Models**|Shuoyuan Wang et.al.|[2410.02681](http://arxiv.org/abs/2410.02681)|null|
+|**2024-10-03**|**LoGra-Med: Long Context Multi-Graph Alignment for Medical Vision-Language Model**|Duy M. H. Nguyen et.al.|[2410.02615](http://arxiv.org/abs/2410.02615)|null|
+|**2024-10-03**|**Guiding Long-Horizon Task and Motion Planning with Vision Language Models**|Zhutian Yang et.al.|[2410.02193](http://arxiv.org/abs/2410.02193)|null|
+|**2024-10-02**|**Improving Autonomous AI Agents with Reflective Tree Search and Self-Learning**|Xiao Yu et.al.|[2410.02052](http://arxiv.org/abs/2410.02052)|null|
+|**2024-10-02**|**Emo3D: Metric and Benchmarking Dataset for 3D Facial Expression Generation from Emotion Description**|Mahshid Dehghani et.al.|[2410.02049](http://arxiv.org/abs/2410.02049)|null|
+|**2024-10-02**|**Quantifying the Gaps Between Translation and Native Perception in Training for Multimodal, Multilingual Retrieval**|Kyle Buettner et.al.|[2410.02027](http://arxiv.org/abs/2410.02027)|null|
+|**2024-10-02**|**Enhancing Screen Time Identification in Children with a Multi-View Vision Language Model and Screen Time Tracker**|Xinlong Hou et.al.|[2410.01966](http://arxiv.org/abs/2410.01966)|null|
 |**2024-10-03**|**Leopard: A Vision Language Model For Text-Rich Multi-Image Tasks**|Mengzhao Jia et.al.|[2410.01744](http://arxiv.org/abs/2410.01744)|null|
 |**2024-10-03**|**LMOD: A Large Multimodal Ophthalmology Dataset and Benchmark for Large Vision-Language Models**|Zhenyue Qin et.al.|[2410.01620](http://arxiv.org/abs/2410.01620)|null|
 |**2024-10-02**|**Toward a Holistic Evaluation of Robustness in CLIP Models**|Weijie Tu et.al.|[2410.01534](http://arxiv.org/abs/2410.01534)|null|
@@ -1898,6 +1915,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI**|Ahmad Elawady et.al.|[2410.02751](http://arxiv.org/abs/2410.02751)|**[link](https://github.com/aielawady/relic)**|
+|**2024-10-03**|**IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models**|Tuo An et.al.|[2410.02429](http://arxiv.org/abs/2410.02429)|null|
+|**2024-10-03**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369](http://arxiv.org/abs/2410.02369)|null|
+|**2024-10-03**|**Simplicity bias and optimization threshold in two-layer ReLU networks**|Etienne Boursier et.al.|[2410.02348](http://arxiv.org/abs/2410.02348)|null|
+|**2024-10-03**|**Calibrate to Discriminate: Improve In-Context Learning with Label-Free Comparative Inference**|Wei Cheng et.al.|[2410.02210](http://arxiv.org/abs/2410.02210)|null|
+|**2024-10-03**|**GraphIC: A Graph-Based In-Context Example Retrieval Model for Multi-Step Reasoning**|Jiale Fu et.al.|[2410.02203](http://arxiv.org/abs/2410.02203)|null|
+|**2024-10-03**|**Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis**|Hongkang Li et.al.|[2410.02167](http://arxiv.org/abs/2410.02167)|null|
 |**2024-10-02**|**Intent Detection in the Age of LLMs**|Gaurav Arora et.al.|[2410.01627](http://arxiv.org/abs/2410.01627)|null|
 |**2024-10-02**|**ENTP: Encoder-only Next Token Prediction**|Ethan Ewer et.al.|[2410.01600](http://arxiv.org/abs/2410.01600)|null|
 |**2024-10-02**|**Bayes' Power for Explaining In-Context Learning Generalizations**|Samuel Müller et.al.|[2410.01565](http://arxiv.org/abs/2410.01565)|null|
