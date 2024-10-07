@@ -107,6 +107,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Zebra: In-Context and Generative Pretraining for Solving Parametric PDEs**|Louis Serrano et.al.|[2410.03437](http://arxiv.org/abs/2410.03437)|null|
+|**2024-10-04**|**Enhanced Transformer architecture for in-context learning of dynamical systems**|Matteo Rufolo et.al.|[2410.03291](http://arxiv.org/abs/2410.03291)|null|
+|**2024-10-04**|**Data-Efficient Massive Tool Retrieval: A Reinforcement Learning Approach for Query-Tool Alignment with Language Models**|Yuxiang Zhang et.al.|[2410.03212](http://arxiv.org/abs/2410.03212)|null|
+|**2024-10-04**|**Generating bilingual example sentences with large language models as lexicography assistants**|Raphael Merx et.al.|[2410.03182](http://arxiv.org/abs/2410.03182)|null|
+|**2024-10-04**|**In-context Learning in Presence of Spurious Correlations**|Hrayr Harutyunyan et.al.|[2410.03140](http://arxiv.org/abs/2410.03140)|null|
+|**2024-10-04**|**On Unsupervised Prompt Learning for Classification with Black-box Language Models**|Zhen-Yu Zhang et.al.|[2410.03124](http://arxiv.org/abs/2410.03124)|null|
+|**2024-10-04**|**RIPPLECOT: Amplifying Ripple Effect of Knowledge Editing in Language Models via Chain-of-Thought In-Context Learning**|Zihao Zhao et.al.|[2410.03122](http://arxiv.org/abs/2410.03122)|null|
+|**2024-10-03**|**Demonstration Attack against In-Context Learning for Code Intelligence**|Yifei Ge et.al.|[2410.02841](http://arxiv.org/abs/2410.02841)|null|
 |**2024-10-03**|**ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI**|Ahmad Elawady et.al.|[2410.02751](http://arxiv.org/abs/2410.02751)|**[link](https://github.com/aielawady/relic)**|
 |**2024-10-04**|**IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models**|Tuo An et.al.|[2410.02429](http://arxiv.org/abs/2410.02429)|null|
 |**2024-10-04**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369](http://arxiv.org/abs/2410.02369)|null|
@@ -865,6 +873,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Unraveling Cross-Modality Knowledge Conflict in Large Vision-Language Models**|Tinghui Zhu et.al.|[2410.03659](http://arxiv.org/abs/2410.03659)|null|
+|**2024-10-04**|**LeLaN: Learning A Language-Conditioned Navigation Policy from In-the-Wild Videos**|Noriaki Hirose et.al.|[2410.03603](http://arxiv.org/abs/2410.03603)|null|
+|**2024-10-04**|**An X-Ray Is Worth 15 Features: Sparse Autoencoders for Interpretable Radiology Report Generation**|Ahmed Abdulaal et.al.|[2410.03334](http://arxiv.org/abs/2410.03334)|null|
+|**2024-10-04**|**Generalizable Prompt Tuning for Vision-Language Models**|Qian Zhang et.al.|[2410.03189](http://arxiv.org/abs/2410.03189)|null|
+|**2024-10-04**|**Investigating and Mitigating Object Hallucinations in Pretrained Vision-Language (CLIP) Models**|Yufang Liu et.al.|[2410.03176](http://arxiv.org/abs/2410.03176)|**[link](https://github.com/yufang-liu/clip_hallucination)**|
+|**2024-10-04**|**CLIP-Clique: Graph-based Correspondence Matching Augmented by Vision Language Models for Object-based Global Localization**|Shigemichi Matsuzaki et.al.|[2410.03054](http://arxiv.org/abs/2410.03054)|null|
+|**2024-10-03**|**Real-World Cooking Robot System from Recipes Based on Food State Recognition Using Foundation Models and PDDL**|Naoaki Kanazawa et.al.|[2410.02874](http://arxiv.org/abs/2410.02874)|null|
 |**2024-10-03**|**Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations**|Nick Jiang et.al.|[2410.02762](http://arxiv.org/abs/2410.02762)|**[link](https://github.com/nickjiang2378/vl-interp)**|
 |**2024-10-03**|**DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**|Zhaowei Wang et.al.|[2410.02730](http://arxiv.org/abs/2410.02730)|null|
 |**2024-10-03**|**Unified Multi-Modal Interleaved Document Representation for Information Retrieval**|Jaewoo Lee et.al.|[2410.02729](http://arxiv.org/abs/2410.02729)|null|
@@ -1900,6 +1915,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Zebra: In-Context and Generative Pretraining for Solving Parametric PDEs**|Louis Serrano et.al.|[2410.03437](http://arxiv.org/abs/2410.03437)|null|
+|**2024-10-04**|**Enhanced Transformer architecture for in-context learning of dynamical systems**|Matteo Rufolo et.al.|[2410.03291](http://arxiv.org/abs/2410.03291)|null|
+|**2024-10-04**|**Data-Efficient Massive Tool Retrieval: A Reinforcement Learning Approach for Query-Tool Alignment with Language Models**|Yuxiang Zhang et.al.|[2410.03212](http://arxiv.org/abs/2410.03212)|null|
+|**2024-10-04**|**Generating bilingual example sentences with large language models as lexicography assistants**|Raphael Merx et.al.|[2410.03182](http://arxiv.org/abs/2410.03182)|null|
+|**2024-10-04**|**In-context Learning in Presence of Spurious Correlations**|Hrayr Harutyunyan et.al.|[2410.03140](http://arxiv.org/abs/2410.03140)|null|
+|**2024-10-04**|**On Unsupervised Prompt Learning for Classification with Black-box Language Models**|Zhen-Yu Zhang et.al.|[2410.03124](http://arxiv.org/abs/2410.03124)|null|
+|**2024-10-04**|**RIPPLECOT: Amplifying Ripple Effect of Knowledge Editing in Language Models via Chain-of-Thought In-Context Learning**|Zihao Zhao et.al.|[2410.03122](http://arxiv.org/abs/2410.03122)|null|
+|**2024-10-03**|**Demonstration Attack against In-Context Learning for Code Intelligence**|Yifei Ge et.al.|[2410.02841](http://arxiv.org/abs/2410.02841)|null|
 |**2024-10-03**|**ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI**|Ahmad Elawady et.al.|[2410.02751](http://arxiv.org/abs/2410.02751)|**[link](https://github.com/aielawady/relic)**|
 |**2024-10-04**|**IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models**|Tuo An et.al.|[2410.02429](http://arxiv.org/abs/2410.02429)|null|
 |**2024-10-04**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369](http://arxiv.org/abs/2410.02369)|null|
