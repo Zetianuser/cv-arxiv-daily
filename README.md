@@ -119,7 +119,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-10**|**Uncovering Overfitting in Large Language Model Editing**|Mengqi Zhang et.al.|[2410.07819](http://arxiv.org/abs/2410.07819)|null|
-|**2024-10-10**|**Plug-and-Play Performance Estimation for LLM Services without Relying on Labeled Data**|Can Wang et.al.|[2410.07737](http://arxiv.org/abs/2410.07737)|null|
+|**2024-10-10**|**Plug-and-Play Performance Estimation for LLM Services without Relying on Labeled Data**|Can Wang et.al.|[2410.07737](http://arxiv.org/abs/2410.07737)|**[link](https://github.com/WangCan1178/Plug-and-Play-Estimation)**|
 |**2024-10-10**|**DemoShapley: Valuation of Demonstrations for In-Context Learning**|Shan Xie et.al.|[2410.07523](http://arxiv.org/abs/2410.07523)|null|
 |**2024-10-09**|**Is C4 Dataset Optimal for Pruning? An Investigation of Calibration Data for LLM Pruning**|Abhinav Bandari et.al.|[2410.07461](http://arxiv.org/abs/2410.07461)|**[link](https://github.com/abx393/llm-pruning-calibration-data)**|
 |**2024-10-09**|**Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning**|Zhengyu Hu et.al.|[2410.07074](http://arxiv.org/abs/2410.07074)|null|
@@ -1986,7 +1986,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-10**|**Uncovering Overfitting in Large Language Model Editing**|Mengqi Zhang et.al.|[2410.07819](http://arxiv.org/abs/2410.07819)|null|
-|**2024-10-10**|**Plug-and-Play Performance Estimation for LLM Services without Relying on Labeled Data**|Can Wang et.al.|[2410.07737](http://arxiv.org/abs/2410.07737)|null|
+|**2024-10-10**|**Plug-and-Play Performance Estimation for LLM Services without Relying on Labeled Data**|Can Wang et.al.|[2410.07737](http://arxiv.org/abs/2410.07737)|**[link](https://github.com/WangCan1178/Plug-and-Play-Estimation)**|
 |**2024-10-10**|**DemoShapley: Valuation of Demonstrations for In-Context Learning**|Shan Xie et.al.|[2410.07523](http://arxiv.org/abs/2410.07523)|null|
 |**2024-10-09**|**Is C4 Dataset Optimal for Pruning? An Investigation of Calibration Data for LLM Pruning**|Abhinav Bandari et.al.|[2410.07461](http://arxiv.org/abs/2410.07461)|**[link](https://github.com/abx393/llm-pruning-calibration-data)**|
 |**2024-10-09**|**Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning**|Zhengyu Hu et.al.|[2410.07074](http://arxiv.org/abs/2410.07074)|null|
