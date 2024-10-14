@@ -109,6 +109,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**On-Chip Learning via Transformer In-Context Learning**|Jan Finkbeiner et.al.|[2410.08711](http://arxiv.org/abs/2410.08711)|null|
+|**2024-10-11**|**StraGo: Harnessing Strategic Guidance for Prompt Optimization**|Yurong Wu et.al.|[2410.08601](http://arxiv.org/abs/2410.08601)|null|
+|**2024-10-10**|**SummAct: Uncovering User Intentions Through Interactive Behaviour Summarisation**|Guanhua Zhang et.al.|[2410.08356](http://arxiv.org/abs/2410.08356)|null|
+|**2024-10-10**|**Metalic: Meta-Learning In-Context with Protein Language Models**|Jacob Beck et.al.|[2410.08355](http://arxiv.org/abs/2410.08355)|null|
+|**2024-10-10**|**Can Looped Transformers Learn to Implement Multi-step Gradient Descent for In-context Learning?**|Khashayar Gatmiry et.al.|[2410.08292](http://arxiv.org/abs/2410.08292)|null|
+|**2024-10-10**|**Generalization from Starvation: Hints of Universality in LLM Knowledge Graph Learning**|David D. Baek et.al.|[2410.08255](http://arxiv.org/abs/2410.08255)|null|
 |**2024-10-10**|**Uncovering Overfitting in Large Language Model Editing**|Mengqi Zhang et.al.|[2410.07819](http://arxiv.org/abs/2410.07819)|null|
 |**2024-10-10**|**Plug-and-Play Performance Estimation for LLM Services without Relying on Labeled Data**|Can Wang et.al.|[2410.07737](http://arxiv.org/abs/2410.07737)|**[link](https://github.com/WangCan1178/Plug-and-Play-Estimation)**|
 |**2024-10-10**|**DemoShapley: Valuation of Demonstrations for In-Context Learning**|Shan Xie et.al.|[2410.07523](http://arxiv.org/abs/2410.07523)|null|
@@ -898,6 +904,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Unraveling and Mitigating Safety Alignment Degradation of Vision-Language Models**|Qin Liu et.al.|[2410.09047](http://arxiv.org/abs/2410.09047)|null|
+|**2024-10-11**|**The Impact of Visual Information in Chinese Characters: Evaluating Large Models' Ability to Recognize and Utilize Radicals**|Xiaofeng Wu et.al.|[2410.09013](http://arxiv.org/abs/2410.09013)|null|
+|**2024-10-11**|**SegGrasp: Zero-Shot Task-Oriented Grasping via Semantic and Geometric Guided Segmentation**|Haosheng Li et.al.|[2410.08901](http://arxiv.org/abs/2410.08901)|null|
+|**2024-10-11**|**Calibrated Cache Model for Few-Shot Vision-Language Model Adaptation**|Kun Ding et.al.|[2410.08895](http://arxiv.org/abs/2410.08895)|null|
+|**2024-10-11**|**RoRA-VLM: Robust Retrieval-Augmented Vision Language Models**|Jingyuan Qi et.al.|[2410.08876](http://arxiv.org/abs/2410.08876)|null|
+|**2024-10-11**|**Audio Description Generation in the Era of LLMs and VLMs: A Review of Transferable Generative AI Technologies**|Yingqiang Gao et.al.|[2410.08860](http://arxiv.org/abs/2410.08860)|null|
+|**2024-10-11**|**VLM See, Robot Do: Human Demo Video to Robot Action Plan via Vision Language Model**|Beichen Wang et.al.|[2410.08792](http://arxiv.org/abs/2410.08792)|null|
+|**2024-10-11**|**Superpipeline: A Universal Approach for Reducing GPU Memory Usage in Large Models**|Reza Abbasi et.al.|[2410.08791](http://arxiv.org/abs/2410.08791)|null|
+|**2024-10-11**|**Dynamic Multimodal Evaluation with Flexible Complexity by Vision-Language Bootstrapping**|Yue Yang et.al.|[2410.08695](http://arxiv.org/abs/2410.08695)|null|
+|**2024-10-11**|**Conjugated Semantic Pool Improves OOD Detection with Pre-trained Vision-Language Models**|Mengyuan Chen et.al.|[2410.08611](http://arxiv.org/abs/2410.08611)|null|
 |**2024-10-10**|**MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models**|Wenbo Hu et.al.|[2410.08182](http://arxiv.org/abs/2410.08182)|null|
 |**2024-10-10**|**On the Evaluation of Generative Robotic Simulations**|Feng Chen et.al.|[2410.08172](http://arxiv.org/abs/2410.08172)|null|
 |**2024-10-10**|**Q-VLM: Post-training Quantization for Large Vision-Language Models**|Changyuan Wang et.al.|[2410.08119](http://arxiv.org/abs/2410.08119)|**[link](https://github.com/changyuanwang17/qvlm)**|
@@ -1970,6 +1986,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**On-Chip Learning via Transformer In-Context Learning**|Jan Finkbeiner et.al.|[2410.08711](http://arxiv.org/abs/2410.08711)|null|
+|**2024-10-11**|**StraGo: Harnessing Strategic Guidance for Prompt Optimization**|Yurong Wu et.al.|[2410.08601](http://arxiv.org/abs/2410.08601)|null|
+|**2024-10-10**|**SummAct: Uncovering User Intentions Through Interactive Behaviour Summarisation**|Guanhua Zhang et.al.|[2410.08356](http://arxiv.org/abs/2410.08356)|null|
+|**2024-10-10**|**Metalic: Meta-Learning In-Context with Protein Language Models**|Jacob Beck et.al.|[2410.08355](http://arxiv.org/abs/2410.08355)|null|
+|**2024-10-10**|**Can Looped Transformers Learn to Implement Multi-step Gradient Descent for In-context Learning?**|Khashayar Gatmiry et.al.|[2410.08292](http://arxiv.org/abs/2410.08292)|null|
+|**2024-10-10**|**Generalization from Starvation: Hints of Universality in LLM Knowledge Graph Learning**|David D. Baek et.al.|[2410.08255](http://arxiv.org/abs/2410.08255)|null|
 |**2024-10-10**|**Uncovering Overfitting in Large Language Model Editing**|Mengqi Zhang et.al.|[2410.07819](http://arxiv.org/abs/2410.07819)|null|
 |**2024-10-10**|**Plug-and-Play Performance Estimation for LLM Services without Relying on Labeled Data**|Can Wang et.al.|[2410.07737](http://arxiv.org/abs/2410.07737)|**[link](https://github.com/WangCan1178/Plug-and-Play-Estimation)**|
 |**2024-10-10**|**DemoShapley: Valuation of Demonstrations for In-Context Learning**|Shan Xie et.al.|[2410.07523](http://arxiv.org/abs/2410.07523)|null|
