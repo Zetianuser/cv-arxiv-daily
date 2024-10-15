@@ -109,6 +109,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers**|Enze Xie et.al.|[2410.10629](http://arxiv.org/abs/2410.10629)|null|
+|**2024-10-14**|**Will LLMs Replace the Encoder-Only Models in Temporal Relation Classification?**|Gabriel Roccabruna et.al.|[2410.10476](http://arxiv.org/abs/2410.10476)|**[link](https://github.com/brownfortress/llms-trc)**|
+|**2024-10-14**|**KBLaM: Knowledge Base augmented Language Model**|Xi Wang et.al.|[2410.10450](http://arxiv.org/abs/2410.10450)|null|
+|**2024-10-14**|**Augmenting In-Context-Learning in LLMs via Automatic Data Labeling and Refinement**|Joseph Shtok et.al.|[2410.10348](http://arxiv.org/abs/2410.10348)|null|
+|**2024-10-14**|**Large Language Model-Enhanced Reinforcement Learning for Generic Bus Holding Control Strategies**|Jiajie Yu et.al.|[2410.10212](http://arxiv.org/abs/2410.10212)|null|
+|**2024-10-14**|**Divide, Reweight, and Conquer: A Logit Arithmetic Approach for In-Context Learning**|Chengsong Huang et.al.|[2410.10074](http://arxiv.org/abs/2410.10074)|**[link](https://github.com/chengsong-huang/lara)**|
+|**2024-10-13**|**Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models**|Chengshuai Shi et.al.|[2410.09701](http://arxiv.org/abs/2410.09701)|null|
+|**2024-10-13**|**Can In-context Learning Really Generalize to Out-of-distribution Tasks?**|Qixun Wang et.al.|[2410.09695](http://arxiv.org/abs/2410.09695)|null|
+|**2024-10-12**|**Power-Softmax: Towards Secure LLM Inference over Encrypted Data**|Itamar Zimerman et.al.|[2410.09457](http://arxiv.org/abs/2410.09457)|null|
+|**2024-10-12**|**Towards the Effect of Examples on In-Context Learning: A Theoretical Case Study**|Pengfei He et.al.|[2410.09411](http://arxiv.org/abs/2410.09411)|null|
 |**2024-10-11**|**On-Chip Learning via Transformer In-Context Learning**|Jan Finkbeiner et.al.|[2410.08711](http://arxiv.org/abs/2410.08711)|null|
 |**2024-10-11**|**StraGo: Harnessing Strategic Guidance for Prompt Optimization**|Yurong Wu et.al.|[2410.08601](http://arxiv.org/abs/2410.08601)|null|
 |**2024-10-10**|**SummAct: Uncovering User Intentions Through Interactive Behaviour Summarisation**|Guanhua Zhang et.al.|[2410.08356](http://arxiv.org/abs/2410.08356)|null|
@@ -904,6 +914,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Towards Foundation Models for 3D Vision: How Close Are We?**|Yiming Zuo et.al.|[2410.10799](http://arxiv.org/abs/2410.10799)|null|
+|**2024-10-14**|**VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents**|Shi Yu et.al.|[2410.10594](http://arxiv.org/abs/2410.10594)|null|
+|**2024-10-14**|**Queryable Prototype Multiple Instance Learning with Vision-Language Models for Incremental Whole Slide Image Classification**|Jiaxiang Gou et.al.|[2410.10573](http://arxiv.org/abs/2410.10573)|null|
+|**2024-10-14**|**MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks**|Jiacheng Chen et.al.|[2410.10563](http://arxiv.org/abs/2410.10563)|null|
+|**2024-10-14**|**LG-CAV: Train Any Concept Activation Vector with Language Guidance**|Qihan Huang et.al.|[2410.10308](http://arxiv.org/abs/2410.10308)|null|
+|**2024-10-14**|**Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection**|Jiawen Zhu et.al.|[2410.10289](http://arxiv.org/abs/2410.10289)|**[link](https://github.com/mala-lab/faprompt)**|
+|**2024-10-14**|**LOBG:Less Overfitting for Better Generalization in Vision-Language Model**|Chenhao Ding et.al.|[2410.10247](http://arxiv.org/abs/2410.10247)|null|
+|**2024-10-14**|**MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large Vision-Language Models**|Peng Xia et.al.|[2410.10139](http://arxiv.org/abs/2410.10139)|null|
+|**2024-10-14**|**Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language Models**|Jun Luo et.al.|[2410.10114](http://arxiv.org/abs/2410.10114)|null|
+|**2024-10-14**|**Can We Predict Performance of Large Models across Vision-Language Tasks?**|Qinyu Zhao et.al.|[2410.10112](http://arxiv.org/abs/2410.10112)|**[link](https://github.com/qinyu-allen-zhao/crosspred-lvlm)**|
 |**2024-10-11**|**Unraveling and Mitigating Safety Alignment Degradation of Vision-Language Models**|Qin Liu et.al.|[2410.09047](http://arxiv.org/abs/2410.09047)|null|
 |**2024-10-11**|**The Impact of Visual Information in Chinese Characters: Evaluating Large Models' Ability to Recognize and Utilize Radicals**|Xiaofeng Wu et.al.|[2410.09013](http://arxiv.org/abs/2410.09013)|null|
 |**2024-10-11**|**SegGrasp: Zero-Shot Task-Oriented Grasping via Semantic and Geometric Guided Segmentation**|Haosheng Li et.al.|[2410.08901](http://arxiv.org/abs/2410.08901)|null|
@@ -1986,6 +2006,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers**|Enze Xie et.al.|[2410.10629](http://arxiv.org/abs/2410.10629)|null|
+|**2024-10-14**|**Will LLMs Replace the Encoder-Only Models in Temporal Relation Classification?**|Gabriel Roccabruna et.al.|[2410.10476](http://arxiv.org/abs/2410.10476)|**[link](https://github.com/brownfortress/llms-trc)**|
+|**2024-10-14**|**KBLaM: Knowledge Base augmented Language Model**|Xi Wang et.al.|[2410.10450](http://arxiv.org/abs/2410.10450)|null|
+|**2024-10-14**|**Augmenting In-Context-Learning in LLMs via Automatic Data Labeling and Refinement**|Joseph Shtok et.al.|[2410.10348](http://arxiv.org/abs/2410.10348)|null|
+|**2024-10-14**|**Large Language Model-Enhanced Reinforcement Learning for Generic Bus Holding Control Strategies**|Jiajie Yu et.al.|[2410.10212](http://arxiv.org/abs/2410.10212)|null|
+|**2024-10-14**|**Divide, Reweight, and Conquer: A Logit Arithmetic Approach for In-Context Learning**|Chengsong Huang et.al.|[2410.10074](http://arxiv.org/abs/2410.10074)|**[link](https://github.com/chengsong-huang/lara)**|
+|**2024-10-13**|**Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models**|Chengshuai Shi et.al.|[2410.09701](http://arxiv.org/abs/2410.09701)|null|
+|**2024-10-13**|**Can In-context Learning Really Generalize to Out-of-distribution Tasks?**|Qixun Wang et.al.|[2410.09695](http://arxiv.org/abs/2410.09695)|null|
+|**2024-10-12**|**Power-Softmax: Towards Secure LLM Inference over Encrypted Data**|Itamar Zimerman et.al.|[2410.09457](http://arxiv.org/abs/2410.09457)|null|
+|**2024-10-12**|**Towards the Effect of Examples on In-Context Learning: A Theoretical Case Study**|Pengfei He et.al.|[2410.09411](http://arxiv.org/abs/2410.09411)|null|
 |**2024-10-11**|**On-Chip Learning via Transformer In-Context Learning**|Jan Finkbeiner et.al.|[2410.08711](http://arxiv.org/abs/2410.08711)|null|
 |**2024-10-11**|**StraGo: Harnessing Strategic Guidance for Prompt Optimization**|Yurong Wu et.al.|[2410.08601](http://arxiv.org/abs/2410.08601)|null|
 |**2024-10-10**|**SummAct: Uncovering User Intentions Through Interactive Behaviour Summarisation**|Guanhua Zhang et.al.|[2410.08356](http://arxiv.org/abs/2410.08356)|null|
