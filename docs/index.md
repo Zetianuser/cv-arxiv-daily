@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.16
+## Updated on 2024.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -115,7 +115,7 @@ layout: default
 |**2024-10-15**|**Zero-shot Model-based Reinforcement Learning using Large Language Models**|Abdelhakim Benechehab et.al.|[2410.11711](http://arxiv.org/abs/2410.11711)|**[link](https://github.com/abenechehab/dicl)**|
 |**2024-10-15**|**State-space models can learn in-context by gradient descent**|Neeraj Mohan Sushma et.al.|[2410.11687](http://arxiv.org/abs/2410.11687)|null|
 |**2024-10-15**|**BSM: Small but Powerful Biological Sequence Model for Genes and Proteins**|Weixi Xiang et.al.|[2410.11499](http://arxiv.org/abs/2410.11499)|null|
-|**2024-10-15**|**How Transformers Implement Induction Heads: Approximation and Optimization Analysis**|Mingze Wang et.al.|[2410.11474](http://arxiv.org/abs/2410.11474)|null|
+|**2024-10-16**|**How Transformers Implement Induction Heads: Approximation and Optimization Analysis**|Mingze Wang et.al.|[2410.11474](http://arxiv.org/abs/2410.11474)|null|
 |**2024-10-15**|**Instructive Code Retriever: Learn from Large Language Model's Feedback for Code Intelligence Tasks**|Jiawei Lu et.al.|[2410.11300](http://arxiv.org/abs/2410.11300)|null|
 |**2024-10-15**|**Cognitive Overload Attack:Prompt Injection for Long Context**|Bibek Upadhayay et.al.|[2410.11272](http://arxiv.org/abs/2410.11272)|null|
 |**2024-10-15**|**Bypassing the Exponential Dependency: Looped Transformers Efficiently Learn In-context by Multi-step Gradient Descent**|Bo Chen et.al.|[2410.11268](http://arxiv.org/abs/2410.11268)|null|
@@ -2029,7 +2029,7 @@ layout: default
 |**2024-10-15**|**Zero-shot Model-based Reinforcement Learning using Large Language Models**|Abdelhakim Benechehab et.al.|[2410.11711](http://arxiv.org/abs/2410.11711)|**[link](https://github.com/abenechehab/dicl)**|
 |**2024-10-15**|**State-space models can learn in-context by gradient descent**|Neeraj Mohan Sushma et.al.|[2410.11687](http://arxiv.org/abs/2410.11687)|null|
 |**2024-10-15**|**BSM: Small but Powerful Biological Sequence Model for Genes and Proteins**|Weixi Xiang et.al.|[2410.11499](http://arxiv.org/abs/2410.11499)|null|
-|**2024-10-15**|**How Transformers Implement Induction Heads: Approximation and Optimization Analysis**|Mingze Wang et.al.|[2410.11474](http://arxiv.org/abs/2410.11474)|null|
+|**2024-10-16**|**How Transformers Implement Induction Heads: Approximation and Optimization Analysis**|Mingze Wang et.al.|[2410.11474](http://arxiv.org/abs/2410.11474)|null|
 |**2024-10-15**|**Instructive Code Retriever: Learn from Large Language Model's Feedback for Code Intelligence Tasks**|Jiawei Lu et.al.|[2410.11300](http://arxiv.org/abs/2410.11300)|null|
 |**2024-10-15**|**Cognitive Overload Attack:Prompt Injection for Long Context**|Bibek Upadhayay et.al.|[2410.11272](http://arxiv.org/abs/2410.11272)|null|
 |**2024-10-15**|**Bypassing the Exponential Dependency: Looped Transformers Efficiently Learn In-context by Multi-step Gradient Descent**|Bo Chen et.al.|[2410.11268](http://arxiv.org/abs/2410.11268)|null|
