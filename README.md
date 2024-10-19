@@ -128,7 +128,7 @@
 |**2024-10-16**|**MuVi: Video-to-Music Generation with Semantic Alignment and Rhythmic Synchronization**|Ruiqi Li et.al.|[2410.12957](http://arxiv.org/abs/2410.12957)|null|
 |**2024-10-16**|**Context-Scaling versus Task-Scaling in In-Context Learning**|Amirhesam Abedsoltan et.al.|[2410.12783](http://arxiv.org/abs/2410.12783)|null|
 |**2024-10-16**|**In-Context Learning Enables Robot Action Prediction in LLMs**|Yida Yin et.al.|[2410.12782](http://arxiv.org/abs/2410.12782)|null|
-|**2024-10-16**|**A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning**|Yuanning Cui et.al.|[2410.12288](http://arxiv.org/abs/2410.12288)|null|
+|**2024-10-16**|**A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning**|Yuanning Cui et.al.|[2410.12288](http://arxiv.org/abs/2410.12288)|**[link](https://github.com/nju-websoft/KG-ICL)**|
 |**2024-10-16**|**Controlled Automatic Task-Specific Synthetic Data Generation for Hallucination Detection**|Yong Xie et.al.|[2410.12278](http://arxiv.org/abs/2410.12278)|null|
 |**2024-10-16**|**Accurate and Data-Efficient Toxicity Prediction when Annotators Disagree**|Harbani Jaggi et.al.|[2410.12217](http://arxiv.org/abs/2410.12217)|null|
 |**2024-10-15**|**Data-adaptive Differentially Private Prompt Synthesis for In-Context Learning**|Fengyu Gao et.al.|[2410.12085](http://arxiv.org/abs/2410.12085)|null|
@@ -953,11 +953,11 @@
 |**2024-10-17**|**Differentiable Robot Rendering**|Ruoshi Liu et.al.|[2410.13851](http://arxiv.org/abs/2410.13851)|null|
 |**2024-10-17**|**Deep Generative Models Unveil Patterns in Medical Images Through Vision-Language Conditioning**|Xiaodan Xing et.al.|[2410.13823](http://arxiv.org/abs/2410.13823)|**[link](https://github.com/junzhin/dgm-vlc)**|
 |**2024-10-17**|**Improving Multi-modal Large Language Model through Boosting Vision Capabilities**|Yanpeng Sun et.al.|[2410.13733](http://arxiv.org/abs/2410.13733)|null|
-|**2024-10-17**|**VL-GLUE: A Suite of Fundamental yet Challenging Visuo-Linguistic Reasoning Tasks**|Shailaja Keyur Sampat et.al.|[2410.13666](http://arxiv.org/abs/2410.13666)|null|
+|**2024-10-17**|**VL-GLUE: A Suite of Fundamental yet Challenging Visuo-Linguistic Reasoning Tasks**|Shailaja Keyur Sampat et.al.|[2410.13666](http://arxiv.org/abs/2410.13666)|**[link](https://github.com/shailaja183/vl-glue)**|
 |**2024-10-17**|**H2OVL-Mississippi Vision Language Models Technical Report**|Shaikat Galib et.al.|[2410.13611](http://arxiv.org/abs/2410.13611)|null|
 |**2024-10-17**|**GeoCoder: Solving Geometry Problems by Generating Modular Code through Vision-Language Models**|Aditya Sharma et.al.|[2410.13510](http://arxiv.org/abs/2410.13510)|null|
 |**2024-10-17**|**Mitigating Hallucinations in Large Vision-Language Models via Summary-Guided Decoding**|Kyungmin Min et.al.|[2410.13321](http://arxiv.org/abs/2410.13321)|null|
-|**2024-10-17**|**Mapping Bias in Vision Language Models: Signposts, Pitfalls, and the Road Ahead**|Kuleen Sasse et.al.|[2410.13146](http://arxiv.org/abs/2410.13146)|null|
+|**2024-10-17**|**Mapping Bias in Vision Language Models: Signposts, Pitfalls, and the Road Ahead**|Kuleen Sasse et.al.|[2410.13146](http://arxiv.org/abs/2410.13146)|**[link](https://github.com/kuleens/vlmbiaseval)**|
 |**2024-10-17**|**Trust but Verify: Programmatic VLM Evaluation in the Wild**|Viraj Prabhu et.al.|[2410.13121](http://arxiv.org/abs/2410.13121)|null|
 |**2024-10-16**|**Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models**|Ce Zhang et.al.|[2410.12790](http://arxiv.org/abs/2410.12790)|null|
 |**2024-10-16**|**Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions**|Zhenyu Jiang et.al.|[2410.12773](http://arxiv.org/abs/2410.12773)|null|
@@ -2081,7 +2081,7 @@
 |**2024-10-16**|**MuVi: Video-to-Music Generation with Semantic Alignment and Rhythmic Synchronization**|Ruiqi Li et.al.|[2410.12957](http://arxiv.org/abs/2410.12957)|null|
 |**2024-10-16**|**Context-Scaling versus Task-Scaling in In-Context Learning**|Amirhesam Abedsoltan et.al.|[2410.12783](http://arxiv.org/abs/2410.12783)|null|
 |**2024-10-16**|**In-Context Learning Enables Robot Action Prediction in LLMs**|Yida Yin et.al.|[2410.12782](http://arxiv.org/abs/2410.12782)|null|
-|**2024-10-16**|**A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning**|Yuanning Cui et.al.|[2410.12288](http://arxiv.org/abs/2410.12288)|null|
+|**2024-10-16**|**A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning**|Yuanning Cui et.al.|[2410.12288](http://arxiv.org/abs/2410.12288)|**[link](https://github.com/nju-websoft/KG-ICL)**|
 |**2024-10-16**|**Controlled Automatic Task-Specific Synthetic Data Generation for Hallucination Detection**|Yong Xie et.al.|[2410.12278](http://arxiv.org/abs/2410.12278)|null|
 |**2024-10-16**|**Accurate and Data-Efficient Toxicity Prediction when Annotators Disagree**|Harbani Jaggi et.al.|[2410.12217](http://arxiv.org/abs/2410.12217)|null|
 |**2024-10-15**|**Data-adaptive Differentially Private Prompt Synthesis for In-Context Learning**|Fengyu Gao et.al.|[2410.12085](http://arxiv.org/abs/2410.12085)|null|
