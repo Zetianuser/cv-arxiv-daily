@@ -119,6 +119,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Provable In-context Learning for Mixture of Linear Regressions using Transformers**|Yanhao Jin et.al.|[2410.14183](http://arxiv.org/abs/2410.14183)|null|
+|**2024-10-18**|**LLM The Genius Paradox: A Linguistic and Math Expert's Struggle with Simple Word-based Counting Problems**|Nan Xu et.al.|[2410.14166](http://arxiv.org/abs/2410.14166)|null|
+|**2024-10-17**|**In-context learning and Occam's razor**|Eric Elmoznino et.al.|[2410.14086](http://arxiv.org/abs/2410.14086)|**[link](https://github.com/3rdcore/prequentialcode)**|
+|**2024-10-17**|**Learning Metadata-Agnostic Representations for Text-to-SQL In-Context Example Selection**|Chuhong Mai et.al.|[2410.14049](http://arxiv.org/abs/2410.14049)|null|
+|**2024-10-17**|**Style-Compress: An LLM-Based Prompt Compression Framework Considering Task-Specific Styles**|Xiao Pu et.al.|[2410.14042](http://arxiv.org/abs/2410.14042)|null|
+|**2024-10-17**|**Personalized Adaptation via In-Context Preference Learning**|Allison Lau et.al.|[2410.14001](http://arxiv.org/abs/2410.14001)|null|
+|**2024-10-17**|**On the Learn-to-Optimize Capabilities of Transformers in In-Context Sparse Recovery**|Renpu Liu et.al.|[2410.13981](http://arxiv.org/abs/2410.13981)|null|
 |**2024-10-18**|**BenTo: Benchmark Task Reduction with In-Context Transferability**|Hongyu Zhao et.al.|[2410.13804](http://arxiv.org/abs/2410.13804)|**[link](https://github.com/tianyi-lab/bento)**|
 |**2024-10-17**|**Aggregation Artifacts in Subjective Tasks Collapse Large Language Models' Posteriors**|Georgios Chochlakis et.al.|[2410.13776](http://arxiv.org/abs/2410.13776)|null|
 |**2024-10-17**|**MathGAP: Out-of-Distribution Evaluation on Problems with Arbitrarily Complex Proofs**|Andreas Opedal et.al.|[2410.13502](http://arxiv.org/abs/2410.13502)|null|
@@ -949,6 +956,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**NaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples**|Baiqi Li et.al.|[2410.14669](http://arxiv.org/abs/2410.14669)|null|
+|**2024-10-18**|**Neuro-Symbolic Traders: Assessing the Wisdom of AI Crowds in Markets**|Namid R. Stillman et.al.|[2410.14587](http://arxiv.org/abs/2410.14587)|null|
+|**2024-10-18**|**CLIP-VAD: Exploiting Vision-Language Models for Voice Activity Detection**|Andrea Appiani et.al.|[2410.14509](http://arxiv.org/abs/2410.14509)|null|
+|**2024-10-18**|**Zero-shot Action Localization via the Confidence of Large Vision-Language Models**|Josiah Aklilu et.al.|[2410.14340](http://arxiv.org/abs/2410.14340)|null|
+|**2024-10-18**|**E3D-GPT: Enhanced 3D Visual Foundation for Medical Vision-Language Model**|Haoran Lai et.al.|[2410.14200](http://arxiv.org/abs/2410.14200)|null|
+|**2024-10-18**|**LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs**|Yujun Zhou et.al.|[2410.14182](http://arxiv.org/abs/2410.14182)|null|
+|**2024-10-18**|**MultiChartQA: Benchmarking Vision-Language Models on Multi-Chart Problems**|Zifeng Zhu et.al.|[2410.14179](http://arxiv.org/abs/2410.14179)|null|
+|**2024-10-18**|**ProReason: Multi-Modal Proactive Reasoning with Decoupled Eyesight and Wisdom**|Jingqi Zhou et.al.|[2410.14138](http://arxiv.org/abs/2410.14138)|null|
+|**2024-10-17**|**Efficient Vision-Language Models by Summarizing Visual Tokens into Compact Registers**|Yuxin Wen et.al.|[2410.14072](http://arxiv.org/abs/2410.14072)|null|
+|**2024-10-17**|**Reproducibility study of "LICO: Explainable Models with Language-Image Consistency"**|Luan Fletcher et.al.|[2410.13989](http://arxiv.org/abs/2410.13989)|**[link](https://github.com/robertdvdk/lico-fact)**|
 |**2024-10-17**|**VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding**|Runsen Xu et.al.|[2410.13860](http://arxiv.org/abs/2410.13860)|**[link](https://github.com/openrobotlab/vlm-grounder)**|
 |**2024-10-17**|**Differentiable Robot Rendering**|Ruoshi Liu et.al.|[2410.13851](http://arxiv.org/abs/2410.13851)|null|
 |**2024-10-17**|**Deep Generative Models Unveil Patterns in Medical Images Through Vision-Language Conditioning**|Xiaodan Xing et.al.|[2410.13823](http://arxiv.org/abs/2410.13823)|**[link](https://github.com/junzhin/dgm-vlc)**|
@@ -2072,6 +2089,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Provable In-context Learning for Mixture of Linear Regressions using Transformers**|Yanhao Jin et.al.|[2410.14183](http://arxiv.org/abs/2410.14183)|null|
+|**2024-10-18**|**LLM The Genius Paradox: A Linguistic and Math Expert's Struggle with Simple Word-based Counting Problems**|Nan Xu et.al.|[2410.14166](http://arxiv.org/abs/2410.14166)|null|
+|**2024-10-17**|**In-context learning and Occam's razor**|Eric Elmoznino et.al.|[2410.14086](http://arxiv.org/abs/2410.14086)|**[link](https://github.com/3rdcore/prequentialcode)**|
+|**2024-10-17**|**Learning Metadata-Agnostic Representations for Text-to-SQL In-Context Example Selection**|Chuhong Mai et.al.|[2410.14049](http://arxiv.org/abs/2410.14049)|null|
+|**2024-10-17**|**Style-Compress: An LLM-Based Prompt Compression Framework Considering Task-Specific Styles**|Xiao Pu et.al.|[2410.14042](http://arxiv.org/abs/2410.14042)|null|
+|**2024-10-17**|**Personalized Adaptation via In-Context Preference Learning**|Allison Lau et.al.|[2410.14001](http://arxiv.org/abs/2410.14001)|null|
+|**2024-10-17**|**On the Learn-to-Optimize Capabilities of Transformers in In-Context Sparse Recovery**|Renpu Liu et.al.|[2410.13981](http://arxiv.org/abs/2410.13981)|null|
 |**2024-10-18**|**BenTo: Benchmark Task Reduction with In-Context Transferability**|Hongyu Zhao et.al.|[2410.13804](http://arxiv.org/abs/2410.13804)|**[link](https://github.com/tianyi-lab/bento)**|
 |**2024-10-17**|**Aggregation Artifacts in Subjective Tasks Collapse Large Language Models' Posteriors**|Georgios Chochlakis et.al.|[2410.13776](http://arxiv.org/abs/2410.13776)|null|
 |**2024-10-17**|**MathGAP: Out-of-Distribution Evaluation on Problems with Arbitrarily Complex Proofs**|Andreas Opedal et.al.|[2410.13502](http://arxiv.org/abs/2410.13502)|null|
