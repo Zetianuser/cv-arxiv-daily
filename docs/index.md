@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**PlantCamo: Plant Camouflage Detection**|Jinyu Yang et.al.|[2410.17598](http://arxiv.org/abs/2410.17598)|**[link](https://github.com/yjybuaa/plantcamo)**|
 |**2024-10-22**|**Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations**|Cheng Lei et.al.|[2410.16953](http://arxiv.org/abs/2410.16953)|null|
 |**2024-10-20**|**Lying mirror**|Yuhang Li et.al.|[2410.15521](http://arxiv.org/abs/2410.15521)|null|
 |**2024-10-15**|**Octopus-Swimming-Like Robot with Soft Asymmetric Arms**|Bobing Zhang et.al.|[2410.11764](http://arxiv.org/abs/2410.11764)|null|
@@ -112,6 +113,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**Scaling Diffusion Language Models via Adaptation from Autoregressive Models**|Shansan Gong et.al.|[2410.17891](http://arxiv.org/abs/2410.17891)|**[link](https://github.com/hkunlp/diffullama)**|
+|**2024-10-23**|**Mechanisms of Symbol Processing for In-Context Learning in Transformer Networks**|Paul Smolensky et.al.|[2410.17498](http://arxiv.org/abs/2410.17498)|null|
+|**2024-10-22**|**In Context Learning and Reasoning for Symbolic Regression with Large Language Models**|Samiha Sharlin et.al.|[2410.17448](http://arxiv.org/abs/2410.17448)|null|
+|**2024-10-22**|**Interpreting Affine Recurrence Learning in GPT-style Transformers**|Samarth Bhargav et.al.|[2410.17438](http://arxiv.org/abs/2410.17438)|null|
 |**2024-10-22**|**Context-aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods**|Tsachi Blau et.al.|[2410.17222](http://arxiv.org/abs/2410.17222)|null|
 |**2024-10-22**|**Order Matters: Exploring Order Sensitivity in Multimodal Large Language Models**|Zhijie Tan et.al.|[2410.16983](http://arxiv.org/abs/2410.16983)|null|
 |**2024-10-21**|**Can Transformers In-Context Learn Behavior of a Linear Dynamical System?**|Usman Akram et.al.|[2410.16546](http://arxiv.org/abs/2410.16546)|null|
@@ -956,6 +961,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**Lightweight Neural App Control**|Filippos Christianos et.al.|[2410.17883](http://arxiv.org/abs/2410.17883)|null|
+|**2024-10-23**|**ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting**|Shaofei Cai et.al.|[2410.17856](http://arxiv.org/abs/2410.17856)|null|
+|**2024-10-23**|**RE-tune: Incremental Fine Tuning of Biomedical Vision-Language Models for Multi-label Chest X-ray Classification**|Marco Mistretta et.al.|[2410.17827](http://arxiv.org/abs/2410.17827)|null|
+|**2024-10-23**|**An Intelligent Agentic System for Complex Image Restoration Problems**|Kaiwen Zhu et.al.|[2410.17809](http://arxiv.org/abs/2410.17809)|null|
+|**2024-10-23**|**MIA-DPO: Multi-Image Augmented Direct Preference Optimization For Large Vision-Language Models**|Ziyu Liu et.al.|[2410.17637](http://arxiv.org/abs/2410.17637)|**[link](https://github.com/liuziyu77/mia-dpo)**|
+|**2024-10-22**|**AdvWeb: Controllable Black-box Attacks on VLM-powered Web Agents**|Chejian Xu et.al.|[2410.17401](http://arxiv.org/abs/2410.17401)|null|
+|**2024-10-22**|**Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference Under Ambiguities**|Zheyuan Zhang et.al.|[2410.17385](http://arxiv.org/abs/2410.17385)|null|
 |**2024-10-22**|**PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction**|Long Xing et.al.|[2410.17247](http://arxiv.org/abs/2410.17247)|**[link](https://github.com/cooperx521/pyramiddrop)**|
 |**2024-10-22**|**MPDS: A Movie Posters Dataset for Image Generation with Diffusion Model**|Meng Xu et.al.|[2410.16840](http://arxiv.org/abs/2410.16840)|null|
 |**2024-10-21**|**Integrating Reinforcement Learning with Foundation Models for Autonomous Robotics: Methods and Perspectives**|Angelo Moroncelli et.al.|[2410.16411](http://arxiv.org/abs/2410.16411)|**[link](https://github.com/clmoro/robotics-rl-fms-integration)**|
@@ -2099,6 +2111,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**Scaling Diffusion Language Models via Adaptation from Autoregressive Models**|Shansan Gong et.al.|[2410.17891](http://arxiv.org/abs/2410.17891)|**[link](https://github.com/hkunlp/diffullama)**|
+|**2024-10-23**|**Mechanisms of Symbol Processing for In-Context Learning in Transformer Networks**|Paul Smolensky et.al.|[2410.17498](http://arxiv.org/abs/2410.17498)|null|
+|**2024-10-22**|**In Context Learning and Reasoning for Symbolic Regression with Large Language Models**|Samiha Sharlin et.al.|[2410.17448](http://arxiv.org/abs/2410.17448)|null|
+|**2024-10-22**|**Interpreting Affine Recurrence Learning in GPT-style Transformers**|Samarth Bhargav et.al.|[2410.17438](http://arxiv.org/abs/2410.17438)|null|
 |**2024-10-22**|**Context-aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods**|Tsachi Blau et.al.|[2410.17222](http://arxiv.org/abs/2410.17222)|null|
 |**2024-10-22**|**Order Matters: Exploring Order Sensitivity in Multimodal Large Language Models**|Zhijie Tan et.al.|[2410.16983](http://arxiv.org/abs/2410.16983)|null|
 |**2024-10-21**|**Can Transformers In-Context Learn Behavior of a Linear Dynamical System?**|Usman Akram et.al.|[2410.16546](http://arxiv.org/abs/2410.16546)|null|
