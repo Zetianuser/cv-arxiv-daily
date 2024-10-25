@@ -113,9 +113,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**Bridge-Coder: Unlocking LLMs' Potential to Overcome Language Gaps in Low-Resource Code**|Jipeng Zhang et.al.|[2410.18957](http://arxiv.org/abs/2410.18957)|null|
+|**2024-10-24**|**GrammaMT: Improving Machine Translation with Grammar-Informed In-Context Learning**|Rita Ramos et.al.|[2410.18702](http://arxiv.org/abs/2410.18702)|null|
+|**2024-10-23**|**TabDPT: Scaling Tabular Foundation Models**|Junwei Ma et.al.|[2410.18164](http://arxiv.org/abs/2410.18164)|**[link](https://github.com/layer6ai-labs/TabDPT)**|
 |**2024-10-23**|**Scaling Diffusion Language Models via Adaptation from Autoregressive Models**|Shansan Gong et.al.|[2410.17891](http://arxiv.org/abs/2410.17891)|**[link](https://github.com/hkunlp/diffullama)**|
 |**2024-10-23**|**Mechanisms of Symbol Processing for In-Context Learning in Transformer Networks**|Paul Smolensky et.al.|[2410.17498](http://arxiv.org/abs/2410.17498)|null|
-|**2024-10-22**|**In Context Learning and Reasoning for Symbolic Regression with Large Language Models**|Samiha Sharlin et.al.|[2410.17448](http://arxiv.org/abs/2410.17448)|null|
+|**2024-10-22**|**In Context Learning and Reasoning for Symbolic Regression with Large Language Models**|Samiha Sharlin et.al.|[2410.17448](http://arxiv.org/abs/2410.17448)|**[link](https://github.com/atomslab/llmsforsr)**|
 |**2024-10-22**|**Interpreting Affine Recurrence Learning in GPT-style Transformers**|Samarth Bhargav et.al.|[2410.17438](http://arxiv.org/abs/2410.17438)|null|
 |**2024-10-22**|**Context-aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods**|Tsachi Blau et.al.|[2410.17222](http://arxiv.org/abs/2410.17222)|null|
 |**2024-10-22**|**Order Matters: Exploring Order Sensitivity in Multimodal Large Language Models**|Zhijie Tan et.al.|[2410.16983](http://arxiv.org/abs/2410.16983)|null|
@@ -961,6 +964,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**Probabilistic Language-Image Pre-Training**|Sanghyuk Chun et.al.|[2410.18857](http://arxiv.org/abs/2410.18857)|null|
+|**2024-10-24**|**Zero-shot Object Navigation with Vision-Language Models Reasoning**|Congcong Wen et.al.|[2410.18570](http://arxiv.org/abs/2410.18570)|null|
+|**2024-10-24**|**Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**|Shuhao Gu et.al.|[2410.18558](http://arxiv.org/abs/2410.18558)|null|
+|**2024-10-24**|**Beyond Color and Lines: Zero-Shot Style-Specific Image Variations with Coordinated Semantics**|Jinghao Hu et.al.|[2410.18537](http://arxiv.org/abs/2410.18537)|null|
 |**2024-10-23**|**Lightweight Neural App Control**|Filippos Christianos et.al.|[2410.17883](http://arxiv.org/abs/2410.17883)|null|
 |**2024-10-23**|**ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting**|Shaofei Cai et.al.|[2410.17856](http://arxiv.org/abs/2410.17856)|null|
 |**2024-10-23**|**RE-tune: Incremental Fine Tuning of Biomedical Vision-Language Models for Multi-label Chest X-ray Classification**|Marco Mistretta et.al.|[2410.17827](http://arxiv.org/abs/2410.17827)|null|
@@ -2111,9 +2118,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**Bridge-Coder: Unlocking LLMs' Potential to Overcome Language Gaps in Low-Resource Code**|Jipeng Zhang et.al.|[2410.18957](http://arxiv.org/abs/2410.18957)|null|
+|**2024-10-24**|**GrammaMT: Improving Machine Translation with Grammar-Informed In-Context Learning**|Rita Ramos et.al.|[2410.18702](http://arxiv.org/abs/2410.18702)|null|
+|**2024-10-23**|**TabDPT: Scaling Tabular Foundation Models**|Junwei Ma et.al.|[2410.18164](http://arxiv.org/abs/2410.18164)|**[link](https://github.com/layer6ai-labs/TabDPT)**|
 |**2024-10-23**|**Scaling Diffusion Language Models via Adaptation from Autoregressive Models**|Shansan Gong et.al.|[2410.17891](http://arxiv.org/abs/2410.17891)|**[link](https://github.com/hkunlp/diffullama)**|
 |**2024-10-23**|**Mechanisms of Symbol Processing for In-Context Learning in Transformer Networks**|Paul Smolensky et.al.|[2410.17498](http://arxiv.org/abs/2410.17498)|null|
-|**2024-10-22**|**In Context Learning and Reasoning for Symbolic Regression with Large Language Models**|Samiha Sharlin et.al.|[2410.17448](http://arxiv.org/abs/2410.17448)|null|
+|**2024-10-22**|**In Context Learning and Reasoning for Symbolic Regression with Large Language Models**|Samiha Sharlin et.al.|[2410.17448](http://arxiv.org/abs/2410.17448)|**[link](https://github.com/atomslab/llmsforsr)**|
 |**2024-10-22**|**Interpreting Affine Recurrence Learning in GPT-style Transformers**|Samarth Bhargav et.al.|[2410.17438](http://arxiv.org/abs/2410.17438)|null|
 |**2024-10-22**|**Context-aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods**|Tsachi Blau et.al.|[2410.17222](http://arxiv.org/abs/2410.17222)|null|
 |**2024-10-22**|**Order Matters: Exploring Order Sensitivity in Multimodal Large Language Models**|Zhijie Tan et.al.|[2410.16983](http://arxiv.org/abs/2410.16983)|null|
