@@ -114,6 +114,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Prompting with Phonemes: Enhancing LLM Multilinguality for non-Latin Script Languages**|Hoang Nguyen et.al.|[2411.02398](http://arxiv.org/abs/2411.02398)|null|
+|**2024-11-04**|**Defining and Evaluating Physical Safety for Large Language Models**|Yung-Chen Tang et.al.|[2411.02317](http://arxiv.org/abs/2411.02317)|null|
+|**2024-11-04**|**Provably Transformers Harness Multi-Concept Word Semantics for Efficient In-Context Learning**|Dake Bu et.al.|[2411.02199](http://arxiv.org/abs/2411.02199)|null|
+|**2024-11-04**|**Shortcut Learning in In-Context Learning: A Survey**|Rui Song et.al.|[2411.02018](http://arxiv.org/abs/2411.02018)|null|
+|**2024-11-04**|**N-Gram Induction Heads for In-Context RL: Improving Stability and Reducing Data Needs**|Ilya Zisman et.al.|[2411.01958](http://arxiv.org/abs/2411.01958)|null|
+|**2024-11-03**|**Robust Neural Processes for Noisy Data**|Chen Shapira et.al.|[2411.01670](http://arxiv.org/abs/2411.01670)|null|
+|**2024-11-01**|**Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization**|Zeyuan Ma et.al.|[2411.00625](http://arxiv.org/abs/2411.00625)|**[link](https://github.com/gmc-drl/awesome-metabbo)**|
+|**2024-11-01**|**STEM-POM: Evaluating Language Models Math-Symbol Reasoning in Document Parsing**|Jiaru Zou et.al.|[2411.00387](http://arxiv.org/abs/2411.00387)|null|
 |**2024-10-31**|**In-Context Learned Equalization in Cell-Free Massive MIMO via State-Space Models**|Zihang Song et.al.|[2410.23882](http://arxiv.org/abs/2410.23882)|null|
 |**2024-10-31**|**Can Language Models Perform Robust Reasoning in Chain-of-thought Prompting with Noisy Rationales?**|Zhanke Zhou et.al.|[2410.23856](http://arxiv.org/abs/2410.23856)|**[link](https://github.com/tmlr-group/noisyrationales)**|
 |**2024-10-31**|**What is Wrong with Perplexity for Long-context Language Modeling?**|Lizhe Fang et.al.|[2410.23771](http://arxiv.org/abs/2410.23771)|**[link](https://github.com/pku-ml/longppl)**|
@@ -984,6 +992,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**One VLM to Keep it Learning: Generation and Balancing for Data-free Continual Visual Question Answering**|Deepayan Das et.al.|[2411.02210](http://arxiv.org/abs/2411.02210)|null|
+|**2024-11-04**|**GraphVL: Graph-Enhanced Semantic Modeling via Vision-Language Models for Generalized Class Discovery**|Bhupendra Solanki et.al.|[2411.02074](http://arxiv.org/abs/2411.02074)|null|
+|**2024-11-03**|**Addressing Failures in Robotics using Vision-Based Language Models (VLMs) and Behavior Trees (BT)**|Faseeh Ahmad et.al.|[2411.01568](http://arxiv.org/abs/2411.01568)|null|
+|**2024-11-03**|**Integration of Large Vision Language Models for Efficient Post-disaster Damage Assessment and Reporting**|Zhaohui Chen et.al.|[2411.01511](http://arxiv.org/abs/2411.01511)|null|
+|**2024-11-03**|**A Visual Question Answering Method for SAR Ship: Breaking the Requirement for Multimodal Dataset Construction and Model Fine-Tuning**|Fei Wang et.al.|[2411.01445](http://arxiv.org/abs/2411.01445)|null|
+|**2024-11-01**|**Identifying Implicit Social Biases in Vision-Language Models**|Kimia Hamidieh et.al.|[2411.00997](http://arxiv.org/abs/2411.00997)|null|
+|**2024-11-01**|**Retrieval-enriched zero-shot image classification in low-resource domains**|Nicola Dall'Asen et.al.|[2411.00988](http://arxiv.org/abs/2411.00988)|null|
+|**2024-11-01**|**Does GenAI Make Usability Testing Obsolete?**|Ali Ebrahimi Pourasad et.al.|[2411.00634](http://arxiv.org/abs/2411.00634)|null|
+|**2024-11-01**|**CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision**|Gi-Cheon Kang et.al.|[2411.00508](http://arxiv.org/abs/2411.00508)|null|
+|**2024-11-01**|**Right this way: Can VLMs Guide Us to See More to Answer Questions?**|Li Liu et.al.|[2411.00394](http://arxiv.org/abs/2411.00394)|null|
 |**2024-10-31**|**$π_0$ : A Vision-Language-Action Flow Model for General Robot Control**|Kevin Black et.al.|[2410.24164](http://arxiv.org/abs/2410.24164)|null|
 |**2024-10-31**|**Exploring Vision Language Models for Facial Attribute Recognition: Emotion, Race, Gender, and Age**|Nouar AlDahoul et.al.|[2410.24148](http://arxiv.org/abs/2410.24148)|null|
 |**2024-10-31**|**Bayesian-guided Label Mapping for Visual Reprogramming**|Chengyi Cai et.al.|[2410.24018](http://arxiv.org/abs/2410.24018)|**[link](https://github.com/tmlr-group/bayesianlm)**|
@@ -2179,6 +2197,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Prompting with Phonemes: Enhancing LLM Multilinguality for non-Latin Script Languages**|Hoang Nguyen et.al.|[2411.02398](http://arxiv.org/abs/2411.02398)|null|
+|**2024-11-04**|**Defining and Evaluating Physical Safety for Large Language Models**|Yung-Chen Tang et.al.|[2411.02317](http://arxiv.org/abs/2411.02317)|null|
+|**2024-11-04**|**Provably Transformers Harness Multi-Concept Word Semantics for Efficient In-Context Learning**|Dake Bu et.al.|[2411.02199](http://arxiv.org/abs/2411.02199)|null|
+|**2024-11-04**|**Shortcut Learning in In-Context Learning: A Survey**|Rui Song et.al.|[2411.02018](http://arxiv.org/abs/2411.02018)|null|
+|**2024-11-04**|**N-Gram Induction Heads for In-Context RL: Improving Stability and Reducing Data Needs**|Ilya Zisman et.al.|[2411.01958](http://arxiv.org/abs/2411.01958)|null|
+|**2024-11-03**|**Robust Neural Processes for Noisy Data**|Chen Shapira et.al.|[2411.01670](http://arxiv.org/abs/2411.01670)|null|
+|**2024-11-01**|**Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization**|Zeyuan Ma et.al.|[2411.00625](http://arxiv.org/abs/2411.00625)|**[link](https://github.com/gmc-drl/awesome-metabbo)**|
+|**2024-11-01**|**STEM-POM: Evaluating Language Models Math-Symbol Reasoning in Document Parsing**|Jiaru Zou et.al.|[2411.00387](http://arxiv.org/abs/2411.00387)|null|
 |**2024-10-31**|**In-Context Learned Equalization in Cell-Free Massive MIMO via State-Space Models**|Zihang Song et.al.|[2410.23882](http://arxiv.org/abs/2410.23882)|null|
 |**2024-10-31**|**Can Language Models Perform Robust Reasoning in Chain-of-thought Prompting with Noisy Rationales?**|Zhanke Zhou et.al.|[2410.23856](http://arxiv.org/abs/2410.23856)|**[link](https://github.com/tmlr-group/noisyrationales)**|
 |**2024-10-31**|**What is Wrong with Perplexity for Long-context Language Modeling?**|Lizhe Fang et.al.|[2410.23771](http://arxiv.org/abs/2410.23771)|**[link](https://github.com/pku-ml/longppl)**|
