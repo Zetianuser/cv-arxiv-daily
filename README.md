@@ -123,6 +123,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**LLMs for Domain Generation Algorithm Detection**|Reynier Leyva La O et.al.|[2411.03307](http://arxiv.org/abs/2411.03307)|null|
+|**2024-11-05**|**Transformer-Based Fault-Tolerant Control for Fixed-Wing UAVs Using Knowledge Distillation and In-Context Adaptation**|Francisco Giral et.al.|[2411.02975](http://arxiv.org/abs/2411.02975)|null|
+|**2024-11-05**|**Mixtures of In-Context Learners**|Giwon Hong et.al.|[2411.02830](http://arxiv.org/abs/2411.02830)|null|
+|**2024-11-04**|**Fair In-Context Learning via Latent Concept Variables**|Karuna Bhaila et.al.|[2411.02671](http://arxiv.org/abs/2411.02671)|**[link](https://github.com/karuna-bhaila/fairicl)**|
+|**2024-11-04**|**TI-PREGO: Chain of Thought and In-Context Learning for Online Mistake Detection in PRocedural EGOcentric Videos**|Leonardo Plini et.al.|[2411.02570](http://arxiv.org/abs/2411.02570)|null|
+|**2024-11-04**|**TripletCLIP: Improving Compositional Reasoning of CLIP via Synthetic Vision-Language Negatives**|Maitreya Patel et.al.|[2411.02545](http://arxiv.org/abs/2411.02545)|null|
+|**2024-11-04**|**Pretrained transformer efficiently learns low-dimensional target functions in-context**|Kazusato Oko et.al.|[2411.02544](http://arxiv.org/abs/2411.02544)|null|
 |**2024-11-04**|**Prompting with Phonemes: Enhancing LLM Multilinguality for non-Latin Script Languages**|Hoang Nguyen et.al.|[2411.02398](http://arxiv.org/abs/2411.02398)|null|
 |**2024-11-04**|**Defining and Evaluating Physical Safety for Large Language Models**|Yung-Chen Tang et.al.|[2411.02317](http://arxiv.org/abs/2411.02317)|null|
 |**2024-11-04**|**Provably Transformers Harness Multi-Concept Word Semantics for Efficient In-Context Learning**|Dake Bu et.al.|[2411.02199](http://arxiv.org/abs/2411.02199)|null|
@@ -1003,6 +1010,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312](http://arxiv.org/abs/2411.03312)|**[link](https://github.com/locuslab/llava-token-compression)**|
+|**2024-11-05**|**HumanVLM: Foundation for Human-Scene Vision-Language Model**|Dawei Dai et.al.|[2411.03034](http://arxiv.org/abs/2411.03034)|null|
+|**2024-11-05**|**Membership Inference Attacks against Large Vision-Language Models**|Zhan Li et.al.|[2411.02902](http://arxiv.org/abs/2411.02902)|**[link](https://github.com/lions-epfl/vl-mia)**|
+|**2024-11-05**|**Leveraging Vision-Language Models for Manufacturing Feature Recognition in CAD Designs**|Muhammad Tayyab Khan et.al.|[2411.02810](http://arxiv.org/abs/2411.02810)|null|
+|**2024-11-05**|**Label Critic: Design Data Before Models**|Pedro R. A. S. Bassi et.al.|[2411.02753](http://arxiv.org/abs/2411.02753)|**[link](https://github.com/PedroRASB/Cerberus)**|
+|**2024-11-05**|**DDFAV: Remote Sensing Large Vision Language Models Dataset and Evaluation Benchmark**|Haodong Li et.al.|[2411.02733](http://arxiv.org/abs/2411.02733)|**[link](https://github.com/haodongli2024/rspope)**|
+|**2024-11-05**|**V-DPO: Mitigating Hallucination in Large Vision Language Models via Vision-Guided Direct Preference Optimization**|Yuxi Xie et.al.|[2411.02712](http://arxiv.org/abs/2411.02712)|**[link](https://github.com/yuxixie/v-dpo)**|
+|**2024-11-04**|**Continual LLaVA: Continual Instruction Tuning in Large Vision-Language Models**|Meng Cao et.al.|[2411.02564](http://arxiv.org/abs/2411.02564)|null|
+|**2024-11-04**|**INQUIRE: A Natural World Text-to-Image Retrieval Benchmark**|Edward Vendrow et.al.|[2411.02537](http://arxiv.org/abs/2411.02537)|**[link](https://github.com/inquire-benchmark/INQUIRE)**|
 |**2024-11-04**|**One VLM to Keep it Learning: Generation and Balancing for Data-free Continual Visual Question Answering**|Deepayan Das et.al.|[2411.02210](http://arxiv.org/abs/2411.02210)|null|
 |**2024-11-04**|**GraphVL: Graph-Enhanced Semantic Modeling via Vision-Language Models for Generalized Class Discovery**|Bhupendra Solanki et.al.|[2411.02074](http://arxiv.org/abs/2411.02074)|null|
 |**2024-11-03**|**Addressing Failures in Robotics using Vision-Based Language Models (VLMs) and Behavior Trees (BT)**|Faseeh Ahmad et.al.|[2411.01568](http://arxiv.org/abs/2411.01568)|null|
@@ -2212,6 +2228,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**LLMs for Domain Generation Algorithm Detection**|Reynier Leyva La O et.al.|[2411.03307](http://arxiv.org/abs/2411.03307)|null|
+|**2024-11-05**|**Transformer-Based Fault-Tolerant Control for Fixed-Wing UAVs Using Knowledge Distillation and In-Context Adaptation**|Francisco Giral et.al.|[2411.02975](http://arxiv.org/abs/2411.02975)|null|
+|**2024-11-05**|**Mixtures of In-Context Learners**|Giwon Hong et.al.|[2411.02830](http://arxiv.org/abs/2411.02830)|null|
+|**2024-11-04**|**Fair In-Context Learning via Latent Concept Variables**|Karuna Bhaila et.al.|[2411.02671](http://arxiv.org/abs/2411.02671)|**[link](https://github.com/karuna-bhaila/fairicl)**|
+|**2024-11-04**|**TI-PREGO: Chain of Thought and In-Context Learning for Online Mistake Detection in PRocedural EGOcentric Videos**|Leonardo Plini et.al.|[2411.02570](http://arxiv.org/abs/2411.02570)|null|
+|**2024-11-04**|**TripletCLIP: Improving Compositional Reasoning of CLIP via Synthetic Vision-Language Negatives**|Maitreya Patel et.al.|[2411.02545](http://arxiv.org/abs/2411.02545)|null|
+|**2024-11-04**|**Pretrained transformer efficiently learns low-dimensional target functions in-context**|Kazusato Oko et.al.|[2411.02544](http://arxiv.org/abs/2411.02544)|null|
 |**2024-11-04**|**Prompting with Phonemes: Enhancing LLM Multilinguality for non-Latin Script Languages**|Hoang Nguyen et.al.|[2411.02398](http://arxiv.org/abs/2411.02398)|null|
 |**2024-11-04**|**Defining and Evaluating Physical Safety for Large Language Models**|Yung-Chen Tang et.al.|[2411.02317](http://arxiv.org/abs/2411.02317)|null|
 |**2024-11-04**|**Provably Transformers Harness Multi-Concept Word Semantics for Efficient In-Context Learning**|Dake Bu et.al.|[2411.02199](http://arxiv.org/abs/2411.02199)|null|
