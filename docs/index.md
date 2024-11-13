@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -117,7 +117,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-11**|**Comparing Bottom-Up and Top-Down Steering Approaches on In-Context Learning Tasks**|Madeline Brumley et.al.|[2411.07213](http://arxiv.org/abs/2411.07213)|null|
-|**2024-11-11**|**Retrieval or Global Context Understanding? On Many-Shot In-Context Learning for Long-Context Evaluation**|Kaijian Zou et.al.|[2411.07130](http://arxiv.org/abs/2411.07130)|null|
+|**2024-11-11**|**Retrieval or Global Context Understanding? On Many-Shot In-Context Learning for Long-Context Evaluation**|Kaijian Zou et.al.|[2411.07130](http://arxiv.org/abs/2411.07130)|**[link](https://github.com/launchnlp/ManyICLBench)**|
 |**2024-11-11**|**Universal Response and Emergence of Induction in LLMs**|Niclas Luick et.al.|[2411.07071](http://arxiv.org/abs/2411.07071)|null|
 |**2024-11-10**|**In-Context Learning for Preserving Patient Privacy: A Framework for Synthesizing Realistic Patient Portal Messages**|Joseph Gatto et.al.|[2411.06549](http://arxiv.org/abs/2411.06549)|**[link](https://github.com/persist-lab/syntheticportalgen)**|
 |**2024-11-10**|**One controller to rule them all**|Riccardo Busetto et.al.|[2411.06482](http://arxiv.org/abs/2411.06482)|null|
@@ -1025,7 +1025,7 @@ layout: default
 |**2024-11-11**|**Multi-Stage Knowledge Integration of Vision-Language Models for Continual Learning**|Hongsheng Zhang et.al.|[2411.06764](http://arxiv.org/abs/2411.06764)|null|
 |**2024-11-11**|**Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models**|Jungseok Hong et.al.|[2411.06752](http://arxiv.org/abs/2411.06752)|null|
 |**2024-11-11**|**Renaissance: Investigating the Pretraining of Vision-Language Encoders**|Clayton Fields et.al.|[2411.06657](http://arxiv.org/abs/2411.06657)|**[link](https://github.com/bsu-slim/renaissance)**|
-|**2024-11-09**|**Hidden in Plain Sight: Evaluating Abstract Shape Recognition in Vision-Language Models**|Arshia Hemmat et.al.|[2411.06287](http://arxiv.org/abs/2411.06287)|null|
+|**2024-11-09**|**Hidden in Plain Sight: Evaluating Abstract Shape Recognition in Vision-Language Models**|Arshia Hemmat et.al.|[2411.06287](http://arxiv.org/abs/2411.06287)|**[link](https://github.com/arshiahemmat/illusionbench)**|
 |**2024-11-09**|**Aquila-plus: Prompt-Driven Visual-Language Models for Pixel-Level Remote Sensing Image Understanding**|Kaixuan Lu et.al.|[2411.06142](http://arxiv.org/abs/2411.06142)|null|
 |**2024-11-09**|**Aquila: A Hierarchically Aligned Visual-Language Model for Enhanced Remote Sensing Image Comprehension**|Kaixuan Lu et.al.|[2411.06074](http://arxiv.org/abs/2411.06074)|null|
 |**2024-11-09**|**GlocalCLIP: Object-agnostic Global-Local Prompt Learning for Zero-shot Anomaly Detection**|Jiyul Ham et.al.|[2411.06071](http://arxiv.org/abs/2411.06071)|null|
@@ -2268,7 +2268,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-11**|**Comparing Bottom-Up and Top-Down Steering Approaches on In-Context Learning Tasks**|Madeline Brumley et.al.|[2411.07213](http://arxiv.org/abs/2411.07213)|null|
-|**2024-11-11**|**Retrieval or Global Context Understanding? On Many-Shot In-Context Learning for Long-Context Evaluation**|Kaijian Zou et.al.|[2411.07130](http://arxiv.org/abs/2411.07130)|null|
+|**2024-11-11**|**Retrieval or Global Context Understanding? On Many-Shot In-Context Learning for Long-Context Evaluation**|Kaijian Zou et.al.|[2411.07130](http://arxiv.org/abs/2411.07130)|**[link](https://github.com/launchnlp/ManyICLBench)**|
 |**2024-11-11**|**Universal Response and Emergence of Induction in LLMs**|Niclas Luick et.al.|[2411.07071](http://arxiv.org/abs/2411.07071)|null|
 |**2024-11-10**|**In-Context Learning for Preserving Patient Privacy: A Framework for Synthesizing Realistic Patient Portal Messages**|Joseph Gatto et.al.|[2411.06549](http://arxiv.org/abs/2411.06549)|**[link](https://github.com/persist-lab/syntheticportalgen)**|
 |**2024-11-10**|**One controller to rule them all**|Riccardo Busetto et.al.|[2411.06482](http://arxiv.org/abs/2411.06482)|null|
