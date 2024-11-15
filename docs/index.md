@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.14
+## Updated on 2024.11.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -126,7 +126,7 @@ layout: default
 |**2024-11-10**|**One controller to rule them all**|Riccardo Busetto et.al.|[2411.06482](http://arxiv.org/abs/2411.06482)|null|
 |**2024-11-09**|**A Picture is Worth A Thousand Numbers: Enabling LLMs Reason about Time Series via Visualization**|Haoxin Liu et.al.|[2411.06018](http://arxiv.org/abs/2411.06018)|null|
 |**2024-11-08**|**Generative Adapter: Contextualizing Language Models in Parameters with A Single Forward Pass**|Tong Chen et.al.|[2411.05877](http://arxiv.org/abs/2411.05877)|null|
-|**2024-11-08**|**SM3-Text-to-Query: Synthetic Multi-Model Medical Text-to-Query Benchmark**|Sithursan Sivasubramaniam et.al.|[2411.05521](http://arxiv.org/abs/2411.05521)|null|
+|**2024-11-14**|**SM3-Text-to-Query: Synthetic Multi-Model Medical Text-to-Query Benchmark**|Sithursan Sivasubramaniam et.al.|[2411.05521](http://arxiv.org/abs/2411.05521)|null|
 |**2024-11-08**|**WeatherGFM: Learning A Weather Generalist Foundation Model via In-context Learning**|Xiangyu Zhao et.al.|[2411.05420](http://arxiv.org/abs/2411.05420)|null|
 |**2024-11-07**|**Adversarial Robustness of In-Context Learning in Transformers for Linear Regression**|Usman Anwar et.al.|[2411.05189](http://arxiv.org/abs/2411.05189)|null|
 |**2024-11-07**|**Vision Language Models are In-Context Value Learners**|Yecheng Jason Ma et.al.|[2411.04549](http://arxiv.org/abs/2411.04549)|null|
@@ -2289,7 +2289,7 @@ layout: default
 |**2024-11-10**|**One controller to rule them all**|Riccardo Busetto et.al.|[2411.06482](http://arxiv.org/abs/2411.06482)|null|
 |**2024-11-09**|**A Picture is Worth A Thousand Numbers: Enabling LLMs Reason about Time Series via Visualization**|Haoxin Liu et.al.|[2411.06018](http://arxiv.org/abs/2411.06018)|null|
 |**2024-11-08**|**Generative Adapter: Contextualizing Language Models in Parameters with A Single Forward Pass**|Tong Chen et.al.|[2411.05877](http://arxiv.org/abs/2411.05877)|null|
-|**2024-11-08**|**SM3-Text-to-Query: Synthetic Multi-Model Medical Text-to-Query Benchmark**|Sithursan Sivasubramaniam et.al.|[2411.05521](http://arxiv.org/abs/2411.05521)|null|
+|**2024-11-14**|**SM3-Text-to-Query: Synthetic Multi-Model Medical Text-to-Query Benchmark**|Sithursan Sivasubramaniam et.al.|[2411.05521](http://arxiv.org/abs/2411.05521)|null|
 |**2024-11-08**|**WeatherGFM: Learning A Weather Generalist Foundation Model via In-context Learning**|Xiangyu Zhao et.al.|[2411.05420](http://arxiv.org/abs/2411.05420)|null|
 |**2024-11-07**|**Adversarial Robustness of In-Context Learning in Transformers for Linear Regression**|Usman Anwar et.al.|[2411.05189](http://arxiv.org/abs/2411.05189)|null|
 |**2024-11-07**|**Vision Language Models are In-Context Value Learners**|Yecheng Jason Ma et.al.|[2411.04549](http://arxiv.org/abs/2411.04549)|null|
