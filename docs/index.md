@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Toward Robust and Accurate Adversarial Camouflage Generation against Vehicle Detectors**|Jiawei Zhou et.al.|[2411.10029](http://arxiv.org/abs/2411.10029)|null|
 |**2024-11-10**|**SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt Chains**|Bijoy Ahmed Saiem et.al.|[2411.06426](http://arxiv.org/abs/2411.06426)|null|
 |**2024-11-07**|**Financial Fraud Detection using Jump-Attentive Graph Neural Networks**|Prashank Kadam et.al.|[2411.05857](http://arxiv.org/abs/2411.05857)|null|
 |**2024-10-28**|**TACO: Adversarial Camouflage Optimization on Trucks to Fool Object Detectors**|Adonisz Dimitriu et.al.|[2410.21443](http://arxiv.org/abs/2410.21443)|null|
@@ -116,6 +117,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Zero-shot Voice Conversion with Diffusion Transformers**|Songting Liu et.al.|[2411.09943](http://arxiv.org/abs/2411.09943)|null|
+|**2024-11-14**|**Real-time Adapting Routing (RAR): Improving Efficiency Through Continuous Learning in Software Powered by Layered Foundation Models**|Kirill Vasilevski et.al.|[2411.09837](http://arxiv.org/abs/2411.09837)|null|
 |**2024-11-14**|**StreamAdapter: Efficient Test Time Adaptation from Contextual Streams**|Dilxat Muhtar et.al.|[2411.09289](http://arxiv.org/abs/2411.09289)|null|
 |**2024-11-13**|**XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**|Yingqi Gao et.al.|[2411.08599](http://arxiv.org/abs/2411.08599)|**[link](https://github.com/XGenerationLab/M-Schema)**|
 |**2024-11-13**|**Towards Optimizing a Retrieval Augmented Generation using Large Language Model on Academic Data**|Anum Afzal et.al.|[2411.08438](http://arxiv.org/abs/2411.08438)|null|
@@ -1023,6 +1026,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**VeriGraph: Scene Graphs for Execution Verifiable Robot Planning**|Daniel Ekpo et.al.|[2411.10446](http://arxiv.org/abs/2411.10446)|null|
+|**2024-11-15**|**LLaVA-o1: Let Vision Language Models Reason Step-by-Step**|Guowei Xu et.al.|[2411.10440](http://arxiv.org/abs/2411.10440)|null|
+|**2024-11-15**|**SEAGULL: No-reference Image Quality Assessment for Regions of Interest via Vision-Language Instruction Tuning**|Zewen Chen et.al.|[2411.10161](http://arxiv.org/abs/2411.10161)|**[link](https://github.com/chencn2020/seagull)**|
+|**2024-11-15**|**Federated Domain Generalization via Prompt Learning and Aggregation**|Shuai Gong et.al.|[2411.10063](http://arxiv.org/abs/2411.10063)|**[link](https://github.com/GongShuai8210/PLAN)**|
+|**2024-11-15**|**Free Lunch in Pathology Foundation Model: Task-specific Model Adaptation with Concept-Guided Feature Enhancement**|Yanyan Huang et.al.|[2411.09894](http://arxiv.org/abs/2411.09894)|null|
 |**2024-11-14**|**LLV-FSR: Exploiting Large Language-Vision Prior for Face Super-resolution**|Chenyang Wang et.al.|[2411.09293](http://arxiv.org/abs/2411.09293)|null|
 |**2024-11-13**|**ClevrSkills: Compositional Language and Visual Reasoning in Robotics**|Sanjay Haresh et.al.|[2411.09052](http://arxiv.org/abs/2411.09052)|null|
 |**2024-11-13**|**DART-LLM: Dependency-Aware Multi-Robot Task Decomposition and Execution using Large Language Models**|Yongdong Wang et.al.|[2411.09022](http://arxiv.org/abs/2411.09022)|null|
@@ -2284,6 +2292,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Zero-shot Voice Conversion with Diffusion Transformers**|Songting Liu et.al.|[2411.09943](http://arxiv.org/abs/2411.09943)|null|
+|**2024-11-14**|**Real-time Adapting Routing (RAR): Improving Efficiency Through Continuous Learning in Software Powered by Layered Foundation Models**|Kirill Vasilevski et.al.|[2411.09837](http://arxiv.org/abs/2411.09837)|null|
 |**2024-11-14**|**StreamAdapter: Efficient Test Time Adaptation from Contextual Streams**|Dilxat Muhtar et.al.|[2411.09289](http://arxiv.org/abs/2411.09289)|null|
 |**2024-11-13**|**XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**|Yingqi Gao et.al.|[2411.08599](http://arxiv.org/abs/2411.08599)|**[link](https://github.com/XGenerationLab/M-Schema)**|
 |**2024-11-13**|**Towards Optimizing a Retrieval Augmented Generation using Large Language Model on Academic Data**|Anum Afzal et.al.|[2411.08438](http://arxiv.org/abs/2411.08438)|null|
