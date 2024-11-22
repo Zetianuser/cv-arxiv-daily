@@ -126,7 +126,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-20**|**Leveraging Prior Experience: An Expandable Auxiliary Knowledge Base for Text-to-SQL**|Zhibo Chu et.al.|[2411.13244](http://arxiv.org/abs/2411.13244)|null|
+|**2024-11-20**|**Leveraging Prior Experience: An Expandable Auxiliary Knowledge Base for Text-to-SQL**|Zhibo Chu et.al.|[2411.13244](http://arxiv.org/abs/2411.13244)|**[link](https://github.com/czbnlp/LPE-SQL)**|
 |**2024-11-19**|**Instant Policy: In-Context Imitation Learning via Graph Diffusion**|Vitalis Vosylius et.al.|[2411.12633](http://arxiv.org/abs/2411.12633)|null|
 |**2024-11-17**|**SymDPO: Boosting In-Context Learning of Large Multimodal Models with Symbol Demonstration Direct Preference Optimization**|Hongrui Jia et.al.|[2411.11909](http://arxiv.org/abs/2411.11909)|null|
 |**2024-11-18**|**LaVin-DiT: Large Vision Diffusion Transformer**|Zhaoqing Wang et.al.|[2411.11505](http://arxiv.org/abs/2411.11505)|null|
@@ -1050,10 +1050,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Looking Beyond Text: Reducing Language bias in Large Vision-Language Models via Multimodal Dual-Attention and Soft-Image Guidance**|Haozhe Zhao et.al.|[2411.14279](http://arxiv.org/abs/2411.14279)|null|
+|**2024-11-21**|**FoPru: Focal Pruning for Efficient Large Vision-Language Models**|Lei Jiang et.al.|[2411.14164](http://arxiv.org/abs/2411.14164)|null|
+|**2024-11-21**|**Visual Contexts Clarify Ambiguous Expressions: A Benchmark Dataset**|Heejeong Nam et.al.|[2411.14137](http://arxiv.org/abs/2411.14137)|null|
 |**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543](http://arxiv.org/abs/2411.13543)|null|
 |**2024-11-20**|**Teaching VLMs to Localize Specific Objects from In-context Examples**|Sivan Doveh et.al.|[2411.13317](http://arxiv.org/abs/2411.13317)|**[link](https://github.com/sivandoveh/iploc)**|
 |**2024-11-20**|**XMask3D: Cross-modal Mask Reasoning for Open Vocabulary 3D Semantic Segmentation**|Ziyi Wang et.al.|[2411.13243](http://arxiv.org/abs/2411.13243)|**[link](https://github.com/wangzy22/xmask3d)**|
-|**2024-11-20**|**ViSTa Dataset: Do vision-language models understand sequential tasks?**|Evžen Wybitul et.al.|[2411.13211](http://arxiv.org/abs/2411.13211)|null|
+|**2024-11-21**|**ViSTa Dataset: Do vision-language models understand sequential tasks?**|Evžen Wybitul et.al.|[2411.13211](http://arxiv.org/abs/2411.13211)|null|
 |**2024-11-20**|**TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models**|Xin Wang et.al.|[2411.13136](http://arxiv.org/abs/2411.13136)|null|
 |**2024-11-19**|**VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge**|Vishwesh Nath et.al.|[2411.12915](http://arxiv.org/abs/2411.12915)|null|
 |**2024-11-19**|**CATCH: Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs**|Zhehan Kan et.al.|[2411.12713](http://arxiv.org/abs/2411.12713)|null|
@@ -2339,7 +2342,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-20**|**Leveraging Prior Experience: An Expandable Auxiliary Knowledge Base for Text-to-SQL**|Zhibo Chu et.al.|[2411.13244](http://arxiv.org/abs/2411.13244)|null|
+|**2024-11-20**|**Leveraging Prior Experience: An Expandable Auxiliary Knowledge Base for Text-to-SQL**|Zhibo Chu et.al.|[2411.13244](http://arxiv.org/abs/2411.13244)|**[link](https://github.com/czbnlp/LPE-SQL)**|
 |**2024-11-19**|**Instant Policy: In-Context Imitation Learning via Graph Diffusion**|Vitalis Vosylius et.al.|[2411.12633](http://arxiv.org/abs/2411.12633)|null|
 |**2024-11-17**|**SymDPO: Boosting In-Context Learning of Large Multimodal Models with Symbol Demonstration Direct Preference Optimization**|Hongrui Jia et.al.|[2411.11909](http://arxiv.org/abs/2411.11909)|null|
 |**2024-11-18**|**LaVin-DiT: Large Vision Diffusion Transformer**|Zhaoqing Wang et.al.|[2411.11505](http://arxiv.org/abs/2411.11505)|null|
