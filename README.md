@@ -126,11 +126,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation**|Harsh Singh et.al.|[2411.17636](http://arxiv.org/abs/2411.17636)|null|
+|**2024-11-26**|**"Stupid robot, I want to speak to a human!" User Frustration Detection in Task-Oriented Dialog Systems**|Mireia Hernandez Caralt et.al.|[2411.17437](http://arxiv.org/abs/2411.17437)|null|
+|**2024-11-26**|**Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284](http://arxiv.org/abs/2411.17284)|null|
+|**2024-11-25**|**MICAS: Multi-grained In-Context Adaptive Sampling for 3D Point Cloud Processing**|Feifei Shao et.al.|[2411.16773](http://arxiv.org/abs/2411.16773)|null|
 |**2024-11-25**|**Transformers are Deep Optimizers: Provable In-Context Learning for Deep Model Training**|Weimin Wu et.al.|[2411.16549](http://arxiv.org/abs/2411.16549)|null|
-|**2024-11-25**|**Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain**|Hangyul Yoon et.al.|[2411.16123](http://arxiv.org/abs/2411.16123)|null|
-|**2024-11-24**|**Can a Large Language Model Learn Matrix Functions In Context?**|Paimon Goulart et.al.|[2411.15675](http://arxiv.org/abs/2411.15675)|null|
-|**2024-11-23**|**Multi-label Sequential Sentence Classification via Large Language Model**|Mengfei Lan et.al.|[2411.15623](http://arxiv.org/abs/2411.15623)|null|
-|**2024-11-23**|**From MTEB to MTOB: Retrieval-Augmented Classification for Descriptive Grammars**|Albert Kornilov et.al.|[2411.15577](http://arxiv.org/abs/2411.15577)|null|
+|**2024-11-25**|**Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain**|Hangyul Yoon et.al.|[2411.16123](http://arxiv.org/abs/2411.16123)|**[link](https://github.com/facebookresearch/segment-anything)**|
+|**2024-11-24**|**Can a Large Language Model Learn Matrix Functions In Context?**|Paimon Goulart et.al.|[2411.15675](http://arxiv.org/abs/2411.15675)|**[link](https://github.com/Pie115/Learning-Matrix-Functions-In-Context)**|
+|**2024-11-23**|**Multi-label Sequential Sentence Classification via Large Language Model**|Mengfei Lan et.al.|[2411.15623](http://arxiv.org/abs/2411.15623)|**[link](https://github.com/sciencenlp-lab/llm-ssc)**|
+|**2024-11-23**|**From MTEB to MTOB: Retrieval-Augmented Classification for Descriptive Grammars**|Albert Kornilov et.al.|[2411.15577](http://arxiv.org/abs/2411.15577)|**[link](https://github.com/al-the-eigenvalue/rag-on-grammars)**|
 |**2024-11-23**|**From Jack of All Trades to Master of One: Specializing LLM-based Autoraters to a Test Set**|Mara Finkelstein et.al.|[2411.15387](http://arxiv.org/abs/2411.15387)|null|
 |**2024-11-22**|**There is no SAMantics! Exploring SAM as a Backbone for Visual Understanding Tasks**|Miguel Espinosa et.al.|[2411.15288](http://arxiv.org/abs/2411.15288)|null|
 |**2024-11-22**|**Optimizing Social Media Annotation of HPV Vaccine Skepticism and Misinformation Using Large Language Models: An Experimental Evaluation of In-Context Learning and Fine-Tuning Stance Detection Across Multiple Models**|Luhang Sun et.al.|[2411.14720](http://arxiv.org/abs/2411.14720)|null|
@@ -1058,6 +1062,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**What's in the Image? A Deep-Dive into the Vision of Vision Language Models**|Omri Kaduri et.al.|[2411.17491](http://arxiv.org/abs/2411.17491)|null|
+|**2024-11-26**|**VLRewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models**|Lei Li et.al.|[2411.17451](http://arxiv.org/abs/2411.17451)|null|
+|**2024-11-26**|**CoA: Chain-of-Action for Generative Semantic Labels**|Meng Wei et.al.|[2411.17406](http://arxiv.org/abs/2411.17406)|**[link](https://github.com/WilsonMqz/CoA)**|
+|**2024-11-26**|**Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment**|Dongping Chen et.al.|[2411.17188](http://arxiv.org/abs/2411.17188)|null|
+|**2024-11-26**|**Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation**|Chanyoung Kim et.al.|[2411.17150](http://arxiv.org/abs/2411.17150)|null|
+|**2024-11-26**|**Free $^2$ Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models**|Jaemin Kim et.al.|[2411.17041](http://arxiv.org/abs/2411.17041)|null|
+|**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
+|**2024-11-25**|**Probing the limitations of multimodal language models for chemistry and materials research**|Nawaf Alampara et.al.|[2411.16955](http://arxiv.org/abs/2411.16955)|**[link](https://github.com/lamalab-org/mac-bench)**|
+|**2024-11-25**|**Beyond Sight: Towards Cognitive Alignment in LVLM via Enriched Visual Knowledge**|Yaqi Zhao et.al.|[2411.16824](http://arxiv.org/abs/2411.16824)|null|
 |**2024-11-25**|**Generating Out-Of-Distribution Scenarios Using Language Models**|Erfan Aasi et.al.|[2411.16554](http://arxiv.org/abs/2411.16554)|null|
 |**2024-11-25**|**RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics**|Chan Hee Song et.al.|[2411.16537](http://arxiv.org/abs/2411.16537)|null|
 |**2024-11-25**|**Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis**|Boming Miao et.al.|[2411.16503](http://arxiv.org/abs/2411.16503)|null|
@@ -2368,11 +2381,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation**|Harsh Singh et.al.|[2411.17636](http://arxiv.org/abs/2411.17636)|null|
+|**2024-11-26**|**"Stupid robot, I want to speak to a human!" User Frustration Detection in Task-Oriented Dialog Systems**|Mireia Hernandez Caralt et.al.|[2411.17437](http://arxiv.org/abs/2411.17437)|null|
+|**2024-11-26**|**Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284](http://arxiv.org/abs/2411.17284)|null|
+|**2024-11-25**|**MICAS: Multi-grained In-Context Adaptive Sampling for 3D Point Cloud Processing**|Feifei Shao et.al.|[2411.16773](http://arxiv.org/abs/2411.16773)|null|
 |**2024-11-25**|**Transformers are Deep Optimizers: Provable In-Context Learning for Deep Model Training**|Weimin Wu et.al.|[2411.16549](http://arxiv.org/abs/2411.16549)|null|
-|**2024-11-25**|**Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain**|Hangyul Yoon et.al.|[2411.16123](http://arxiv.org/abs/2411.16123)|null|
-|**2024-11-24**|**Can a Large Language Model Learn Matrix Functions In Context?**|Paimon Goulart et.al.|[2411.15675](http://arxiv.org/abs/2411.15675)|null|
-|**2024-11-23**|**Multi-label Sequential Sentence Classification via Large Language Model**|Mengfei Lan et.al.|[2411.15623](http://arxiv.org/abs/2411.15623)|null|
-|**2024-11-23**|**From MTEB to MTOB: Retrieval-Augmented Classification for Descriptive Grammars**|Albert Kornilov et.al.|[2411.15577](http://arxiv.org/abs/2411.15577)|null|
+|**2024-11-25**|**Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain**|Hangyul Yoon et.al.|[2411.16123](http://arxiv.org/abs/2411.16123)|**[link](https://github.com/facebookresearch/segment-anything)**|
+|**2024-11-24**|**Can a Large Language Model Learn Matrix Functions In Context?**|Paimon Goulart et.al.|[2411.15675](http://arxiv.org/abs/2411.15675)|**[link](https://github.com/Pie115/Learning-Matrix-Functions-In-Context)**|
+|**2024-11-23**|**Multi-label Sequential Sentence Classification via Large Language Model**|Mengfei Lan et.al.|[2411.15623](http://arxiv.org/abs/2411.15623)|**[link](https://github.com/sciencenlp-lab/llm-ssc)**|
+|**2024-11-23**|**From MTEB to MTOB: Retrieval-Augmented Classification for Descriptive Grammars**|Albert Kornilov et.al.|[2411.15577](http://arxiv.org/abs/2411.15577)|**[link](https://github.com/al-the-eigenvalue/rag-on-grammars)**|
 |**2024-11-23**|**From Jack of All Trades to Master of One: Specializing LLM-based Autoraters to a Test Set**|Mara Finkelstein et.al.|[2411.15387](http://arxiv.org/abs/2411.15387)|null|
 |**2024-11-22**|**There is no SAMantics! Exploring SAM as a Backbone for Visual Understanding Tasks**|Miguel Espinosa et.al.|[2411.15288](http://arxiv.org/abs/2411.15288)|null|
 |**2024-11-22**|**Optimizing Social Media Annotation of HPV Vaccine Skepticism and Misinformation Using Large Language Models: An Experimental Evaluation of In-Context Learning and Fine-Tuning Stance Detection Across Multiple Models**|Luhang Sun et.al.|[2411.14720](http://arxiv.org/abs/2411.14720)|null|
