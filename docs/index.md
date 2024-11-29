@@ -122,7 +122,7 @@ layout: default
 |**2024-11-26**|**On the ERM Principle in Meta-Learning**|Yannay Alon et.al.|[2411.17898](http://arxiv.org/abs/2411.17898)|null|
 |**2024-11-26**|**MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation**|Harsh Singh et.al.|[2411.17636](http://arxiv.org/abs/2411.17636)|null|
 |**2024-11-26**|**"Stupid robot, I want to speak to a human!" User Frustration Detection in Task-Oriented Dialog Systems**|Mireia Hernandez Caralt et.al.|[2411.17437](http://arxiv.org/abs/2411.17437)|null|
-|**2024-11-26**|**Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284](http://arxiv.org/abs/2411.17284)|null|
+|**2024-11-26**|**Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284](http://arxiv.org/abs/2411.17284)|**[link](https://github.com/alexcapstick/llm-elicited-priors)**|
 |**2024-11-25**|**MICAS: Multi-grained In-Context Adaptive Sampling for 3D Point Cloud Processing**|Feifei Shao et.al.|[2411.16773](http://arxiv.org/abs/2411.16773)|null|
 |**2024-11-25**|**Transformers are Deep Optimizers: Provable In-Context Learning for Deep Model Training**|Weimin Wu et.al.|[2411.16549](http://arxiv.org/abs/2411.16549)|null|
 |**2024-11-25**|**Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain**|Hangyul Yoon et.al.|[2411.16123](http://arxiv.org/abs/2411.16123)|**[link](https://github.com/facebookresearch/segment-anything)**|
@@ -1061,7 +1061,7 @@ layout: default
 |**2024-11-27**|**DistinctAD: Distinctive Audio Description Generation in Contexts**|Bo Fang et.al.|[2411.18180](http://arxiv.org/abs/2411.18180)|null|
 |**2024-11-27**|**COREval: A Comprehensive and Objective Benchmark for Evaluating the Remote Sensing Capabilities of Large Vision-Language Models**|Xiao An et.al.|[2411.18145](http://arxiv.org/abs/2411.18145)|null|
 |**2024-11-27**|**When Large Vision-Language Models Meet Person Re-Identification**|Qizao Wang et.al.|[2411.18111](http://arxiv.org/abs/2411.18111)|null|
-|**2024-11-27**|**Aligning Knowledge Concepts to Whole Slide Images for Precise Histopathology Image Analysis**|Weiqin Zhao et.al.|[2411.18101](http://arxiv.org/abs/2411.18101)|null|
+|**2024-11-27**|**Aligning Knowledge Concepts to Whole Slide Images for Precise Histopathology Image Analysis**|Weiqin Zhao et.al.|[2411.18101](http://arxiv.org/abs/2411.18101)|**[link](https://github.com/HKU-MedAI/ConcepPath)**|
 |**2024-11-27**|**VLM-HOI: Vision Language Models for Interpretable Human-Object Interaction Analysis**|Donggoo Kang et.al.|[2411.18038](http://arxiv.org/abs/2411.18038)|null|
 |**2024-11-27**|**Exploring Visual Vulnerabilities via Multi-Loss Adversarial Search for Jailbreaking Vision-Language Models**|Shuyang Hao et.al.|[2411.18000](http://arxiv.org/abs/2411.18000)|null|
 |**2024-11-26**|**What's in the Image? A Deep-Dive into the Vision of Vision Language Models**|Omri Kaduri et.al.|[2411.17491](http://arxiv.org/abs/2411.17491)|null|
@@ -2384,7 +2384,7 @@ layout: default
 |**2024-11-26**|**On the ERM Principle in Meta-Learning**|Yannay Alon et.al.|[2411.17898](http://arxiv.org/abs/2411.17898)|null|
 |**2024-11-26**|**MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation**|Harsh Singh et.al.|[2411.17636](http://arxiv.org/abs/2411.17636)|null|
 |**2024-11-26**|**"Stupid robot, I want to speak to a human!" User Frustration Detection in Task-Oriented Dialog Systems**|Mireia Hernandez Caralt et.al.|[2411.17437](http://arxiv.org/abs/2411.17437)|null|
-|**2024-11-26**|**Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284](http://arxiv.org/abs/2411.17284)|null|
+|**2024-11-26**|**Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284](http://arxiv.org/abs/2411.17284)|**[link](https://github.com/alexcapstick/llm-elicited-priors)**|
 |**2024-11-25**|**MICAS: Multi-grained In-Context Adaptive Sampling for 3D Point Cloud Processing**|Feifei Shao et.al.|[2411.16773](http://arxiv.org/abs/2411.16773)|null|
 |**2024-11-25**|**Transformers are Deep Optimizers: Provable In-Context Learning for Deep Model Training**|Weimin Wu et.al.|[2411.16549](http://arxiv.org/abs/2411.16549)|null|
 |**2024-11-25**|**Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain**|Hangyul Yoon et.al.|[2411.16123](http://arxiv.org/abs/2411.16123)|**[link](https://github.com/facebookresearch/segment-anything)**|
