@@ -128,7 +128,7 @@ layout: default
 |**2024-12-03**|**Unlocking Tuning-Free Few-Shot Adaptability in Visual Foundation Models by Recycling Pre-Tuned LoRAs**|Zixuan Hu et.al.|[2412.02220](http://arxiv.org/abs/2412.02220)|null|
 |**2024-12-03**|**VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding**|Kangsan Kim et.al.|[2412.02186](http://arxiv.org/abs/2412.02186)|**[link](https://github.com/kangsankim07/videoicl)**|
 |**2024-12-02**|**X-Prompt: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models**|Zeyi Sun et.al.|[2412.01824](http://arxiv.org/abs/2412.01824)|**[link](https://github.com/sunzey/x-prompt)**|
-|**2024-12-02**|**Can Large Language Models Serve as Evaluators for Code Summarization?**|Yang Wu et.al.|[2412.01333](http://arxiv.org/abs/2412.01333)|null|
+|**2024-12-02**|**Can Large Language Models Serve as Evaluators for Code Summarization?**|Yang Wu et.al.|[2412.01333](http://arxiv.org/abs/2412.01333)|**[link](https://github.com/CGCL-codes/naturalcc)**|
 |**2024-12-02**|**RL2: Reinforce Large Language Model to Assist Safe Reinforcement Learning for Energy Management of Active Distribution Networks**|Xu Yang et.al.|[2412.01303](http://arxiv.org/abs/2412.01303)|null|
 |**2024-12-03**|**CPRM: A LLM-based Continual Pre-training Framework for Relevance Modeling in Commercial Search**|Kaixin Wu et.al.|[2412.01269](http://arxiv.org/abs/2412.01269)|null|
 |**2024-12-02**|**Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes**|Xiaoqi Zhao et.al.|[2412.01240](http://arxiv.org/abs/2412.01240)|null|
@@ -1074,10 +1074,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-05**|**VisionZip: Longer is Better but Not Necessary in Vision Language Models**|Senqiao Yang et.al.|[2412.04467](http://arxiv.org/abs/2412.04467)|null|
+|**2024-12-05**|**VisionZip: Longer is Better but Not Necessary in Vision Language Models**|Senqiao Yang et.al.|[2412.04467](http://arxiv.org/abs/2412.04467)|**[link](https://github.com/dvlab-research/visionzip)**|
 |**2024-12-05**|**Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection**|Enshen Zhou et.al.|[2412.04455](http://arxiv.org/abs/2412.04455)|null|
-|**2024-12-05**|**Grounding Descriptions in Images informs Zero-Shot Visual Recognition**|Shaunak Halbe et.al.|[2412.04429](http://arxiv.org/abs/2412.04429)|null|
-|**2024-12-05**|**Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion**|Jiuhai Chen et.al.|[2412.04424](http://arxiv.org/abs/2412.04424)|null|
+|**2024-12-05**|**Grounding Descriptions in Images informs Zero-Shot Visual Recognition**|Shaunak Halbe et.al.|[2412.04429](http://arxiv.org/abs/2412.04429)|**[link](https://github.com/shaunak27/grain-clip)**|
+|**2024-12-05**|**Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion**|Jiuhai Chen et.al.|[2412.04424](http://arxiv.org/abs/2412.04424)|**[link](https://github.com/jiuhaichen/florence-vl)**|
 |**2024-12-05**|**SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding**|Rong Li et.al.|[2412.04383](http://arxiv.org/abs/2412.04383)|null|
 |**2024-12-05**|**Discriminative Fine-tuning of LVLMs**|Yassine Ouali et.al.|[2412.04378](http://arxiv.org/abs/2412.04378)|null|
 |**2024-12-05**|**3D Part Segmentation via Geometric Aggregation of 2D Visual Features**|Marco Garosi et.al.|[2412.04247](http://arxiv.org/abs/2412.04247)|null|
@@ -2448,7 +2448,7 @@ layout: default
 |**2024-12-03**|**Unlocking Tuning-Free Few-Shot Adaptability in Visual Foundation Models by Recycling Pre-Tuned LoRAs**|Zixuan Hu et.al.|[2412.02220](http://arxiv.org/abs/2412.02220)|null|
 |**2024-12-03**|**VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding**|Kangsan Kim et.al.|[2412.02186](http://arxiv.org/abs/2412.02186)|**[link](https://github.com/kangsankim07/videoicl)**|
 |**2024-12-02**|**X-Prompt: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models**|Zeyi Sun et.al.|[2412.01824](http://arxiv.org/abs/2412.01824)|**[link](https://github.com/sunzey/x-prompt)**|
-|**2024-12-02**|**Can Large Language Models Serve as Evaluators for Code Summarization?**|Yang Wu et.al.|[2412.01333](http://arxiv.org/abs/2412.01333)|null|
+|**2024-12-02**|**Can Large Language Models Serve as Evaluators for Code Summarization?**|Yang Wu et.al.|[2412.01333](http://arxiv.org/abs/2412.01333)|**[link](https://github.com/CGCL-codes/naturalcc)**|
 |**2024-12-02**|**RL2: Reinforce Large Language Model to Assist Safe Reinforcement Learning for Energy Management of Active Distribution Networks**|Xu Yang et.al.|[2412.01303](http://arxiv.org/abs/2412.01303)|null|
 |**2024-12-03**|**CPRM: A LLM-based Continual Pre-training Framework for Relevance Modeling in Commercial Search**|Kaixin Wu et.al.|[2412.01269](http://arxiv.org/abs/2412.01269)|null|
 |**2024-12-02**|**Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes**|Xiaoqi Zhao et.al.|[2412.01240](http://arxiv.org/abs/2412.01240)|null|
