@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**CapGen:An Environment-Adaptive Generator of Adversarial Patches**|Chaoqun Li et.al.|[2412.07253](http://arxiv.org/abs/2412.07253)|null|
 |**2024-12-02**|**Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes**|Xiaoqi Zhao et.al.|[2412.01240](http://arxiv.org/abs/2412.01240)|null|
 |**2024-11-28**|**COMPrompter: reconceptualized segment anything model with multiprompt network for camouflaged object detection**|Xiaoqin Zhang et.al.|[2411.18858](http://arxiv.org/abs/2411.18858)|**[link](https://github.com/guobaoxiao/comprompter)**|
 |**2024-11-15**|**Toward Robust and Accurate Adversarial Camouflage Generation against Vehicle Detectors**|Jiawei Zhou et.al.|[2411.10029](http://arxiv.org/abs/2411.10029)|null|
@@ -128,6 +129,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**DRUM: Learning Demonstration Retriever for Large MUlti-modal Models**|Ellen Yi-Ge et.al.|[2412.07619](http://arxiv.org/abs/2412.07619)|null|
 |**2024-12-09**|**A Comparative Study of Learning Paradigms in Large Language Models via Intrinsic Dimension**|Saahith Janapati et.al.|[2412.06245](http://arxiv.org/abs/2412.06245)|null|
 |**2024-12-08**|**Can Generative AI Solve Your In-Context Learning Problem? A Martingale Perspective**|Andrew Jesson et.al.|[2412.06033](http://arxiv.org/abs/2412.06033)|null|
 |**2024-12-07**|**PromptRefine: Enhancing Few-Shot Performance on Low-Resource Indic Languages with Example Selection from Related Example Banks**|Soumya Suvra Ghosal et.al.|[2412.05710](http://arxiv.org/abs/2412.05710)|null|
@@ -1092,6 +1094,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**RADIO Amplified: Improved Baselines for Agglomerative Vision Foundation Models**|Greg Heinrich et.al.|[2412.07679](http://arxiv.org/abs/2412.07679)|null|
+|**2024-12-10**|**DRUM: Learning Demonstration Retriever for Large MUlti-modal Models**|Ellen Yi-Ge et.al.|[2412.07619](http://arxiv.org/abs/2412.07619)|null|
+|**2024-12-10**|**Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios**|Jiaqi Fan et.al.|[2412.07518](http://arxiv.org/abs/2412.07518)|**[link](https://github.com/fjq-tongji/hcoenet)**|
+|**2024-12-10**|**SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World**|Jiaqi Zhang et.al.|[2412.07472](http://arxiv.org/abs/2412.07472)|**[link](https://github.com/tsinghua-fib-lab/smartagent)**|
+|**2024-12-10**|**MM-PoE: Multiple Choice Reasoning via. Process of Elimination using Multi-Modal Models**|Sayak Chakrabarty et.al.|[2412.07148](http://arxiv.org/abs/2412.07148)|**[link](https://github.com/souradipp76/mm-poe)**|
+|**2024-12-10**|**Maya: An Instruction Finetuned Multilingual Multimodal Model**|Nahid Alam et.al.|[2412.07112](http://arxiv.org/abs/2412.07112)|**[link](https://github.com/nahidalam/maya)**|
+|**2024-12-10**|**Retaining and Enhancing Pre-trained Knowledge in Vision-Language Models with Prompt Ensembling**|Donggeun Kim et.al.|[2412.07077](http://arxiv.org/abs/2412.07077)|null|
 |**2024-12-09**|**Delve into Visual Contrastive Decoding for Hallucination Mitigation of Large Vision-Language Models**|Yi-Lun Lee et.al.|[2412.06775](http://arxiv.org/abs/2412.06775)|**[link](https://github.com/yilunlee/vcd_analysis)**|
 |**2024-12-09**|**Visual Lexicon: Rich Image Features in Language Space**|XuDong Wang et.al.|[2412.06774](http://arxiv.org/abs/2412.06774)|null|
 |**2024-12-09**|**Ranking-aware adapter for text-driven image ordering with CLIP**|Wei-Hsiang Yu et.al.|[2412.06760](http://arxiv.org/abs/2412.06760)|**[link](https://github.com/uynaes/rankingawareclip)**|
@@ -2476,6 +2485,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**DRUM: Learning Demonstration Retriever for Large MUlti-modal Models**|Ellen Yi-Ge et.al.|[2412.07619](http://arxiv.org/abs/2412.07619)|null|
 |**2024-12-09**|**A Comparative Study of Learning Paradigms in Large Language Models via Intrinsic Dimension**|Saahith Janapati et.al.|[2412.06245](http://arxiv.org/abs/2412.06245)|null|
 |**2024-12-08**|**Can Generative AI Solve Your In-Context Learning Problem? A Martingale Perspective**|Andrew Jesson et.al.|[2412.06033](http://arxiv.org/abs/2412.06033)|null|
 |**2024-12-07**|**PromptRefine: Enhancing Few-Shot Performance on Low-Resource Indic Languages with Example Selection from Related Example Banks**|Soumya Suvra Ghosal et.al.|[2412.05710](http://arxiv.org/abs/2412.05710)|null|
