@@ -675,7 +675,7 @@
 |**2024-06-03**|**Guiding ChatGPT to Generate Salient Domain Summaries**|Jun Gao et.al.|[2406.01070](http://arxiv.org/abs/2406.01070)|null|
 |**2024-06-03**|**Selectively Answering Visual Questions**|Julian Martin Eisenschlos et.al.|[2406.00980](http://arxiv.org/abs/2406.00980)|null|
 |**2024-05-31**|**In-Context Decision Transformer: Reinforcement Learning via Hierarchical Chain-of-Thought**|Sili Huang et.al.|[2405.20692](http://arxiv.org/abs/2405.20692)|**[link](https://github.com/silihuang-ai/idt)**|
-|**2024-05-31**|**UniBias: Unveiling and Mitigating LLM Bias through Internal Attention and FFN Manipulation**|Hanzhang Zhou et.al.|[2405.20612](http://arxiv.org/abs/2405.20612)|null|
+|**2024-05-31**|**UniBias: Unveiling and Mitigating LLM Bias through Internal Attention and FFN Manipulation**|Hanzhang Zhou et.al.|[2405.20612](http://arxiv.org/abs/2405.20612)|**[link](https://github.com/hzzhou01/unibias)**|
 |**2024-05-31**|**The Point of View of a Sentiment: Towards Clinician Bias Detection in Psychiatric Notes**|Alissa A. Valentine et.al.|[2405.20582](http://arxiv.org/abs/2405.20582)|null|
 |**2024-05-30**|**Would I Lie To You? Inference Time Alignment of Language Models using Direct Preference Heads**|Avelina Asada Hadji-Kyriacou et.al.|[2405.20053](http://arxiv.org/abs/2405.20053)|**[link](https://github.com/Avelina9X/direct-preference-heads)**|
 |**2024-05-30**|**From Words to Actions: Unveiling the Theoretical Underpinnings of LLM-Driven Autonomous Systems**|Jianliang He et.al.|[2405.19883](http://arxiv.org/abs/2405.19883)|null|
@@ -894,7 +894,7 @@
 |**2024-03-10**|**FedPIT: Towards Privacy-preserving and Few-shot Federated Instruction Tuning**|Zhuo Zhang et.al.|[2403.06131](http://arxiv.org/abs/2403.06131)|null|
 |**2024-03-10**|**In-context Prompt Learning for Test-time Vision Recognition with Frozen Vision-language Model**|Junhui Yin et.al.|[2403.06126](http://arxiv.org/abs/2403.06126)|null|
 |**2024-03-09**|**Few-Shot Cross-Lingual Transfer for Prompting Large Language Models in Low-Resource Languages**|Christopher Toukmaji et.al.|[2403.06018](http://arxiv.org/abs/2403.06018)|null|
-|**2024-03-08**|**A Benchmark of Domain-Adapted Large Language Models for Generating Brief Hospital Course Summaries**|Asad Aali et.al.|[2403.05720](http://arxiv.org/abs/2403.05720)|null|
+|**2024-03-08**|**A Benchmark of Domain-Adapted Large Language Models for Generating Brief Hospital Course Summaries**|Asad Aali et.al.|[2403.05720](http://arxiv.org/abs/2403.05720)|**[link](https://github.com/stanfordmimi/clin-bhc-summ)**|
 |**2024-03-08**|**DP-TabICL: In-Context Learning with Differentially Private Tabular Data**|Alycia N. Carey et.al.|[2403.05681](http://arxiv.org/abs/2403.05681)|null|
 |**2024-03-08**|**InstructGIE: Towards Generalizable Image Editing**|Zichong Meng et.al.|[2403.05018](http://arxiv.org/abs/2403.05018)|null|
 |**2024-03-07**|**LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**|Boshi Wang et.al.|[2403.04746](http://arxiv.org/abs/2403.04746)|**[link](https://github.com/microsoft/simulated-trial-and-error)**|
@@ -1138,7 +1138,7 @@
 |**2024-12-09**|**No Annotations for Object Detection in Art through Stable Diffusion**|Patrick Ramos et.al.|[2412.06286](http://arxiv.org/abs/2412.06286)|**[link](https://github.com/patrick-john-ramos/nada)**|
 |**2024-12-09**|**iLLaVA: An Image is Worth Fewer Than 1/3 Input Tokens in Large Multimodal Models**|Lianyu Hu et.al.|[2412.06263](http://arxiv.org/abs/2412.06263)|**[link](https://github.com/hulianyuyy/illava)**|
 |**2024-12-09**|**DenseVLM: A Retrieval and Decoupled Alignment Framework for Open-Vocabulary Dense Prediction**|Yunheng Li et.al.|[2412.06244](http://arxiv.org/abs/2412.06244)|null|
-|**2024-12-06**|**Multimodal Fact-Checking with Vision Language Models: A Probing Classifier based Solution with Embedding Strategies**|Recep Firat Cekinel et.al.|[2412.05155](http://arxiv.org/abs/2412.05155)|null|
+|**2024-12-06**|**Multimodal Fact-Checking with Vision Language Models: A Probing Classifier based Solution with Embedding Strategies**|Recep Firat Cekinel et.al.|[2412.05155](http://arxiv.org/abs/2412.05155)|**[link](https://github.com/firatcekinel/Multimodal-Fact-Checking-with-Vision-Language-Models)**|
 |**2024-12-06**|**Findings of the Second BabyLM Challenge: Sample-Efficient Pretraining on Developmentally Plausible Corpora**|Michael Y. Hu et.al.|[2412.05149](http://arxiv.org/abs/2412.05149)|null|
 |**2024-12-06**|**$S^3$ : Synonymous Semantic Space for Improving Zero-Shot Generalization of Vision-Language Models**|Xiaojie Yin et.al.|[2412.04925](http://arxiv.org/abs/2412.04925)|null|
 |**2024-12-06**|**Espresso: High Compression For Rich Extraction From Videos for Your Vision-Language Model**|Keunwoo Peter Yu et.al.|[2412.04729](http://arxiv.org/abs/2412.04729)|null|
@@ -1177,7 +1177,7 @@
 |**2024-11-29**|**CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation**|Qixiu Li et.al.|[2411.19650](http://arxiv.org/abs/2411.19650)|null|
 |**2024-11-29**|**Interleaved-Modal Chain-of-Thought**|Jun Gao et.al.|[2411.19488](http://arxiv.org/abs/2411.19488)|null|
 |**2024-11-29**|**Effective Fine-Tuning of Vision-Language Models for Accurate Galaxy Morphology Analysis**|Ruoqi Wang et.al.|[2411.19475](http://arxiv.org/abs/2411.19475)|null|
-|**2024-11-28**|**Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation**|Luca Barsellotti et.al.|[2411.19331](http://arxiv.org/abs/2411.19331)|null|
+|**2024-11-28**|**Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation**|Luca Barsellotti et.al.|[2411.19331](http://arxiv.org/abs/2411.19331)|**[link](https://github.com/lorebianchi98/Talk2DINO)**|
 |**2024-11-28**|**GEOBench-VLM: Benchmarking Vision-Language Models for Geospatial Tasks**|Muhammad Sohail Danish et.al.|[2411.19325](http://arxiv.org/abs/2411.19325)|**[link](https://github.com/the-ai-alliance/geo-bench-vlm)**|
 |**2024-11-28**|**GRAPE: Generalizing Robot Policy via Preference Alignment**|Zijian Zhang et.al.|[2411.19309](http://arxiv.org/abs/2411.19309)|null|
 |**2024-11-28**|**VARCO-VISION: Expanding Frontiers in Korean Vision-Language Models**|Jeongho Ju et.al.|[2411.19103](http://arxiv.org/abs/2411.19103)|null|
@@ -1273,7 +1273,7 @@
 |**2024-11-08**|**End-to-End Navigation with Vision Language Models: Transforming Spatial Reasoning into Question-Answering**|Dylan Goetting et.al.|[2411.05755](http://arxiv.org/abs/2411.05755)|**[link](https://github.com/Jirl-upenn/VLMnav)**|
 |**2024-11-08**|**Poze: Sports Technique Feedback under Data Constraints**|Agamdeep Singh et.al.|[2411.05734](http://arxiv.org/abs/2411.05734)|null|
 |**2024-11-08**|**A Two-Step Concept-Based Approach for Enhanced Interpretability and Trust in Skin Lesion Diagnosis**|Cristiano Patrício et.al.|[2411.05609](http://arxiv.org/abs/2411.05609)|**[link](https://github.com/cristianopatricio/2-step-concept-based-skin-diagnosis)**|
-|**2024-11-08**|**Enhancing Visual Classification using Comparative Descriptors**|Hankyeol Lee et.al.|[2411.05357](http://arxiv.org/abs/2411.05357)|null|
+|**2024-11-08**|**Enhancing Visual Classification using Comparative Descriptors**|Hankyeol Lee et.al.|[2411.05357](http://arxiv.org/abs/2411.05357)|**[link](https://github.com/hk1ee/comparative-clip)**|
 |**2024-11-08**|**Real-World Offline Reinforcement Learning from Vision Language Model Feedback**|Sreyas Venkataraman et.al.|[2411.05273](http://arxiv.org/abs/2411.05273)|null|
 |**2024-11-07**|**On Erroneous Agreements of CLIP Image Embeddings**|Siting Li et.al.|[2411.05195](http://arxiv.org/abs/2411.05195)|null|
 |**2024-11-07**|**Precision or Recall? An Analysis of Image Captions for Training Text-to-Image Generation Model**|Sheng Cheng et.al.|[2411.05079](http://arxiv.org/abs/2411.05079)|**[link](https://github.com/shengcheng/captions4t2i)**|
@@ -1416,10 +1416,10 @@
 |**2024-10-15**|**CLIP-DFGS: A Hard Sample Mining Method for CLIP in Generalizable Person Re-Identification**|Huazhong Zhao et.al.|[2410.11255](http://arxiv.org/abs/2410.11255)|null|
 |**2024-10-15**|**Tree of Attributes Prompt Learning for Vision-Language Models**|Tong Ding et.al.|[2410.11201](http://arxiv.org/abs/2410.11201)|null|
 |**2024-10-14**|**Locality Alignment Improves Vision-Language Models**|Ian Covert et.al.|[2410.11087](http://arxiv.org/abs/2410.11087)|null|
-|**2024-10-14**|**Towards Foundation Models for 3D Vision: How Close Are We?**|Yiming Zuo et.al.|[2410.10799](http://arxiv.org/abs/2410.10799)|null|
+|**2024-10-14**|**Towards Foundation Models for 3D Vision: How Close Are We?**|Yiming Zuo et.al.|[2410.10799](http://arxiv.org/abs/2410.10799)|**[link](https://github.com/princeton-vl/uniqa-3d)**|
 |**2024-10-14**|**VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents**|Shi Yu et.al.|[2410.10594](http://arxiv.org/abs/2410.10594)|**[link](https://github.com/openbmb/visrag)**|
 |**2024-10-14**|**Queryable Prototype Multiple Instance Learning with Vision-Language Models for Incremental Whole Slide Image Classification**|Jiaxiang Gou et.al.|[2410.10573](http://arxiv.org/abs/2410.10573)|**[link](https://github.com/can-can-ya/QPMIL-VL)**|
-|**2024-10-14**|**MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks**|Jiacheng Chen et.al.|[2410.10563](http://arxiv.org/abs/2410.10563)|null|
+|**2024-10-14**|**MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks**|Jiacheng Chen et.al.|[2410.10563](http://arxiv.org/abs/2410.10563)|**[link](https://github.com/TIGER-AI-Lab/MEGA-Bench)**|
 |**2024-10-14**|**LG-CAV: Train Any Concept Activation Vector with Language Guidance**|Qihan Huang et.al.|[2410.10308](http://arxiv.org/abs/2410.10308)|null|
 |**2024-10-14**|**Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection**|Jiawen Zhu et.al.|[2410.10289](http://arxiv.org/abs/2410.10289)|**[link](https://github.com/mala-lab/faprompt)**|
 |**2024-10-14**|**LOBG:Less Overfitting for Better Generalization in Vision-Language Model**|Chenhao Ding et.al.|[2410.10247](http://arxiv.org/abs/2410.10247)|null|
@@ -1794,7 +1794,7 @@
 |**2024-07-11**|**Enhancing Robustness of Vision-Language Models through Orthogonality Learning and Cross-Regularization**|Jinlong Li et.al.|[2407.08374](http://arxiv.org/abs/2407.08374)|null|
 |**2024-07-11**|**Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation**|Tong Shao et.al.|[2407.08268](http://arxiv.org/abs/2407.08268)|**[link](https://github.com/leaves162/cliptrase)**|
 |**2024-07-11**|**AddressCLIP: Empowering Vision-Language Models for City-wide Image Address Localization**|Shixiong Xu et.al.|[2407.08156](http://arxiv.org/abs/2407.08156)|**[link](https://github.com/xsx1001/addressclip)**|
-|**2024-07-11**|**Live Fitness Coaching as a Testbed for Situated Interaction**|Sunny Panchal et.al.|[2407.08101](http://arxiv.org/abs/2407.08101)|null|
+|**2024-07-11**|**Live Fitness Coaching as a Testbed for Situated Interaction**|Sunny Panchal et.al.|[2407.08101](http://arxiv.org/abs/2407.08101)|**[link](https://github.com/qualcomm-ai-research/fitcoach)**|
 |**2024-07-10**|**Decompose and Compare Consistency: Measuring VLMs' Answer Reliability via Task-Decomposition Consistency Comparison**|Qian Yang et.al.|[2407.07840](http://arxiv.org/abs/2407.07840)|null|
 |**2024-07-10**|**Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**|Hao-Tien Lewis Chiang et.al.|[2407.07775](http://arxiv.org/abs/2407.07775)|null|
 |**2024-07-10**|**PaliGemma: A versatile 3B VLM for transfer**|Lucas Beyer et.al.|[2407.07726](http://arxiv.org/abs/2407.07726)|**[link](https://github.com/google-research/big_vision)**|
@@ -2113,7 +2113,7 @@
 |**2024-04-23**|**FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction**|Hang Hua et.al.|[2404.14715](http://arxiv.org/abs/2404.14715)|null|
 |**2024-04-23**|**DreamPBR: Text-driven Generation of High-resolution SVBRDF with Multi-modal Guidance**|Linxuan Xin et.al.|[2404.14676](http://arxiv.org/abs/2404.14676)|null|
 |**2024-04-22**|**A Multimodal Automated Interpretability Agent**|Tamar Rott Shaham et.al.|[2404.14394](http://arxiv.org/abs/2404.14394)|null|
-|**2024-04-22**|**Detecting and Mitigating Hallucination in Large Vision Language Models via Fine-Grained AI Feedback**|Wenyi Xiao et.al.|[2404.14233](http://arxiv.org/abs/2404.14233)|null|
+|**2024-04-22**|**Detecting and Mitigating Hallucination in Large Vision Language Models via Fine-Grained AI Feedback**|Wenyi Xiao et.al.|[2404.14233](http://arxiv.org/abs/2404.14233)|**[link](https://github.com/Mr-Loevan/HSA-DPO)**|
 |**2024-04-22**|**VALOR-EVAL: Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models**|Haoyi Qiu et.al.|[2404.13874](http://arxiv.org/abs/2404.13874)|**[link](https://github.com/haoyiq114/valor)**|
 |**2024-04-20**|**AdvLoRA: Adversarial Low-Rank Adaptation of Vision-Language Models**|Yuheng Ji et.al.|[2404.13425](http://arxiv.org/abs/2404.13425)|null|
 |**2024-04-20**|**Movie101v2: Improved Movie Narration Benchmark**|Zihao Yue et.al.|[2404.13370](http://arxiv.org/abs/2404.13370)|null|
@@ -3058,7 +3058,7 @@
 |**2024-06-03**|**Guiding ChatGPT to Generate Salient Domain Summaries**|Jun Gao et.al.|[2406.01070](http://arxiv.org/abs/2406.01070)|null|
 |**2024-06-03**|**Selectively Answering Visual Questions**|Julian Martin Eisenschlos et.al.|[2406.00980](http://arxiv.org/abs/2406.00980)|null|
 |**2024-05-31**|**In-Context Decision Transformer: Reinforcement Learning via Hierarchical Chain-of-Thought**|Sili Huang et.al.|[2405.20692](http://arxiv.org/abs/2405.20692)|**[link](https://github.com/silihuang-ai/idt)**|
-|**2024-05-31**|**UniBias: Unveiling and Mitigating LLM Bias through Internal Attention and FFN Manipulation**|Hanzhang Zhou et.al.|[2405.20612](http://arxiv.org/abs/2405.20612)|null|
+|**2024-05-31**|**UniBias: Unveiling and Mitigating LLM Bias through Internal Attention and FFN Manipulation**|Hanzhang Zhou et.al.|[2405.20612](http://arxiv.org/abs/2405.20612)|**[link](https://github.com/hzzhou01/unibias)**|
 |**2024-05-31**|**The Point of View of a Sentiment: Towards Clinician Bias Detection in Psychiatric Notes**|Alissa A. Valentine et.al.|[2405.20582](http://arxiv.org/abs/2405.20582)|null|
 |**2024-05-30**|**Would I Lie To You? Inference Time Alignment of Language Models using Direct Preference Heads**|Avelina Asada Hadji-Kyriacou et.al.|[2405.20053](http://arxiv.org/abs/2405.20053)|**[link](https://github.com/Avelina9X/direct-preference-heads)**|
 |**2024-05-30**|**From Words to Actions: Unveiling the Theoretical Underpinnings of LLM-Driven Autonomous Systems**|Jianliang He et.al.|[2405.19883](http://arxiv.org/abs/2405.19883)|null|
