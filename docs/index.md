@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-14**|**Unconstrained Salient and Camouflaged Object Detection**|Zhangjun Zhou et.al.|[2412.10943](http://arxiv.org/abs/2412.10943)|null|
+|**2024-12-14**|**CATALOG: A Camera Trap Language-guided Contrastive Learning Model**|Julian D. Santamaria et.al.|[2412.10624](http://arxiv.org/abs/2412.10624)|**[link](https://github.com/julian075/catalog)**|
 |**2024-12-10**|**CapGen:An Environment-Adaptive Generator of Adversarial Patches**|Chaoqun Li et.al.|[2412.07253](http://arxiv.org/abs/2412.07253)|null|
 |**2024-12-02**|**Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes**|Xiaoqi Zhao et.al.|[2412.01240](http://arxiv.org/abs/2412.01240)|null|
 |**2024-11-28**|**COMPrompter: reconceptualized segment anything model with multiprompt network for camouflaged object detection**|Xiaoqin Zhang et.al.|[2411.18858](http://arxiv.org/abs/2411.18858)|**[link](https://github.com/guobaoxiao/comprompter)**|
@@ -120,6 +122,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**Advancing Comprehensive Aesthetic Insight with Multi-Scale Text-Guided Self-Supervised Learning**|Yuti Liu et.al.|[2412.11952](http://arxiv.org/abs/2412.11952)|null|
+|**2024-12-16**|**PICLe: Pseudo-Annotations for In-Context Learning in Low-Resource Named Entity Detection**|Sepideh Mamooler et.al.|[2412.11923](http://arxiv.org/abs/2412.11923)|null|
+|**2024-12-16**|**PunchBench: Benchmarking MLLMs in Multimodal Punchline Comprehension**|Kun Ouyang et.al.|[2412.11906](http://arxiv.org/abs/2412.11906)|null|
+|**2024-12-16**|**A Benchmark and Robustness Study of In-Context-Learning with Large Language Models in Music Entity Detection**|Simon Hachmeier et.al.|[2412.11851](http://arxiv.org/abs/2412.11851)|**[link](https://github.com/progsi/ytuncoverllm)**|
+|**2024-12-16**|**ColorFlow: Retrieval-Augmented Image Sequence Colorization**|Junhao Zhuang et.al.|[2412.11815](http://arxiv.org/abs/2412.11815)|null|
+|**2024-12-16**|**Embodied CoT Distillation From LLM To Off-the-shelf Agents**|Wonje Choi et.al.|[2412.11499](http://arxiv.org/abs/2412.11499)|null|
+|**2024-12-16**|**Understanding Knowledge Hijack Mechanism in In-context Learning through Associative Memory**|Shuo Wang et.al.|[2412.11459](http://arxiv.org/abs/2412.11459)|null|
+|**2024-12-15**|**HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation**|Tengfei Liu et.al.|[2412.11070](http://arxiv.org/abs/2412.11070)|**[link](https://github.com/tengfeiliu966/hc-llm)**|
+|**2024-12-14**|**Can LLMs Help Create Grammar?: Automating Grammar Creation for Endangered Languages with In-Context Learning**|Piyapath T Spencer et.al.|[2412.10960](http://arxiv.org/abs/2412.10960)|null|
 |**2024-12-13**|**ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL**|Yang Qin et.al.|[2412.10138](http://arxiv.org/abs/2412.10138)|**[link](https://github.com/alibaba/route)**|
 |**2024-12-13**|**CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models**|Zhihao Du et.al.|[2412.10117](http://arxiv.org/abs/2412.10117)|null|
 |**2024-12-13**|**RETQA: A Large-Scale Open-Domain Tabular Question Answering Dataset for Real Estate Sector**|Zhensheng Wang et.al.|[2412.10104](http://arxiv.org/abs/2412.10104)|**[link](https://github.com/jensen-w/retqa)**|
@@ -1093,6 +1104,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**Does VLM Classification Benefit from LLM Description Semantics?**|Pingchuan Ma et.al.|[2412.11917](http://arxiv.org/abs/2412.11917)|null|
+|**2024-12-16**|**From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach**|Xilin Wang et.al.|[2412.11892](http://arxiv.org/abs/2412.11892)|null|
+|**2024-12-16**|**LMM-Regularized CLIP Embeddings for Image Classification**|Maria Tzelepi et.al.|[2412.11663](http://arxiv.org/abs/2412.11663)|null|
+|**2024-12-16**|**Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves**|Shihan Wu et.al.|[2412.11509](http://arxiv.org/abs/2412.11509)|**[link](https://github.com/koorye/skiptuning)**|
+|**2024-12-16**|**Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents**|Wonje Choi et.al.|[2412.11484](http://arxiv.org/abs/2412.11484)|null|
+|**2024-12-16**|**OmniVLM: A Token-Compressed, Sub-Billion-Parameter Vision-Language Model for Efficient On-Device Inference**|Wei Chen et.al.|[2412.11475](http://arxiv.org/abs/2412.11475)|null|
+|**2024-12-16**|**MaskCLIP++: A Mask-Based CLIP Fine-tuning Framework for Open-Vocabulary Image Segmentation**|Quan-Sheng Zeng et.al.|[2412.11464](http://arxiv.org/abs/2412.11464)|null|
+|**2024-12-16**|**Leveraging Retrieval-Augmented Tags for Large Vision-Language Understanding in Complex Scenes**|Antonio Carlos Rivera et.al.|[2412.11396](http://arxiv.org/abs/2412.11396)|null|
+|**2024-12-16**|**Temporal Contrastive Learning for Video Temporal Reasoning in Large Vision-Language Models**|Rafael Souza et.al.|[2412.11391](http://arxiv.org/abs/2412.11391)|null|
+|**2024-12-15**|**Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval**|Zelong Sun et.al.|[2412.11087](http://arxiv.org/abs/2412.11087)|null|
 |**2024-12-13**|**UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities**|Muhammad Uzair Khattak et.al.|[2412.10372](http://arxiv.org/abs/2412.10372)|**[link](https://github.com/mbzuai-oryx/unimed-clip)**|
 |**2024-12-13**|**A dual contrastive framework**|Yuan Sun et.al.|[2412.10348](http://arxiv.org/abs/2412.10348)|null|
 |**2024-12-13**|**DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding**|Zhiyu Wu et.al.|[2412.10302](http://arxiv.org/abs/2412.10302)|**[link](https://github.com/deepseek-ai/deepseek-vl2)**|
@@ -2508,6 +2529,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**Advancing Comprehensive Aesthetic Insight with Multi-Scale Text-Guided Self-Supervised Learning**|Yuti Liu et.al.|[2412.11952](http://arxiv.org/abs/2412.11952)|null|
+|**2024-12-16**|**PICLe: Pseudo-Annotations for In-Context Learning in Low-Resource Named Entity Detection**|Sepideh Mamooler et.al.|[2412.11923](http://arxiv.org/abs/2412.11923)|null|
+|**2024-12-16**|**PunchBench: Benchmarking MLLMs in Multimodal Punchline Comprehension**|Kun Ouyang et.al.|[2412.11906](http://arxiv.org/abs/2412.11906)|null|
+|**2024-12-16**|**A Benchmark and Robustness Study of In-Context-Learning with Large Language Models in Music Entity Detection**|Simon Hachmeier et.al.|[2412.11851](http://arxiv.org/abs/2412.11851)|**[link](https://github.com/progsi/ytuncoverllm)**|
+|**2024-12-16**|**ColorFlow: Retrieval-Augmented Image Sequence Colorization**|Junhao Zhuang et.al.|[2412.11815](http://arxiv.org/abs/2412.11815)|null|
+|**2024-12-16**|**Embodied CoT Distillation From LLM To Off-the-shelf Agents**|Wonje Choi et.al.|[2412.11499](http://arxiv.org/abs/2412.11499)|null|
+|**2024-12-16**|**Understanding Knowledge Hijack Mechanism in In-context Learning through Associative Memory**|Shuo Wang et.al.|[2412.11459](http://arxiv.org/abs/2412.11459)|null|
+|**2024-12-15**|**HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation**|Tengfei Liu et.al.|[2412.11070](http://arxiv.org/abs/2412.11070)|**[link](https://github.com/tengfeiliu966/hc-llm)**|
+|**2024-12-14**|**Can LLMs Help Create Grammar?: Automating Grammar Creation for Endangered Languages with In-Context Learning**|Piyapath T Spencer et.al.|[2412.10960](http://arxiv.org/abs/2412.10960)|null|
 |**2024-12-13**|**ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL**|Yang Qin et.al.|[2412.10138](http://arxiv.org/abs/2412.10138)|**[link](https://github.com/alibaba/route)**|
 |**2024-12-13**|**CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models**|Zhihao Du et.al.|[2412.10117](http://arxiv.org/abs/2412.10117)|null|
 |**2024-12-13**|**RETQA: A Large-Scale Open-Domain Tabular Question Answering Dataset for Real Estate Sector**|Zhensheng Wang et.al.|[2412.10104](http://arxiv.org/abs/2412.10104)|**[link](https://github.com/jensen-w/retqa)**|
