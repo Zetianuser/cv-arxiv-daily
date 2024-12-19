@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Novel AI Camera Camouflage: Face Cloaking Without Full Disguise**|David Noever et.al.|[2412.13507](http://arxiv.org/abs/2412.13507)|null|
 |**2024-12-14**|**Unconstrained Salient and Camouflaged Object Detection**|Zhangjun Zhou et.al.|[2412.10943](http://arxiv.org/abs/2412.10943)|null|
 |**2024-12-14**|**CATALOG: A Camera Trap Language-guided Contrastive Learning Model**|Julian D. Santamaria et.al.|[2412.10624](http://arxiv.org/abs/2412.10624)|**[link](https://github.com/julian075/catalog)**|
 |**2024-12-10**|**CapGen:An Environment-Adaptive Generator of Adversarial Patches**|Chaoqun Li et.al.|[2412.07253](http://arxiv.org/abs/2412.07253)|null|
@@ -131,6 +132,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**LIFT: Improving Long Context Understanding Through Long Input Fine-Tuning**|Yansheng Mao et.al.|[2412.13626](http://arxiv.org/abs/2412.13626)|null|
+|**2024-12-17**|**In-context learning for medical image segmentation**|Eichi Takaya et.al.|[2412.13299](http://arxiv.org/abs/2412.13299)|null|
+|**2024-12-17**|**In-Context Learning Distillation for Efficient Few-Shot Fine-Tuning**|Yifei Duan et.al.|[2412.13243](http://arxiv.org/abs/2412.13243)|null|
 |**2024-12-17**|**Jailbreaking? One Step Is Enough!**|Weixiong Zheng et.al.|[2412.12621](http://arxiv.org/abs/2412.12621)|null|
 |**2024-12-17**|**Solid-SQL: Enhanced Schema-linking based In-context Learning for Robust Text-to-SQL**|Geling Liu et.al.|[2412.12522](http://arxiv.org/abs/2412.12522)|null|
 |**2024-12-16**|**Visual Instruction Tuning with 500x Fewer Parameters through Modality Linear Representation-Steering**|Jinhe Bi et.al.|[2412.12359](http://arxiv.org/abs/2412.12359)|**[link](https://github.com/bibisbar/LLaVA-Steering)**|
@@ -1119,6 +1123,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Incorporating Feature Pyramid Tokenization and Open Vocabulary Semantic Segmentation**|Jianyu Zhang et.al.|[2412.14145](http://arxiv.org/abs/2412.14145)|null|
+|**2024-12-18**|**Performance Gap in Entity Knowledge Extraction Across Modalities in Vision Language Models**|Ido Cohen et.al.|[2412.14133](http://arxiv.org/abs/2412.14133)|**[link](https://github.com/ido-co/vlm-modality-gap)**|
+|**2024-12-18**|**Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models**|Xinghang Li et.al.|[2412.14058](http://arxiv.org/abs/2412.14058)|null|
+|**2024-12-18**|**Cracking the Code of Hallucination in LVLMs with Vision-aware Head Divergence**|Jinghan He et.al.|[2412.13949](http://arxiv.org/abs/2412.13949)|null|
+|**2024-12-18**|**Real Classification by Description: Extending CLIP's Limits of Part Attributes Recognition**|Ethan Baron et.al.|[2412.13947](http://arxiv.org/abs/2412.13947)|null|
+|**2024-12-18**|**Nullu: Mitigating Object Hallucinations in Large Vision-Language Models via HalluSpace Projection**|Le Yang et.al.|[2412.13817](http://arxiv.org/abs/2412.13817)|**[link](https://github.com/ziwei-zheng/nullu)**|
+|**2024-12-18**|**RelationField: Relate Anything in Radiance Fields**|Sebastian Koch et.al.|[2412.13652](http://arxiv.org/abs/2412.13652)|null|
+|**2024-12-18**|**Read Like a Radiologist: Efficient Vision-Language Model for 3D Medical Imaging Interpretation**|Changsun Lee et.al.|[2412.13558](http://arxiv.org/abs/2412.13558)|null|
+|**2024-12-18**|**Benchmarking and Improving Large Vision-Language Models for Fundamental Visual Graph Understanding and Reasoning**|Yingjie Zhu et.al.|[2412.13540](http://arxiv.org/abs/2412.13540)|**[link](https://github.com/aaandy-zhu/vgcure)**|
+|**2024-12-17**|**Beyond Accuracy: On the Effects of Fine-tuning Towards Vision-Language Model's Prediction Rationality**|Qitong Wang et.al.|[2412.13333](http://arxiv.org/abs/2412.13333)|**[link](https://github.com/deep-real/vlm-pred-rationality)**|
 |**2024-12-17**|**HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction**|Chen Bao et.al.|[2412.13187](http://arxiv.org/abs/2412.13187)|null|
 |**2024-12-17**|**Feather the Throttle: Revisiting Visual Token Pruning for Vision-Language Model Acceleration**|Mark Endo et.al.|[2412.13180](http://arxiv.org/abs/2412.13180)|null|
 |**2024-12-17**|**CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models**|Zihui Cheng et.al.|[2412.12932](http://arxiv.org/abs/2412.12932)|null|
@@ -2558,6 +2572,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**LIFT: Improving Long Context Understanding Through Long Input Fine-Tuning**|Yansheng Mao et.al.|[2412.13626](http://arxiv.org/abs/2412.13626)|null|
+|**2024-12-17**|**In-context learning for medical image segmentation**|Eichi Takaya et.al.|[2412.13299](http://arxiv.org/abs/2412.13299)|null|
+|**2024-12-17**|**In-Context Learning Distillation for Efficient Few-Shot Fine-Tuning**|Yifei Duan et.al.|[2412.13243](http://arxiv.org/abs/2412.13243)|null|
 |**2024-12-17**|**Jailbreaking? One Step Is Enough!**|Weixiong Zheng et.al.|[2412.12621](http://arxiv.org/abs/2412.12621)|null|
 |**2024-12-17**|**Solid-SQL: Enhanced Schema-linking based In-context Learning for Robust Text-to-SQL**|Geling Liu et.al.|[2412.12522](http://arxiv.org/abs/2412.12522)|null|
 |**2024-12-16**|**Visual Instruction Tuning with 500x Fewer Parameters through Modality Linear Representation-Steering**|Jinhe Bi et.al.|[2412.12359](http://arxiv.org/abs/2412.12359)|**[link](https://github.com/bibisbar/LLaVA-Steering)**|
