@@ -123,6 +123,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Can Input Attributions Interpret the Inductive Reasoning Process Elicited in In-Context Learning?**|Mengyu Ye et.al.|[2412.15628](http://arxiv.org/abs/2412.15628)|null|
+|**2024-12-20**|**Dynamic Label Name Refinement for Few-Shot Dialogue Intent Classification**|Gyutae Park et.al.|[2412.15603](http://arxiv.org/abs/2412.15603)|null|
+|**2024-12-20**|**In-context Continual Learning Assisted by an External Continual Learner**|Saleh Momeni et.al.|[2412.15563](http://arxiv.org/abs/2412.15563)|null|
+|**2024-12-19**|**Conceptual In-Context Learning and Chain of Concepts: Solving Complex Conceptual Problems Using Large Language Models**|Nishtha N. Vaidya et.al.|[2412.15309](http://arxiv.org/abs/2412.15309)|null|
 |**2024-12-19**|**LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks**|Yushi Bai et.al.|[2412.15204](http://arxiv.org/abs/2412.15204)|**[link](https://github.com/thudm/longbench)**|
 |**2024-12-19**|**Associative memory inspires improvements for in-context learning using a novel attention residual stream architecture**|Thomas F Burns et.al.|[2412.15113](http://arxiv.org/abs/2412.15113)|**[link](https://github.com/tfburns/amicl-and-residual-attention-streams)**|
 |**2024-12-19**|**MultiverSeg: Scalable Interactive Segmentation of Biomedical Imaging Datasets with In-Context Guidance**|Hallee E. Wong et.al.|[2412.15058](http://arxiv.org/abs/2412.15058)|null|
@@ -1117,6 +1121,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding**|Chenxin Tao et.al.|[2412.16158](http://arxiv.org/abs/2412.16158)|null|
+|**2024-12-20**|**Frequency Is What You Need: Word-frequency Masking Benefits Vision-Language Model Pre-training**|Mingliang Liang et.al.|[2412.16148](http://arxiv.org/abs/2412.16148)|null|
+|**2024-12-20**|**Demystifying the Potential of ChatGPT-4 Vision for Construction Progress Monitoring**|Ahmet Bahaddin Ersoz et.al.|[2412.16108](http://arxiv.org/abs/2412.16108)|null|
+|**2024-12-20**|**VORD: Visual Ordinal Calibration for Mitigating Object Hallucinations in Large Vision-Language Models**|Dexter Neo et.al.|[2412.15739](http://arxiv.org/abs/2412.15739)|null|
+|**2024-12-20**|**Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage**|Zhi Gao et.al.|[2412.15606](http://arxiv.org/abs/2412.15606)|null|
+|**2024-12-20**|**VLM-RL: A Unified Vision Language Models and Reinforcement Learning Framework for Safe Autonomous Driving**|Zilin Huang et.al.|[2412.15544](http://arxiv.org/abs/2412.15544)|null|
+|**2024-12-20**|**PolySmart @ TRECVid 2024 Video-To-Text**|Jiaxin Wu et.al.|[2412.15509](http://arxiv.org/abs/2412.15509)|null|
+|**2024-12-19**|**TalkWithMachines: Enhancing Human-Robot Interaction for Interpretable Industrial Robotics Through Large/Vision Language Models**|Ammar N. Abbas et.al.|[2412.15462](http://arxiv.org/abs/2412.15462)|null|
 |**2024-12-19**|**PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation**|Muntasir Wahed et.al.|[2412.15209](http://arxiv.org/abs/2412.15209)|null|
 |**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|**[link](https://github.com/taco-group/autotrust)**|
 |**2024-12-19**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Sagar Soni et.al.|[2412.15190](http://arxiv.org/abs/2412.15190)|null|
@@ -2572,6 +2584,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Can Input Attributions Interpret the Inductive Reasoning Process Elicited in In-Context Learning?**|Mengyu Ye et.al.|[2412.15628](http://arxiv.org/abs/2412.15628)|null|
+|**2024-12-20**|**Dynamic Label Name Refinement for Few-Shot Dialogue Intent Classification**|Gyutae Park et.al.|[2412.15603](http://arxiv.org/abs/2412.15603)|null|
+|**2024-12-20**|**In-context Continual Learning Assisted by an External Continual Learner**|Saleh Momeni et.al.|[2412.15563](http://arxiv.org/abs/2412.15563)|null|
+|**2024-12-19**|**Conceptual In-Context Learning and Chain of Concepts: Solving Complex Conceptual Problems Using Large Language Models**|Nishtha N. Vaidya et.al.|[2412.15309](http://arxiv.org/abs/2412.15309)|null|
 |**2024-12-19**|**LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks**|Yushi Bai et.al.|[2412.15204](http://arxiv.org/abs/2412.15204)|**[link](https://github.com/thudm/longbench)**|
 |**2024-12-19**|**Associative memory inspires improvements for in-context learning using a novel attention residual stream architecture**|Thomas F Burns et.al.|[2412.15113](http://arxiv.org/abs/2412.15113)|**[link](https://github.com/tfburns/amicl-and-residual-attention-streams)**|
 |**2024-12-19**|**MultiverSeg: Scalable Interactive Segmentation of Biomedical Imaging Datasets with In-Context Guidance**|Hallee E. Wong et.al.|[2412.15058](http://arxiv.org/abs/2412.15058)|null|
