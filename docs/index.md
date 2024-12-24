@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-22**|**Seamless Detection: Unifying Salient Object Detection and Camouflaged Object Detection**|Yi Liu et.al.|[2412.16840](http://arxiv.org/abs/2412.16840)|**[link](https://github.com/liuyi1989/seamless-detection)**|
 |**2024-12-18**|**Novel AI Camera Camouflage: Face Cloaking Without Full Disguise**|David Noever et.al.|[2412.13507](http://arxiv.org/abs/2412.13507)|null|
 |**2024-12-14**|**Unconstrained Salient and Camouflaged Object Detection**|Zhangjun Zhou et.al.|[2412.10943](http://arxiv.org/abs/2412.10943)|null|
 |**2024-12-14**|**CATALOG: A Camera Trap Language-guided Contrastive Learning Model**|Julian D. Santamaria et.al.|[2412.10624](http://arxiv.org/abs/2412.10624)|**[link](https://github.com/julian075/catalog)**|
@@ -123,6 +124,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-22**|**SAIL: Sample-Centric In-Context Learning for Document Information Extraction**|Jinyu Zhang et.al.|[2412.17092](http://arxiv.org/abs/2412.17092)|**[link](https://github.com/sky-goldfish/sail)**|
+|**2024-12-22**|**PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-aware Mask**|Jeongho Kim et.al.|[2412.16978](http://arxiv.org/abs/2412.16978)|**[link](https://github.com/rlawjdghek/promptdresser)**|
+|**2024-12-22**|**Revisiting In-Context Learning with Long Context Language Models**|Jinheon Baek et.al.|[2412.16926](http://arxiv.org/abs/2412.16926)|null|
+|**2024-12-21**|**Dynamical Behaviors of the Gradient Flows for In-Context Learning**|Songtao Lu et.al.|[2412.16683](http://arxiv.org/abs/2412.16683)|null|
+|**2024-12-21**|**Learning Cross-Task Generalities Across Graphs via Task-trees**|Zehong Wang et.al.|[2412.16441](http://arxiv.org/abs/2412.16441)|null|
 |**2024-12-20**|**Can Input Attributions Interpret the Inductive Reasoning Process Elicited in In-Context Learning?**|Mengyu Ye et.al.|[2412.15628](http://arxiv.org/abs/2412.15628)|null|
 |**2024-12-20**|**Dynamic Label Name Refinement for Few-Shot Dialogue Intent Classification**|Gyutae Park et.al.|[2412.15603](http://arxiv.org/abs/2412.15603)|null|
 |**2024-12-20**|**In-context Continual Learning Assisted by an External Continual Learner**|Saleh Momeni et.al.|[2412.15563](http://arxiv.org/abs/2412.15563)|null|
@@ -1121,6 +1127,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**ChatGarment: Garment Estimation, Generation and Editing via Large Language Models**|Siyuan Bian et.al.|[2412.17811](http://arxiv.org/abs/2412.17811)|null|
+|**2024-12-23**|**Comprehensive Multi-Modal Prototypes are Simple and Effective Classifiers for Vast-Vocabulary Object Detection**|Yitong Chen et.al.|[2412.17800](http://arxiv.org/abs/2412.17800)|**[link](https://github.com/row11n/prova)**|
+|**2024-12-23**|**Cross-Lingual Text-Rich Visual Comprehension: An Information Theory Perspective**|Xinmiao Yu et.al.|[2412.17787](http://arxiv.org/abs/2412.17787)|null|
+|**2024-12-23**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|null|
+|**2024-12-23**|**Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection**|Fenfang Tao et.al.|[2412.17619](http://arxiv.org/abs/2412.17619)|**[link](https://github.com/cvl-hub/kag-prompt)**|
+|**2024-12-23**|**Personalized Large Vision-Language Models**|Chau Pham et.al.|[2412.17610](http://arxiv.org/abs/2412.17610)|null|
+|**2024-12-23**|**Retention Score: Quantifying Jailbreak Risks for Vision Language Models**|Zaitang Li et.al.|[2412.17544](http://arxiv.org/abs/2412.17544)|null|
+|**2024-12-23**|**On the Feasibility of Vision-Language Models for Time-Series Classification**|Vinay Prithyani et.al.|[2412.17304](http://arxiv.org/abs/2412.17304)|null|
+|**2024-12-23**|**GCS-M3VLT: Guided Context Self-Attention based Multi-modal Medical Vision Language Transformer for Retinal Image Captioning**|Teja Krishna Cherukuri et.al.|[2412.17251](http://arxiv.org/abs/2412.17251)|null|
+|**2024-12-22**|**ViLBias: A Framework for Bias Detection using Linguistic and Visual Cues**|Shaina Raza et.al.|[2412.17052](http://arxiv.org/abs/2412.17052)|null|
 |**2024-12-20**|**HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding**|Chenxin Tao et.al.|[2412.16158](http://arxiv.org/abs/2412.16158)|null|
 |**2024-12-20**|**Frequency Is What You Need: Word-frequency Masking Benefits Vision-Language Model Pre-training**|Mingliang Liang et.al.|[2412.16148](http://arxiv.org/abs/2412.16148)|null|
 |**2024-12-20**|**Demystifying the Potential of ChatGPT-4 Vision for Construction Progress Monitoring**|Ahmet Bahaddin Ersoz et.al.|[2412.16108](http://arxiv.org/abs/2412.16108)|null|
@@ -2584,6 +2600,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-22**|**SAIL: Sample-Centric In-Context Learning for Document Information Extraction**|Jinyu Zhang et.al.|[2412.17092](http://arxiv.org/abs/2412.17092)|**[link](https://github.com/sky-goldfish/sail)**|
+|**2024-12-22**|**PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-aware Mask**|Jeongho Kim et.al.|[2412.16978](http://arxiv.org/abs/2412.16978)|**[link](https://github.com/rlawjdghek/promptdresser)**|
+|**2024-12-22**|**Revisiting In-Context Learning with Long Context Language Models**|Jinheon Baek et.al.|[2412.16926](http://arxiv.org/abs/2412.16926)|null|
+|**2024-12-21**|**Dynamical Behaviors of the Gradient Flows for In-Context Learning**|Songtao Lu et.al.|[2412.16683](http://arxiv.org/abs/2412.16683)|null|
+|**2024-12-21**|**Learning Cross-Task Generalities Across Graphs via Task-trees**|Zehong Wang et.al.|[2412.16441](http://arxiv.org/abs/2412.16441)|null|
 |**2024-12-20**|**Can Input Attributions Interpret the Inductive Reasoning Process Elicited in In-Context Learning?**|Mengyu Ye et.al.|[2412.15628](http://arxiv.org/abs/2412.15628)|null|
 |**2024-12-20**|**Dynamic Label Name Refinement for Few-Shot Dialogue Intent Classification**|Gyutae Park et.al.|[2412.15603](http://arxiv.org/abs/2412.15603)|null|
 |**2024-12-20**|**In-context Continual Learning Assisted by an External Continual Learner**|Saleh Momeni et.al.|[2412.15563](http://arxiv.org/abs/2412.15563)|null|
