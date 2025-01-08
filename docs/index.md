@@ -129,6 +129,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**A Soft Sensor Method with Uncertainty-Awareness and Self-Explanation Based on Large Language Models Enhanced by Domain Knowledge Retrieval**|Shuo Tong et.al.|[2501.03295](http://arxiv.org/abs/2501.03295)|null|
 |**2025-01-06**|**BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning**|Beichen Zhang et.al.|[2501.03226](http://arxiv.org/abs/2501.03226)|**[link](https://github.com/beichenzbc/booststep)**|
 |**2025-01-06**|**Semantic Captioning: Benchmark Dataset and Graph-Aware Few-Shot In-Context Learning for SQL2Text**|Ali Al-Lawati et.al.|[2501.03166](http://arxiv.org/abs/2501.03166)|**[link](https://github.com/aliwister/ast-icl)**|
 |**2025-01-03**|**Adaptive Few-shot Prompting for Machine Translation with Pre-trained Language Models**|Lei Tang et.al.|[2501.01679](http://arxiv.org/abs/2501.01679)|null|
@@ -1152,6 +1153,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[2501.04003](http://arxiv.org/abs/2501.04003)|null|
+|**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|null|
+|**2025-01-07**|**RAG-Check: Evaluating Multimodal Retrieval Augmented Generation Performance**|Matin Mortaheb et.al.|[2501.03995](http://arxiv.org/abs/2501.03995)|null|
+|**2025-01-07**|**VLM-driven Behavior Tree for Context-aware Task Planning**|Naoki Wake et.al.|[2501.03968](http://arxiv.org/abs/2501.03968)|null|
+|**2025-01-07**|**Vision Language Models as Values Detectors**|Giulio Antonio Abbo et.al.|[2501.03957](http://arxiv.org/abs/2501.03957)|null|
+|**2025-01-07**|**OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints**|Mingjie Pan et.al.|[2501.03841](http://arxiv.org/abs/2501.03841)|null|
+|**2025-01-07**|**KAnoCLIP: Zero-Shot Anomaly Detection through Knowledge-Driven Prompt Learning and Enhanced Cross-Modal Integration**|Chengyuan Li et.al.|[2501.03786](http://arxiv.org/abs/2501.03786)|null|
+|**2025-01-07**|**Realistic Test-Time Adaptation of Vision-Language Models**|Maxime Zanella et.al.|[2501.03729](http://arxiv.org/abs/2501.03729)|**[link](https://github.com/maxzanella/stata)**|
+|**2025-01-07**|**Self-adaptive vision-language model for 3D segmentation of pulmonary artery and vein**|Xiaotong Guo et.al.|[2501.03722](http://arxiv.org/abs/2501.03722)|null|
+|**2025-01-07**|**SMIR: Efficient Synthetic Data Pipeline To Improve Multi-Image Reasoning**|Andrew Li et.al.|[2501.03675](http://arxiv.org/abs/2501.03675)|null|
 |**2025-01-06**|**Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation**|Yuhui Zhang et.al.|[2501.03225](http://arxiv.org/abs/2501.03225)|**[link](https://github.com/yuhui-zh15/autoconverter)**|
 |**2025-01-06**|**Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches**|Alhassan Mumuni et.al.|[2501.03151](http://arxiv.org/abs/2501.03151)|null|
 |**2025-01-06**|**MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models**|Wenyi Hong et.al.|[2501.02955](http://arxiv.org/abs/2501.02955)|null|
@@ -2678,6 +2689,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**A Soft Sensor Method with Uncertainty-Awareness and Self-Explanation Based on Large Language Models Enhanced by Domain Knowledge Retrieval**|Shuo Tong et.al.|[2501.03295](http://arxiv.org/abs/2501.03295)|null|
 |**2025-01-06**|**BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning**|Beichen Zhang et.al.|[2501.03226](http://arxiv.org/abs/2501.03226)|**[link](https://github.com/beichenzbc/booststep)**|
 |**2025-01-06**|**Semantic Captioning: Benchmark Dataset and Graph-Aware Few-Shot In-Context Learning for SQL2Text**|Ali Al-Lawati et.al.|[2501.03166](http://arxiv.org/abs/2501.03166)|**[link](https://github.com/aliwister/ast-icl)**|
 |**2025-01-03**|**Adaptive Few-shot Prompting for Machine Translation with Pre-trained Language Models**|Lei Tang et.al.|[2501.01679](http://arxiv.org/abs/2501.01679)|null|
