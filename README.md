@@ -35,7 +35,7 @@
 |**2024-11-28**|**COMPrompter: reconceptualized segment anything model with multiprompt network for camouflaged object detection**|Xiaoqin Zhang et.al.|[2411.18858](http://arxiv.org/abs/2411.18858)|**[link](https://github.com/guobaoxiao/comprompter)**|
 |**2024-11-15**|**Toward Robust and Accurate Adversarial Camouflage Generation against Vehicle Detectors**|Jiawei Zhou et.al.|[2411.10029](http://arxiv.org/abs/2411.10029)|null|
 |**2024-11-10**|**SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt Chains**|Bijoy Ahmed Saiem et.al.|[2411.06426](http://arxiv.org/abs/2411.06426)|null|
-|**2024-11-22**|**Financial Fraud Detection using Jump-Attentive Graph Neural Networks**|Prashank Kadam et.al.|[2411.05857](http://arxiv.org/abs/2411.05857)|null|
+|**2024-11-22**|**Financial Fraud Detection using Jump-Attentive Graph Neural Networks**|Prashank Kadam et.al.|[2411.05857](http://arxiv.org/abs/2411.05857)|**[link](https://github.com/foobar777x/ja-gnn-exp)**|
 |**2024-10-28**|**TACO: Adversarial Camouflage Optimization on Trucks to Fool Object Detectors**|Adonisz Dimitriu et.al.|[2410.21443](http://arxiv.org/abs/2410.21443)|null|
 |**2024-10-23**|**PlantCamo: Plant Camouflage Detection**|Jinyu Yang et.al.|[2410.17598](http://arxiv.org/abs/2410.17598)|**[link](https://github.com/yjybuaa/plantcamo)**|
 |**2024-10-22**|**Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations**|Cheng Lei et.al.|[2410.16953](http://arxiv.org/abs/2410.16953)|null|
@@ -44,7 +44,7 @@
 |**2024-10-05**|**Exploring Strengths and Weaknesses of Super-Resolution Attack in Deepfake Detection**|Davide Alessandro Coccomini et.al.|[2410.04205](http://arxiv.org/abs/2410.04205)|null|
 |**2024-10-05**|**Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection**|Dingwen Zhang et.al.|[2410.03987](http://arxiv.org/abs/2410.03987)|null|
 |**2024-09-27**|**When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation**|Yuli Zhou et.al.|[2409.18653](http://arxiv.org/abs/2409.18653)|**[link](https://github.com/zhoustan/sam2-vcos)**|
-|**2024-09-26**|**CNCA: Toward Customizable and Natural Generation of Adversarial Camouflage for Vehicle Detectors**|Linye Lyu et.al.|[2409.17963](http://arxiv.org/abs/2409.17963)|null|
+|**2024-09-26**|**CNCA: Toward Customizable and Natural Generation of Adversarial Camouflage for Vehicle Detectors**|Linye Lyu et.al.|[2409.17963](http://arxiv.org/abs/2409.17963)|**[link](https://github.com/SeRAlab/CNCA)**|
 |**2024-09-25**|**Towards Underwater Camouflaged Object Tracking: An Experimental Evaluation of SAM and SAM 2**|Chunhui Zhang et.al.|[2409.16902](http://arxiv.org/abs/2409.16902)|**[link](https://github.com/983632847/awesome-multimodal-object-tracking)**|
 |**2024-09-24**|**Phase-space gaussian ensemble quantum camouflage**|Alex E. Bernardini et.al.|[2409.16377](http://arxiv.org/abs/2409.16377)|null|
 |**2024-09-24**|**MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios**|Jiacheng Ruan et.al.|[2409.16084](http://arxiv.org/abs/2409.16084)|**[link](https://github.com/jcruan519/mm-camobj)**|
@@ -102,7 +102,7 @@
 |**2024-03-14**|**Semi- and Weakly-Supervised Learning for Mammogram Mass Segmentation with Limited Annotations**|Xinyu Xiong et.al.|[2403.09315](http://arxiv.org/abs/2403.09315)|null|
 |**2024-05-04**|**Effectiveness Assessment of Recent Large Vision-Language Models**|Yao Jiang et.al.|[2403.04306](http://arxiv.org/abs/2403.04306)|null|
 |**2024-03-04**|**Explicit Motion Handling and Interactive Prompting for Video Camouflaged Object Detection**|Xin Zhang et.al.|[2403.01968](http://arxiv.org/abs/2403.01968)|null|
-|**2024-02-29**|**A Simple yet Effective Network based on Vision Transformer for Camouflaged Object and Salient Object Detection**|Chao Hao et.al.|[2402.18922](http://arxiv.org/abs/2402.18922)|null|
+|**2024-02-29**|**A Simple yet Effective Network based on Vision Transformer for Camouflaged Object and Salient Object Detection**|Chao Hao et.al.|[2402.18922](http://arxiv.org/abs/2402.18922)|**[link](https://github.com/linuxsino/senet)**|
 |**2024-02-28**|**Spatial Coherence Loss for Salient and Camouflaged Object Detection and Beyond**|Ziyun Yang et.al.|[2402.18698](http://arxiv.org/abs/2402.18698)|null|
 |**2024-02-28**|**Living-off-The-Land Reverse-Shell Detection by Informed Data Augmentation**|Dmitrijs Trizna et.al.|[2402.18329](http://arxiv.org/abs/2402.18329)|null|
 |**2024-02-24**|**RAUCA: A Novel Physical Adversarial Attack on Vehicle Detectors via Robust and Accurate Camouflage Generation**|Jiawei Zhou et.al.|[2402.15853](http://arxiv.org/abs/2402.15853)|**[link](https://github.com/seralab/robust-and-accurate-uv-map-based-camouflage-attack)**|
@@ -385,7 +385,7 @@
 |**2024-10-09**|**Generative Model for Less-Resourced Language with 1 billion parameters**|Domen Vreš et.al.|[2410.06898](http://arxiv.org/abs/2410.06898)|null|
 |**2024-10-10**|**Mind Your Questions! Towards Backdoor Attacks on Text-to-Visualization Models**|Shuaimin Li et.al.|[2410.06782](http://arxiv.org/abs/2410.06782)|null|
 |**2024-10-09**|**Which Programming Language and What Features at Pre-training Stage Affect Downstream Logical Inference Performance?**|Fumiya Uchiyama et.al.|[2410.06735](http://arxiv.org/abs/2410.06735)|**[link](https://github.com/fumiyauchiyama/code_pretraining)**|
-|**2024-10-09**|**Tree of Problems: Improving structured problem solving with compositionality**|Armel Zebaze et.al.|[2410.06634](http://arxiv.org/abs/2410.06634)|null|
+|**2024-10-09**|**Tree of Problems: Improving structured problem solving with compositionality**|Armel Zebaze et.al.|[2410.06634](http://arxiv.org/abs/2410.06634)|**[link](https://github.com/ArmelRandy/tree-of-problems)**|
 |**2024-10-09**|**MaD-Scientist: AI-based Scientist solving Convection-Diffusion-Reaction Equations Using Massive PINN-Based Prior Data**|Mingu Kang et.al.|[2410.06442](http://arxiv.org/abs/2410.06442)|null|
 |**2024-10-08**|**Are Large Language Models State-of-the-art Quality Estimators for Machine Translation of User-generated Content?**|Shenbin Qian et.al.|[2410.06338](http://arxiv.org/abs/2410.06338)|**[link](https://github.com/surrey-nlp/LLMs4MTQE-UGC)**|
 |**2024-10-08**|**The Mystery of Compositional Generalization in Graph-based Generative Commonsense Reasoning**|Xiyan Fu et.al.|[2410.06272](http://arxiv.org/abs/2410.06272)|**[link](https://github.com/Heidelberg-NLP/CGGC)**|
@@ -1183,8 +1183,8 @@
 |**2025-01-08**|**Eve: Efficient Multimodal Vision Language Models with Elastic Visual Experts**|Miao Rang et.al.|[2501.04322](http://arxiv.org/abs/2501.04322)|null|
 |**2025-01-08**|**Robotic Programmer: Video Instructed Policy Code Generation for Robotic Manipulation**|Senwei Xie et.al.|[2501.04268](http://arxiv.org/abs/2501.04268)|null|
 |**2025-01-07**|**MM-GEN: Enhancing Task Performance Through Targeted Multimodal Data Curation**|Siddharth Joshi et.al.|[2501.04155](http://arxiv.org/abs/2501.04155)|**[link](https://github.com/sjoshi804/mm-gen)**|
-|**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[2501.04003](http://arxiv.org/abs/2501.04003)|null|
-|**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|null|
+|**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[2501.04003](http://arxiv.org/abs/2501.04003)|**[link](https://github.com/opendrivelab/drivelm)**|
+|**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|**[link](https://github.com/magic-research/Sa2VA)**|
 |**2025-01-07**|**RAG-Check: Evaluating Multimodal Retrieval Augmented Generation Performance**|Matin Mortaheb et.al.|[2501.03995](http://arxiv.org/abs/2501.03995)|null|
 |**2025-01-07**|**VLM-driven Behavior Tree for Context-aware Task Planning**|Naoki Wake et.al.|[2501.03968](http://arxiv.org/abs/2501.03968)|null|
 |**2025-01-07**|**Vision Language Models as Values Detectors**|Giulio Antonio Abbo et.al.|[2501.03957](http://arxiv.org/abs/2501.03957)|null|
@@ -1199,7 +1199,7 @@
 |**2025-01-06**|**Label-free Concept Based Multiple Instance Learning for Gigapixel Histopathology**|Susu Sun et.al.|[2501.02922](http://arxiv.org/abs/2501.02922)|null|
 |**2025-01-06**|**Large Language Models for Video Surveillance Applications**|Ulindu De Silva et.al.|[2501.02850](http://arxiv.org/abs/2501.02850)|null|
 |**2025-01-05**|**Generalizing from SIMPLE to HARD Visual Reasoning: Can We Mitigate Modality Imbalance in VLMs?**|Simon Park et.al.|[2501.02669](http://arxiv.org/abs/2501.02669)|**[link](https://github.com/princeton-pli/vlm_s2h)**|
-|**2025-01-05**|**Efficient Architectures for High Resolution Vision-Language Models**|Miguel Carvalho et.al.|[2501.02584](http://arxiv.org/abs/2501.02584)|null|
+|**2025-01-05**|**Efficient Architectures for High Resolution Vision-Language Models**|Miguel Carvalho et.al.|[2501.02584](http://arxiv.org/abs/2501.02584)|**[link](https://github.com/miguelscarv/pheye)**|
 |**2025-01-05**|**FedRSClip: Federated Learning for Remote Sensing Scene Classification Using Vision-Language Models**|Hui Lin et.al.|[2501.02461](http://arxiv.org/abs/2501.02461)|null|
 |**2025-01-04**|**Guiding Medical Vision-Language Models with Explicit Visual Prompts: Framework Design and Comprehensive Exploration of Prompt Variations**|Kangyu Zhu et.al.|[2501.02385](http://arxiv.org/abs/2501.02385)|null|
 |**2025-01-04**|**Examining the Robustness of Homogeneity Bias to Hyperparameter Adjustments in GPT-4**|Messi H. J. Lee et.al.|[2501.02211](http://arxiv.org/abs/2501.02211)|null|
@@ -1255,7 +1255,7 @@
 |**2024-12-23**|**Retention Score: Quantifying Jailbreak Risks for Vision Language Models**|Zaitang Li et.al.|[2412.17544](http://arxiv.org/abs/2412.17544)|null|
 |**2024-12-23**|**On the Feasibility of Vision-Language Models for Time-Series Classification**|Vinay Prithyani et.al.|[2412.17304](http://arxiv.org/abs/2412.17304)|**[link](https://github.com/vinayp17/vlm_tsc)**|
 |**2024-12-23**|**GCS-M3VLT: Guided Context Self-Attention based Multi-modal Medical Vision Language Transformer for Retinal Image Captioning**|Teja Krishna Cherukuri et.al.|[2412.17251](http://arxiv.org/abs/2412.17251)|null|
-|**2024-12-22**|**ViLBias: A Framework for Bias Detection using Linguistic and Visual Cues**|Shaina Raza et.al.|[2412.17052](http://arxiv.org/abs/2412.17052)|null|
+|**2024-12-22**|**ViLBias: A Framework for Bias Detection using Linguistic and Visual Cues**|Shaina Raza et.al.|[2412.17052](http://arxiv.org/abs/2412.17052)|**[link](https://github.com/shainarazavi/vilbias)**|
 |**2024-12-20**|**HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding**|Chenxin Tao et.al.|[2412.16158](http://arxiv.org/abs/2412.16158)|null|
 |**2024-12-20**|**Frequency Is What You Need: Word-frequency Masking Benefits Vision-Language Model Pre-training**|Mingliang Liang et.al.|[2412.16148](http://arxiv.org/abs/2412.16148)|**[link](https://github.com/mingliangliang3/clipf)**|
 |**2024-12-20**|**Demystifying the Potential of ChatGPT-4 Vision for Construction Progress Monitoring**|Ahmet Bahaddin Ersoz et.al.|[2412.16108](http://arxiv.org/abs/2412.16108)|null|
@@ -1332,7 +1332,7 @@
 |**2024-12-11**|**TextRefiner: Internal Visual Feature as Efficient Refiner for Vision-Language Models Prompt Tuning**|Jingjing Xie et.al.|[2412.08176](http://arxiv.org/abs/2412.08176)|**[link](https://github.com/xjjxmu/textrefiner)**|
 |**2024-12-11**|**Progressive Multi-granular Alignments for Grounded Reasoning in Large Vision-Language Models**|Quang-Hung Le et.al.|[2412.08125](http://arxiv.org/abs/2412.08125)|**[link](https://github.com/lqh52/promvil)**|
 |**2024-12-11**|**Seeing Syntax: Uncovering Syntactic Learning Limitations in Vision-Language Models**|Sri Harsha Dumpala et.al.|[2412.08111](http://arxiv.org/abs/2412.08111)|null|
-|**2024-12-10**|**RADIO Amplified: Improved Baselines for Agglomerative Vision Foundation Models**|Greg Heinrich et.al.|[2412.07679](http://arxiv.org/abs/2412.07679)|null|
+|**2024-12-10**|**RADIO Amplified: Improved Baselines for Agglomerative Vision Foundation Models**|Greg Heinrich et.al.|[2412.07679](http://arxiv.org/abs/2412.07679)|**[link](https://github.com/nvlabs/radio)**|
 |**2024-12-10**|**DRUM: Learning Demonstration Retriever for Large MUlti-modal Models**|Ellen Yi-Ge et.al.|[2412.07619](http://arxiv.org/abs/2412.07619)|null|
 |**2024-12-10**|**Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios**|Jiaqi Fan et.al.|[2412.07518](http://arxiv.org/abs/2412.07518)|**[link](https://github.com/fjq-tongji/hcoenet)**|
 |**2024-12-10**|**SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World**|Jiaqi Zhang et.al.|[2412.07472](http://arxiv.org/abs/2412.07472)|**[link](https://github.com/tsinghua-fib-lab/smartagent)**|
@@ -1663,7 +1663,7 @@
 |**2024-10-09**|**VHELM: A Holistic Evaluation of Vision Language Models**|Tony Lee et.al.|[2410.07112](http://arxiv.org/abs/2410.07112)|**[link](https://github.com/stanford-crfm/helm)**|
 |**2024-10-09**|**Pixtral 12B**|Pravesh Agrawal et.al.|[2410.07073](http://arxiv.org/abs/2410.07073)|**[link](https://github.com/mistralai/mistral-inference)**|
 |**2024-10-09**|**Preference Fine-Tuning for Factuality in Chest X-Ray Interpretation Models Without Human Feedback**|Dennis Hein et.al.|[2410.07025](http://arxiv.org/abs/2410.07025)|null|
-|**2024-10-09**|**$\texttt{ModSCAN}$ : Measuring Stereotypical Bias in Large Vision-Language Models from Vision and Language Modalities**|Yukun Jiang et.al.|[2410.06967](http://arxiv.org/abs/2410.06967)|null|
+|**2024-10-09**|**$\texttt{ModSCAN}$ : Measuring Stereotypical Bias in Large Vision-Language Models from Vision and Language Modalities**|Yukun Jiang et.al.|[2410.06967](http://arxiv.org/abs/2410.06967)|**[link](https://github.com/TrustAIRLab/ModSCAN)**|
 |**2024-10-09**|**Compositional Entailment Learning for Hyperbolic Vision-Language Models**|Avik Pal et.al.|[2410.06912](http://arxiv.org/abs/2410.06912)|null|
 |**2024-10-09**|**From Pixels to Tokens: Revisiting Object Hallucinations in Large Vision-Language Models**|Yuying Shang et.al.|[2410.06795](http://arxiv.org/abs/2410.06795)|null|
 |**2024-10-09**|**Break the Visual Perception: Adversarial Attacks Targeting Encoded Visual Tokens of Large Vision-Language Models**|Yubo Wang et.al.|[2410.06699](http://arxiv.org/abs/2410.06699)|null|
@@ -1846,7 +1846,7 @@
 |**2024-08-19**|**SANER: Annotation-free Societal Attribute Neutralizer for Debiasing CLIP**|Yusuke Hirota et.al.|[2408.10202](http://arxiv.org/abs/2408.10202)|null|
 |**2024-08-21**|**LongVILA: Scaling Long-Context Visual Language Models for Long Videos**|Fuzhao Xue et.al.|[2408.10188](http://arxiv.org/abs/2408.10188)|**[link](https://github.com/nvlabs/vila)**|
 |**2024-08-19**|**Boosting Open-Domain Continual Learning via Leveraging Intra-domain Category-aware Prototype**|Yadong Lu et.al.|[2408.09984](http://arxiv.org/abs/2408.09984)|null|
-|**2024-08-19**|**Attribution Analysis Meets Model Editing: Advancing Knowledge Correction in Vision Language Models with VisEdit**|Qizhou Chen et.al.|[2408.09916](http://arxiv.org/abs/2408.09916)|null|
+|**2024-08-19**|**Attribution Analysis Meets Model Editing: Advancing Knowledge Correction in Vision Language Models with VisEdit**|Qizhou Chen et.al.|[2408.09916](http://arxiv.org/abs/2408.09916)|**[link](https://github.com/qizhou000/visedit)**|
 |**2024-08-19**|**Cross-composition Feature Disentanglement for Compositional Zero-shot Learning**|Yuxia Geng et.al.|[2408.09786](http://arxiv.org/abs/2408.09786)|null|
 |**2024-08-19**|**MePT: Multi-Representation Guided Prompt Tuning for Vision-Language Model**|Xinyang Wang et.al.|[2408.09706](http://arxiv.org/abs/2408.09706)|null|
 |**2024-08-18**|**PA-LLaVA: A Large Language-Vision Assistant for Human Pathology Image Understanding**|Dawei Dai et.al.|[2408.09530](http://arxiv.org/abs/2408.09530)|**[link](https://github.com/ddw2aigroup2cqupt/pa-llava)**|
@@ -2055,7 +2055,7 @@
 |**2024-07-02**|**Multi-Modal Video Dialog State Tracking in the Wild**|Adnen Abdessaied et.al.|[2407.02218](http://arxiv.org/abs/2407.02218)|null|
 |**2024-07-02**|**BiasDora: Exploring Hidden Biased Associations in Vision-Language Models**|Chahat Raj et.al.|[2407.02066](http://arxiv.org/abs/2407.02066)|**[link](https://github.com/chahatraj/BiasDora)**|
 |**2024-07-02**|**Fake News Detection and Manipulation Reasoning via Large Vision-Language Models**|Ruihan Jin et.al.|[2407.02042](http://arxiv.org/abs/2407.02042)|null|
-|**2024-07-03**|**ViG-Bias: Visually Grounded Bias Discovery and Mitigation**|Badr-Eddine Marani et.al.|[2407.01996](http://arxiv.org/abs/2407.01996)|null|
+|**2024-07-03**|**ViG-Bias: Visually Grounded Bias Discovery and Mitigation**|Badr-Eddine Marani et.al.|[2407.01996](http://arxiv.org/abs/2407.01996)|**[link](https://github.com/badrmarani/vig-bias-eccv)**|
 |**2024-07-02**|**SADL: An Effective In-Context Learning Method for Compositional Visual QA**|Long Hoang Dang et.al.|[2407.01983](http://arxiv.org/abs/2407.01983)|null|
 |**2024-07-02**|**VSP: Assessing the dual challenges of perception and reasoning in spatial planning tasks for VLMs**|Qiucheng Wu et.al.|[2407.01863](http://arxiv.org/abs/2407.01863)|**[link](https://github.com/ucsb-nlp-chang/visual-spatial-planning)**|
 |**2024-07-01**|**CLIP the Divergence: Language-guided Unsupervised Domain Adaptation**|Jinjing Zhu et.al.|[2407.01842](http://arxiv.org/abs/2407.01842)|null|
@@ -2970,7 +2970,7 @@
 |**2024-10-09**|**Generative Model for Less-Resourced Language with 1 billion parameters**|Domen Vreš et.al.|[2410.06898](http://arxiv.org/abs/2410.06898)|null|
 |**2024-10-10**|**Mind Your Questions! Towards Backdoor Attacks on Text-to-Visualization Models**|Shuaimin Li et.al.|[2410.06782](http://arxiv.org/abs/2410.06782)|null|
 |**2024-10-09**|**Which Programming Language and What Features at Pre-training Stage Affect Downstream Logical Inference Performance?**|Fumiya Uchiyama et.al.|[2410.06735](http://arxiv.org/abs/2410.06735)|**[link](https://github.com/fumiyauchiyama/code_pretraining)**|
-|**2024-10-09**|**Tree of Problems: Improving structured problem solving with compositionality**|Armel Zebaze et.al.|[2410.06634](http://arxiv.org/abs/2410.06634)|null|
+|**2024-10-09**|**Tree of Problems: Improving structured problem solving with compositionality**|Armel Zebaze et.al.|[2410.06634](http://arxiv.org/abs/2410.06634)|**[link](https://github.com/ArmelRandy/tree-of-problems)**|
 |**2024-10-09**|**MaD-Scientist: AI-based Scientist solving Convection-Diffusion-Reaction Equations Using Massive PINN-Based Prior Data**|Mingu Kang et.al.|[2410.06442](http://arxiv.org/abs/2410.06442)|null|
 |**2024-10-08**|**Are Large Language Models State-of-the-art Quality Estimators for Machine Translation of User-generated Content?**|Shenbin Qian et.al.|[2410.06338](http://arxiv.org/abs/2410.06338)|**[link](https://github.com/surrey-nlp/LLMs4MTQE-UGC)**|
 |**2024-10-08**|**The Mystery of Compositional Generalization in Graph-based Generative Commonsense Reasoning**|Xiyan Fu et.al.|[2410.06272](http://arxiv.org/abs/2410.06272)|**[link](https://github.com/Heidelberg-NLP/CGGC)**|
