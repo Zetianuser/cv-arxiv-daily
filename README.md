@@ -21,12 +21,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Toward Realistic Camouflaged Object Detection: Benchmarks and Method**|Zhimeng Xin et.al.|[2501.07297](http://arxiv.org/abs/2501.07297)|**[link](https://github.com/zhimengxin/rcod)**|
 |**2025-01-10**|**A Holistically Point-guided Text Framework for Weakly-Supervised Camouflaged Object Detection**|Tsui Qin Mok et.al.|[2501.06038](http://arxiv.org/abs/2501.06038)|null|
 |**2025-01-10**|**Tailored Thin Films: Modulating Soft Photonics with Dynamically Tunable Large Area Microstructures via Controlled Thermal Processing**|Srijeeta Biswas et.al.|[2501.05736](http://arxiv.org/abs/2501.05736)|null|
 |**2025-01-02**|**Anti-counterfeiting tags with camouflaged QR codes on nanocavities, using polymer-dispersed-liquid-crystals**|Giuseppe Nicoletta et.al.|[2501.02011](http://arxiv.org/abs/2501.02011)|null|
 |**2025-01-03**|**Innate behavioural mechanisms and defensive traits in ecological models of predator-prey types**|Sangeeta Saha et.al.|[2501.01687](http://arxiv.org/abs/2501.01687)|null|
 |**2024-12-31**|**B2Net: Camouflaged Object Detection via Boundary Aware and Boundary Fusion**|Junmin Cai et.al.|[2501.00426](http://arxiv.org/abs/2501.00426)|null|
-|**2024-12-25**|**CGCOD: Class-Guided Camouflaged Object Detection**|Chenxi Zhang et.al.|[2412.18977](http://arxiv.org/abs/2412.18977)|null|
+|**2024-12-25**|**CGCOD: Class-Guided Camouflaged Object Detection**|Chenxi Zhang et.al.|[2412.18977](http://arxiv.org/abs/2412.18977)|**[link](https://github.com/bbdjj/CGCOD)**|
 |**2025-01-05**|**Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks Against GNN-Based Fraud Detectors**|Jinhyeok Choi et.al.|[2412.18370](http://arxiv.org/abs/2412.18370)|**[link](https://github.com/bdi-lab/monti)**|
 |**2024-12-22**|**Seamless Detection: Unifying Salient Object Detection and Camouflaged Object Detection**|Yi Liu et.al.|[2412.16840](http://arxiv.org/abs/2412.16840)|**[link](https://github.com/liuyi1989/seamless-detection)**|
 |**2024-12-18**|**Novel AI Camera Camouflage: Face Cloaking Without Full Disguise**|David Noever et.al.|[2412.13507](http://arxiv.org/abs/2412.13507)|null|
@@ -140,6 +141,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Enhancing Retrieval-Augmented Generation: A Study of Best Practices**|Siran Li et.al.|[2501.07391](http://arxiv.org/abs/2501.07391)|**[link](https://github.com/ali-bahrainian/rag_best_practices)**|
+|**2025-01-13**|**Boosting Text-To-Image Generation via Multilingual Prompting in Large Multimodal Models**|Yongyu Mu et.al.|[2501.07086](http://arxiv.org/abs/2501.07086)|**[link](https://github.com/takagi97/pmt2i)**|
+|**2025-01-12**|**An efficient approach to represent enterprise web application structure using Large Language Model in the service of Intelligent Quality Engineering**|Zaber Al Hassan Ayon et.al.|[2501.06837](http://arxiv.org/abs/2501.06837)|null|
+|**2025-01-09**|**What Matters for In-Context Learning: A Balancing Act of Look-up and In-Weight Learning**|Jelena Bratulić et.al.|[2501.06256](http://arxiv.org/abs/2501.06256)|null|
 |**2025-01-09**|**Vision-Language Models for Autonomous Driving: CLIP-Based Dynamic Scene Understanding**|Mohammed Elhenawy et.al.|[2501.05566](http://arxiv.org/abs/2501.05566)|null|
 |**2025-01-08**|**Efficient and Responsible Adaptation of Large Language Models for Robust and Equitable Top-k Recommendations**|Kirandeep Kaur et.al.|[2501.04762](http://arxiv.org/abs/2501.04762)|null|
 |**2025-01-08**|**ZSVC: Zero-shot Style Voice Conversion with Disentangled Latent Diffusion Models and Adversarial Training**|Xinfa Zhu et.al.|[2501.04416](http://arxiv.org/abs/2501.04416)|null|
@@ -1170,6 +1175,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**SST-EM: Advanced Metrics for Evaluating Semantic, Spatial and Temporal Aspects in Video Editing**|Varun Biyyala et.al.|[2501.07554](http://arxiv.org/abs/2501.07554)|**[link](https://github.com/custommetrics-sst/sst_customevaluationmetrics)**|
+|**2025-01-13**|**RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment**|Difei Gu et.al.|[2501.07525](http://arxiv.org/abs/2501.07525)|**[link](https://github.com/difeigu/radalign)**|
+|**2025-01-13**|**Zero-Shot Scene Understanding for Automatic Target Recognition Using Large Vision-Language Models**|Yasiru Ranasinghe et.al.|[2501.07396](http://arxiv.org/abs/2501.07396)|null|
+|**2025-01-13**|**GestLLM: Advanced Hand Gesture Interpretation via Large Language Models for Human-Robot Interaction**|Oleg Kobzarev et.al.|[2501.07295](http://arxiv.org/abs/2501.07295)|null|
+|**2025-01-13**|**Can Vision-Language Models Evaluate Handwritten Math?**|Oikantik Nath et.al.|[2501.07244](http://arxiv.org/abs/2501.07244)|null|
+|**2025-01-13**|**TimeLogic: A Temporal Logic Benchmark for Video QA**|Sirnam Swetha et.al.|[2501.07214](http://arxiv.org/abs/2501.07214)|null|
+|**2025-01-13**|**BIOMEDICA: An Open Biomedical Image-Caption Archive, Dataset, and Vision-Language Models Derived from Scientific Literature**|Alejandro Lozano et.al.|[2501.07171](http://arxiv.org/abs/2501.07171)|**[link](https://github.com/minwoosun/biomedica-etl)**|
+|**2025-01-13**|**Duplex: Dual Prototype Learning for Compositional Zero-Shot Learning**|Zhong Peng et.al.|[2501.07114](http://arxiv.org/abs/2501.07114)|null|
+|**2025-01-12**|**MedGrad E-CLIP: Enhancing Trust and Transparency in AI-Driven Skin Lesion Diagnosis**|Sadia Kamal et.al.|[2501.06887](http://arxiv.org/abs/2501.06887)|null|
+|**2025-01-12**|**Application of Vision-Language Model to Pedestrians Behavior and Scene Understanding in Autonomous Driving**|Haoxiang Gao et.al.|[2501.06680](http://arxiv.org/abs/2501.06680)|null|
 |**2025-01-10**|**VideoAuteur: Towards Long Narrative Video Generation**|Junfei Xiao et.al.|[2501.06173](http://arxiv.org/abs/2501.06173)|null|
 |**2025-01-10**|**CoDriveVLM: VLM-Enhanced Urban Cooperative Dispatching and Motion Planning for Future Autonomous Mobility on Demand Systems**|Haichao Liu et.al.|[2501.06132](http://arxiv.org/abs/2501.06132)|null|
 |**2025-01-10**|**Generate, Transduct, Adapt: Iterative Transduction with VLMs**|Oindrila Saha et.al.|[2501.06031](http://arxiv.org/abs/2501.06031)|null|
@@ -2734,6 +2749,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Enhancing Retrieval-Augmented Generation: A Study of Best Practices**|Siran Li et.al.|[2501.07391](http://arxiv.org/abs/2501.07391)|**[link](https://github.com/ali-bahrainian/rag_best_practices)**|
+|**2025-01-13**|**Boosting Text-To-Image Generation via Multilingual Prompting in Large Multimodal Models**|Yongyu Mu et.al.|[2501.07086](http://arxiv.org/abs/2501.07086)|**[link](https://github.com/takagi97/pmt2i)**|
+|**2025-01-12**|**An efficient approach to represent enterprise web application structure using Large Language Model in the service of Intelligent Quality Engineering**|Zaber Al Hassan Ayon et.al.|[2501.06837](http://arxiv.org/abs/2501.06837)|null|
+|**2025-01-09**|**What Matters for In-Context Learning: A Balancing Act of Look-up and In-Weight Learning**|Jelena Bratulić et.al.|[2501.06256](http://arxiv.org/abs/2501.06256)|null|
 |**2025-01-09**|**Vision-Language Models for Autonomous Driving: CLIP-Based Dynamic Scene Understanding**|Mohammed Elhenawy et.al.|[2501.05566](http://arxiv.org/abs/2501.05566)|null|
 |**2025-01-08**|**Efficient and Responsible Adaptation of Large Language Models for Robust and Equitable Top-k Recommendations**|Kirandeep Kaur et.al.|[2501.04762](http://arxiv.org/abs/2501.04762)|null|
 |**2025-01-08**|**ZSVC: Zero-shot Style Voice Conversion with Disentangled Latent Diffusion Models and Adversarial Training**|Xinfa Zhu et.al.|[2501.04416](http://arxiv.org/abs/2501.04416)|null|
