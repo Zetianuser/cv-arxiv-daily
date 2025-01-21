@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.20
+## Updated on 2025.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -134,7 +134,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-16**|**Confidence Estimation for Error Detection in Text-to-SQL Systems**|Oleg Somov et.al.|[2501.09527](http://arxiv.org/abs/2501.09527)|null|
 |**2025-01-16**|**Evaluating LLM Abilities to Understand Tabular Electronic Health Records: A Comprehensive Study of Patient Data Extraction and Retrieval**|Jesus Lovon et.al.|[2501.09384](http://arxiv.org/abs/2501.09384)|null|
-|**2025-01-16**|**A Study of In-Context-Learning-Based Text-to-SQL Errors**|Jiawei Shen et.al.|[2501.09310](http://arxiv.org/abs/2501.09310)|null|
+|**2025-01-16**|**A Study of In-Context-Learning-Based Text-to-SQL Errors**|Jiawei Shen et.al.|[2501.09310](http://arxiv.org/abs/2501.09310)|**[link](https://github.com/nl2sql-empirical/nl2sql_error_empirical)**|
 |**2025-01-16**|**Perspective Transition of Large Language Models for Solving Subjective Tasks**|Xiaolong Wang et.al.|[2501.09265](http://arxiv.org/abs/2501.09265)|null|
 |**2025-01-16**|**Task Vectors in In-Context Learning: Emergence, Formation, and Benefit**|Liu Yang et.al.|[2501.09240](http://arxiv.org/abs/2501.09240)|null|
 |**2025-01-15**|**Exploring Task-Level Optimal Prompts for Visual In-Context Learning**|Yan Zhu et.al.|[2501.08841](http://arxiv.org/abs/2501.08841)|null|
@@ -1179,7 +1179,7 @@ layout: default
 |**2025-01-17**|**MSTS: A Multimodal Safety Test Suite for Vision-Language Models**|Paul Röttger et.al.|[2501.10057](http://arxiv.org/abs/2501.10057)|**[link](https://github.com/paul-rottger/msts-multimodal-safety)**|
 |**2025-01-17**|**Mitigating Hallucinations on Object Attributes using Multiview Images and Negative Instructions**|Zhijie Tan et.al.|[2501.10011](http://arxiv.org/abs/2501.10011)|null|
 |**2025-01-17**|**Explainable artificial intelligence (XAI): from inherent explainability to large language models**|Fuseini Mumuni et.al.|[2501.09967](http://arxiv.org/abs/2501.09967)|null|
-|**2025-01-16**|**Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key**|Zhihe Yang et.al.|[2501.09695](http://arxiv.org/abs/2501.09695)|null|
+|**2025-01-16**|**Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key**|Zhihe Yang et.al.|[2501.09695](http://arxiv.org/abs/2501.09695)|**[link](https://github.com/zhyang2226/opa-dpo)**|
 |**2025-01-16**|**Robin: a Suite of Multi-Scale Vision-Language Models and the CHIRP Evaluation Benchmark**|Alexis Roger et.al.|[2501.09672](http://arxiv.org/abs/2501.09672)|null|
 |**2025-01-16**|**Double Visual Defense: Adversarial Pre-training and Instruction Tuning for Improving Vision-Language Model Robustness**|Zeyu Wang et.al.|[2501.09446](http://arxiv.org/abs/2501.09446)|null|
 |**2025-01-16**|**Vision-Language Models Do Not Understand Negation**|Kumail Alhamoud et.al.|[2501.09425](http://arxiv.org/abs/2501.09425)|null|
@@ -2767,7 +2767,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-16**|**Confidence Estimation for Error Detection in Text-to-SQL Systems**|Oleg Somov et.al.|[2501.09527](http://arxiv.org/abs/2501.09527)|null|
 |**2025-01-16**|**Evaluating LLM Abilities to Understand Tabular Electronic Health Records: A Comprehensive Study of Patient Data Extraction and Retrieval**|Jesus Lovon et.al.|[2501.09384](http://arxiv.org/abs/2501.09384)|null|
-|**2025-01-16**|**A Study of In-Context-Learning-Based Text-to-SQL Errors**|Jiawei Shen et.al.|[2501.09310](http://arxiv.org/abs/2501.09310)|null|
+|**2025-01-16**|**A Study of In-Context-Learning-Based Text-to-SQL Errors**|Jiawei Shen et.al.|[2501.09310](http://arxiv.org/abs/2501.09310)|**[link](https://github.com/nl2sql-empirical/nl2sql_error_empirical)**|
 |**2025-01-16**|**Perspective Transition of Large Language Models for Solving Subjective Tasks**|Xiaolong Wang et.al.|[2501.09265](http://arxiv.org/abs/2501.09265)|null|
 |**2025-01-16**|**Task Vectors in In-Context Learning: Emergence, Formation, and Benefit**|Liu Yang et.al.|[2501.09240](http://arxiv.org/abs/2501.09240)|null|
 |**2025-01-15**|**Exploring Task-Level Optimal Prompts for Visual In-Context Learning**|Yan Zhu et.al.|[2501.08841](http://arxiv.org/abs/2501.08841)|null|

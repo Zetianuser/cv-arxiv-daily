@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.20
+## Updated on 2025.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -135,7 +135,7 @@
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
 |**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
 
-<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
 
 ## In-context
 
@@ -143,7 +143,7 @@
 |---|---|---|---|---|
 |**2025-01-16**|**Confidence Estimation for Error Detection in Text-to-SQL Systems**|Oleg Somov et.al.|[2501.09527](http://arxiv.org/abs/2501.09527)|null|
 |**2025-01-16**|**Evaluating LLM Abilities to Understand Tabular Electronic Health Records: A Comprehensive Study of Patient Data Extraction and Retrieval**|Jesus Lovon et.al.|[2501.09384](http://arxiv.org/abs/2501.09384)|null|
-|**2025-01-16**|**A Study of In-Context-Learning-Based Text-to-SQL Errors**|Jiawei Shen et.al.|[2501.09310](http://arxiv.org/abs/2501.09310)|null|
+|**2025-01-16**|**A Study of In-Context-Learning-Based Text-to-SQL Errors**|Jiawei Shen et.al.|[2501.09310](http://arxiv.org/abs/2501.09310)|**[link](https://github.com/nl2sql-empirical/nl2sql_error_empirical)**|
 |**2025-01-16**|**Perspective Transition of Large Language Models for Solving Subjective Tasks**|Xiaolong Wang et.al.|[2501.09265](http://arxiv.org/abs/2501.09265)|null|
 |**2025-01-16**|**Task Vectors in In-Context Learning: Emergence, Formation, and Benefit**|Liu Yang et.al.|[2501.09240](http://arxiv.org/abs/2501.09240)|null|
 |**2025-01-15**|**Exploring Task-Level Optimal Prompts for Visual In-Context Learning**|Yan Zhu et.al.|[2501.08841](http://arxiv.org/abs/2501.08841)|null|
@@ -1178,7 +1178,7 @@
 |**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075](http://arxiv.org/abs/2312.11075)|null|
 |**2023-12-18**|**APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation**|Chengran Yang et.al.|[2312.10934](http://arxiv.org/abs/2312.10934)|null|
 
-<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
 
 ## VLM
 
@@ -1190,7 +1190,7 @@
 |**2025-01-17**|**MSTS: A Multimodal Safety Test Suite for Vision-Language Models**|Paul Röttger et.al.|[2501.10057](http://arxiv.org/abs/2501.10057)|**[link](https://github.com/paul-rottger/msts-multimodal-safety)**|
 |**2025-01-17**|**Mitigating Hallucinations on Object Attributes using Multiview Images and Negative Instructions**|Zhijie Tan et.al.|[2501.10011](http://arxiv.org/abs/2501.10011)|null|
 |**2025-01-17**|**Explainable artificial intelligence (XAI): from inherent explainability to large language models**|Fuseini Mumuni et.al.|[2501.09967](http://arxiv.org/abs/2501.09967)|null|
-|**2025-01-16**|**Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key**|Zhihe Yang et.al.|[2501.09695](http://arxiv.org/abs/2501.09695)|null|
+|**2025-01-16**|**Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key**|Zhihe Yang et.al.|[2501.09695](http://arxiv.org/abs/2501.09695)|**[link](https://github.com/zhyang2226/opa-dpo)**|
 |**2025-01-16**|**Robin: a Suite of Multi-Scale Vision-Language Models and the CHIRP Evaluation Benchmark**|Alexis Roger et.al.|[2501.09672](http://arxiv.org/abs/2501.09672)|null|
 |**2025-01-16**|**Double Visual Defense: Adversarial Pre-training and Instruction Tuning for Improving Vision-Language Model Robustness**|Zeyu Wang et.al.|[2501.09446](http://arxiv.org/abs/2501.09446)|null|
 |**2025-01-16**|**Vision-Language Models Do Not Understand Negation**|Kumail Alhamoud et.al.|[2501.09425](http://arxiv.org/abs/2501.09425)|null|
@@ -2766,7 +2766,7 @@
 |**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423](http://arxiv.org/abs/2312.12423)|null|
 |**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379](http://arxiv.org/abs/2312.12379)|null|
 
-<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
 
 ## Visual In-context
 
@@ -2774,7 +2774,7 @@
 |---|---|---|---|---|
 |**2024-02-18**|**Visual In-Context Learning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2402.11574](http://arxiv.org/abs/2402.11574)|null|
 
-<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
 
 ## V-ICL
 
@@ -2782,7 +2782,7 @@
 |---|---|---|---|---|
 |**2025-01-16**|**Confidence Estimation for Error Detection in Text-to-SQL Systems**|Oleg Somov et.al.|[2501.09527](http://arxiv.org/abs/2501.09527)|null|
 |**2025-01-16**|**Evaluating LLM Abilities to Understand Tabular Electronic Health Records: A Comprehensive Study of Patient Data Extraction and Retrieval**|Jesus Lovon et.al.|[2501.09384](http://arxiv.org/abs/2501.09384)|null|
-|**2025-01-16**|**A Study of In-Context-Learning-Based Text-to-SQL Errors**|Jiawei Shen et.al.|[2501.09310](http://arxiv.org/abs/2501.09310)|null|
+|**2025-01-16**|**A Study of In-Context-Learning-Based Text-to-SQL Errors**|Jiawei Shen et.al.|[2501.09310](http://arxiv.org/abs/2501.09310)|**[link](https://github.com/nl2sql-empirical/nl2sql_error_empirical)**|
 |**2025-01-16**|**Perspective Transition of Large Language Models for Solving Subjective Tasks**|Xiaolong Wang et.al.|[2501.09265](http://arxiv.org/abs/2501.09265)|null|
 |**2025-01-16**|**Task Vectors in In-Context Learning: Emergence, Formation, and Benefit**|Liu Yang et.al.|[2501.09240](http://arxiv.org/abs/2501.09240)|null|
 |**2025-01-15**|**Exploring Task-Level Optimal Prompts for Visual In-Context Learning**|Yan Zhu et.al.|[2501.08841](http://arxiv.org/abs/2501.08841)|null|
@@ -3527,7 +3527,7 @@
 |**2024-04-15**|**Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**|Sungwon Han et.al.|[2404.09491](http://arxiv.org/abs/2404.09491)|**[link](https://github.com/sungwon-han/featllm)**|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
 
-<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
