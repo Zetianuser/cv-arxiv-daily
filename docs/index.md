@@ -136,6 +136,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**Refactoring for Dockerfile Quality: A Dive into Developer Practices and Automation Potential**|Emna Ksontini et.al.|[2501.14131](http://arxiv.org/abs/2501.14131)|null|
+|**2025-01-23**|**Towards Safer Social Media Platforms: Scalable and Performant Few-Shot Harmful Content Moderation Using Large Language Models**|Akash Bonagiri et.al.|[2501.13976](http://arxiv.org/abs/2501.13976)|null|
 |**2025-01-23**|**EICopilot: Search and Explore Enterprise Information over Large-scale Knowledge Graphs with LLM-driven Agents**|Yuhui Yun et.al.|[2501.13746](http://arxiv.org/abs/2501.13746)|null|
 |**2025-01-21**|**Compositional Instruction Following with Language Models and Reinforcement Learning**|Vanya Cohen et.al.|[2501.12539](http://arxiv.org/abs/2501.12539)|null|
 |**2025-01-21**|**CBVLM: Training-free Explainable Concept-based Large Vision Language Models for Medical Image Classification**|Cristiano Patrício et.al.|[2501.12266](http://arxiv.org/abs/2501.12266)|null|
@@ -1187,6 +1189,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Large-scale and Fine-grained Vision-language Pre-training for Enhanced CT Image Understanding**|Zhongyi Shui et.al.|[2501.14548](http://arxiv.org/abs/2501.14548)|**[link](https://github.com/alibaba-damo-academy/fvlm)**|
+|**2025-01-24**|**Global Semantic-Guided Sub-image Feature Weight Allocation in High-Resolution Large Vision-Language Models**|Yuxuan Liang et.al.|[2501.14276](http://arxiv.org/abs/2501.14276)|null|
+|**2025-01-24**|**Dynamic Token Reduction during Generation for Vision Language Models**|Xiaoyu Liang et.al.|[2501.14204](http://arxiv.org/abs/2501.14204)|null|
+|**2025-01-24**|**Distributed Multi-Agent Coordination Using Multi-Modal Foundation Models**|Saaduddin Mahmud et.al.|[2501.14189](http://arxiv.org/abs/2501.14189)|null|
+|**2025-01-24**|**SelfPrompt: Confidence-Aware Semi-Supervised Tuning for Robust Vision-Language Model Adaptation**|Shuvendu Roy et.al.|[2501.14148](http://arxiv.org/abs/2501.14148)|null|
 |**2025-01-23**|**Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models**|Linh Tran et.al.|[2501.13904](http://arxiv.org/abs/2501.13904)|null|
 |**2025-01-23**|**Dual-Modal Prototype Joint Learning for Compositional Zero-Shot Learning**|Shiyu Zhang et.al.|[2501.13859](http://arxiv.org/abs/2501.13859)|null|
 |**2025-01-23**|**Large Vision-Language Models for Knowledge-Grounded Data Annotation of Memes**|Shiling Deng et.al.|[2501.13851](http://arxiv.org/abs/2501.13851)|**[link](https://github.com/seefreem/meme_text_retrieval_p1)**|
@@ -2804,6 +2811,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**Refactoring for Dockerfile Quality: A Dive into Developer Practices and Automation Potential**|Emna Ksontini et.al.|[2501.14131](http://arxiv.org/abs/2501.14131)|null|
+|**2025-01-23**|**Towards Safer Social Media Platforms: Scalable and Performant Few-Shot Harmful Content Moderation Using Large Language Models**|Akash Bonagiri et.al.|[2501.13976](http://arxiv.org/abs/2501.13976)|null|
 |**2025-01-23**|**EICopilot: Search and Explore Enterprise Information over Large-scale Knowledge Graphs with LLM-driven Agents**|Yuhui Yun et.al.|[2501.13746](http://arxiv.org/abs/2501.13746)|null|
 |**2025-01-21**|**Compositional Instruction Following with Language Models and Reinforcement Learning**|Vanya Cohen et.al.|[2501.12539](http://arxiv.org/abs/2501.12539)|null|
 |**2025-01-21**|**CBVLM: Training-free Explainable Concept-based Large Vision Language Models for Medical Image Classification**|Cristiano Patrício et.al.|[2501.12266](http://arxiv.org/abs/2501.12266)|null|
