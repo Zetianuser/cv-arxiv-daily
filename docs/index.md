@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.29
+## Updated on 2025.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -138,16 +138,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-28**|**Can Transformers Learn Full Bayesian Inference in Context?**|Arik Reuter et.al.|[2501.16825](http://arxiv.org/abs/2501.16825)|null|
+|**2025-01-28**|**Can Transformers Learn Full Bayesian Inference in Context?**|Arik Reuter et.al.|[2501.16825](http://arxiv.org/abs/2501.16825)|**[link](https://github.com/arikreuter/icl_for_full_bayesian_inference)**|
 |**2025-01-28**|**Optimizing Code Runtime Performance through Context-Aware Retrieval-Augmented Generation**|Manish Acharya et.al.|[2501.16692](http://arxiv.org/abs/2501.16692)|**[link](https://github.com/manishacharya60/rag-optimization)**|
 |**2025-01-27**|**How well can LLMs Grade Essays in Arabic?**|Rayed Ghazawi et.al.|[2501.16516](http://arxiv.org/abs/2501.16516)|null|
 |**2025-01-27**|**Detecting Zero-Day Attacks in Digital Substations via In-Context Learning**|Faizan Manzoor et.al.|[2501.16453](http://arxiv.org/abs/2501.16453)|null|
 |**2025-01-27**|**Training Dynamics of In-Context Learning in Linear Attention**|Yedi Zhang et.al.|[2501.16265](http://arxiv.org/abs/2501.16265)|null|
 |**2025-01-27**|**GraphICL: Unlocking Graph Learning Potential in LLMs through Structured Prompt Design**|Yuanfu Sun et.al.|[2501.15755](http://arxiv.org/abs/2501.15755)|null|
-|**2025-01-27**|**StaICC: Standardized Evaluation for Classification Task in In-context Learning**|Hakaze Cho et.al.|[2501.15708](http://arxiv.org/abs/2501.15708)|null|
+|**2025-01-27**|**StaICC: Standardized Evaluation for Classification Task in In-context Learning**|Hakaze Cho et.al.|[2501.15708](http://arxiv.org/abs/2501.15708)|**[link](https://github.com/hc495/staicc)**|
 |**2025-01-26**|**AnyEnhance: A Unified Generative Model with Prompt-Guidance and Self-Critic for Voice Enhancement**|Junan Zhang et.al.|[2501.15417](http://arxiv.org/abs/2501.15417)|null|
 |**2025-01-25**|**New Evaluation Paradigm for Lexical Simplification**|Jipeng Qiang et.al.|[2501.15268](http://arxiv.org/abs/2501.15268)|null|
-|**2025-01-25**|**Speech Translation Refinement using Large Language Models**|Huaixia Dou et.al.|[2501.15090](http://arxiv.org/abs/2501.15090)|null|
+|**2025-01-25**|**Speech Translation Refinement using Large Language Models**|Huaixia Dou et.al.|[2501.15090](http://arxiv.org/abs/2501.15090)|**[link](https://github.com/world1tree/SpeechTranslationRefinement)**|
 |**2025-01-25**|**OptiSeq: Optimizing Example Ordering for In-Context Learning**|Rahul Atul Bhope et.al.|[2501.15030](http://arxiv.org/abs/2501.15030)|null|
 |**2025-01-24**|**Code Change Intention, Development Artifact and History Vulnerability: Putting Them Together for Vulnerability Fix Detection by LLM**|Xu Yang et.al.|[2501.14983](http://arxiv.org/abs/2501.14983)|null|
 |**2025-01-23**|**Refactoring for Dockerfile Quality: A Dive into Developer Practices and Automation Potential**|Emna Ksontini et.al.|[2501.14131](http://arxiv.org/abs/2501.14131)|null|
@@ -1209,10 +1209,10 @@ layout: default
 |**2025-01-28**|**Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models**|Muhammad Atta ur Rahman et.al.|[2501.16769](http://arxiv.org/abs/2501.16769)|null|
 |**2025-01-28**|**Improving Vision-Language-Action Model with Online Reinforcement Learning**|Yanjiang Guo et.al.|[2501.16664](http://arxiv.org/abs/2501.16664)|null|
 |**2025-01-27**|**BiFold: Bimanual Cloth Folding with Language Guidance**|Oriol Barbany et.al.|[2501.16458](http://arxiv.org/abs/2501.16458)|null|
-|**2025-01-27**|**PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding**|Wei Chow et.al.|[2501.16411](http://arxiv.org/abs/2501.16411)|null|
+|**2025-01-29**|**PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding**|Wei Chow et.al.|[2501.16411](http://arxiv.org/abs/2501.16411)|null|
 |**2025-01-27**|**CLISC: Bridging clip and sam by enhanced cam for unsupervised brain tumor segmentation**|Xiaochuan Ma et.al.|[2501.16246](http://arxiv.org/abs/2501.16246)|null|
 |**2025-01-27**|**AI Agents for Computer Use: A Review of Instruction-based Computer Control, GUI Automation, and Operator Assistants**|Pascal J. Sager et.al.|[2501.16150](http://arxiv.org/abs/2501.16150)|null|
-|**2025-01-27**|**CILP-FGDI: Exploiting Vision-Language Model for Generalizable Person Re-Identification**|Huazhong Zhao et.al.|[2501.16065](http://arxiv.org/abs/2501.16065)|null|
+|**2025-01-27**|**CILP-FGDI: Exploiting Vision-Language Model for Generalizable Person Re-Identification**|Huazhong Zhao et.al.|[2501.16065](http://arxiv.org/abs/2501.16065)|**[link](https://github.com/Qi5Lei/CLIP-FGDI)**|
 |**2025-01-27**|**Addressing Out-of-Label Hazard Detection in Dashcam Videos: Insights from the COOOL Challenge**|Anh-Kiet Duong et.al.|[2501.16037](http://arxiv.org/abs/2501.16037)|**[link](https://github.com/ffyyytt/coool_2025)**|
 |**2025-01-27**|**SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model**|Delin Qu et.al.|[2501.15830](http://arxiv.org/abs/2501.15830)|null|
 |**2025-01-26**|**Transformer-Based Multimodal Knowledge Graph Completion with Link-Aware Contexts**|Haodi Ma et.al.|[2501.15688](http://arxiv.org/abs/2501.15688)|null|
@@ -2842,16 +2842,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-28**|**Can Transformers Learn Full Bayesian Inference in Context?**|Arik Reuter et.al.|[2501.16825](http://arxiv.org/abs/2501.16825)|null|
+|**2025-01-28**|**Can Transformers Learn Full Bayesian Inference in Context?**|Arik Reuter et.al.|[2501.16825](http://arxiv.org/abs/2501.16825)|**[link](https://github.com/arikreuter/icl_for_full_bayesian_inference)**|
 |**2025-01-28**|**Optimizing Code Runtime Performance through Context-Aware Retrieval-Augmented Generation**|Manish Acharya et.al.|[2501.16692](http://arxiv.org/abs/2501.16692)|**[link](https://github.com/manishacharya60/rag-optimization)**|
 |**2025-01-27**|**How well can LLMs Grade Essays in Arabic?**|Rayed Ghazawi et.al.|[2501.16516](http://arxiv.org/abs/2501.16516)|null|
 |**2025-01-27**|**Detecting Zero-Day Attacks in Digital Substations via In-Context Learning**|Faizan Manzoor et.al.|[2501.16453](http://arxiv.org/abs/2501.16453)|null|
 |**2025-01-27**|**Training Dynamics of In-Context Learning in Linear Attention**|Yedi Zhang et.al.|[2501.16265](http://arxiv.org/abs/2501.16265)|null|
 |**2025-01-27**|**GraphICL: Unlocking Graph Learning Potential in LLMs through Structured Prompt Design**|Yuanfu Sun et.al.|[2501.15755](http://arxiv.org/abs/2501.15755)|null|
-|**2025-01-27**|**StaICC: Standardized Evaluation for Classification Task in In-context Learning**|Hakaze Cho et.al.|[2501.15708](http://arxiv.org/abs/2501.15708)|null|
+|**2025-01-27**|**StaICC: Standardized Evaluation for Classification Task in In-context Learning**|Hakaze Cho et.al.|[2501.15708](http://arxiv.org/abs/2501.15708)|**[link](https://github.com/hc495/staicc)**|
 |**2025-01-26**|**AnyEnhance: A Unified Generative Model with Prompt-Guidance and Self-Critic for Voice Enhancement**|Junan Zhang et.al.|[2501.15417](http://arxiv.org/abs/2501.15417)|null|
 |**2025-01-25**|**New Evaluation Paradigm for Lexical Simplification**|Jipeng Qiang et.al.|[2501.15268](http://arxiv.org/abs/2501.15268)|null|
-|**2025-01-25**|**Speech Translation Refinement using Large Language Models**|Huaixia Dou et.al.|[2501.15090](http://arxiv.org/abs/2501.15090)|null|
+|**2025-01-25**|**Speech Translation Refinement using Large Language Models**|Huaixia Dou et.al.|[2501.15090](http://arxiv.org/abs/2501.15090)|**[link](https://github.com/world1tree/SpeechTranslationRefinement)**|
 |**2025-01-25**|**OptiSeq: Optimizing Example Ordering for In-Context Learning**|Rahul Atul Bhope et.al.|[2501.15030](http://arxiv.org/abs/2501.15030)|null|
 |**2025-01-24**|**Code Change Intention, Development Artifact and History Vulnerability: Putting Them Together for Vulnerability Fix Detection by LLM**|Xu Yang et.al.|[2501.14983](http://arxiv.org/abs/2501.14983)|null|
 |**2025-01-23**|**Refactoring for Dockerfile Quality: A Dive into Developer Practices and Automation Potential**|Emna Ksontini et.al.|[2501.14131](http://arxiv.org/abs/2501.14131)|null|
