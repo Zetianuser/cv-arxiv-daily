@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Let Human Sketches Help: Empowering Challenging Image Segmentation Task with Freehand Sketches**|Ying Zang et.al.|[2501.19329](http://arxiv.org/abs/2501.19329)|null|
+|**2025-01-30**|**INT: Instance-Specific Negative Mining for Task-Generic Promptable Segmentation**|Jian Hu et.al.|[2501.18753](http://arxiv.org/abs/2501.18753)|null|
 |**2025-01-27**|**GraphICL: Unlocking Graph Learning Potential in LLMs through Structured Prompt Design**|Yuanfu Sun et.al.|[2501.15755](http://arxiv.org/abs/2501.15755)|null|
 |**2025-01-26**|**Hiding in Plain Sight: An IoT Traffic Camouflage Framework for Enhanced Privacy**|Daniel Adu Worae et.al.|[2501.15395](http://arxiv.org/abs/2501.15395)|null|
 |**2025-01-22**|**Observation of Strong Nonreciprocal Thermal Emission**|Zhenong Zhang et.al.|[2501.12947](http://arxiv.org/abs/2501.12947)|null|
@@ -138,11 +140,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Differentially Private In-context Learning via Sampling Few-shot Mixed with Zero-shot Outputs**|James Flemings et.al.|[2501.19287](http://arxiv.org/abs/2501.19287)|null|
+|**2025-01-31**|**Enhancing Code Generation for Low-Resource Languages: No Silver Bullet**|Alessandro Giagnorio et.al.|[2501.19085](http://arxiv.org/abs/2501.19085)|null|
 |**2025-01-30**|**In-Context Learning of Polynomial Kernel Regression in Transformers with GLU Layers**|Haoyuan Sun et.al.|[2501.18187](http://arxiv.org/abs/2501.18187)|null|
 |**2025-01-29**|**Shared DIFF Transformer**|Yueyang Cang et.al.|[2501.17900](http://arxiv.org/abs/2501.17900)|null|
 |**2025-01-29**|**VoicePrompter: Robust Zero-Shot Voice Conversion with Voice Prompt and Conditional Flow Matching**|Ha-Yeong Choi et.al.|[2501.17612](http://arxiv.org/abs/2501.17612)|null|
 |**2025-01-29**|**Leveraging In-Context Learning and Retrieval-Augmented Generation for Automatic Question Generation in Educational Domains**|Subhankar Maity et.al.|[2501.17397](http://arxiv.org/abs/2501.17397)|null|
-|**2025-01-30**|**From Natural Language to Extensive-Form Game Representations**|Shilong Deng et.al.|[2501.17282](http://arxiv.org/abs/2501.17282)|**[link](https://github.com/zczlsde/gameinterpreter)**|
+|**2025-01-31**|**From Natural Language to Extensive-Form Game Representations**|Shilong Deng et.al.|[2501.17282](http://arxiv.org/abs/2501.17282)|**[link](https://github.com/zczlsde/gameinterpreter)**|
 |**2025-01-28**|**Can Transformers Learn Full Bayesian Inference in Context?**|Arik Reuter et.al.|[2501.16825](http://arxiv.org/abs/2501.16825)|**[link](https://github.com/arikreuter/icl_for_full_bayesian_inference)**|
 |**2025-01-29**|**Optimizing Code Runtime Performance through Context-Aware Retrieval-Augmented Generation**|Manish Acharya et.al.|[2501.16692](http://arxiv.org/abs/2501.16692)|**[link](https://github.com/manishacharya60/rag-optimization)**|
 |**2025-01-27**|**How well can LLMs Grade Essays in Arabic?**|Rayed Ghazawi et.al.|[2501.16516](http://arxiv.org/abs/2501.16516)|null|
@@ -1208,6 +1212,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Homogeneity Bias as Differential Sampling Uncertainty in Language Models**|Messi H. J. Lee et.al.|[2501.19337](http://arxiv.org/abs/2501.19337)|null|
+|**2025-01-31**|**Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search**|Yuta Oshima et.al.|[2501.19252](http://arxiv.org/abs/2501.19252)|null|
+|**2025-01-31**|**A Survey on Class-Agnostic Counting: Advancements from Reference-Based to Open-World Text-Guided Approaches**|Luca Ciampi et.al.|[2501.19184](http://arxiv.org/abs/2501.19184)|null|
+|**2025-01-31**|**Poison as Cure: Visual Noise for Mitigating Object Hallucinations in LVMs**|Kejia Zhang et.al.|[2501.19164](http://arxiv.org/abs/2501.19164)|null|
+|**2025-01-31**|**Fairness Analysis of CLIP-Based Foundation Models for X-Ray Image Classification**|Xiangyu Sun et.al.|[2501.19086](http://arxiv.org/abs/2501.19086)|null|
+|**2025-01-31**|**Contrast-Aware Calibration for Fine-Tuned CLIP: Leveraging Image-Text Alignment**|Song-Lin Lv et.al.|[2501.19060](http://arxiv.org/abs/2501.19060)|null|
+|**2025-01-31**|**RLS3: RL-Based Synthetic Sample Selection to Enhance Spatial Reasoning in Vision-Language Models for Indoor Autonomous Perception**|Joshua R. Waite et.al.|[2501.18880](http://arxiv.org/abs/2501.18880)|null|
+|**2025-01-31**|**UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent**|Jianke Zhang et.al.|[2501.18867](http://arxiv.org/abs/2501.18867)|null|
+|**2025-01-31**|**Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models**|Aodi Li et.al.|[2501.18864](http://arxiv.org/abs/2501.18864)|null|
+|**2025-01-30**|**INT: Instance-Specific Negative Mining for Task-Generic Promptable Segmentation**|Jian Hu et.al.|[2501.18753](http://arxiv.org/abs/2501.18753)|null|
 |**2025-01-30**|**Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models**|Yi Ding et.al.|[2501.18533](http://arxiv.org/abs/2501.18533)|null|
 |**2025-01-30**|**A Benchmark and Evaluation for Real-World Out-of-Distribution Detection Using Vision-Language Models**|Shiho Noda et.al.|[2501.18463](http://arxiv.org/abs/2501.18463)|**[link](https://github.com/hoshi23/ood-x-banchmarks)**|
 |**2025-01-30**|**Pre-Trained Vision-Language Model Selection and Reuse for Downstream Tasks**|Hao-Zhe Tan et.al.|[2501.18271](http://arxiv.org/abs/2501.18271)|null|
@@ -2856,11 +2870,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Differentially Private In-context Learning via Sampling Few-shot Mixed with Zero-shot Outputs**|James Flemings et.al.|[2501.19287](http://arxiv.org/abs/2501.19287)|null|
+|**2025-01-31**|**Enhancing Code Generation for Low-Resource Languages: No Silver Bullet**|Alessandro Giagnorio et.al.|[2501.19085](http://arxiv.org/abs/2501.19085)|null|
 |**2025-01-30**|**In-Context Learning of Polynomial Kernel Regression in Transformers with GLU Layers**|Haoyuan Sun et.al.|[2501.18187](http://arxiv.org/abs/2501.18187)|null|
 |**2025-01-29**|**Shared DIFF Transformer**|Yueyang Cang et.al.|[2501.17900](http://arxiv.org/abs/2501.17900)|null|
 |**2025-01-29**|**VoicePrompter: Robust Zero-Shot Voice Conversion with Voice Prompt and Conditional Flow Matching**|Ha-Yeong Choi et.al.|[2501.17612](http://arxiv.org/abs/2501.17612)|null|
 |**2025-01-29**|**Leveraging In-Context Learning and Retrieval-Augmented Generation for Automatic Question Generation in Educational Domains**|Subhankar Maity et.al.|[2501.17397](http://arxiv.org/abs/2501.17397)|null|
-|**2025-01-30**|**From Natural Language to Extensive-Form Game Representations**|Shilong Deng et.al.|[2501.17282](http://arxiv.org/abs/2501.17282)|**[link](https://github.com/zczlsde/gameinterpreter)**|
+|**2025-01-31**|**From Natural Language to Extensive-Form Game Representations**|Shilong Deng et.al.|[2501.17282](http://arxiv.org/abs/2501.17282)|**[link](https://github.com/zczlsde/gameinterpreter)**|
 |**2025-01-28**|**Can Transformers Learn Full Bayesian Inference in Context?**|Arik Reuter et.al.|[2501.16825](http://arxiv.org/abs/2501.16825)|**[link](https://github.com/arikreuter/icl_for_full_bayesian_inference)**|
 |**2025-01-29**|**Optimizing Code Runtime Performance through Context-Aware Retrieval-Augmented Generation**|Manish Acharya et.al.|[2501.16692](http://arxiv.org/abs/2501.16692)|**[link](https://github.com/manishacharya60/rag-optimization)**|
 |**2025-01-27**|**How well can LLMs Grade Essays in Arabic?**|Rayed Ghazawi et.al.|[2501.16516](http://arxiv.org/abs/2501.16516)|null|
