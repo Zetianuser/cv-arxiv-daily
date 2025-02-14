@@ -153,6 +153,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Vision-Language In-Context Learning Driven Few-Shot Visual Inspection Model**|Shiryu Ueno et.al.|[2502.09057](http://arxiv.org/abs/2502.09057)|null|
+|**2025-02-13**|**Task Generalization With AutoRegressive Compositional Structure: Can Learning From $\d$ Tasks Generalize to $\d^{T}$ Tasks?**|Amirhesam Abedsoltan et.al.|[2502.08991](http://arxiv.org/abs/2502.08991)|null|
+|**2025-02-13**|**What exactly has TabPFN learned to do?**|Calvin McCarter et.al.|[2502.08978](http://arxiv.org/abs/2502.08978)|null|
+|**2025-02-13**|**Tuning-Free Personalized Alignment via Trial-Error-Explain In-Context Learning**|Hyundong Cho et.al.|[2502.08972](http://arxiv.org/abs/2502.08972)|null|
+|**2025-02-13**|**The Stochastic Parrot on LLM's Shoulder: A Summative Assessment of Physical Concept Understanding**|Mo Yu et.al.|[2502.08946](http://arxiv.org/abs/2502.08946)|**[link](https://github.com/physico-benchmark/physico)**|
+|**2025-02-11**|**Hallucination, Monofacts, and Miscalibration: An Empirical Investigation**|Muqing Miao et.al.|[2502.08666](http://arxiv.org/abs/2502.08666)|**[link](https://github.com/mmiao2/Hallucination)**|
 |**2025-02-12**|**Explanation based In-Context Demonstrations Retrieval for Multilingual Grammatical Error Correction**|Wei Li et.al.|[2502.08507](http://arxiv.org/abs/2502.08507)|null|
 |**2025-02-12**|**In-Context Learning of Linear Dynamical Systems with Transformers: Error Bounds and Depth-Separation**|Frank Cole et.al.|[2502.08136](http://arxiv.org/abs/2502.08136)|null|
 |**2025-02-11**|**The Geometry of Prompting: Unveiling Distinct Mechanisms of Task Adaptation in Language Models**|Artem Kirsanov et.al.|[2502.08009](http://arxiv.org/abs/2502.08009)|null|
@@ -1263,6 +1269,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**GAIA: A Global, Multi-modal, Multi-scale Vision-Language Dataset for Remote Sensing Image Analysis**|Angelos Zavras et.al.|[2502.09598](http://arxiv.org/abs/2502.09598)|null|
+|**2025-02-13**|**When and How Does CLIP Enable Domain and Compositional Generalization?**|Elias Kempf et.al.|[2502.09507](http://arxiv.org/abs/2502.09507)|null|
+|**2025-02-13**|**OpenBench: A New Benchmark and Baseline for Semantic Navigation in Smart Logistics**|Junhui Wang et.al.|[2502.09238](http://arxiv.org/abs/2502.09238)|null|
+|**2025-02-13**|**The influence of visual and linguistic cues on ignorance inference in Vision-Language Models (VLMs)**|Ye-eun Cho et.al.|[2502.09120](http://arxiv.org/abs/2502.09120)|null|
+|**2025-02-13**|**Vision-Language In-Context Learning Driven Few-Shot Visual Inspection Model**|Shiryu Ueno et.al.|[2502.09057](http://arxiv.org/abs/2502.09057)|null|
+|**2025-02-13**|**3D-Grounded Vision-Language Framework for Robotic Task Planning: Automated Prompt Synthesis and Supervised Reasoning**|Guoqin Tang et.al.|[2502.08903](http://arxiv.org/abs/2502.08903)|null|
+|**2025-02-13**|**Harnessing Vision Models for Time Series Analysis: A Survey**|Jingchao Ni et.al.|[2502.08869](http://arxiv.org/abs/2502.08869)|null|
+|**2025-02-12**|**ClipRover: Zero-shot Vision-Language Exploration and Target Discovery by Mobile Robots**|Yuxuan Zhang et.al.|[2502.08791](http://arxiv.org/abs/2502.08791)|null|
 |**2025-02-12**|**SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation**|Ellie Arar et.al.|[2502.08642](http://arxiv.org/abs/2502.08642)|null|
 |**2025-02-12**|**ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification**|Jiangbo Shi et.al.|[2502.08391](http://arxiv.org/abs/2502.08391)|null|
 |**2025-02-12**|**Mitigating Hallucinations in Multimodal Spatial Relations through Constraint-Aware Prompting**|Jiarui Wu et.al.|[2502.08317](http://arxiv.org/abs/2502.08317)|null|
@@ -2979,6 +2993,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Vision-Language In-Context Learning Driven Few-Shot Visual Inspection Model**|Shiryu Ueno et.al.|[2502.09057](http://arxiv.org/abs/2502.09057)|null|
+|**2025-02-13**|**Task Generalization With AutoRegressive Compositional Structure: Can Learning From $\d$ Tasks Generalize to $\d^{T}$ Tasks?**|Amirhesam Abedsoltan et.al.|[2502.08991](http://arxiv.org/abs/2502.08991)|null|
+|**2025-02-13**|**What exactly has TabPFN learned to do?**|Calvin McCarter et.al.|[2502.08978](http://arxiv.org/abs/2502.08978)|null|
+|**2025-02-13**|**Tuning-Free Personalized Alignment via Trial-Error-Explain In-Context Learning**|Hyundong Cho et.al.|[2502.08972](http://arxiv.org/abs/2502.08972)|null|
+|**2025-02-13**|**The Stochastic Parrot on LLM's Shoulder: A Summative Assessment of Physical Concept Understanding**|Mo Yu et.al.|[2502.08946](http://arxiv.org/abs/2502.08946)|**[link](https://github.com/physico-benchmark/physico)**|
+|**2025-02-11**|**Hallucination, Monofacts, and Miscalibration: An Empirical Investigation**|Muqing Miao et.al.|[2502.08666](http://arxiv.org/abs/2502.08666)|**[link](https://github.com/mmiao2/Hallucination)**|
 |**2025-02-12**|**Explanation based In-Context Demonstrations Retrieval for Multilingual Grammatical Error Correction**|Wei Li et.al.|[2502.08507](http://arxiv.org/abs/2502.08507)|null|
 |**2025-02-12**|**In-Context Learning of Linear Dynamical Systems with Transformers: Error Bounds and Depth-Separation**|Frank Cole et.al.|[2502.08136](http://arxiv.org/abs/2502.08136)|null|
 |**2025-02-11**|**The Geometry of Prompting: Unveiling Distinct Mechanisms of Task Adaptation in Language Models**|Artem Kirsanov et.al.|[2502.08009](http://arxiv.org/abs/2502.08009)|null|
