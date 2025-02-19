@@ -145,6 +145,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**MOLLM: Multi-Objective Large Language Model for Molecular Design -- Optimizing with Experts**|Nian Ran et.al.|[2502.12845](http://arxiv.org/abs/2502.12845)|null|
+|**2025-02-18**|**Improving Chain-of-Thought Reasoning via Quasi-Symbolic Abstractions**|Leonardo Ranaldi et.al.|[2502.12616](http://arxiv.org/abs/2502.12616)|null|
 |**2025-02-17**|**JoLT: Joint Probabilistic Predictions on Tabular Data Using LLMs**|Aliaksandra Shysheya et.al.|[2502.11877](http://arxiv.org/abs/2502.11877)|null|
 |**2025-02-17**|**Understanding In-Context Machine Translation for Low-Resource Languages: A Case Study on Manchu**|Renhao Pei et.al.|[2502.11862](http://arxiv.org/abs/2502.11862)|null|
 |**2025-02-17**|**Language Models Can See Better: Visual Contrastive Decoding For LLM Multimodal Reasoning**|Yuqi Pang et.al.|[2502.11751](http://arxiv.org/abs/2502.11751)|null|
@@ -152,7 +154,7 @@ layout: default
 |**2025-02-17**|**Training Large Language Models to be Better Rule Followers**|Yi Hu et.al.|[2502.11525](http://arxiv.org/abs/2502.11525)|null|
 |**2025-02-17**|**Balanced Multi-Factor In-Context Learning for Multilingual Large Language Models**|Masahiro Kaneko et.al.|[2502.11495](http://arxiv.org/abs/2502.11495)|null|
 |**2025-02-17**|**SAFE-SQL: Self-Augmented In-Context Learning with Fine-grained Example Selection for Text-to-SQL**|Jimin Lee et.al.|[2502.11438](http://arxiv.org/abs/2502.11438)|null|
-|**2025-02-17**|**Blessing of Multilinguality: A Systematic Analysis of Multilingual In-Context Learning**|Yilei Tu et.al.|[2502.11364](http://arxiv.org/abs/2502.11364)|null|
+|**2025-02-18**|**Blessing of Multilinguality: A Systematic Analysis of Multilingual In-Context Learning**|Yilei Tu et.al.|[2502.11364](http://arxiv.org/abs/2502.11364)|null|
 |**2025-02-16**|**MemeSense: An Adaptive In-Context Framework for Social Commonsense Driven Meme Moderation**|Sayantan Adak et.al.|[2502.11246](http://arxiv.org/abs/2502.11246)|null|
 |**2025-02-16**|**LogiDynamics: Unraveling the Dynamics of Logical Inference in Large Language Model Reasoning**|Tianshi Zheng et.al.|[2502.11176](http://arxiv.org/abs/2502.11176)|null|
 |**2025-02-14**|**From Markov to Laplace: How Mamba In-Context Learns Markov Chains**|Marco Bondaschi et.al.|[2502.10178](http://arxiv.org/abs/2502.10178)|null|
@@ -1274,6 +1276,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
+|**2025-02-18**|**Understanding and Rectifying Safety Perception Distortion in VLMs**|Xiaohan Zou et.al.|[2502.13095](http://arxiv.org/abs/2502.13095)|null|
+|**2025-02-18**|**MVL-SIB: A Massively Multilingual Vision-Language Benchmark for Cross-Modal Topical Matching**|Fabian David Schmidt et.al.|[2502.12852](http://arxiv.org/abs/2502.12852)|null|
+|**2025-02-18**|**CutPaste&Find: Efficient Multimodal Hallucination Detector with Visual-aid Knowledge Base**|Cong-Duy Nguyen et.al.|[2502.12591](http://arxiv.org/abs/2502.12591)|null|
+|**2025-02-17**|**LanP: Rethinking the Impact of Language Priors in Large Vision-Language Models**|Zongyu Wu et.al.|[2502.12359](http://arxiv.org/abs/2502.12359)|null|
 |**2025-02-17**|**Descriminative-Generative Custom Tokens for Vision-Language Models**|Pramuditha Perera et.al.|[2502.12095](http://arxiv.org/abs/2502.12095)|null|
 |**2025-02-17**|**VLM $^2$ -Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues**|Jianshu Zhang et.al.|[2502.12084](http://arxiv.org/abs/2502.12084)|null|
 |**2025-02-17**|**Learning Generalizable Prompt for CLIP with Class Similarity Knowledge**|Sehun Jung et.al.|[2502.11969](http://arxiv.org/abs/2502.11969)|null|
@@ -3012,6 +3019,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**MOLLM: Multi-Objective Large Language Model for Molecular Design -- Optimizing with Experts**|Nian Ran et.al.|[2502.12845](http://arxiv.org/abs/2502.12845)|null|
+|**2025-02-18**|**Improving Chain-of-Thought Reasoning via Quasi-Symbolic Abstractions**|Leonardo Ranaldi et.al.|[2502.12616](http://arxiv.org/abs/2502.12616)|null|
 |**2025-02-17**|**JoLT: Joint Probabilistic Predictions on Tabular Data Using LLMs**|Aliaksandra Shysheya et.al.|[2502.11877](http://arxiv.org/abs/2502.11877)|null|
 |**2025-02-17**|**Understanding In-Context Machine Translation for Low-Resource Languages: A Case Study on Manchu**|Renhao Pei et.al.|[2502.11862](http://arxiv.org/abs/2502.11862)|null|
 |**2025-02-17**|**Language Models Can See Better: Visual Contrastive Decoding For LLM Multimodal Reasoning**|Yuqi Pang et.al.|[2502.11751](http://arxiv.org/abs/2502.11751)|null|
@@ -3019,7 +3028,7 @@ layout: default
 |**2025-02-17**|**Training Large Language Models to be Better Rule Followers**|Yi Hu et.al.|[2502.11525](http://arxiv.org/abs/2502.11525)|null|
 |**2025-02-17**|**Balanced Multi-Factor In-Context Learning for Multilingual Large Language Models**|Masahiro Kaneko et.al.|[2502.11495](http://arxiv.org/abs/2502.11495)|null|
 |**2025-02-17**|**SAFE-SQL: Self-Augmented In-Context Learning with Fine-grained Example Selection for Text-to-SQL**|Jimin Lee et.al.|[2502.11438](http://arxiv.org/abs/2502.11438)|null|
-|**2025-02-17**|**Blessing of Multilinguality: A Systematic Analysis of Multilingual In-Context Learning**|Yilei Tu et.al.|[2502.11364](http://arxiv.org/abs/2502.11364)|null|
+|**2025-02-18**|**Blessing of Multilinguality: A Systematic Analysis of Multilingual In-Context Learning**|Yilei Tu et.al.|[2502.11364](http://arxiv.org/abs/2502.11364)|null|
 |**2025-02-16**|**MemeSense: An Adaptive In-Context Framework for Social Commonsense Driven Meme Moderation**|Sayantan Adak et.al.|[2502.11246](http://arxiv.org/abs/2502.11246)|null|
 |**2025-02-16**|**LogiDynamics: Unraveling the Dynamics of Logical Inference in Large Language Model Reasoning**|Tianshi Zheng et.al.|[2502.11176](http://arxiv.org/abs/2502.11176)|null|
 |**2025-02-14**|**From Markov to Laplace: How Mamba In-Context Learns Markov Chains**|Marco Bondaschi et.al.|[2502.10178](http://arxiv.org/abs/2502.10178)|null|
