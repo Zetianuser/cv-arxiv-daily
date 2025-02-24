@@ -157,6 +157,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**On the Robustness of Transformers against Context Hijacking for Linear Classification**|Tianle Li et.al.|[2502.15609](http://arxiv.org/abs/2502.15609)|null|
+|**2025-02-21**|**Problem-Solving Logic Guided Curriculum In-Context Learning for LLMs Complex Reasoning**|Xuetao Ma et.al.|[2502.15401](http://arxiv.org/abs/2502.15401)|null|
+|**2025-02-21**|**CoT-ICL Lab: A Petri Dish for Studying Chain-of-Thought Learning from In-Context Demonstrations**|Vignesh Kothapalli et.al.|[2502.15132](http://arxiv.org/abs/2502.15132)|null|
+|**2025-02-21**|**Unveiling Reasoning Thresholds in Language Models: Scaling, Fine-Tuning, and Interpretability through Attention Maps**|Yen-Che Hsiao et.al.|[2502.15120](http://arxiv.org/abs/2502.15120)|null|
+|**2025-02-20**|**Contextualizing Search Queries In-Context Learning for Conversational Rewriting with LLMs**|Raymond Wilson et.al.|[2502.15009](http://arxiv.org/abs/2502.15009)|null|
 |**2025-02-20**|**Rapid Word Learning Through Meta In-Context Learning**|Wentao Wang et.al.|[2502.14791](http://arxiv.org/abs/2502.14791)|null|
 |**2025-02-20**|**Bridging the Gap: Transforming Natural Language Questions into SQL Queries via Abstract Query Pattern and Contextual Schema Markup**|Yonghui Kong et.al.|[2502.14682](http://arxiv.org/abs/2502.14682)|null|
 |**2025-02-20**|**LIFT: Improving Long Context Understanding of Large Language Models through Long Input Fine-Tuning**|Yansheng Mao et.al.|[2502.14644](http://arxiv.org/abs/2502.14644)|null|
@@ -1301,6 +1306,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**|Guanqi Zhan et.al.|[2502.15682](http://arxiv.org/abs/2502.15682)|null|
+|**2025-02-21**|**Testing the limits of fine-tuning to improve reasoning in vision language models**|Luca M. Schulze Buschoff et.al.|[2502.15678](http://arxiv.org/abs/2502.15678)|null|
+|**2025-02-21**|**Bridging vision language model (VLM) evaluation gaps with a framework for scalable and cost-effective benchmark generation**|Tim Rädsch et.al.|[2502.15563](http://arxiv.org/abs/2502.15563)|null|
+|**2025-02-21**|**FaultGPT: Industrial Fault Diagnosis Question Answering System by Vision Language Models**|Jiao Chen et.al.|[2502.15481](http://arxiv.org/abs/2502.15481)|null|
+|**2025-02-21**|**Chitrarth: Bridging Vision and Language for a Billion People**|Shaharukh Khan et.al.|[2502.15392](http://arxiv.org/abs/2502.15392)|null|
+|**2025-02-21**|**The Role of Background Information in Reducing Object Hallucination in Vision-Language Models: Insights from Cutoff API Prompting**|Masayo Tomita et.al.|[2502.15389](http://arxiv.org/abs/2502.15389)|null|
+|**2025-02-21**|**CopyJudge: Automated Copyright Infringement Identification and Mitigation in Text-to-Image Diffusion Models**|Shunchang Liu et.al.|[2502.15278](http://arxiv.org/abs/2502.15278)|null|
+|**2025-02-21**|**The Evolving Landscape of LLM- and VLM-Integrated Reinforcement Learning**|Sheila Schoepp et.al.|[2502.15214](http://arxiv.org/abs/2502.15214)|null|
+|**2025-02-21**|**PairBench: A Systematic Framework for Selecting Reliable Judge VLMs**|Aarash Feizi et.al.|[2502.15210](http://arxiv.org/abs/2502.15210)|null|
+|**2025-02-21**|**CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models**|Zihao Sheng et.al.|[2502.15119](http://arxiv.org/abs/2502.15119)|null|
 |**2025-02-20**|**Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation**|Yue Yang et.al.|[2502.14846](http://arxiv.org/abs/2502.14846)|null|
 |**2025-02-20**|**LongWriter-V: Enabling Ultra-Long and High-Fidelity Generation in Vision-Language Models**|Shangqing Tu et.al.|[2502.14834](http://arxiv.org/abs/2502.14834)|**[link](https://github.com/thu-keg/longwriter-v)**|
 |**2025-02-20**|**SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features**|Michael Tschannen et.al.|[2502.14786](http://arxiv.org/abs/2502.14786)|**[link](https://github.com/google-research/big_vision)**|
@@ -3067,6 +3082,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**On the Robustness of Transformers against Context Hijacking for Linear Classification**|Tianle Li et.al.|[2502.15609](http://arxiv.org/abs/2502.15609)|null|
+|**2025-02-21**|**Problem-Solving Logic Guided Curriculum In-Context Learning for LLMs Complex Reasoning**|Xuetao Ma et.al.|[2502.15401](http://arxiv.org/abs/2502.15401)|null|
+|**2025-02-21**|**CoT-ICL Lab: A Petri Dish for Studying Chain-of-Thought Learning from In-Context Demonstrations**|Vignesh Kothapalli et.al.|[2502.15132](http://arxiv.org/abs/2502.15132)|null|
+|**2025-02-21**|**Unveiling Reasoning Thresholds in Language Models: Scaling, Fine-Tuning, and Interpretability through Attention Maps**|Yen-Che Hsiao et.al.|[2502.15120](http://arxiv.org/abs/2502.15120)|null|
+|**2025-02-20**|**Contextualizing Search Queries In-Context Learning for Conversational Rewriting with LLMs**|Raymond Wilson et.al.|[2502.15009](http://arxiv.org/abs/2502.15009)|null|
 |**2025-02-20**|**Rapid Word Learning Through Meta In-Context Learning**|Wentao Wang et.al.|[2502.14791](http://arxiv.org/abs/2502.14791)|null|
 |**2025-02-20**|**Bridging the Gap: Transforming Natural Language Questions into SQL Queries via Abstract Query Pattern and Contextual Schema Markup**|Yonghui Kong et.al.|[2502.14682](http://arxiv.org/abs/2502.14682)|null|
 |**2025-02-20**|**LIFT: Improving Long Context Understanding of Large Language Models through Long Input Fine-Tuning**|Yansheng Mao et.al.|[2502.14644](http://arxiv.org/abs/2502.14644)|null|
