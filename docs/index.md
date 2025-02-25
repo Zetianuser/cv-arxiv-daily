@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-20**|**Integrating Extra Modality Helps Segmentor Find Camouflaged Objects Well**|Chengyu Fang et.al.|[2502.14471](http://arxiv.org/abs/2502.14471)|**[link](https://github.com/cnyvfang/unicos)**|
 |**2025-02-19**|**MSVCOD:A Large-Scale Multi-Scene Dataset for Video Camouflage Object Detection**|Shuyong Gao et.al.|[2502.13859](http://arxiv.org/abs/2502.13859)|null|
-|**2025-02-18**|**A Label-Free Heterophily-Guided Approach for Unsupervised Graph Fraud Detection**|Junjun Pan et.al.|[2502.13308](http://arxiv.org/abs/2502.13308)|**[link](https://github.com/campanulabells/huge-gad)**|
+|**2025-02-23**|**A Label-Free Heterophily-Guided Approach for Unsupervised Graph Fraud Detection**|Junjun Pan et.al.|[2502.13308](http://arxiv.org/abs/2502.13308)|**[link](https://github.com/campanulabells/huge-gad)**|
 |**2025-02-16**|**MemeSense: An Adaptive In-Context Framework for Social Commonsense Driven Meme Moderation**|Sayantan Adak et.al.|[2502.11246](http://arxiv.org/abs/2502.11246)|null|
 |**2025-02-12**|**Uncertainty Aware Human-machine Collaboration in Camouflaged Object Detection**|Ziyue Yang et.al.|[2502.08373](http://arxiv.org/abs/2502.08373)|**[link](https://github.com/ziyuey/uncertainty-aware-human-machine-collaboration-in-camouflaged-object-identification)**|
 |**2025-02-11**|**When Data Manipulation Meets Attack Goals: An In-depth Survey of Attacks for VLMs**|Aobotao Dai et.al.|[2502.06390](http://arxiv.org/abs/2502.06390)|**[link](https://github.com/aobtdai/vlm_attack_paper_list)**|
@@ -148,6 +148,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**A Closer Look at TabPFN v2: Strength, Limitation, and Extension**|Han-Jia Ye et.al.|[2502.17361](http://arxiv.org/abs/2502.17361)|null|
+|**2025-02-24**|**Towards Auto-Regressive Next-Token Prediction: In-Context Learning Emerges from Generalization**|Zixuan Gong et.al.|[2502.17024](http://arxiv.org/abs/2502.17024)|null|
+|**2025-02-24**|**In-context learning of evolving data streams with tabular foundational models**|Afonso Lourenço et.al.|[2502.16840](http://arxiv.org/abs/2502.16840)|null|
+|**2025-02-23**|**Code Summarization Beyond Function Level**|Vladimir Makharev et.al.|[2502.16704](http://arxiv.org/abs/2502.16704)|null|
+|**2025-02-23**|**The Hidden Strength of Disagreement: Unraveling the Consensus-Diversity Tradeoff in Adaptive Multi-Agent Systems**|Zengqing Wu et.al.|[2502.16565](http://arxiv.org/abs/2502.16565)|null|
+|**2025-02-23**|**TabGen-ICL: Residual-Aware In-Context Example Selection for Tabular Data Generation**|Liancheng Fang et.al.|[2502.16414](http://arxiv.org/abs/2502.16414)|null|
+|**2025-02-22**|**Be a Multitude to Itself: A Prompt Evolution Framework for Red Teaming**|Rui Li et.al.|[2502.16109](http://arxiv.org/abs/2502.16109)|null|
+|**2025-02-21**|**Automated Query-Product Relevance Labeling using Large Language Models for E-commerce Search**|Jayant Sachdev et.al.|[2502.15990](http://arxiv.org/abs/2502.15990)|null|
+|**2025-02-21**|**MMRAG: Multi-Mode Retrieval-Augmented Generation with Large Language Models for Biomedical In-Context Learning**|Zaifu Zhan et.al.|[2502.15954](http://arxiv.org/abs/2502.15954)|null|
 |**2025-02-21**|**On the Robustness of Transformers against Context Hijacking for Linear Classification**|Tianle Li et.al.|[2502.15609](http://arxiv.org/abs/2502.15609)|null|
 |**2025-02-21**|**Problem-Solving Logic Guided Curriculum In-Context Learning for LLMs Complex Reasoning**|Xuetao Ma et.al.|[2502.15401](http://arxiv.org/abs/2502.15401)|null|
 |**2025-02-21**|**CoT-ICL Lab: A Petri Dish for Studying Chain-of-Thought Learning from In-Context Demonstrations**|Vignesh Kothapalli et.al.|[2502.15132](http://arxiv.org/abs/2502.15132)|null|
@@ -1295,6 +1304,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**DIS-CO: Discovering Copyrighted Content in VLMs Training Data**|André V. Duarte et.al.|[2502.17358](http://arxiv.org/abs/2502.17358)|null|
+|**2025-02-24**|**Applications of Large Models in Medicine**|YunHe Su et.al.|[2502.17132](http://arxiv.org/abs/2502.17132)|null|
+|**2025-02-24**|**Shakti-VLMs: Scalable Vision-Language Models for Enterprise AI**|Syed Abdul Gaffar Shakhadri et.al.|[2502.17092](http://arxiv.org/abs/2502.17092)|null|
+|**2025-02-24**|**Evolution 6.0: Evolving Robotic Capabilities Through Generative Design**|Muhammad Haris Khan et.al.|[2502.17034](http://arxiv.org/abs/2502.17034)|null|
+|**2025-02-24**|**All-in-one: Understanding and Generation in Multimodal Reasoning with the MAIA Benchmark**|Davide Testa et.al.|[2502.16989](http://arxiv.org/abs/2502.16989)|null|
+|**2025-02-24**|**SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models**|Kevin Miller et.al.|[2502.16911](http://arxiv.org/abs/2502.16911)|null|
+|**2025-02-24**|**Exploring Causes and Mitigation of Hallucinations in Large Vision Language Models**|Yaqi Sun et.al.|[2502.16842](http://arxiv.org/abs/2502.16842)|null|
+|**2025-02-24**|**CLIP-SENet: CLIP-based Semantic Enhancement Network for Vehicle Re-identification**|Liping Lu et.al.|[2502.16815](http://arxiv.org/abs/2502.16815)|null|
+|**2025-02-23**|**Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation**|Yunhai Feng et.al.|[2502.16707](http://arxiv.org/abs/2502.16707)|null|
+|**2025-02-23**|**Can Large Vision-Language Models Detect Images Copyright Infringement from GenAI?**|Qipan Xu et.al.|[2502.16618](http://arxiv.org/abs/2502.16618)|null|
 |**2025-02-21**|**ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**|Guanqi Zhan et.al.|[2502.15682](http://arxiv.org/abs/2502.15682)|null|
 |**2025-02-21**|**Testing the limits of fine-tuning to improve reasoning in vision language models**|Luca M. Schulze Buschoff et.al.|[2502.15678](http://arxiv.org/abs/2502.15678)|null|
 |**2025-02-21**|**Bridging vision language model (VLM) evaluation gaps with a framework for scalable and cost-effective benchmark generation**|Tim Rädsch et.al.|[2502.15563](http://arxiv.org/abs/2502.15563)|null|
@@ -3067,6 +3086,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**A Closer Look at TabPFN v2: Strength, Limitation, and Extension**|Han-Jia Ye et.al.|[2502.17361](http://arxiv.org/abs/2502.17361)|null|
+|**2025-02-24**|**Towards Auto-Regressive Next-Token Prediction: In-Context Learning Emerges from Generalization**|Zixuan Gong et.al.|[2502.17024](http://arxiv.org/abs/2502.17024)|null|
+|**2025-02-24**|**In-context learning of evolving data streams with tabular foundational models**|Afonso Lourenço et.al.|[2502.16840](http://arxiv.org/abs/2502.16840)|null|
+|**2025-02-23**|**Code Summarization Beyond Function Level**|Vladimir Makharev et.al.|[2502.16704](http://arxiv.org/abs/2502.16704)|null|
+|**2025-02-23**|**The Hidden Strength of Disagreement: Unraveling the Consensus-Diversity Tradeoff in Adaptive Multi-Agent Systems**|Zengqing Wu et.al.|[2502.16565](http://arxiv.org/abs/2502.16565)|null|
+|**2025-02-23**|**TabGen-ICL: Residual-Aware In-Context Example Selection for Tabular Data Generation**|Liancheng Fang et.al.|[2502.16414](http://arxiv.org/abs/2502.16414)|null|
+|**2025-02-22**|**Be a Multitude to Itself: A Prompt Evolution Framework for Red Teaming**|Rui Li et.al.|[2502.16109](http://arxiv.org/abs/2502.16109)|null|
+|**2025-02-21**|**Automated Query-Product Relevance Labeling using Large Language Models for E-commerce Search**|Jayant Sachdev et.al.|[2502.15990](http://arxiv.org/abs/2502.15990)|null|
+|**2025-02-21**|**MMRAG: Multi-Mode Retrieval-Augmented Generation with Large Language Models for Biomedical In-Context Learning**|Zaifu Zhan et.al.|[2502.15954](http://arxiv.org/abs/2502.15954)|null|
 |**2025-02-21**|**On the Robustness of Transformers against Context Hijacking for Linear Classification**|Tianle Li et.al.|[2502.15609](http://arxiv.org/abs/2502.15609)|null|
 |**2025-02-21**|**Problem-Solving Logic Guided Curriculum In-Context Learning for LLMs Complex Reasoning**|Xuetao Ma et.al.|[2502.15401](http://arxiv.org/abs/2502.15401)|null|
 |**2025-02-21**|**CoT-ICL Lab: A Petri Dish for Studying Chain-of-Thought Learning from In-Context Demonstrations**|Vignesh Kothapalli et.al.|[2502.15132](http://arxiv.org/abs/2502.15132)|null|
