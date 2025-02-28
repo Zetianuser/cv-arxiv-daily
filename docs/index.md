@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -17,7 +17,7 @@ layout: default
 |**2025-02-20**|**Integrating Extra Modality Helps Segmentor Find Camouflaged Objects Well**|Chengyu Fang et.al.|[2502.14471](http://arxiv.org/abs/2502.14471)|**[link](https://github.com/cnyvfang/unicos)**|
 |**2025-02-19**|**MSVCOD:A Large-Scale Multi-Scene Dataset for Video Camouflage Object Detection**|Shuyong Gao et.al.|[2502.13859](http://arxiv.org/abs/2502.13859)|null|
 |**2025-02-23**|**A Label-Free Heterophily-Guided Approach for Unsupervised Graph Fraud Detection**|Junjun Pan et.al.|[2502.13308](http://arxiv.org/abs/2502.13308)|**[link](https://github.com/campanulabells/huge-gad)**|
-|**2025-02-16**|**MemeSense: An Adaptive In-Context Framework for Social Commonsense Driven Meme Moderation**|Sayantan Adak et.al.|[2502.11246](http://arxiv.org/abs/2502.11246)|null|
+|**2025-02-16**|**MemeSense: An Adaptive In-Context Framework for Social Commonsense Driven Meme Moderation**|Sayantan Adak et.al.|[2502.11246](http://arxiv.org/abs/2502.11246)|**[link](https://github.com/sayantan11995/memesense)**|
 |**2025-02-12**|**Uncertainty Aware Human-machine Collaboration in Camouflaged Object Detection**|Ziyue Yang et.al.|[2502.08373](http://arxiv.org/abs/2502.08373)|**[link](https://github.com/ziyuey/uncertainty-aware-human-machine-collaboration-in-camouflaged-object-identification)**|
 |**2025-02-11**|**When Data Manipulation Meets Attack Goals: An In-depth Survey of Attacks for VLMs**|Aobotao Dai et.al.|[2502.06390](http://arxiv.org/abs/2502.06390)|**[link](https://github.com/aobtdai/vlm_attack_paper_list)**|
 |**2025-02-03**|**Mitigation of Camouflaged Adversarial Attacks in Autonomous Vehicles--A Case Study Using CARLA Simulator**|Yago Romano Martinez et.al.|[2502.05208](http://arxiv.org/abs/2502.05208)|null|
