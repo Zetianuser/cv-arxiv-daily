@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-03**|**Effective High-order Graph Representation Learning for Credit Card Fraud Detection**|Yao Zou et.al.|[2503.01556](http://arxiv.org/abs/2503.01556)|null|
+|**2025-02-28**|**A Survey of Uncertainty Estimation Methods on Large Language Models**|Zhiqiu Xia et.al.|[2503.00172](http://arxiv.org/abs/2503.00172)|null|
 |**2025-02-20**|**Integrating Extra Modality Helps Segmentor Find Camouflaged Objects Well**|Chengyu Fang et.al.|[2502.14471](http://arxiv.org/abs/2502.14471)|**[link](https://github.com/cnyvfang/unicos)**|
 |**2025-02-19**|**MSVCOD:A Large-Scale Multi-Scene Dataset for Video Camouflage Object Detection**|Shuyong Gao et.al.|[2502.13859](http://arxiv.org/abs/2502.13859)|null|
 |**2025-02-23**|**A Label-Free Heterophily-Guided Approach for Unsupervised Graph Fraud Detection**|Junjun Pan et.al.|[2502.13308](http://arxiv.org/abs/2502.13308)|**[link](https://github.com/campanulabells/huge-gad)**|
@@ -148,6 +150,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Evaluating Knowledge Generation and Self-Refinement Strategies for LLM-based Column Type Annotation**|Keti Korini et.al.|[2503.02718](http://arxiv.org/abs/2503.02718)|null|
+|**2025-03-04**|**FlowPlan: Zero-Shot Task Planning with LLM Flow Engineering for Robotic Instruction Following**|Zijun Lin et.al.|[2503.02698](http://arxiv.org/abs/2503.02698)|null|
+|**2025-03-04**|**Building 3D In-Context Learning Universal Model in Neuroimaging**|Jiesi Hu et.al.|[2503.02410](http://arxiv.org/abs/2503.02410)|null|
+|**2025-03-04**|**BiasICL: In-Context Learning and Demographic Biases of Vision Language Models**|Sonnet Xu et.al.|[2503.02334](http://arxiv.org/abs/2503.02334)|null|
+|**2025-03-03**|**Provable Benefits of Task-Specific Prompts for In-context Learning**|Xiangyu Chang et.al.|[2503.02102](http://arxiv.org/abs/2503.02102)|null|
+|**2025-03-03**|**On the Power of Context-Enhanced Learning in LLMs**|Xingyu Zhu et.al.|[2503.01821](http://arxiv.org/abs/2503.01821)|null|
+|**2025-03-03**|**In-context Learning vs. Instruction Tuning: The Case of Small and Multilingual Language Models**|David Ponce et.al.|[2503.01611](http://arxiv.org/abs/2503.01611)|null|
+|**2025-03-03**|**Dementia Insights: A Context-Based MultiModal Approach**|Sahar Sinene Mehdoui et.al.|[2503.01226](http://arxiv.org/abs/2503.01226)|null|
+|**2025-03-01**|**Synthetic data enables context-aware bioacoustic sound event detection**|Benjamin Hoffman et.al.|[2503.00296](http://arxiv.org/abs/2503.00296)|null|
 |**2025-02-28**|**Transformers Learn to Implement Multi-step Gradient Descent with Chain of Thought**|Jianhao Huang et.al.|[2502.21212](http://arxiv.org/abs/2502.21212)|null|
 |**2025-02-28**|**Delta-WKV: A Novel Meta-in-Context Learner for MRI Super-Resolution**|Rongchang Lu et.al.|[2502.20852](http://arxiv.org/abs/2502.20852)|null|
 |**2025-02-28**|**Learning to Substitute Components for Compositional Generalization**|Zhaoyi Li et.al.|[2502.20834](http://arxiv.org/abs/2502.20834)|null|
@@ -1321,6 +1332,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**FairSense-AI: Responsible AI Meets Sustainability**|Shaina Raza et.al.|[2503.02865](http://arxiv.org/abs/2503.02865)|null|
+|**2025-03-04**|**"What If Smart Homes Could See Our Homes?": Exploring DIY Smart Home Building Experiences with VLM-Based Camera Sensors**|Sojeong Yun et.al.|[2503.02816](http://arxiv.org/abs/2503.02816)|null|
+|**2025-03-04**|**Bridging VLM and KMP: Enabling Fine-grained robotic manipulation via Semantic Keypoints Representation**|Junjie Zhu et.al.|[2503.02748](http://arxiv.org/abs/2503.02748)|null|
+|**2025-03-04**|**ImpedanceGPT: VLM-driven Impedance Control of Swarm of Mini-drones for Intelligent Navigation in Dynamic Environment**|Faryal Batool et.al.|[2503.02723](http://arxiv.org/abs/2503.02723)|null|
+|**2025-03-04**|**MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High-Intensity Surgical Environments**|Ege Özsoy et.al.|[2503.02579](http://arxiv.org/abs/2503.02579)|null|
+|**2025-03-04**|**Vision-Language Model IP Protection via Prompt-based Learning**|Lianyu Wang et.al.|[2503.02393](http://arxiv.org/abs/2503.02393)|null|
+|**2025-03-04**|**Are Large Vision Language Models Good Game Players?**|Xinyu Wang et.al.|[2503.02358](http://arxiv.org/abs/2503.02358)|null|
+|**2025-03-04**|**BiasICL: In-Context Learning and Demographic Biases of Vision Language Models**|Sonnet Xu et.al.|[2503.02334](http://arxiv.org/abs/2503.02334)|null|
+|**2025-03-04**|**WMNav: Integrating Vision-Language Models into World Models for Object Goal Navigation**|Dujun Nie et.al.|[2503.02247](http://arxiv.org/abs/2503.02247)|null|
+|**2025-03-04**|**Language-Guided Visual Perception Disentanglement for Image Quality Assessment and Conditional Image Generation**|Zhichao Yang et.al.|[2503.02206](http://arxiv.org/abs/2503.02206)|null|
 |**2025-02-28**|**Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating Videos**|Zhiyu Tan et.al.|[2502.21314](http://arxiv.org/abs/2502.21314)|null|
 |**2025-02-28**|**PET Image Denoising via Text-Guided Diffusion: Integrating Anatomical Priors through Text Prompts**|Boxiao Yu et.al.|[2502.21260](http://arxiv.org/abs/2502.21260)|null|
 |**2025-02-28**|**FC-Attack: Jailbreaking Large Vision-Language Models via Auto-Generated Flowcharts**|Ziyi Zhang et.al.|[2502.21059](http://arxiv.org/abs/2502.21059)|null|
@@ -3141,6 +3162,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Evaluating Knowledge Generation and Self-Refinement Strategies for LLM-based Column Type Annotation**|Keti Korini et.al.|[2503.02718](http://arxiv.org/abs/2503.02718)|null|
+|**2025-03-04**|**FlowPlan: Zero-Shot Task Planning with LLM Flow Engineering for Robotic Instruction Following**|Zijun Lin et.al.|[2503.02698](http://arxiv.org/abs/2503.02698)|null|
+|**2025-03-04**|**Building 3D In-Context Learning Universal Model in Neuroimaging**|Jiesi Hu et.al.|[2503.02410](http://arxiv.org/abs/2503.02410)|null|
+|**2025-03-04**|**BiasICL: In-Context Learning and Demographic Biases of Vision Language Models**|Sonnet Xu et.al.|[2503.02334](http://arxiv.org/abs/2503.02334)|null|
+|**2025-03-03**|**Provable Benefits of Task-Specific Prompts for In-context Learning**|Xiangyu Chang et.al.|[2503.02102](http://arxiv.org/abs/2503.02102)|null|
+|**2025-03-03**|**On the Power of Context-Enhanced Learning in LLMs**|Xingyu Zhu et.al.|[2503.01821](http://arxiv.org/abs/2503.01821)|null|
+|**2025-03-03**|**In-context Learning vs. Instruction Tuning: The Case of Small and Multilingual Language Models**|David Ponce et.al.|[2503.01611](http://arxiv.org/abs/2503.01611)|null|
+|**2025-03-03**|**Dementia Insights: A Context-Based MultiModal Approach**|Sahar Sinene Mehdoui et.al.|[2503.01226](http://arxiv.org/abs/2503.01226)|null|
+|**2025-03-01**|**Synthetic data enables context-aware bioacoustic sound event detection**|Benjamin Hoffman et.al.|[2503.00296](http://arxiv.org/abs/2503.00296)|null|
 |**2025-02-28**|**Transformers Learn to Implement Multi-step Gradient Descent with Chain of Thought**|Jianhao Huang et.al.|[2502.21212](http://arxiv.org/abs/2502.21212)|null|
 |**2025-02-28**|**Delta-WKV: A Novel Meta-in-Context Learner for MRI Super-Resolution**|Rongchang Lu et.al.|[2502.20852](http://arxiv.org/abs/2502.20852)|null|
 |**2025-02-28**|**Learning to Substitute Components for Compositional Generalization**|Zhaoyi Li et.al.|[2502.20834](http://arxiv.org/abs/2502.20834)|null|
