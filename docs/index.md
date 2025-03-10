@@ -130,7 +130,7 @@ layout: default
 |**2024-01-17**|**The problem of optimal camouflaging**|Alexander Plakhov et.al.|[2401.08928](http://arxiv.org/abs/2401.08928)|null|
 |**2024-01-16**|**Localised Thermal Emission from Topological Interfaces**|M. Said Ergoktas et.al.|[2401.08316](http://arxiv.org/abs/2401.08316)|null|
 |**2024-01-07**|**Dynamic Multi Color Switching using Ultrathin Vanadium Oxide on Aluminium based Asymmetric Fabry-Perot Resonant Structure**|Shubhangi Saini et.al.|[2401.03543](http://arxiv.org/abs/2401.03543)|null|
-|**2024-01-02**|**Exploring Hyperspectral Anomaly Detection with Human Vision: A Small Target Aware Detector**|Jitao Ma et.al.|[2401.01093](http://arxiv.org/abs/2401.01093)|null|
+|**2024-01-02**|**Exploring Hyperspectral Anomaly Detection with Human Vision: A Small Target Aware Detector**|Jitao Ma et.al.|[2401.01093](http://arxiv.org/abs/2401.01093)|**[link](https://github.com/majitao-xd/stad-had)**|
 |**2023-12-30**|**TPatch: A Triggered Physical Adversarial Patch**|Wenjun Zhu et.al.|[2401.00148](http://arxiv.org/abs/2401.00148)|**[link](https://github.com/usslab/tpatch)**|
 |**2023-12-29**|**Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation**|Tuan-Anh Vu et.al.|[2312.17505](http://arxiv.org/abs/2312.17505)|null|
 |**2024-01-12**|**MVPatch: More Vivid Patch for Adversarial Camouflaged Attacks on Object Detectors in the Physical World**|Zheng Zhou et.al.|[2312.17431](http://arxiv.org/abs/2312.17431)|null|
@@ -179,13 +179,13 @@ layout: default
 |**2025-02-27**|**Cache-of-Thought: Master-Apprentice Framework for Cost-Effective Vision Language Model Inference**|Mingyuan Wu et.al.|[2502.20587](http://arxiv.org/abs/2502.20587)|null|
 |**2025-02-28**|**Self-Training Elicits Concise Reasoning in Large Language Models**|Tergel Munkhbat et.al.|[2502.20122](http://arxiv.org/abs/2502.20122)|**[link](https://github.com/tergelmunkhbat/concise-reasoning)**|
 |**2025-02-28**|**In-Context Learning with Hypothesis-Class Guidance**|Ziqian Lin et.al.|[2502.19787](http://arxiv.org/abs/2502.19787)|**[link](https://github.com/uw-madison-lee-lab/icl-hcg)**|
-|**2025-02-26**|**NeoBERT: A Next-Generation BERT**|Lola Le Breton et.al.|[2502.19587](http://arxiv.org/abs/2502.19587)|null|
+|**2025-02-26**|**NeoBERT: A Next-Generation BERT**|Lola Le Breton et.al.|[2502.19587](http://arxiv.org/abs/2502.19587)|**[link](https://github.com/chandar-lab/NeoBERT)**|
 |**2025-02-26**|**DataMan: Data Manager for Pre-training Large Language Models**|Ru Peng et.al.|[2502.19363](http://arxiv.org/abs/2502.19363)|null|
 |**2025-02-26**|**FSPO: Few-Shot Preference Optimization of Synthetic Preference Data in LLMs Elicits Effective Personalization to Real Users**|Anikait Singh et.al.|[2502.19312](http://arxiv.org/abs/2502.19312)|null|
 |**2025-02-26**|**Detecting Linguistic Indicators for Stereotype Assessment with Large Language Models**|Rebekka Görge et.al.|[2502.19160](http://arxiv.org/abs/2502.19160)|null|
 |**2025-02-26**|**OntologyRAG: Better and Faster Biomedical Code Mapping with Retrieval-Augmented Generation (RAG) Leveraging Ontology Knowledge Graphs and Large Language Models**|Hui Feng et.al.|[2502.18992](http://arxiv.org/abs/2502.18992)|null|
 |**2025-02-26**|**END: Early Noise Dropping for Efficient and Effective Context Denoising**|Hongye Jin et.al.|[2502.18915](http://arxiv.org/abs/2502.18915)|null|
-|**2025-02-26**|**An Empirical Study on Commit Message Generation using LLMs via In-Context Learning**|Yifan Wu et.al.|[2502.18904](http://arxiv.org/abs/2502.18904)|null|
+|**2025-02-26**|**An Empirical Study on Commit Message Generation using LLMs via In-Context Learning**|Yifan Wu et.al.|[2502.18904](http://arxiv.org/abs/2502.18904)|**[link](https://github.com/wuyifan18/llm4cmg)**|
 |**2025-02-26**|**A Theoretical Perspective: How to Prevent Model Collapse in Self-consuming Training Loops**|Shi Fu et.al.|[2502.18865](http://arxiv.org/abs/2502.18865)|null|
 |**2025-02-25**|**Multi-Perspective Data Augmentation for Few-shot Object Detection**|Anh-Khoa Nguyen Vu et.al.|[2502.18195](http://arxiv.org/abs/2502.18195)|null|
 |**2025-02-25**|**Science Across Languages: Assessing LLM Multilingual Translation of Scientific Papers**|Hannah Calzi Kleidermacher et.al.|[2502.17882](http://arxiv.org/abs/2502.17882)|null|
@@ -200,7 +200,7 @@ layout: default
 |**2025-02-21**|**MMRAG: Multi-Mode Retrieval-Augmented Generation with Large Language Models for Biomedical In-Context Learning**|Zaifu Zhan et.al.|[2502.15954](http://arxiv.org/abs/2502.15954)|null|
 |**2025-02-21**|**On the Robustness of Transformers against Context Hijacking for Linear Classification**|Tianle Li et.al.|[2502.15609](http://arxiv.org/abs/2502.15609)|null|
 |**2025-02-21**|**Problem-Solving Logic Guided Curriculum In-Context Learning for LLMs Complex Reasoning**|Xuetao Ma et.al.|[2502.15401](http://arxiv.org/abs/2502.15401)|null|
-|**2025-02-21**|**CoT-ICL Lab: A Petri Dish for Studying Chain-of-Thought Learning from In-Context Demonstrations**|Vignesh Kothapalli et.al.|[2502.15132](http://arxiv.org/abs/2502.15132)|null|
+|**2025-02-21**|**CoT-ICL Lab: A Petri Dish for Studying Chain-of-Thought Learning from In-Context Demonstrations**|Vignesh Kothapalli et.al.|[2502.15132](http://arxiv.org/abs/2502.15132)|**[link](https://github.com/kvignesh1420/cot-icl-lab)**|
 |**2025-02-21**|**Unveiling Reasoning Thresholds in Language Models: Scaling, Fine-Tuning, and Interpretability through Attention Maps**|Yen-Che Hsiao et.al.|[2502.15120](http://arxiv.org/abs/2502.15120)|null|
 |**2025-02-20**|**Contextualizing Search Queries In-Context Learning for Conversational Rewriting with LLMs**|Raymond Wilson et.al.|[2502.15009](http://arxiv.org/abs/2502.15009)|null|
 |**2025-02-20**|**Rapid Word Learning Through Meta In-Context Learning**|Wentao Wang et.al.|[2502.14791](http://arxiv.org/abs/2502.14791)|null|
@@ -1376,16 +1376,16 @@ layout: default
 |**2025-02-28**|**VLEER: Vision and Language Embeddings for Explainable Whole Slide Image Representation**|Anh Tien Nguyen et.al.|[2502.20850](http://arxiv.org/abs/2502.20850)|null|
 |**2025-02-28**|**CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval**|Zelong Sun et.al.|[2502.20826](http://arxiv.org/abs/2502.20826)|null|
 |**2025-02-28**|**MedHallTune: An Instruction-Tuning Benchmark for Mitigating Medical Hallucination in Vision-Language Models**|Qiao Yan et.al.|[2502.20780](http://arxiv.org/abs/2502.20780)|null|
-|**2025-02-28**|**Mitigating Hallucinations in Large Vision-Language Models by Adaptively Constraining Information Flow**|Jiaqi Bai et.al.|[2502.20750](http://arxiv.org/abs/2502.20750)|null|
+|**2025-02-28**|**Mitigating Hallucinations in Large Vision-Language Models by Adaptively Constraining Information Flow**|Jiaqi Bai et.al.|[2502.20750](http://arxiv.org/abs/2502.20750)|**[link](https://github.com/jiaqi5598/adavib)**|
 |**2025-02-28**|**T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting**|Yifei Qian et.al.|[2502.20625](http://arxiv.org/abs/2502.20625)|null|
 |**2025-02-27**|**Cache-of-Thought: Master-Apprentice Framework for Cost-Effective Vision Language Model Inference**|Mingyuan Wu et.al.|[2502.20587](http://arxiv.org/abs/2502.20587)|null|
 |**2025-02-27**|**Visual Adaptive Prompting for Compositional Zero-Shot Learning**|Kyle Stein et.al.|[2502.20292](http://arxiv.org/abs/2502.20292)|null|
 |**2025-02-27**|**Explainable, Multi-modal Wound Infection Classification from Images Augmented with Generated Captions**|Palawat Busaranuvong et.al.|[2502.20277](http://arxiv.org/abs/2502.20277)|null|
-|**2025-02-27**|**Vision-Encoders (Already) Know What They See: Mitigating Object Hallucination via Simple Fine-Grained CLIPScore**|Hongseok Oh et.al.|[2502.20034](http://arxiv.org/abs/2502.20034)|null|
+|**2025-02-27**|**Vision-Encoders (Already) Know What They See: Mitigating Object Hallucination via Simple Fine-Grained CLIPScore**|Hongseok Oh et.al.|[2502.20034](http://arxiv.org/abs/2502.20034)|**[link](https://github.com/abzb1/f-clip)**|
 |**2025-02-27**|**ChatReID: Open-ended Interactive Person Retrieval via Hierarchical Progressive Tuning for Vision Language Models**|Ke Niu et.al.|[2502.19958](http://arxiv.org/abs/2502.19958)|null|
-|**2025-02-27**|**ProAPO: Progressively Automatic Prompt Optimization for Visual Classification**|Xiangyan Qu et.al.|[2502.19844](http://arxiv.org/abs/2502.19844)|null|
+|**2025-02-27**|**ProAPO: Progressively Automatic Prompt Optimization for Visual Classification**|Xiangyan Qu et.al.|[2502.19844](http://arxiv.org/abs/2502.19844)|**[link](https://github.com/MorningStarOvO/ProAPO)**|
 |**2025-02-27**|**Analyzing CLIP's Performance Limitations in Multi-Object Scenarios: A Controlled High-Resolution Study**|Reza Abbasi et.al.|[2502.19828](http://arxiv.org/abs/2502.19828)|null|
-|**2025-02-27**|**Mixtera: A Data Plane for Foundation Model Training**|Maximilian Böther et.al.|[2502.19790](http://arxiv.org/abs/2502.19790)|null|
+|**2025-02-27**|**Mixtera: A Data Plane for Foundation Model Training**|Maximilian Böther et.al.|[2502.19790](http://arxiv.org/abs/2502.19790)|**[link](https://github.com/eth-easl/mixtera)**|
 |**2025-02-27**|**Open-Vocabulary Semantic Part Segmentation of 3D Human**|Keito Suzuki et.al.|[2502.19782](http://arxiv.org/abs/2502.19782)|null|
 |**2025-02-27**|**InPK: Infusing Prior Knowledge into Prompt for Vision-Language Models**|Shuchang Zhou et.al.|[2502.19777](http://arxiv.org/abs/2502.19777)|null|
 |**2025-02-27**|**Prompt-driven Transferable Adversarial Attack on Person Re-Identification with Attribute-aware Textual Inversion**|Yuan Bian et.al.|[2502.19697](http://arxiv.org/abs/2502.19697)|null|
@@ -1397,13 +1397,13 @@ layout: default
 |**2025-02-26**|**VEM: Environment-Free Exploration for Training GUI Agent with Value Environment Model**|Jiani Zheng et.al.|[2502.18906](http://arxiv.org/abs/2502.18906)|null|
 |**2025-02-26**|**Grad-ECLIP: Gradient-based Visual and Textual Explanations for CLIP**|Chenyang Zhao et.al.|[2502.18816](http://arxiv.org/abs/2502.18816)|null|
 |**2025-02-26**|**QueryAdapter: Rapid Adaptation of Vision-Language Models in Response to Natural Language Queries**|Nicolas Harvey Chapman et.al.|[2502.18735](http://arxiv.org/abs/2502.18735)|null|
-|**2025-02-25**|**olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language Models**|Jake Poznanski et.al.|[2502.18443](http://arxiv.org/abs/2502.18443)|null|
+|**2025-02-25**|**olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language Models**|Jake Poznanski et.al.|[2502.18443](http://arxiv.org/abs/2502.18443)|**[link](https://github.com/allenai/olmocr)**|
 |**2025-02-25**|**WebGames: Challenging General-Purpose Web-Browsing AI Agents**|George Thomas et.al.|[2502.18356](http://arxiv.org/abs/2502.18356)|**[link](https://github.com/convergence-ai/webgames)**|
 |**2025-02-25**|**Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models**|Zhaoyi Liu et.al.|[2502.18290](http://arxiv.org/abs/2502.18290)|null|
 |**2025-02-25**|**VLM-E2E: Enhancing End-to-End Autonomous Driving with Multimodal Driver Attention Fusion**|Pei Liu et.al.|[2502.18042](http://arxiv.org/abs/2502.18042)|null|
 |**2025-02-25**|**UniGS: Unified Language-Image-3D Pretraining with Gaussian Splatting**|Haoyuan Li et.al.|[2502.17860](http://arxiv.org/abs/2502.17860)|null|
 |**2025-02-25**|**Can Multimodal LLMs Perform Time Series Anomaly Detection?**|Xiongxiao Xu et.al.|[2502.17812](http://arxiv.org/abs/2502.17812)|**[link](https://github.com/mllm-ts/visualtimeanomaly)**|
-|**2025-02-24**|**Mind the Gesture: Evaluating AI Sensitivity to Culturally Offensive Non-Verbal Gestures**|Akhila Yerukola et.al.|[2502.17710](http://arxiv.org/abs/2502.17710)|null|
+|**2025-02-24**|**Mind the Gesture: Evaluating AI Sensitivity to Culturally Offensive Non-Verbal Gestures**|Akhila Yerukola et.al.|[2502.17710](http://arxiv.org/abs/2502.17710)|**[link](https://github.com/Akhila-Yerukola/culturally-offensive-gestures)**|
 |**2025-02-24**|**METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling**|Bingxuan Li et.al.|[2502.17651](http://arxiv.org/abs/2502.17651)|null|
 |**2025-02-24**|**End-to-End Chart Summarization via Visual Chain-of-Thought in Vision-Language Models**|Raymond Choi et.al.|[2502.17589](http://arxiv.org/abs/2502.17589)|null|
 |**2025-02-24**|**PosterSum: A Multimodal Benchmark for Scientific Poster Summarization**|Rohit Saxena et.al.|[2502.17540](http://arxiv.org/abs/2502.17540)|**[link](https://github.com/saxenarohit/postersum)**|
@@ -1892,10 +1892,10 @@ layout: default
 |**2024-11-25**|**Style-Pro: Style-Guided Prompt Learning for Generalizable Vision-Language Models**|Niloufar Alipour Talemi et.al.|[2411.16018](http://arxiv.org/abs/2411.16018)|null|
 |**2024-11-24**|**Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation**|Sule Bai et.al.|[2411.15869](http://arxiv.org/abs/2411.15869)|**[link](https://github.com/sulebai/sc-clip)**|
 |**2024-11-24**|**ResCLIP: Residual Attention for Training-free Dense Vision-language Inference**|Yuhang Yang et.al.|[2411.15851](http://arxiv.org/abs/2411.15851)|**[link](https://github.com/yvhangyang/resclip)**|
-|**2024-11-24**|**VaLiD: Mitigating the Hallucination of Large Vision Language Models by Visual Layer Fusion Contrastive Decoding**|Jiaqi Wang et.al.|[2411.15839](http://arxiv.org/abs/2411.15839)|null|
+|**2024-11-24**|**VaLiD: Mitigating the Hallucination of Large Vision Language Models by Visual Layer Fusion Contrastive Decoding**|Jiaqi Wang et.al.|[2411.15839](http://arxiv.org/abs/2411.15839)|**[link](https://github.com/RicardoLuL/VaLiD_LVLMs_hallucinations)**|
 |**2024-11-22**|**Context-Aware Multimodal Pretraining**|Karsten Roth et.al.|[2411.15099](http://arxiv.org/abs/2411.15099)|null|
 |**2024-11-22**|**Geminio: Language-Guided Gradient Inversion Attacks in Federated Learning**|Junjie Shan et.al.|[2411.14937](http://arxiv.org/abs/2411.14937)|**[link](https://github.com/HKU-TASR/Geminio)**|
-|**2024-11-22**|**ReVisionLLM: Recursive Vision-Language Model for Temporal Grounding in Hour-Long Videos**|Tanveer Hannan et.al.|[2411.14901](http://arxiv.org/abs/2411.14901)|null|
+|**2024-11-22**|**ReVisionLLM: Recursive Vision-Language Model for Temporal Grounding in Hour-Long Videos**|Tanveer Hannan et.al.|[2411.14901](http://arxiv.org/abs/2411.14901)|**[link](https://github.com/tanveer81/revisionllm)**|
 |**2024-11-22**|**VisGraphVar: A Benchmark Generator for Assessing Variability in Graph Analysis Using Large Vision-Language Models**|Camilo Chacón Sartori et.al.|[2411.14832](http://arxiv.org/abs/2411.14832)|null|
 |**2024-11-22**|**Continual SFT Matches Multimodal RLHF with Negative Supervision**|Ke Zhu et.al.|[2411.14797](http://arxiv.org/abs/2411.14797)|null|
 |**2024-11-22**|**VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection**|Songhao Han et.al.|[2411.14794](http://arxiv.org/abs/2411.14794)|**[link](https://github.com/hshjerry/videoespresso)**|
@@ -3218,13 +3218,13 @@ layout: default
 |**2025-02-27**|**Cache-of-Thought: Master-Apprentice Framework for Cost-Effective Vision Language Model Inference**|Mingyuan Wu et.al.|[2502.20587](http://arxiv.org/abs/2502.20587)|null|
 |**2025-02-28**|**Self-Training Elicits Concise Reasoning in Large Language Models**|Tergel Munkhbat et.al.|[2502.20122](http://arxiv.org/abs/2502.20122)|**[link](https://github.com/tergelmunkhbat/concise-reasoning)**|
 |**2025-02-28**|**In-Context Learning with Hypothesis-Class Guidance**|Ziqian Lin et.al.|[2502.19787](http://arxiv.org/abs/2502.19787)|**[link](https://github.com/uw-madison-lee-lab/icl-hcg)**|
-|**2025-02-26**|**NeoBERT: A Next-Generation BERT**|Lola Le Breton et.al.|[2502.19587](http://arxiv.org/abs/2502.19587)|null|
+|**2025-02-26**|**NeoBERT: A Next-Generation BERT**|Lola Le Breton et.al.|[2502.19587](http://arxiv.org/abs/2502.19587)|**[link](https://github.com/chandar-lab/NeoBERT)**|
 |**2025-02-26**|**DataMan: Data Manager for Pre-training Large Language Models**|Ru Peng et.al.|[2502.19363](http://arxiv.org/abs/2502.19363)|null|
 |**2025-02-26**|**FSPO: Few-Shot Preference Optimization of Synthetic Preference Data in LLMs Elicits Effective Personalization to Real Users**|Anikait Singh et.al.|[2502.19312](http://arxiv.org/abs/2502.19312)|null|
 |**2025-02-26**|**Detecting Linguistic Indicators for Stereotype Assessment with Large Language Models**|Rebekka Görge et.al.|[2502.19160](http://arxiv.org/abs/2502.19160)|null|
 |**2025-02-26**|**OntologyRAG: Better and Faster Biomedical Code Mapping with Retrieval-Augmented Generation (RAG) Leveraging Ontology Knowledge Graphs and Large Language Models**|Hui Feng et.al.|[2502.18992](http://arxiv.org/abs/2502.18992)|null|
 |**2025-02-26**|**END: Early Noise Dropping for Efficient and Effective Context Denoising**|Hongye Jin et.al.|[2502.18915](http://arxiv.org/abs/2502.18915)|null|
-|**2025-02-26**|**An Empirical Study on Commit Message Generation using LLMs via In-Context Learning**|Yifan Wu et.al.|[2502.18904](http://arxiv.org/abs/2502.18904)|null|
+|**2025-02-26**|**An Empirical Study on Commit Message Generation using LLMs via In-Context Learning**|Yifan Wu et.al.|[2502.18904](http://arxiv.org/abs/2502.18904)|**[link](https://github.com/wuyifan18/llm4cmg)**|
 |**2025-02-26**|**A Theoretical Perspective: How to Prevent Model Collapse in Self-consuming Training Loops**|Shi Fu et.al.|[2502.18865](http://arxiv.org/abs/2502.18865)|null|
 |**2025-02-25**|**Multi-Perspective Data Augmentation for Few-shot Object Detection**|Anh-Khoa Nguyen Vu et.al.|[2502.18195](http://arxiv.org/abs/2502.18195)|null|
 |**2025-02-25**|**Science Across Languages: Assessing LLM Multilingual Translation of Scientific Papers**|Hannah Calzi Kleidermacher et.al.|[2502.17882](http://arxiv.org/abs/2502.17882)|null|
@@ -3239,7 +3239,7 @@ layout: default
 |**2025-02-21**|**MMRAG: Multi-Mode Retrieval-Augmented Generation with Large Language Models for Biomedical In-Context Learning**|Zaifu Zhan et.al.|[2502.15954](http://arxiv.org/abs/2502.15954)|null|
 |**2025-02-21**|**On the Robustness of Transformers against Context Hijacking for Linear Classification**|Tianle Li et.al.|[2502.15609](http://arxiv.org/abs/2502.15609)|null|
 |**2025-02-21**|**Problem-Solving Logic Guided Curriculum In-Context Learning for LLMs Complex Reasoning**|Xuetao Ma et.al.|[2502.15401](http://arxiv.org/abs/2502.15401)|null|
-|**2025-02-21**|**CoT-ICL Lab: A Petri Dish for Studying Chain-of-Thought Learning from In-Context Demonstrations**|Vignesh Kothapalli et.al.|[2502.15132](http://arxiv.org/abs/2502.15132)|null|
+|**2025-02-21**|**CoT-ICL Lab: A Petri Dish for Studying Chain-of-Thought Learning from In-Context Demonstrations**|Vignesh Kothapalli et.al.|[2502.15132](http://arxiv.org/abs/2502.15132)|**[link](https://github.com/kvignesh1420/cot-icl-lab)**|
 |**2025-02-21**|**Unveiling Reasoning Thresholds in Language Models: Scaling, Fine-Tuning, and Interpretability through Attention Maps**|Yen-Che Hsiao et.al.|[2502.15120](http://arxiv.org/abs/2502.15120)|null|
 |**2025-02-20**|**Contextualizing Search Queries In-Context Learning for Conversational Rewriting with LLMs**|Raymond Wilson et.al.|[2502.15009](http://arxiv.org/abs/2502.15009)|null|
 |**2025-02-20**|**Rapid Word Learning Through Meta In-Context Learning**|Wentao Wang et.al.|[2502.14791](http://arxiv.org/abs/2502.14791)|null|
