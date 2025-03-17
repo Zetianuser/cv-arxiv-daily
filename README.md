@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**FMNet: Frequency-Assisted Mamba-Like Linear Attention Network for Camouflaged Object Detection**|Ming Deng et.al.|[2503.11030](http://arxiv.org/abs/2503.11030)|null|
 |**2025-03-11**|**Certainly Bot Or Not? Trustworthy Social Bot Detection via Robust Multi-Modal Neural Processes**|Qi Wu et.al.|[2503.09626](http://arxiv.org/abs/2503.09626)|null|
 |**2025-03-09**|**Enhancing Malware Fingerprinting through Analysis of Evasive Techniques**|Alsharif Abuadbba et.al.|[2503.06495](http://arxiv.org/abs/2503.06495)|null|
 |**2025-03-08**|**Improving SAM for Camouflaged Object Detection via Dual Stream Adapters**|Jiaming Liu et.al.|[2503.06042](http://arxiv.org/abs/2503.06042)|null|
@@ -162,6 +163,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|null|
+|**2025-03-14**|**Quantifying Interpretability in CLIP Models with Concept Consistency**|Avinash Madasu et.al.|[2503.11103](http://arxiv.org/abs/2503.11103)|null|
 |**2025-03-13**|**Understanding the Logical Capabilities of Large Language Models via Out-of-Context Representation Learning**|Jonathan Shaki et.al.|[2503.10408](http://arxiv.org/abs/2503.10408)|null|
 |**2025-03-13**|**RealGeneral: Unifying Visual Generation via Temporal In-Context Learning with Video Models**|Yijing Lin et.al.|[2503.10406](http://arxiv.org/abs/2503.10406)|null|
 |**2025-03-13**|**Hybrid Agents for Image Restoration**|Bingchen Li et.al.|[2503.10120](http://arxiv.org/abs/2503.10120)|null|
@@ -1379,6 +1382,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak Attacks via Adversarial Defense**|Shuyang Hao et.al.|[2503.11619](http://arxiv.org/abs/2503.11619)|null|
+|**2025-03-14**|**Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages**|Matteo Farina et.al.|[2503.11609](http://arxiv.org/abs/2503.11609)|null|
+|**2025-03-14**|**SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion**|Ahmed Nassar et.al.|[2503.11576](http://arxiv.org/abs/2503.11576)|null|
+|**2025-03-14**|**Similarity-Aware Token Pruning: Your VLM but Faster**|Ahmadreza Jeddi et.al.|[2503.11549](http://arxiv.org/abs/2503.11549)|null|
+|**2025-03-14**|**Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models**|Hao Cheng et.al.|[2503.11519](http://arxiv.org/abs/2503.11519)|null|
+|**2025-03-14**|**PBR3DGen: A VLM-guided Mesh Generation with High-quality PBR Texture**|Xiaokang Wei et.al.|[2503.11368](http://arxiv.org/abs/2503.11368)|null|
+|**2025-03-14**|**PARIC: Probabilistic Attention Regularization for Language Guided Image Classification from Pre-trained Vison Language Models**|Mayank Nautiyal et.al.|[2503.11360](http://arxiv.org/abs/2503.11360)|null|
+|**2025-03-14**|**Road Rage Reasoning with Vision-language Models (VLMs): Task Definition and Evaluation Dataset**|Yibing Weng et.al.|[2503.11342](http://arxiv.org/abs/2503.11342)|null|
+|**2025-03-14**|**DynRsl-VLM: Enhancing Autonomous Driving Perception with Dynamic Resolution Vision-Language Models**|Xirui Zhou et.al.|[2503.11265](http://arxiv.org/abs/2503.11265)|null|
+|**2025-03-14**|**Compound Expression Recognition via Large Vision-Language Models**|Jun Yu et.al.|[2503.11241](http://arxiv.org/abs/2503.11241)|null|
 |**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635](http://arxiv.org/abs/2503.10635)|**[link](https://github.com/vila-lab/m-attack)**|
 |**2025-03-13**|**HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model**|Jiaming Liu et.al.|[2503.10631](http://arxiv.org/abs/2503.10631)|null|
 |**2025-03-13**|**CoSTA $\ast$ : Cost-Sensitive Toolpath Agent for Multi-turn Image Editing**|Advait Gupta et.al.|[2503.10613](http://arxiv.org/abs/2503.10613)|**[link](https://github.com/tianyi-lab/CoSTAR)**|
@@ -3274,6 +3287,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|null|
+|**2025-03-14**|**Quantifying Interpretability in CLIP Models with Concept Consistency**|Avinash Madasu et.al.|[2503.11103](http://arxiv.org/abs/2503.11103)|null|
 |**2025-03-13**|**Understanding the Logical Capabilities of Large Language Models via Out-of-Context Representation Learning**|Jonathan Shaki et.al.|[2503.10408](http://arxiv.org/abs/2503.10408)|null|
 |**2025-03-13**|**RealGeneral: Unifying Visual Generation via Temporal In-Context Learning with Video Models**|Yijing Lin et.al.|[2503.10406](http://arxiv.org/abs/2503.10406)|null|
 |**2025-03-13**|**Hybrid Agents for Image Restoration**|Bingchen Li et.al.|[2503.10120](http://arxiv.org/abs/2503.10120)|null|
