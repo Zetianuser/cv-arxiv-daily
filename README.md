@@ -164,15 +164,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-18**|**RWKV-7 "Goose" with Expressive Dynamic State Evolution**|Bo Peng et.al.|[2503.14456](http://arxiv.org/abs/2503.14456)|null|
-|**2025-03-18**|**ExDDV: A New Dataset for Explainable Deepfake Detection in Video**|Vlad Hondru et.al.|[2503.14421](http://arxiv.org/abs/2503.14421)|null|
-|**2025-03-18**|**JuDGE: Benchmarking Judgment Document Generation for Chinese Legal System**|Weihang Su et.al.|[2503.14258](http://arxiv.org/abs/2503.14258)|null|
+|**2025-03-18**|**RWKV-7 "Goose" with Expressive Dynamic State Evolution**|Bo Peng et.al.|[2503.14456](http://arxiv.org/abs/2503.14456)|**[link](https://github.com/rwkv/rwkv-lm)**|
+|**2025-03-18**|**ExDDV: A New Dataset for Explainable Deepfake Detection in Video**|Vlad Hondru et.al.|[2503.14421](http://arxiv.org/abs/2503.14421)|**[link](https://github.com/vladhondru25/exddv)**|
+|**2025-03-18**|**JuDGE: Benchmarking Judgment Document Generation for Chinese Legal System**|Weihang Su et.al.|[2503.14258](http://arxiv.org/abs/2503.14258)|**[link](https://github.com/oneal2000/judge)**|
 |**2025-03-17**|**Edit Transfer: Learning Image Editing via Vision In-Context Relations**|Lan Chen et.al.|[2503.13327](http://arxiv.org/abs/2503.13327)|null|
 |**2025-03-17**|**Mitigating Cross-Modal Distraction and Ensuring Geometric Feasibility via Affordance-Guided, Self-Consistent MLLMs for Food Preparation Task Planning**|Yu-Hong Shen et.al.|[2503.13055](http://arxiv.org/abs/2503.13055)|null|
 |**2025-03-17**|**A Multi-Stage Framework with Taxonomy-Guided Reasoning for Occupation Classification Using Large Language Models**|Palakorn Achananuparp et.al.|[2503.12989](http://arxiv.org/abs/2503.12989)|null|
 |**2025-03-17**|**In-Context Linear Regression Demystified: Training Dynamics and Mechanistic Interpretability of Multi-Head Softmax Attention**|Jianliang He et.al.|[2503.12734](http://arxiv.org/abs/2503.12734)|null|
 |**2025-03-14**|**Test-Time Training Provably Improves Transformers as In-context Learners**|Halil Alperen Gozeten et.al.|[2503.11842](http://arxiv.org/abs/2503.11842)|null|
-|**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|null|
+|**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|**[link](https://github.com/zju-daily/aistorian)**|
 |**2025-03-14**|**Quantifying Interpretability in CLIP Models with Concept Consistency**|Avinash Madasu et.al.|[2503.11103](http://arxiv.org/abs/2503.11103)|null|
 |**2025-03-13**|**Understanding the Logical Capabilities of Large Language Models via Out-of-Context Representation Learning**|Jonathan Shaki et.al.|[2503.10408](http://arxiv.org/abs/2503.10408)|null|
 |**2025-03-13**|**RealGeneral: Unifying Visual Generation via Temporal In-Context Learning with Video Models**|Yijing Lin et.al.|[2503.10406](http://arxiv.org/abs/2503.10406)|null|
@@ -1391,6 +1391,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**TULIP: Towards Unified Language-Image Pretraining**|Zineng Tang et.al.|[2503.15485](http://arxiv.org/abs/2503.15485)|null|
+|**2025-03-19**|**Visual Persona: Foundation Model for Full-Body Human Customization**|Jisu Nam et.al.|[2503.15406](http://arxiv.org/abs/2503.15406)|null|
+|**2025-03-19**|**EfficientLLaVA:Generalizable Auto-Pruning for Large Vision-language Models**|Yinan Liang et.al.|[2503.15369](http://arxiv.org/abs/2503.15369)|null|
+|**2025-03-19**|**SemEval-2025 Task 1: AdMIRe -- Advancing Multimodal Idiomaticity Representation**|Thomas Pickard et.al.|[2503.15358](http://arxiv.org/abs/2503.15358)|null|
+|**2025-03-19**|**TruthLens:A Training-Free Paradigm for DeepFake Detection**|Ritabrata Chakraborty et.al.|[2503.15342](http://arxiv.org/abs/2503.15342)|null|
+|**2025-03-19**|**Recover and Match: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained Optimal Transport**|Hao Tan et.al.|[2503.15337](http://arxiv.org/abs/2503.15337)|null|
+|**2025-03-19**|**Sig2text, a Vision-language model for Non-cooperative Radar Signal Parsing**|Hancong Feng KaiLI Jiang Bin tang et.al.|[2503.15213](http://arxiv.org/abs/2503.15213)|null|
+|**2025-03-19**|**Context-Aware Vision Language Foundation Models for Ocular Disease Screening in Retinal Images**|Lucie Berger et.al.|[2503.15212](http://arxiv.org/abs/2503.15212)|null|
+|**2025-03-19**|**A Unified Framework for Real-Time Failure Handling in Robotics Using Vision-Language Models, Reactive Planner and Behavior Trees**|Faseeh Ahmad et.al.|[2503.15202](http://arxiv.org/abs/2503.15202)|null|
+|**2025-03-19**|**Machine Unlearning in Hyperbolic vs. Euclidean Multimodal Contrastive Learning: Adapting Alignment Calibration to MERU**|Àlex Pujol Vidal et.al.|[2503.15166](http://arxiv.org/abs/2503.15166)|null|
 |**2025-03-18**|**ExDDV: A New Dataset for Explainable Deepfake Detection in Video**|Vlad Hondru et.al.|[2503.14421](http://arxiv.org/abs/2503.14421)|null|
 |**2025-03-18**|**CoSpace: Benchmarking Continuous Space Perception Ability for Vision-Language Models**|Yiqi Zhu et.al.|[2503.14161](http://arxiv.org/abs/2503.14161)|null|
 |**2025-03-18**|**Growing a Twig to Accelerate Large Vision-Language Models**|Zhenwei Shao et.al.|[2503.14075](http://arxiv.org/abs/2503.14075)|null|
@@ -3316,15 +3326,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-18**|**RWKV-7 "Goose" with Expressive Dynamic State Evolution**|Bo Peng et.al.|[2503.14456](http://arxiv.org/abs/2503.14456)|null|
-|**2025-03-18**|**ExDDV: A New Dataset for Explainable Deepfake Detection in Video**|Vlad Hondru et.al.|[2503.14421](http://arxiv.org/abs/2503.14421)|null|
-|**2025-03-18**|**JuDGE: Benchmarking Judgment Document Generation for Chinese Legal System**|Weihang Su et.al.|[2503.14258](http://arxiv.org/abs/2503.14258)|null|
+|**2025-03-18**|**RWKV-7 "Goose" with Expressive Dynamic State Evolution**|Bo Peng et.al.|[2503.14456](http://arxiv.org/abs/2503.14456)|**[link](https://github.com/rwkv/rwkv-lm)**|
+|**2025-03-18**|**ExDDV: A New Dataset for Explainable Deepfake Detection in Video**|Vlad Hondru et.al.|[2503.14421](http://arxiv.org/abs/2503.14421)|**[link](https://github.com/vladhondru25/exddv)**|
+|**2025-03-18**|**JuDGE: Benchmarking Judgment Document Generation for Chinese Legal System**|Weihang Su et.al.|[2503.14258](http://arxiv.org/abs/2503.14258)|**[link](https://github.com/oneal2000/judge)**|
 |**2025-03-17**|**Edit Transfer: Learning Image Editing via Vision In-Context Relations**|Lan Chen et.al.|[2503.13327](http://arxiv.org/abs/2503.13327)|null|
 |**2025-03-17**|**Mitigating Cross-Modal Distraction and Ensuring Geometric Feasibility via Affordance-Guided, Self-Consistent MLLMs for Food Preparation Task Planning**|Yu-Hong Shen et.al.|[2503.13055](http://arxiv.org/abs/2503.13055)|null|
 |**2025-03-17**|**A Multi-Stage Framework with Taxonomy-Guided Reasoning for Occupation Classification Using Large Language Models**|Palakorn Achananuparp et.al.|[2503.12989](http://arxiv.org/abs/2503.12989)|null|
 |**2025-03-17**|**In-Context Linear Regression Demystified: Training Dynamics and Mechanistic Interpretability of Multi-Head Softmax Attention**|Jianliang He et.al.|[2503.12734](http://arxiv.org/abs/2503.12734)|null|
 |**2025-03-14**|**Test-Time Training Provably Improves Transformers as In-context Learners**|Halil Alperen Gozeten et.al.|[2503.11842](http://arxiv.org/abs/2503.11842)|null|
-|**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|null|
+|**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|**[link](https://github.com/zju-daily/aistorian)**|
 |**2025-03-14**|**Quantifying Interpretability in CLIP Models with Concept Consistency**|Avinash Madasu et.al.|[2503.11103](http://arxiv.org/abs/2503.11103)|null|
 |**2025-03-13**|**Understanding the Logical Capabilities of Large Language Models via Out-of-Context Representation Learning**|Jonathan Shaki et.al.|[2503.10408](http://arxiv.org/abs/2503.10408)|null|
 |**2025-03-13**|**RealGeneral: Unifying Visual Generation via Temporal In-Context Learning with Video Models**|Yijing Lin et.al.|[2503.10406](http://arxiv.org/abs/2503.10406)|null|
