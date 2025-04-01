@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-28**|**Knowledge Rectification for Camouflaged Object Detection: Unlocking Insights from Low-Quality Data**|Juwei Guan et.al.|[2503.22180](http://arxiv.org/abs/2503.22180)|null|
-|**2025-03-27**|**DGSUnet: An Improved Unet Model with DINO-Guided SAM2 for Multi-Scale Feature Collaboration**|Yimin Xu et.al.|[2503.21187](http://arxiv.org/abs/2503.21187)|**[link](https://github.com/cheneyxuyimin/sam2dino-seg)**|
+|**2025-03-31**|**DSU-Net:An Improved U-Net Model Based on DINOv2 and SAM2 with Multi-scale Cross-model Feature Enhancement**|Yimin Xu et.al.|[2503.21187](http://arxiv.org/abs/2503.21187)|**[link](https://github.com/cheneyxuyimin/sam2dino-seg)**|
 |**2025-03-27**|**In-situ Physical Adjoint Computing in multiple-scattering electromagnetic environments for wave control**|John Guillamon et.al.|[2503.21107](http://arxiv.org/abs/2503.21107)|null|
 |**2025-03-26**|**CamSAM2: Segment Anything Accurately in Camouflaged Videos**|Yuli Zhou et.al.|[2503.19730](http://arxiv.org/abs/2503.19730)|**[link](https://github.com/zhoustan/camsam2)**|
 |**2025-03-09**|**Parity Metamaterials and Dynamic Acoustic Mimicry**|Jinjie Shi et.al.|[2503.17369](http://arxiv.org/abs/2503.17369)|null|
@@ -164,7 +164,7 @@
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
 |**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
 
-<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
 
 ## In-context
 
@@ -173,7 +173,7 @@
 |**2025-03-28**|**Generative Reliability-Based Design Optimization Using In-Context Learning Capabilities of Large Language Models**|Zhonglin Jiang et.al.|[2503.22401](http://arxiv.org/abs/2503.22401)|null|
 |**2025-03-27**|**Monte Carlo Sampling for Analyzing In-Context Examples**|Stephanie Schoch et.al.|[2503.22002](http://arxiv.org/abs/2503.22002)|null|
 |**2025-03-27**|**Test-Time Visual In-Context Tuning**|Jiahao Xie et.al.|[2503.21777](http://arxiv.org/abs/2503.21777)|**[link](https://github.com/jiahao000/vict)**|
-|**2025-03-27**|**Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**|Tong Nie et.al.|[2503.21411](http://arxiv.org/abs/2503.21411)|null|
+|**2025-03-27**|**Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**|Tong Nie et.al.|[2503.21411](http://arxiv.org/abs/2503.21411)|**[link](https://github.com/tongnie/awesome-llm4tr)**|
 |**2025-03-27**|**Rethinking Graph Structure Learning in the Era of LLMs**|Zhihan Zhang et.al.|[2503.21223](http://arxiv.org/abs/2503.21223)|null|
 |**2025-03-27**|**Collaborative Evolution: Multi-Round Learning Between Large and Small Language Models for Emergent Fake News Detection**|Ziyi Zhou et.al.|[2503.21127](http://arxiv.org/abs/2503.21127)|null|
 |**2025-03-26**|**Hacia la interpretabilidad de la detección anticipada de riesgos de depresión utilizando grandes modelos de lenguaje**|Horacio Thompson et.al.|[2503.20939](http://arxiv.org/abs/2503.20939)|null|
@@ -1414,7 +1414,7 @@
 |**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075](http://arxiv.org/abs/2312.11075)|null|
 |**2023-12-18**|**APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation**|Chengran Yang et.al.|[2312.10934](http://arxiv.org/abs/2312.10934)|null|
 
-<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
 
 ## VLM
 
@@ -3410,7 +3410,7 @@
 |**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423](http://arxiv.org/abs/2312.12423)|null|
 |**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379](http://arxiv.org/abs/2312.12379)|null|
 
-<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
 
 ## Visual In-context
 
@@ -3418,7 +3418,7 @@
 |---|---|---|---|---|
 |**2024-02-18**|**Visual In-Context Learning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2402.11574](http://arxiv.org/abs/2402.11574)|null|
 
-<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
 
 ## V-ICL
 
@@ -3427,7 +3427,7 @@
 |**2025-03-28**|**Generative Reliability-Based Design Optimization Using In-Context Learning Capabilities of Large Language Models**|Zhonglin Jiang et.al.|[2503.22401](http://arxiv.org/abs/2503.22401)|null|
 |**2025-03-27**|**Monte Carlo Sampling for Analyzing In-Context Examples**|Stephanie Schoch et.al.|[2503.22002](http://arxiv.org/abs/2503.22002)|null|
 |**2025-03-27**|**Test-Time Visual In-Context Tuning**|Jiahao Xie et.al.|[2503.21777](http://arxiv.org/abs/2503.21777)|**[link](https://github.com/jiahao000/vict)**|
-|**2025-03-27**|**Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**|Tong Nie et.al.|[2503.21411](http://arxiv.org/abs/2503.21411)|null|
+|**2025-03-27**|**Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**|Tong Nie et.al.|[2503.21411](http://arxiv.org/abs/2503.21411)|**[link](https://github.com/tongnie/awesome-llm4tr)**|
 |**2025-03-27**|**Rethinking Graph Structure Learning in the Era of LLMs**|Zhihan Zhang et.al.|[2503.21223](http://arxiv.org/abs/2503.21223)|null|
 |**2025-03-27**|**Collaborative Evolution: Multi-Round Learning Between Large and Small Language Models for Emergent Fake News Detection**|Ziyi Zhou et.al.|[2503.21127](http://arxiv.org/abs/2503.21127)|null|
 |**2025-03-26**|**Hacia la interpretabilidad de la detección anticipada de riesgos de depresión utilizando grandes modelos de lenguaje**|Horacio Thompson et.al.|[2503.20939](http://arxiv.org/abs/2503.20939)|null|
@@ -4378,7 +4378,7 @@
 |**2024-04-15**|**Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**|Sungwon Han et.al.|[2404.09491](http://arxiv.org/abs/2404.09491)|**[link](https://github.com/sungwon-han/featllm)**|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
 
-<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
