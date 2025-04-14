@@ -71,7 +71,7 @@ layout: default
 |**2024-10-20**|**Lying mirror**|Yuhang Li et.al.|[2410.15521](http://arxiv.org/abs/2410.15521)|null|
 |**2024-10-15**|**Octopus-Swimming-Like Robot with Soft Asymmetric Arms**|Bobing Zhang et.al.|[2410.11764](http://arxiv.org/abs/2410.11764)|null|
 |**2024-10-05**|**Exploring Strengths and Weaknesses of Super-Resolution Attack in Deepfake Detection**|Davide Alessandro Coccomini et.al.|[2410.04205](http://arxiv.org/abs/2410.04205)|null|
-|**2024-10-05**|**Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection**|Dingwen Zhang et.al.|[2410.03987](http://arxiv.org/abs/2410.03987)|null|
+|**2024-10-05**|**Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection**|Dingwen Zhang et.al.|[2410.03987](http://arxiv.org/abs/2410.03987)|**[link](https://github.com/Liangbo-Cheng/mamba_capsule)**|
 |**2024-09-27**|**When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation**|Yuli Zhou et.al.|[2409.18653](http://arxiv.org/abs/2409.18653)|**[link](https://github.com/zhoustan/sam2-vcos)**|
 |**2024-09-26**|**CNCA: Toward Customizable and Natural Generation of Adversarial Camouflage for Vehicle Detectors**|Linye Lyu et.al.|[2409.17963](http://arxiv.org/abs/2409.17963)|**[link](https://github.com/SeRAlab/CNCA)**|
 |**2024-09-25**|**Towards Underwater Camouflaged Object Tracking: An Experimental Evaluation of SAM and SAM 2**|Chunhui Zhang et.al.|[2409.16902](http://arxiv.org/abs/2409.16902)|**[link](https://github.com/983632847/awesome-multimodal-object-tracking)**|
@@ -708,7 +708,7 @@ layout: default
 |**2024-09-30**|**Robot Navigation Using Physically Grounded Vision-Language Models in Outdoor Environments**|Mohamed Elnoor et.al.|[2409.20445](http://arxiv.org/abs/2409.20445)|null|
 |**2024-09-30**|**PersonalLLM: Tailoring LLMs to Individual Preferences**|Thomas P. Zollo et.al.|[2409.20296](http://arxiv.org/abs/2409.20296)|**[link](https://github.com/namkoong-lab/PersonalLLM)**|
 |**2024-09-30**|**TaskComplexity: A Dataset for Task Complexity Classification with In-Context Learning, FLAN-T5 and GPT-4o Benchmarks**|Areeg Fahad Rasheed et.al.|[2409.20189](http://arxiv.org/abs/2409.20189)|**[link](https://github.com/AREEG94FAHAD/TaskComplexityEval-24)**|
-|**2024-09-30**|**Reference Trustable Decoding: A Training-Free Augmentation Paradigm for Large Language Models**|Luohe Shi et.al.|[2409.20181](http://arxiv.org/abs/2409.20181)|null|
+|**2024-09-30**|**Reference Trustable Decoding: A Training-Free Augmentation Paradigm for Large Language Models**|Luohe Shi et.al.|[2409.20181](http://arxiv.org/abs/2409.20181)|**[link](https://github.com/shiluohe/referencetrustabledecoding)**|
 |**2024-09-30**|**Evaluating and explaining training strategies for zero-shot cross-lingual news sentiment analysis**|Luka Andrenšek et.al.|[2409.20054](http://arxiv.org/abs/2409.20054)|null|
 |**2024-09-29**|**Efficient Long-Form Speech Recognition for General Speech In-Context Learning**|Hao Yen et.al.|[2409.19757](http://arxiv.org/abs/2409.19757)|null|
 |**2024-10-02**|**T2Vs Meet VLMs: A Scalable Multimodal Dataset for Visual Harmfulness Recognition**|Chen Yeh et.al.|[2409.19734](http://arxiv.org/abs/2409.19734)|**[link](https://github.com/nctu-eva-lab/vhd11k)**|
@@ -1462,7 +1462,7 @@ layout: default
 |**2025-04-08**|**PromptHMR: Promptable Human Mesh Recovery**|Yufu Wang et.al.|[2504.06397](http://arxiv.org/abs/2504.06397)|null|
 |**2025-04-08**|**SemiDAViL: Semi-supervised Domain Adaptation with Vision-Language Guidance for Semantic Segmentation**|Hritam Basak et.al.|[2504.06389](http://arxiv.org/abs/2504.06389)|null|
 |**2025-04-08**|**OmniSVG: A Unified Scalable Vector Graphics Generation Model**|Yiying Yang et.al.|[2504.06263](http://arxiv.org/abs/2504.06263)|null|
-|**2025-04-08**|**Latent Multimodal Reconstruction for Misinformation Detection**|Stefanos-Iordanis Papadopoulos et.al.|[2504.06010](http://arxiv.org/abs/2504.06010)|null|
+|**2025-04-08**|**Latent Multimodal Reconstruction for Misinformation Detection**|Stefanos-Iordanis Papadopoulos et.al.|[2504.06010](http://arxiv.org/abs/2504.06010)|**[link](https://github.com/stevejpapad/miscaptioned-image-reconstruction)**|
 |**2025-04-08**|**Measuring Déjà vu Memorization Efficiently**|Narine Kokhlikyan et.al.|[2504.05651](http://arxiv.org/abs/2504.05651)|null|
 |**2025-04-08**|**A Lightweight Large Vision-language Model for Multimodal Medical Images**|Belal Alsinglawi et.al.|[2504.05575](http://arxiv.org/abs/2504.05575)|null|
 |**2025-04-07**|**ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering**|Ahmed Masry et.al.|[2504.05506](http://arxiv.org/abs/2504.05506)|null|
@@ -1472,7 +1472,7 @@ layout: default
 |**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303](http://arxiv.org/abs/2504.05303)|null|
 |**2025-04-07**|**SmolVLM: Redefining small and efficient multimodal models**|Andrés Marafioti et.al.|[2504.05299](http://arxiv.org/abs/2504.05299)|null|
 |**2025-04-07**|**A Reality Check of Vision-Language Pre-training in Radiology: Have We Progressed Using Text?**|Julio Silva-Rodríguez et.al.|[2504.05227](http://arxiv.org/abs/2504.05227)|null|
-|**2025-04-07**|**Vision-Language Model Predictive Control for Manipulation Planning and Trajectory Generation**|Jiaming Chen et.al.|[2504.05225](http://arxiv.org/abs/2504.05225)|null|
+|**2025-04-07**|**Vision-Language Model Predictive Control for Manipulation Planning and Trajectory Generation**|Jiaming Chen et.al.|[2504.05225](http://arxiv.org/abs/2504.05225)|**[link](https://github.com/ppjmchen/vlmpc)**|
 |**2025-04-08**|**A Taxonomy of Self-Handover**|Naoki Wake et.al.|[2504.04939](http://arxiv.org/abs/2504.04939)|null|
 |**2025-04-07**|**SCAM: A Real-World Typographic Robustness Evaluation for Multimodal Foundation Models**|Justus Westerhoff et.al.|[2504.04893](http://arxiv.org/abs/2504.04893)|null|
 |**2025-04-07**|**Don't Lag, RAG: Training-Free Adversarial Detection Using RAG**|Roie Kazoom et.al.|[2504.04858](http://arxiv.org/abs/2504.04858)|null|
@@ -1480,23 +1480,23 @@ layout: default
 |**2025-04-07**|**Feedback-Enhanced Hallucination-Resistant Vision-Language Model for Real-Time Scene Understanding**|Zahir Alsulaimawi et.al.|[2504.04772](http://arxiv.org/abs/2504.04772)|null|
 |**2025-04-07**|**Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions**|He Zhu et.al.|[2504.04744](http://arxiv.org/abs/2504.04744)|null|
 |**2025-04-04**|**Know What You do Not Know: Verbalized Uncertainty Estimation Robustness on Corrupted Images in Vision-Language Models**|Mirko Borszukovszki et.al.|[2504.03440](http://arxiv.org/abs/2504.03440)|null|
-|**2025-04-04**|**SARLANG-1M: A Benchmark for Vision-Language Modeling in SAR Image Understanding**|Yimin Wei et.al.|[2504.03254](http://arxiv.org/abs/2504.03254)|null|
+|**2025-04-04**|**SARLANG-1M: A Benchmark for Vision-Language Modeling in SAR Image Understanding**|Yimin Wei et.al.|[2504.03254](http://arxiv.org/abs/2504.03254)|**[link](https://github.com/jimmyxichen/sarlang-1m)**|
 |**2025-04-04**|**Seeing is Believing: Belief-Space Planning with Foundation Models as Uncertainty Estimators**|Linfeng Zhao et.al.|[2504.03245](http://arxiv.org/abs/2504.03245)|null|
-|**2025-04-04**|**Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation**|Xin Zhang et.al.|[2504.03193](http://arxiv.org/abs/2504.03193)|null|
+|**2025-04-04**|**Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation**|Xin Zhang et.al.|[2504.03193](http://arxiv.org/abs/2504.03193)|**[link](https://github.com/devinxzhang/mfuser)**|
 |**2025-04-07**|**NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving**|Kexin Tian et.al.|[2504.03164](http://arxiv.org/abs/2504.03164)|null|
 |**2025-04-04**|**TokenFLEX: Unified VLM Training for Flexible Visual Tokens Inference**|Junshan Hu et.al.|[2504.03154](http://arxiv.org/abs/2504.03154)|null|
 |**2025-04-04**|**MORAL: A Multimodal Reinforcement Learning Framework for Decision Making in Autonomous Laboratories**|Natalie Tirabassi et.al.|[2504.03153](http://arxiv.org/abs/2504.03153)|null|
 |**2025-04-03**|**QID: Efficient Query-Informed ViTs in Data-Scarce Regimes for OCR-free Visual Document Understanding**|Binh M. Le et.al.|[2504.02971](http://arxiv.org/abs/2504.02971)|null|
 |**2025-04-03**|**STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection**|Divya Velayudhan et.al.|[2504.02823](http://arxiv.org/abs/2504.02823)|null|
-|**2025-04-03**|**Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models**|Mateusz Pach et.al.|[2504.02821](http://arxiv.org/abs/2504.02821)|null|
+|**2025-04-03**|**Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models**|Mateusz Pach et.al.|[2504.02821](http://arxiv.org/abs/2504.02821)|**[link](https://github.com/explainableml/sae-for-vlm)**|
 |**2025-04-03**|**Systematic Evaluation of Large Vision-Language Models for Surgical Artificial Intelligence**|Anita Rau et.al.|[2504.02799](http://arxiv.org/abs/2504.02799)|null|
 |**2025-04-03**|**Robot-Led Vision Language Model Wellbeing Assessment of Children**|Nida Itrat Abbasi et.al.|[2504.02765](http://arxiv.org/abs/2504.02765)|null|
-|**2025-04-04**|**Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme**|Yan Ma et.al.|[2504.02587](http://arxiv.org/abs/2504.02587)|null|
+|**2025-04-04**|**Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme**|Yan Ma et.al.|[2504.02587](http://arxiv.org/abs/2504.02587)|**[link](https://github.com/gair-nlp/maye)**|
 |**2025-04-03**|**Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision**|Xiaofeng Han et.al.|[2504.02477](http://arxiv.org/abs/2504.02477)|null|
 |**2025-04-03**|**Scaling Video-Language Models to 10K Frames via Hierarchical Differential Distillation**|Chuanqi Cheng et.al.|[2504.02438](http://arxiv.org/abs/2504.02438)|null|
 |**2025-04-03**|**ReuseDroid: A VLM-empowered Android UI Test Migrator Boosted by Active Feedback**|Xiaolei Li et.al.|[2504.02357](http://arxiv.org/abs/2504.02357)|null|
 |**2025-04-03**|**Large (Vision) Language Models are Unsupervised In-Context Learners**|Artyom Gadetsky et.al.|[2504.02349](http://arxiv.org/abs/2504.02349)|**[link](https://github.com/mlbio-epfl/joint-inference)**|
-|**2025-04-03**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|null|
+|**2025-04-03**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|**[link](https://github.com/longvideohaystack/tstar)**|
 |**2025-04-02**|**FineLIP: Extending CLIP's Reach via Fine-Grained Alignment with Longer Text Inputs**|Mothilal Asokan et.al.|[2504.01916](http://arxiv.org/abs/2504.01916)|**[link](https://github.com/tiiuae/FineLIP)**|
 |**2025-04-02**|**Is Temporal Prompting All We Need For Limited Labeled Action Recognition?**|Shreyank N Gowda et.al.|[2504.01890](http://arxiv.org/abs/2504.01890)|null|
 |**2025-04-02**|**Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias by Generating Realistic Dermoscopic Images**|Nusrat Munia et.al.|[2504.01838](http://arxiv.org/abs/2504.01838)|**[link](https://github.com/munia03/dermdit)**|
@@ -1523,7 +1523,7 @@ layout: default
 |**2025-03-28**|**FLIP: Towards Comprehensive and Reliable Evaluation of Federated Prompt Learning**|Dongping Liao et.al.|[2503.22263](http://arxiv.org/abs/2503.22263)|**[link](https://github.com/0-ml/flip)**|
 |**2025-03-28**|**REMAC: Self-Reflective and Self-Evolving Multi-Agent Collaboration for Long-Horizon Robot Manipulation**|Puzhen Yuan et.al.|[2503.22122](http://arxiv.org/abs/2503.22122)|null|
 |**2025-03-28**|**How Well Can Vison-Language Models Understand Humans' Intention? An Open-ended Theory of Mind Question Evaluation Benchmark**|Ximing Wen et.al.|[2503.22093](http://arxiv.org/abs/2503.22093)|null|
-|**2025-03-28**|**A Survey on Remote Sensing Foundation Models: From Vision to Multimodality**|Ziyue Huang et.al.|[2503.22081](http://arxiv.org/abs/2503.22081)|null|
+|**2025-03-28**|**A Survey on Remote Sensing Foundation Models: From Vision to Multimodality**|Ziyue Huang et.al.|[2503.22081](http://arxiv.org/abs/2503.22081)|**[link](https://github.com/irip-buaa/a-review-for-remote-sensing-vision-language-models)**|
 |**2025-03-27**|**CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models**|Qingqing Zhao et.al.|[2503.22020](http://arxiv.org/abs/2503.22020)|null|
 |**2025-03-27**|**JEEM: Vision-Language Understanding in Four Arabic Dialects**|Karima Kadaoui et.al.|[2503.21910](http://arxiv.org/abs/2503.21910)|null|
 |**2025-03-27**|**AssistPDA: An Online Video Surveillance Assistant for Video Anomaly Prediction, Detection, and Analysis**|Zhiwei Yang et.al.|[2503.21904](http://arxiv.org/abs/2503.21904)|null|
@@ -1579,7 +1579,7 @@ layout: default
 |**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413](http://arxiv.org/abs/2503.16413)|**[link](https://github.com/maureenzou/m3-spatial)**|
 |**2025-03-20**|**Exploring the Hidden Reasoning Process of Large Language Models by Misleading Them**|Guanyu Chen et.al.|[2503.16401](http://arxiv.org/abs/2503.16401)|null|
 |**2025-03-20**|**JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse**|Muyao Li et.al.|[2503.16365](http://arxiv.org/abs/2503.16365)|null|
-|**2025-03-20**|**Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model**|Zhaochong An et.al.|[2503.16282](http://arxiv.org/abs/2503.16282)|null|
+|**2025-03-20**|**Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model**|Zhaochong An et.al.|[2503.16282](http://arxiv.org/abs/2503.16282)|**[link](https://github.com/zhaochongan/gfs-vl)**|
 |**2025-03-20**|**MarkushGrapher: Joint Visual and Textual Recognition of Markush Structures**|Lucas Morin et.al.|[2503.16096](http://arxiv.org/abs/2503.16096)|**[link](https://github.com/DS4SD/MarkushGrapher)**|
 |**2025-03-20**|**STOP: Integrated Spatial-Temporal Dynamic Prompting for Video Understanding**|Zichen Liu et.al.|[2503.15973](http://arxiv.org/abs/2503.15973)|**[link](https://github.com/zhoujiahuan1991/cvpr2025-stop)**|
 |**2025-03-20**|**Beyond the Visible: Multispectral Vision-Language Learning for Earth Observation**|Clive Tinashe Marimo et.al.|[2503.15969](http://arxiv.org/abs/2503.15969)|null|
@@ -4060,7 +4060,7 @@ layout: default
 |**2024-09-30**|**Robot Navigation Using Physically Grounded Vision-Language Models in Outdoor Environments**|Mohamed Elnoor et.al.|[2409.20445](http://arxiv.org/abs/2409.20445)|null|
 |**2024-09-30**|**PersonalLLM: Tailoring LLMs to Individual Preferences**|Thomas P. Zollo et.al.|[2409.20296](http://arxiv.org/abs/2409.20296)|**[link](https://github.com/namkoong-lab/PersonalLLM)**|
 |**2024-09-30**|**TaskComplexity: A Dataset for Task Complexity Classification with In-Context Learning, FLAN-T5 and GPT-4o Benchmarks**|Areeg Fahad Rasheed et.al.|[2409.20189](http://arxiv.org/abs/2409.20189)|**[link](https://github.com/AREEG94FAHAD/TaskComplexityEval-24)**|
-|**2024-09-30**|**Reference Trustable Decoding: A Training-Free Augmentation Paradigm for Large Language Models**|Luohe Shi et.al.|[2409.20181](http://arxiv.org/abs/2409.20181)|null|
+|**2024-09-30**|**Reference Trustable Decoding: A Training-Free Augmentation Paradigm for Large Language Models**|Luohe Shi et.al.|[2409.20181](http://arxiv.org/abs/2409.20181)|**[link](https://github.com/shiluohe/referencetrustabledecoding)**|
 |**2024-09-30**|**Evaluating and explaining training strategies for zero-shot cross-lingual news sentiment analysis**|Luka Andrenšek et.al.|[2409.20054](http://arxiv.org/abs/2409.20054)|null|
 |**2024-09-29**|**Efficient Long-Form Speech Recognition for General Speech In-Context Learning**|Hao Yen et.al.|[2409.19757](http://arxiv.org/abs/2409.19757)|null|
 |**2024-10-02**|**T2Vs Meet VLMs: A Scalable Multimodal Dataset for Visual Harmfulness Recognition**|Chen Yeh et.al.|[2409.19734](http://arxiv.org/abs/2409.19734)|**[link](https://github.com/nctu-eva-lab/vhd11k)**|
