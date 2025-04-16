@@ -174,6 +174,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**LayoutCoT: Unleashing the Deep Reasoning Potential of Large Language Models for Layout Generation**|Hengyu Shi et.al.|[2504.10829](http://arxiv.org/abs/2504.10829)|null|
+|**2025-04-15**|**Tabular foundation model to detect empathy from visual cues**|Md Rakibul Hasan et.al.|[2504.10808](http://arxiv.org/abs/2504.10808)|null|
+|**2025-04-14**|**Improving In-Context Learning with Reasoning Distillation**|Nafis Sadeq et.al.|[2504.10647](http://arxiv.org/abs/2504.10647)|null|
 |**2025-04-14**|**Assessing Judging Bias in Large Reasoning Models: An Empirical Study**|Qian Wang et.al.|[2504.09946](http://arxiv.org/abs/2504.09946)|null|
 |**2025-04-13**|**Integrating Large Language Models for Automated Structural Analysis**|Haoran Liang et.al.|[2504.09754](http://arxiv.org/abs/2504.09754)|null|
 |**2025-04-13**|**Mitigating Many-Shot Jailbreaking**|Christopher M. Ackerman et.al.|[2504.09604](http://arxiv.org/abs/2504.09604)|null|
@@ -1465,6 +1468,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**From Gaze to Insight: Bridging Human Visual Attention and Vision Language Model Explanation for Weakly-Supervised Medical Image Segmentation**|Jingkun Chen et.al.|[2504.11368](http://arxiv.org/abs/2504.11368)|null|
+|**2025-04-15**|**UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis**|Xinyi Liu et.al.|[2504.11257](http://arxiv.org/abs/2504.11257)|null|
+|**2025-04-15**|**R-TPT: Improving Adversarial Robustness of Vision-Language Models through Test-Time Prompt Tuning**|Lijun Sheng et.al.|[2504.11195](http://arxiv.org/abs/2504.11195)|null|
+|**2025-04-15**|**Benchmarking Vision Language Models on German Factual Data**|René Peinl et.al.|[2504.11108](http://arxiv.org/abs/2504.11108)|null|
+|**2025-04-15**|**Consensus Entropy: Harnessing Multi-VLM Agreement for Self-Verifying and Self-Improving OCR**|Yulong Zhang et.al.|[2504.11101](http://arxiv.org/abs/2504.11101)|null|
+|**2025-04-15**|**QAVA: Query-Agnostic Visual Attack to Large Vision-Language Models**|Yudong Zhang et.al.|[2504.11038](http://arxiv.org/abs/2504.11038)|null|
+|**2025-04-15**|**Can Vision-Language Models Understand and Interpret Dynamic Gestures from Pedestrians? Pilot Datasets and Exploration Towards Instructive Nonverbal Commands for Cooperative Autonomous Vehicles**|Tonko E. W. Bossen et.al.|[2504.10873](http://arxiv.org/abs/2504.10873)|null|
+|**2025-04-15**|**LVLM_CSP: Accelerating Large Vision Language Models via Clustering, Scattering, and Pruning for Reasoning Segmentation**|Hanning Chen et.al.|[2504.10854](http://arxiv.org/abs/2504.10854)|null|
+|**2025-04-15**|**Enhancing Features in Long-tailed Data Using Large Vision Mode**|Pengxiao Han et.al.|[2504.10852](http://arxiv.org/abs/2504.10852)|null|
+|**2025-04-14**|**ReasonDrive: Efficient Visual Question Answering for Autonomous Vehicles with Reasoning-Enhanced Small Vision-Language Models**|Amirhosein Chahe et.al.|[2504.10757](http://arxiv.org/abs/2504.10757)|null|
 |**2025-04-14**|**Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding**|Tao Zhang et.al.|[2504.10465](http://arxiv.org/abs/2504.10465)|null|
 |**2025-04-15**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
 |**2025-04-14**|**SlowFastVAD: Video Anomaly Detection via Integrating Simple Detector and RAG-Enhanced Vision-Language Model**|Zongcan Ding et.al.|[2504.10320](http://arxiv.org/abs/2504.10320)|null|
@@ -3554,6 +3567,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**LayoutCoT: Unleashing the Deep Reasoning Potential of Large Language Models for Layout Generation**|Hengyu Shi et.al.|[2504.10829](http://arxiv.org/abs/2504.10829)|null|
+|**2025-04-15**|**Tabular foundation model to detect empathy from visual cues**|Md Rakibul Hasan et.al.|[2504.10808](http://arxiv.org/abs/2504.10808)|null|
+|**2025-04-14**|**Improving In-Context Learning with Reasoning Distillation**|Nafis Sadeq et.al.|[2504.10647](http://arxiv.org/abs/2504.10647)|null|
 |**2025-04-14**|**Assessing Judging Bias in Large Reasoning Models: An Empirical Study**|Qian Wang et.al.|[2504.09946](http://arxiv.org/abs/2504.09946)|null|
 |**2025-04-13**|**Integrating Large Language Models for Automated Structural Analysis**|Haoran Liang et.al.|[2504.09754](http://arxiv.org/abs/2504.09754)|null|
 |**2025-04-13**|**Mitigating Many-Shot Jailbreaking**|Christopher M. Ackerman et.al.|[2504.09604](http://arxiv.org/abs/2504.09604)|null|
