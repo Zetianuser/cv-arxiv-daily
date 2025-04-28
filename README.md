@@ -175,6 +175,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**E-InMeMo: Enhanced Prompting for Visual In-Context Learning**|Jiahao Zhang et.al.|[2504.18158](http://arxiv.org/abs/2504.18158)|null|
+|**2025-04-25**|**Application and Optimization of Large Models Based on Prompt Tuning for Fact-Check-Worthiness Estimation**|Yinglong Yu et.al.|[2504.18104](http://arxiv.org/abs/2504.18104)|null|
 |**2025-04-24**|**Does Knowledge Distillation Matter for Large Language Model based Bundle Generation?**|Kaidong Feng et.al.|[2504.17220](http://arxiv.org/abs/2504.17220)|null|
 |**2025-04-23**|**In-Context Learning can distort the relationship between sequence likelihoods and biological fitness**|Pranav Kantroo et.al.|[2504.17068](http://arxiv.org/abs/2504.17068)|null|
 |**2025-04-23**|**Decoupled Global-Local Alignment for Improving Compositional Understanding**|Xiaoxing Hu et.al.|[2504.16801](http://arxiv.org/abs/2504.16801)|null|
@@ -1491,6 +1493,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Generalization Capability for Imitation Learning**|Yixiao Wang et.al.|[2504.18538](http://arxiv.org/abs/2504.18538)|null|
+|**2025-04-25**|**Fast-Slow Thinking for Large Vision-Language Model Reasoning**|Wenyi Xiao et.al.|[2504.18458](http://arxiv.org/abs/2504.18458)|null|
+|**2025-04-25**|**Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation**|Peiyuan Jing et.al.|[2504.18453](http://arxiv.org/abs/2504.18453)|null|
+|**2025-04-25**|**Revisiting Data Auditing in Large Vision-Language Models**|Hongyu Zhu et.al.|[2504.18349](http://arxiv.org/abs/2504.18349)|null|
+|**2025-04-25**|**A Large Vision-Language Model based Environment Perception System for Visually Impaired People**|Zezhou Chen et.al.|[2504.18027](http://arxiv.org/abs/2504.18027)|null|
+|**2025-04-24**|**CAMU: Context Augmentation for Meme Understanding**|Girish A. Koushik et.al.|[2504.17902](http://arxiv.org/abs/2504.17902)|null|
 |**2025-04-25**|**Data-Driven Calibration of Prediction Sets in Large Vision-Language Models Based on Inductive Conformal Prediction**|Yuanchang Ye et.al.|[2504.17671](http://arxiv.org/abs/2504.17671)|null|
 |**2025-04-24**|**SDVPT: Semantic-Driven Visual Prompt Tuning for Open-World Object Counting**|Yiming Zhao et.al.|[2504.17395](http://arxiv.org/abs/2504.17395)|null|
 |**2025-04-24**|**M-MRE: Extending the Mutual Reinforcement Effect to Multimodal Information Extraction**|Chengguang Gan et.al.|[2504.17353](http://arxiv.org/abs/2504.17353)|null|
@@ -3648,6 +3656,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**E-InMeMo: Enhanced Prompting for Visual In-Context Learning**|Jiahao Zhang et.al.|[2504.18158](http://arxiv.org/abs/2504.18158)|null|
+|**2025-04-25**|**Application and Optimization of Large Models Based on Prompt Tuning for Fact-Check-Worthiness Estimation**|Yinglong Yu et.al.|[2504.18104](http://arxiv.org/abs/2504.18104)|null|
 |**2025-04-24**|**Does Knowledge Distillation Matter for Large Language Model based Bundle Generation?**|Kaidong Feng et.al.|[2504.17220](http://arxiv.org/abs/2504.17220)|null|
 |**2025-04-23**|**In-Context Learning can distort the relationship between sequence likelihoods and biological fitness**|Pranav Kantroo et.al.|[2504.17068](http://arxiv.org/abs/2504.17068)|null|
 |**2025-04-23**|**Decoupled Global-Local Alignment for Improving Compositional Understanding**|Xiaoxing Hu et.al.|[2504.16801](http://arxiv.org/abs/2504.16801)|null|
