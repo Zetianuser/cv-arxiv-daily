@@ -166,6 +166,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**LASHED: LLMs And Static Hardware Analysis for Early Detection of RTL Bugs**|Baleegh Ahmad et.al.|[2504.21770](http://arxiv.org/abs/2504.21770)|null|
+|**2025-04-30**|**LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics**|Marc Glocker et.al.|[2504.21716](http://arxiv.org/abs/2504.21716)|null|
+|**2025-04-30**|**In a Few Words: Comparing Weak Supervision and LLMs for Short Query Intent Classification**|Daria Alexander et.al.|[2504.21398](http://arxiv.org/abs/2504.21398)|null|
+|**2025-04-30**|**Unsupervised Feature Transformation via In-context Generation, Generator-critic LLM Agents, and Duet-play Teaming**|Nanxu Gong et.al.|[2504.21304](http://arxiv.org/abs/2504.21304)|null|
+|**2025-04-30**|**Embracing Collaboration Over Competition: Condensing Multiple Prompts for Visual In-Context Learning**|Jinpeng Wang et.al.|[2504.21263](http://arxiv.org/abs/2504.21263)|**[link](https://github.com/gimpong/CVPR25-Condenser)**|
+|**2025-04-29**|**On the Potential of Large Language Models to Solve Semantics-Aware Process Mining Tasks**|Adrian Rebmann et.al.|[2504.21074](http://arxiv.org/abs/2504.21074)|null|
 |**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997](http://arxiv.org/abs/2504.20997)|null|
 |**2025-04-29**|**AlignDiT: Multimodal Aligned Diffusion Transformer for Synchronized Speech Generation**|Jeongsoo Choi et.al.|[2504.20629](http://arxiv.org/abs/2504.20629)|null|
 |**2025-04-28**|**GenCLS++: Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets**|Mingqian He et.al.|[2504.19898](http://arxiv.org/abs/2504.19898)|null|
@@ -1489,6 +1495,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Early Exit and Multi Stage Knowledge Distillation in VLMs for Video Summarization**|Anas Anwarul Haq Khan et.al.|[2504.21831](http://arxiv.org/abs/2504.21831)|null|
+|**2025-04-30**|**Black-Box Visual Prompt Engineering for Mitigating Object Hallucination in Large Vision Language Models**|Sangmin Woo et.al.|[2504.21559](http://arxiv.org/abs/2504.21559)|null|
+|**2025-04-30**|**RoboGround: Robotic Manipulation with Grounded Vision-Language Priors**|Haifeng Huang et.al.|[2504.21530](http://arxiv.org/abs/2504.21530)|null|
+|**2025-04-30**|**Vision-Language Model-Based Semantic-Guided Imaging Biomarker for Early Lung Cancer Detection**|Luoting Zhuang et.al.|[2504.21344](http://arxiv.org/abs/2504.21344)|null|
+|**2025-04-29**|**MemeBLIP2: A novel lightweight multimodal system to detect harmful memes**|Jiaqi Liu et.al.|[2504.21226](http://arxiv.org/abs/2504.21226)|null|
+|**2025-04-29**|**GLIP-OOD: Zero-Shot Graph OOD Detection with Foundation Model**|Haoyan Xu et.al.|[2504.21186](http://arxiv.org/abs/2504.21186)|null|
 |**2025-04-29**|**Real-Time Wayfinding Assistant for Blind and Low-Vision Users**|Dabbrata Das et.al.|[2504.20976](http://arxiv.org/abs/2504.20976)|null|
 |**2025-04-29**|**FedMVP: Federated Multi-modal Visual Prompt Tuning for Vision-Language Models**|Mainak Singha et.al.|[2504.20860](http://arxiv.org/abs/2504.20860)|null|
 |**2025-04-29**|**In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer**|Zechuan Zhang et.al.|[2504.20690](http://arxiv.org/abs/2504.20690)|null|
@@ -3668,6 +3680,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**LASHED: LLMs And Static Hardware Analysis for Early Detection of RTL Bugs**|Baleegh Ahmad et.al.|[2504.21770](http://arxiv.org/abs/2504.21770)|null|
+|**2025-04-30**|**LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics**|Marc Glocker et.al.|[2504.21716](http://arxiv.org/abs/2504.21716)|null|
+|**2025-04-30**|**In a Few Words: Comparing Weak Supervision and LLMs for Short Query Intent Classification**|Daria Alexander et.al.|[2504.21398](http://arxiv.org/abs/2504.21398)|null|
+|**2025-04-30**|**Unsupervised Feature Transformation via In-context Generation, Generator-critic LLM Agents, and Duet-play Teaming**|Nanxu Gong et.al.|[2504.21304](http://arxiv.org/abs/2504.21304)|null|
+|**2025-04-30**|**Embracing Collaboration Over Competition: Condensing Multiple Prompts for Visual In-Context Learning**|Jinpeng Wang et.al.|[2504.21263](http://arxiv.org/abs/2504.21263)|**[link](https://github.com/gimpong/CVPR25-Condenser)**|
+|**2025-04-29**|**On the Potential of Large Language Models to Solve Semantics-Aware Process Mining Tasks**|Adrian Rebmann et.al.|[2504.21074](http://arxiv.org/abs/2504.21074)|null|
 |**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997](http://arxiv.org/abs/2504.20997)|null|
 |**2025-04-29**|**AlignDiT: Multimodal Aligned Diffusion Transformer for Synchronized Speech Generation**|Jeongsoo Choi et.al.|[2504.20629](http://arxiv.org/abs/2504.20629)|null|
 |**2025-04-28**|**GenCLS++: Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets**|Mingqian He et.al.|[2504.19898](http://arxiv.org/abs/2504.19898)|null|
