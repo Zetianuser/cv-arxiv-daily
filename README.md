@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -171,7 +171,7 @@
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
 |**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 ## In-context
 
@@ -180,9 +180,9 @@
 |**2025-05-05**|**Bye-bye, Bluebook? Automating Legal Procedure with Large Language Models**|Matthew Dahl et.al.|[2505.02763](http://arxiv.org/abs/2505.02763)|null|
 |**2025-05-04**|**Retrieval-augmented in-context learning for multimodal large language models in disease classification**|Zaifu Zhan et.al.|[2505.02087](http://arxiv.org/abs/2505.02087)|null|
 |**2025-05-04**|**What do Language Model Probabilities Represent? From Distribution Estimation to Response Prediction**|Eitan Wagner et.al.|[2505.02072](http://arxiv.org/abs/2505.02072)|null|
-|**2025-05-04**|**GraphPrompter: Multi-stage Adaptive Prompt Optimization for Graph In-Context Learning**|Rui Lv et.al.|[2505.02027](http://arxiv.org/abs/2505.02027)|null|
+|**2025-05-04**|**GraphPrompter: Multi-stage Adaptive Prompt Optimization for Graph In-Context Learning**|Rui Lv et.al.|[2505.02027](http://arxiv.org/abs/2505.02027)|**[link](https://github.com/karin0018/graphprompter)**|
 |**2025-05-03**|**BOOM: Benchmarking Out-Of-distribution Molecular Property Predictions of Machine Learning Models**|Evan R. Antoniuk et.al.|[2505.01912](http://arxiv.org/abs/2505.01912)|null|
-|**2025-05-06**|**Exploring the Role of Diversity in Example Selection for In-Context Learning**|Janak Kapuriya et.al.|[2505.01842](http://arxiv.org/abs/2505.01842)|null|
+|**2025-05-06**|**Exploring the Role of Diversity in Example Selection for In-Context Learning**|Janak Kapuriya et.al.|[2505.01842](http://arxiv.org/abs/2505.01842)|**[link](https://github.com/janak11111/diverse-icl)**|
 |**2025-05-03**|**$\textit{New News}$ : System-2 Fine-tuning for Robust Integration of New Knowledge**|Core Francisco Park et.al.|[2505.01812](http://arxiv.org/abs/2505.01812)|null|
 |**2025-05-03**|**Vision and Intention Boost Large Language Model in Long-Term Action Anticipation**|Congqi Cao et.al.|[2505.01713](http://arxiv.org/abs/2505.01713)|null|
 |**2025-05-02**|**TutorGym: A Testbed for Evaluating AI Agents as Tutors and Students**|Daniel Weitekamp et.al.|[2505.01563](http://arxiv.org/abs/2505.01563)|null|
@@ -1515,7 +1515,7 @@
 |**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075](http://arxiv.org/abs/2312.11075)|null|
 |**2023-12-18**|**APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation**|Chengran Yang et.al.|[2312.10934](http://arxiv.org/abs/2312.10934)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 ## VLM
 
@@ -1526,11 +1526,11 @@
 |**2025-05-06**|**Learning Unknown Spoof Prompts for Generalized Face Anti-Spoofing Using Only Real Face Images**|Fangling Jiang et.al.|[2505.03611](http://arxiv.org/abs/2505.03611)|null|
 |**2025-05-06**|**Learning Knowledge-based Prompts for Robust 3D Mask Presentation Attack Detection**|Fangling Jiang et.al.|[2505.03610](http://arxiv.org/abs/2505.03610)|null|
 |**2025-05-06**|**Mitigating Image Captioning Hallucinations in Vision-Language Models**|Fei Zhao et.al.|[2505.03420](http://arxiv.org/abs/2505.03420)|null|
-|**2025-05-06**|**Enhancing Target-unspecific Tasks through a Features Matrix**|Fangming Cui et.al.|[2505.03414](http://arxiv.org/abs/2505.03414)|null|
+|**2025-05-07**|**Enhancing Target-unspecific Tasks through a Features Matrix**|Fangming Cui et.al.|[2505.03414](http://arxiv.org/abs/2505.03414)|null|
 |**2025-05-06**|**Reducing Annotation Burden in Physical Activity Research Using Vision-Language Models**|Abram Schonfeldt et.al.|[2505.03374](http://arxiv.org/abs/2505.03374)|null|
 |**2025-05-06**|**A Vision-Language Model for Focal Liver Lesion Classification**|Song Jian et.al.|[2505.03350](http://arxiv.org/abs/2505.03350)|null|
 |**2025-05-06**|**From Word to Sentence: A Large-Scale Multi-Instance Dataset for Open-Set Aerial Detection**|Guoting Wei et.al.|[2505.03334](http://arxiv.org/abs/2505.03334)|null|
-|**2025-05-06**|**Seeing the Abstract: Translating the Abstract Language for Vision Language Models**|Davide Talon et.al.|[2505.03242](http://arxiv.org/abs/2505.03242)|null|
+|**2025-05-06**|**Seeing the Abstract: Translating the Abstract Language for Vision Language Models**|Davide Talon et.al.|[2505.03242](http://arxiv.org/abs/2505.03242)|**[link](https://github.com/davidetalon/fashionact)**|
 |**2025-05-05**|**LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery**|Jerome Quenum et.al.|[2505.02829](http://arxiv.org/abs/2505.02829)|null|
 |**2025-05-05**|**HapticVLM: VLM-Driven Texture Recognition Aimed at Intelligent Haptic Interaction**|Muhammad Haris Khan et.al.|[2505.02569](http://arxiv.org/abs/2505.02569)|null|
 |**2025-05-05**|**Tevatron 2.0: Unified Document Retrieval Toolkit across Scale, Language, and Modality**|Xueguang Ma et.al.|[2505.02466](http://arxiv.org/abs/2505.02466)|null|
@@ -3728,7 +3728,7 @@
 |**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423](http://arxiv.org/abs/2312.12423)|null|
 |**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379](http://arxiv.org/abs/2312.12379)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 ## Visual In-context
 
@@ -3736,7 +3736,7 @@
 |---|---|---|---|---|
 |**2024-02-18**|**Visual In-Context Learning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2402.11574](http://arxiv.org/abs/2402.11574)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 ## V-ICL
 
@@ -3745,9 +3745,9 @@
 |**2025-05-05**|**Bye-bye, Bluebook? Automating Legal Procedure with Large Language Models**|Matthew Dahl et.al.|[2505.02763](http://arxiv.org/abs/2505.02763)|null|
 |**2025-05-04**|**Retrieval-augmented in-context learning for multimodal large language models in disease classification**|Zaifu Zhan et.al.|[2505.02087](http://arxiv.org/abs/2505.02087)|null|
 |**2025-05-04**|**What do Language Model Probabilities Represent? From Distribution Estimation to Response Prediction**|Eitan Wagner et.al.|[2505.02072](http://arxiv.org/abs/2505.02072)|null|
-|**2025-05-04**|**GraphPrompter: Multi-stage Adaptive Prompt Optimization for Graph In-Context Learning**|Rui Lv et.al.|[2505.02027](http://arxiv.org/abs/2505.02027)|null|
+|**2025-05-04**|**GraphPrompter: Multi-stage Adaptive Prompt Optimization for Graph In-Context Learning**|Rui Lv et.al.|[2505.02027](http://arxiv.org/abs/2505.02027)|**[link](https://github.com/karin0018/graphprompter)**|
 |**2025-05-03**|**BOOM: Benchmarking Out-Of-distribution Molecular Property Predictions of Machine Learning Models**|Evan R. Antoniuk et.al.|[2505.01912](http://arxiv.org/abs/2505.01912)|null|
-|**2025-05-06**|**Exploring the Role of Diversity in Example Selection for In-Context Learning**|Janak Kapuriya et.al.|[2505.01842](http://arxiv.org/abs/2505.01842)|null|
+|**2025-05-06**|**Exploring the Role of Diversity in Example Selection for In-Context Learning**|Janak Kapuriya et.al.|[2505.01842](http://arxiv.org/abs/2505.01842)|**[link](https://github.com/janak11111/diverse-icl)**|
 |**2025-05-03**|**$\textit{New News}$ : System-2 Fine-tuning for Robust Integration of New Knowledge**|Core Francisco Park et.al.|[2505.01812](http://arxiv.org/abs/2505.01812)|null|
 |**2025-05-03**|**Vision and Intention Boost Large Language Model in Long-Term Action Anticipation**|Congqi Cao et.al.|[2505.01713](http://arxiv.org/abs/2505.01713)|null|
 |**2025-05-02**|**TutorGym: A Testbed for Evaluating AI Agents as Tutors and Students**|Daniel Weitekamp et.al.|[2505.01563](http://arxiv.org/abs/2505.01563)|null|
@@ -4790,7 +4790,7 @@
 |**2024-04-15**|**Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**|Sungwon Han et.al.|[2404.09491](http://arxiv.org/abs/2404.09491)|**[link](https://github.com/sungwon-han/featllm)**|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
