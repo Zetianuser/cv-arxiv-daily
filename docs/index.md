@@ -14,8 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**Crafting Physical Adversarial Examples by Combining Differentiable and Physically Based Renders**|Yuqiu Liu et.al.|[2505.04662](http://arxiv.org/abs/2505.04662)|null|
 |**2025-05-03**|**CAMOUFLAGE: Exploiting Misinformation Detection Systems Through LLM-driven Adversarial Claim Transformation**|Mazal Bethany et.al.|[2505.01900](http://arxiv.org/abs/2505.01900)|null|
-|**2025-04-10**|**ZS-VCOS: Zero-Shot Outperforms Supervised Video Camouflaged Object Segmentation**|Wenqi Guo et.al.|[2505.01431](http://arxiv.org/abs/2505.01431)|null|
+|**2025-04-10**|**ZS-VCOS: Zero-Shot Outperforms Supervised Video Camouflaged Object Segmentation**|Wenqi Guo et.al.|[2505.01431](http://arxiv.org/abs/2505.01431)|**[link](https://github.com/weathon/vcos)**|
 |**2025-04-20**|**Vision-Centric Representation-Efficient Fine-Tuning for Robust Universal Foreground Segmentation**|Guoyi Zhang et.al.|[2504.14481](http://arxiv.org/abs/2504.14481)|null|
 |**2025-04-02**|**Foreground Focus: Enhancing Coherence and Fidelity in Camouflaged Image Generation**|Pei-Chi Chen et.al.|[2504.02180](http://arxiv.org/abs/2504.02180)|null|
 |**2025-04-01**|**Tailor-Made Metasurface Camouflage**|M. Tsukerman et.al.|[2504.00620](http://arxiv.org/abs/2504.00620)|null|
@@ -168,6 +169,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**ICon: In-Context Contribution for Automatic Data Selection**|Yixin Yang et.al.|[2505.05327](http://arxiv.org/abs/2505.05327)|null|
+|**2025-05-08**|**EAM: Enhancing Anything with Diffusion Transformers for Blind Super-Resolution**|Haizhen Xie et.al.|[2505.05209](http://arxiv.org/abs/2505.05209)|null|
+|**2025-05-08**|**Understanding In-context Learning of Addition via Activation Subspaces**|Xinyan Hu et.al.|[2505.05145](http://arxiv.org/abs/2505.05145)|null|
+|**2025-05-08**|**The Pitfalls of Growing Group Complexity: LLMs and Social Choice-Based Aggregation for Group Recommendations**|Cedric Waterschoot et.al.|[2505.05016](http://arxiv.org/abs/2505.05016)|null|
+|**2025-05-08**|**Rethinking Invariance in In-context Learning**|Lizhe Fang et.al.|[2505.04994](http://arxiv.org/abs/2505.04994)|null|
+|**2025-05-06**|**Scientific Hypothesis Generation and Validation: Methods, Datasets, and Future Directions**|Adithya Kulkarni et.al.|[2505.04651](http://arxiv.org/abs/2505.04651)|null|
 |**2025-05-07**|**CDE-Mapper: Using Retrieval-Augmented Language Models for Linking Clinical Data Elements to Controlled Vocabularies**|Komal Gilani et.al.|[2505.04365](http://arxiv.org/abs/2505.04365)|null|
 |**2025-05-06**|**Frog Soup: Zero-Shot, In-Context, and Sample-Efficient Frogger Agents**|Xiang Li et.al.|[2505.03947](http://arxiv.org/abs/2505.03947)|**[link](https://github.com/alienkevin/frogger)**|
 |**2025-05-05**|**Bye-bye, Bluebook? Automating Legal Procedure with Large Language Models**|Matthew Dahl et.al.|[2505.02763](http://arxiv.org/abs/2505.02763)|null|
@@ -1512,6 +1519,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**|Shiqi Chen et.al.|[2505.05464](http://arxiv.org/abs/2505.05464)|**[link](https://github.com/shiqichen17/vlm_merging)**|
+|**2025-05-08**|**SITE: towards Spatial Intelligence Thorough Evaluation**|Wenqi Wang et.al.|[2505.05456](http://arxiv.org/abs/2505.05456)|null|
+|**2025-05-08**|**DSDrive: Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning**|Wenru Liu et.al.|[2505.05360](http://arxiv.org/abs/2505.05360)|null|
+|**2025-05-08**|**Hearing and Seeing Through CLIP: A Framework for Self-Supervised Sound Source Localization**|Sooyoung Park et.al.|[2505.05343](http://arxiv.org/abs/2505.05343)|**[link](https://github.com/swimmiing/ACL-SSL)**|
+|**2025-05-08**|**Mapping User Trust in Vision Language Models: Research Landscape, Challenges, and Prospects**|Agnese Chiatti et.al.|[2505.05318](http://arxiv.org/abs/2505.05318)|null|
+|**2025-05-08**|**Biomed-DPT: Dual Modality Prompt Tuning for Biomedical Vision-Language Models**|Wei Peng et.al.|[2505.05189](http://arxiv.org/abs/2505.05189)|null|
+|**2025-05-08**|**OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning**|Cong Hua et.al.|[2505.05180](http://arxiv.org/abs/2505.05180)|**[link](https://github.com/huacong/openworldauc)**|
+|**2025-05-08**|**Probabilistic Embeddings for Frozen Vision-Language Models: Uncertainty Quantification with Gaussian Process Latent Variable Models**|Aishwarya Venkataramanan et.al.|[2505.05163](http://arxiv.org/abs/2505.05163)|null|
+|**2025-05-08**|**CacheFL: Efficient Federated Cache Model Fine-Tuning for Vision-Language Models**|Mengjun Yi et.al.|[2505.05130](http://arxiv.org/abs/2505.05130)|null|
+|**2025-05-08**|**X-Driver: Explainable Autonomous Driving with Vision-Language Models**|Wei Liu et.al.|[2505.05098](http://arxiv.org/abs/2505.05098)|null|
 |**2025-05-07**|**"I Can See Forever!": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments**|Ziyi Zhang et.al.|[2505.04488](http://arxiv.org/abs/2505.04488)|null|
 |**2025-05-07**|**DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception**|Junjie Wang et.al.|[2505.04410](http://arxiv.org/abs/2505.04410)|null|
 |**2025-05-07**|**CM1 -- A Dataset for Evaluating Few-Shot Information Extraction with Large Vision Language Models**|Fabian Wolf et.al.|[2505.04214](http://arxiv.org/abs/2505.04214)|null|
@@ -3734,6 +3751,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**ICon: In-Context Contribution for Automatic Data Selection**|Yixin Yang et.al.|[2505.05327](http://arxiv.org/abs/2505.05327)|null|
+|**2025-05-08**|**EAM: Enhancing Anything with Diffusion Transformers for Blind Super-Resolution**|Haizhen Xie et.al.|[2505.05209](http://arxiv.org/abs/2505.05209)|null|
+|**2025-05-08**|**Understanding In-context Learning of Addition via Activation Subspaces**|Xinyan Hu et.al.|[2505.05145](http://arxiv.org/abs/2505.05145)|null|
+|**2025-05-08**|**The Pitfalls of Growing Group Complexity: LLMs and Social Choice-Based Aggregation for Group Recommendations**|Cedric Waterschoot et.al.|[2505.05016](http://arxiv.org/abs/2505.05016)|null|
+|**2025-05-08**|**Rethinking Invariance in In-context Learning**|Lizhe Fang et.al.|[2505.04994](http://arxiv.org/abs/2505.04994)|null|
+|**2025-05-06**|**Scientific Hypothesis Generation and Validation: Methods, Datasets, and Future Directions**|Adithya Kulkarni et.al.|[2505.04651](http://arxiv.org/abs/2505.04651)|null|
 |**2025-05-07**|**CDE-Mapper: Using Retrieval-Augmented Language Models for Linking Clinical Data Elements to Controlled Vocabularies**|Komal Gilani et.al.|[2505.04365](http://arxiv.org/abs/2505.04365)|null|
 |**2025-05-06**|**Frog Soup: Zero-Shot, In-Context, and Sample-Efficient Frogger Agents**|Xiang Li et.al.|[2505.03947](http://arxiv.org/abs/2505.03947)|**[link](https://github.com/alienkevin/frogger)**|
 |**2025-05-05**|**Bye-bye, Bluebook? Automating Legal Procedure with Large Language Models**|Matthew Dahl et.al.|[2505.02763](http://arxiv.org/abs/2505.02763)|null|
