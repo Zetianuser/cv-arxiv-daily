@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -171,7 +171,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-14**|**Towards Fair In-Context Learning with Tabular Foundation Models**|Patrik Kenfack et.al.|[2505.09503](http://arxiv.org/abs/2505.09503)|null|
+|**2025-05-15**|**Towards Fair In-Context Learning with Tabular Foundation Models**|Patrik Kenfack et.al.|[2505.09503](http://arxiv.org/abs/2505.09503)|null|
 |**2025-05-13**|**Tests as Prompt: A Test-Driven-Development Benchmark for LLM Code Generation**|Yi Cui et.al.|[2505.09027](http://arxiv.org/abs/2505.09027)|null|
 |**2025-05-13**|**Automated Meta Prompt Engineering for Alignment with the Theory of Mind**|Aaron Baughman et.al.|[2505.09024](http://arxiv.org/abs/2505.09024)|null|
 |**2025-05-13**|**NurValues: Real-World Nursing Values Evaluation for Large Language Models in Clinical Context**|Ben Yao et.al.|[2505.08734](http://arxiv.org/abs/2505.08734)|null|
@@ -1543,7 +1543,7 @@ layout: default
 |**2025-05-14**|**Seeing Beyond the Scene: Enhancing Vision-Language Models with Interactional Reasoning**|Dayong Liang et.al.|[2505.09118](http://arxiv.org/abs/2505.09118)|null|
 |**2025-05-14**|**OpenLKA: An Open Dataset of Lane Keeping Assist from Recent Car Models under Real-world Driving Conditions**|Yuhang Wang et.al.|[2505.09092](http://arxiv.org/abs/2505.09092)|**[link](https://github.com/openlka/openlka)**|
 |**2025-05-13**|**Prioritizing Image-Related Tokens Enhances Vision-Language Pre-Training**|Yangyi Chen et.al.|[2505.08971](http://arxiv.org/abs/2505.08971)|**[link](https://github.com/yangyi-chen/prior)**|
-|**2025-05-13**|**Behind Maya: Building a Multilingual Vision Language Model**|Nahid Alam et.al.|[2505.08910](http://arxiv.org/abs/2505.08910)|**[link](https://github.com/nahidalam/maya)**|
+|**2025-05-15**|**Behind Maya: Building a Multilingual Vision Language Model**|Nahid Alam et.al.|[2505.08910](http://arxiv.org/abs/2505.08910)|**[link](https://github.com/nahidalam/maya)**|
 |**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Zongchuang Zhao et.al.|[2505.08725](http://arxiv.org/abs/2505.08725)|null|
 |**2025-05-13**|**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**|Zhaochen Su et.al.|[2505.08617](http://arxiv.org/abs/2505.08617)|null|
 |**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Yifu Yuan et.al.|[2505.08548](http://arxiv.org/abs/2505.08548)|null|
@@ -3799,7 +3799,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-14**|**Towards Fair In-Context Learning with Tabular Foundation Models**|Patrik Kenfack et.al.|[2505.09503](http://arxiv.org/abs/2505.09503)|null|
+|**2025-05-15**|**Towards Fair In-Context Learning with Tabular Foundation Models**|Patrik Kenfack et.al.|[2505.09503](http://arxiv.org/abs/2505.09503)|null|
 |**2025-05-13**|**Tests as Prompt: A Test-Driven-Development Benchmark for LLM Code Generation**|Yi Cui et.al.|[2505.09027](http://arxiv.org/abs/2505.09027)|null|
 |**2025-05-13**|**Automated Meta Prompt Engineering for Alignment with the Theory of Mind**|Aaron Baughman et.al.|[2505.09024](http://arxiv.org/abs/2505.09024)|null|
 |**2025-05-13**|**NurValues: Real-World Nursing Values Evaluation for Large Language Models in Clinical Context**|Ben Yao et.al.|[2505.08734](http://arxiv.org/abs/2505.08734)|null|
