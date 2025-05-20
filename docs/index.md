@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-18**|**Implementation of ultra-broadband optical null media via space-folding**|Yichao Liu et.al.|[2505.12407](http://arxiv.org/abs/2505.12407)|null|
 |**2025-05-14**|**DRRNet: Macro-Micro Feature Fusion and Dual Reverse Refinement for Camouflaged Object Detection**|Jianlin Sun et.al.|[2505.09168](http://arxiv.org/abs/2505.09168)|**[link](https://github.com/jerrysunning/drrnet)**|
 |**2025-05-14**|**Promoting SAM for Camouflaged Object Detection via Selective Key Point-based Guidance**|Guoying Liang et.al.|[2505.09123](http://arxiv.org/abs/2505.09123)|null|
 |**2025-05-07**|**Crafting Physical Adversarial Examples by Combining Differentiable and Physically Based Renders**|Yuqiu Liu et.al.|[2505.04662](http://arxiv.org/abs/2505.04662)|null|
@@ -171,6 +172,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**CIE: Controlling Language Model Text Generations Using Continuous Signals**|Vinay Samuel et.al.|[2505.13448](http://arxiv.org/abs/2505.13448)|**[link](https://github.com/vsamuel2003/cie)**|
+|**2025-05-19**|**FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance**|Dian Shao et.al.|[2505.13437](http://arxiv.org/abs/2505.13437)|null|
+|**2025-05-19**|**AutoMathKG: The automated mathematical knowledge graph based on LLM and vector database**|Rong Bian et.al.|[2505.13406](http://arxiv.org/abs/2505.13406)|null|
+|**2025-05-18**|**Relation Extraction or Pattern Matching? Unravelling the Generalisation Limits of Language Models for Biographical RE**|Varvara Arzt et.al.|[2505.12533](http://arxiv.org/abs/2505.12533)|null|
+|**2025-05-18**|**Bridging Generative and Discriminative Learning: Few-Shot Relation Extraction via Two-Stage Knowledge-Guided Pre-training**|Quanjiang Guo et.al.|[2505.12236](http://arxiv.org/abs/2505.12236)|**[link](https://github.com/uestc-gqj/tkre)**|
+|**2025-05-18**|**Data Whisperer: Efficient Data Selection for Task-Specific LLM Fine-Tuning via Few-Shot In-Context Learning**|Shaobo Wang et.al.|[2505.12212](http://arxiv.org/abs/2505.12212)|null|
+|**2025-05-17**|**Transformer learns the cross-task prior and regularization for in-context learning**|Fei Lu et.al.|[2505.12138](http://arxiv.org/abs/2505.12138)|null|
+|**2025-05-17**|**Do different prompting methods yield a common task representation in language models?**|Guy Davidson et.al.|[2505.12075](http://arxiv.org/abs/2505.12075)|null|
+|**2025-05-17**|**Transformers as Unsupervised Learning Algorithms: A study on Gaussian Mixtures**|Zhiheng Chen et.al.|[2505.11918](http://arxiv.org/abs/2505.11918)|**[link](https://github.com/rorschach1989/transformer-for-gmm)**|
 |**2025-05-16**|**When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs**|Xiaomin Li et.al.|[2505.11423](http://arxiv.org/abs/2505.11423)|null|
 |**2025-05-16**|**Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning**|Yuanzhao Zhang et.al.|[2505.11349](http://arxiv.org/abs/2505.11349)|null|
 |**2025-05-16**|**Feasibility with Language Models for Open-World Compositional Zero-Shot Learning**|Jae Myung Kim et.al.|[2505.11181](http://arxiv.org/abs/2505.11181)|null|
@@ -1542,6 +1552,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models**|Liyan Tang et.al.|[2505.13444](http://arxiv.org/abs/2505.13444)|null|
+|**2025-05-19**|**G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning**|Liang Chen et.al.|[2505.13426](http://arxiv.org/abs/2505.13426)|**[link](https://github.com/chenllliang/g1)**|
+|**2025-05-19**|**Seeing, Saying, Solving: An LLM-to-TL Framework for Cooperative Robots**|Dan BW Choe et.al.|[2505.13376](http://arxiv.org/abs/2505.13376)|null|
+|**2025-05-19**|**Unlabeled Data or Pre-trained Model: Rethinking Semi-Supervised Learning and Pretrain-Finetuning**|Song-Lin Li et.al.|[2505.13317](http://arxiv.org/abs/2505.13317)|null|
+|**2025-05-19**|**I'll believe it when I see it: Images increase misinformation sharing in Vision-Language Models**|Alice Plebe et.al.|[2505.13302](http://arxiv.org/abs/2505.13302)|**[link](https://github.com/3lis/misinfo_vlm)**|
+|**2025-05-19**|**Computer Vision Models Show Human-Like Sensitivity to Geometric and Topological Concepts**|Zekun Wang et.al.|[2505.13281](http://arxiv.org/abs/2505.13281)|null|
+|**2025-05-19**|**From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection**|Lincan Cai et.al.|[2505.13233](http://arxiv.org/abs/2505.13233)|**[link](https://github.com/bit-da/abs)**|
+|**2025-05-19**|**ViPlan: A Benchmark for Visual Planning with Symbolic Predicates and Vision-Language Models**|Matteo Merler et.al.|[2505.13180](http://arxiv.org/abs/2505.13180)|**[link](https://github.com/merlerm/viplan)**|
+|**2025-05-19**|**Hearing from Silence: Reasoning Audio Descriptions from Silent Videos via Vision-Language Model**|Yong Ren et.al.|[2505.13062](http://arxiv.org/abs/2505.13062)|null|
+|**2025-05-19**|**3D Visual Illusion Depth Estimation**|CHengtang Yao et.al.|[2505.13061](http://arxiv.org/abs/2505.13061)|**[link](https://github.com/yaochengtang/3d-visual-illusion-depth-estimation)**|
 |**2025-05-16**|**Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner**|Wenchuan Zhang et.al.|[2505.11404](http://arxiv.org/abs/2505.11404)|null|
 |**2025-05-16**|**Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild**|Derek Ming Siang Tan et.al.|[2505.11350](http://arxiv.org/abs/2505.11350)|null|
 |**2025-05-16**|**Temporally-Grounded Language Generation: A Benchmark for Real-Time Vision-Language Models**|Keunwoo Peter Yu et.al.|[2505.11326](http://arxiv.org/abs/2505.11326)|null|
@@ -3824,6 +3844,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**CIE: Controlling Language Model Text Generations Using Continuous Signals**|Vinay Samuel et.al.|[2505.13448](http://arxiv.org/abs/2505.13448)|**[link](https://github.com/vsamuel2003/cie)**|
+|**2025-05-19**|**FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance**|Dian Shao et.al.|[2505.13437](http://arxiv.org/abs/2505.13437)|null|
+|**2025-05-19**|**AutoMathKG: The automated mathematical knowledge graph based on LLM and vector database**|Rong Bian et.al.|[2505.13406](http://arxiv.org/abs/2505.13406)|null|
+|**2025-05-18**|**Relation Extraction or Pattern Matching? Unravelling the Generalisation Limits of Language Models for Biographical RE**|Varvara Arzt et.al.|[2505.12533](http://arxiv.org/abs/2505.12533)|null|
+|**2025-05-18**|**Bridging Generative and Discriminative Learning: Few-Shot Relation Extraction via Two-Stage Knowledge-Guided Pre-training**|Quanjiang Guo et.al.|[2505.12236](http://arxiv.org/abs/2505.12236)|**[link](https://github.com/uestc-gqj/tkre)**|
+|**2025-05-18**|**Data Whisperer: Efficient Data Selection for Task-Specific LLM Fine-Tuning via Few-Shot In-Context Learning**|Shaobo Wang et.al.|[2505.12212](http://arxiv.org/abs/2505.12212)|null|
+|**2025-05-17**|**Transformer learns the cross-task prior and regularization for in-context learning**|Fei Lu et.al.|[2505.12138](http://arxiv.org/abs/2505.12138)|null|
+|**2025-05-17**|**Do different prompting methods yield a common task representation in language models?**|Guy Davidson et.al.|[2505.12075](http://arxiv.org/abs/2505.12075)|null|
+|**2025-05-17**|**Transformers as Unsupervised Learning Algorithms: A study on Gaussian Mixtures**|Zhiheng Chen et.al.|[2505.11918](http://arxiv.org/abs/2505.11918)|**[link](https://github.com/rorschach1989/transformer-for-gmm)**|
 |**2025-05-16**|**When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs**|Xiaomin Li et.al.|[2505.11423](http://arxiv.org/abs/2505.11423)|null|
 |**2025-05-16**|**Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning**|Yuanzhao Zhang et.al.|[2505.11349](http://arxiv.org/abs/2505.11349)|null|
 |**2025-05-16**|**Feasibility with Language Models for Open-World Compositional Zero-Shot Learning**|Jae Myung Kim et.al.|[2505.11181](http://arxiv.org/abs/2505.11181)|null|
