@@ -172,6 +172,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**Meta-Learning an In-Context Transformer Model of Human Higher Visual Cortex**|Muquan Yu et.al.|[2505.15813](http://arxiv.org/abs/2505.15813)|null|
+|**2025-05-21**|**The Atlas of In-Context Learning: How Attention Heads Shape In-Context Retrieval Augmentation**|Patrick Kahardipraja et.al.|[2505.15807](http://arxiv.org/abs/2505.15807)|null|
+|**2025-05-21**|**Large Language Models as Computable Approximations to Solomonoff Induction**|Jun Wan et.al.|[2505.15784](http://arxiv.org/abs/2505.15784)|null|
+|**2025-05-21**|**Bridging Sign and Spoken Languages: Pseudo Gloss Generation for Sign Language Translation**|Jianyuan Guo et.al.|[2505.15438](http://arxiv.org/abs/2505.15438)|null|
+|**2025-05-21**|**Prosody-Adaptable Audio Codecs for Zero-Shot Voice Conversion via In-Context Learning**|Junchuan Zhao et.al.|[2505.15402](http://arxiv.org/abs/2505.15402)|null|
+|**2025-05-21**|**Agentic Feature Augmentation: Unifying Selection and Generation with Teaming, Planning, and Memories**|Nanxu Gong et.al.|[2505.15076](http://arxiv.org/abs/2505.15076)|null|
+|**2025-05-20**|**In-Context Learning Boosts Speech Recognition via Human-like Adaptation to Speakers and Language Varieties**|Nathan Roll et.al.|[2505.14887](http://arxiv.org/abs/2505.14887)|null|
+|**2025-05-20**|**Out-of-Distribution Generalization of In-Context Learning: A Low-Dimensional Subspace Perspective**|Soo Min Kwon et.al.|[2505.14808](http://arxiv.org/abs/2505.14808)|null|
 |**2025-05-20**|**EmoGist: Efficient In-Context Learning for Visual Emotion Understanding**|Ronald Seoh et.al.|[2505.14660](http://arxiv.org/abs/2505.14660)|null|
 |**2025-05-20**|**Reasoning Models Better Express Their Confidence**|Dongkeun Yoon et.al.|[2505.14489](http://arxiv.org/abs/2505.14489)|**[link](https://github.com/mattyoon/reasoning-models-confidence)**|
 |**2025-05-20**|**QA-prompting: Improving Summarization with Large Language Models using Question-Answering**|Neelabh Sinha et.al.|[2505.14347](http://arxiv.org/abs/2505.14347)|**[link](https://github.com/neelabhsinha/qa-prompting)**|
@@ -1559,6 +1567,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition**|Yijie Zheng et.al.|[2505.15818](http://arxiv.org/abs/2505.15818)|null|
+|**2025-05-21**|**From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems**|Xiuchao Sui et.al.|[2505.15685](http://arxiv.org/abs/2505.15685)|null|
+|**2025-05-21**|**FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models**|Zhen Sun et.al.|[2505.15644](http://arxiv.org/abs/2505.15644)|null|
+|**2025-05-21**|**Visual Perturbation and Adaptive Hard Negative Contrastive Learning for Compositional Reasoning in Vision-Language Models**|Xin Huang et.al.|[2505.15576](http://arxiv.org/abs/2505.15576)|**[link](https://github.com/nynu-bdai/ahnpl)**|
+|**2025-05-21**|**TinyDrive: Multiscale Visual Question Answering with Selective Token Routing for Autonomous Driving**|Hossein Hassani et.al.|[2505.15564](http://arxiv.org/abs/2505.15564)|null|
+|**2025-05-21**|**Clapper: Compact Learning and Video Representation in VLMs**|Lingyu Kong et.al.|[2505.15529](http://arxiv.org/abs/2505.15529)|null|
+|**2025-05-21**|**Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets**|Kaiyuan Chen et.al.|[2505.15517](http://arxiv.org/abs/2505.15517)|null|
+|**2025-05-21**|**Visual Thoughts: A Unified Perspective of Understanding Multimodal Chain-of-Thought**|Zihui Cheng et.al.|[2505.15510](http://arxiv.org/abs/2505.15510)|null|
+|**2025-05-21**|**Prompt Tuning Vision Language Models with Margin Regularizer for Few-Shot Learning under Distribution Shifts**|Debarshi Brahma et.al.|[2505.15506](http://arxiv.org/abs/2505.15506)|**[link](https://github.com/debarshigit/promptmargin)**|
+|**2025-05-21**|**Beyond Linearity: Squeeze-and-Recalibrate Blocks for Few-Shot Whole Slide Image Classification**|Conghao Xiong et.al.|[2505.15504](http://arxiv.org/abs/2505.15504)|null|
 |**2025-05-20**|**UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens**|Ruichuan An et.al.|[2505.14671](http://arxiv.org/abs/2505.14671)|null|
 |**2025-05-20**|**CAD-Coder: An Open-Source Vision-Language Model for Computer-Aided Design Code Generation**|Anna C. Doris et.al.|[2505.14646](http://arxiv.org/abs/2505.14646)|null|
 |**2025-05-20**|**Debating for Better Reasoning: An Unsupervised Multimodal Approach**|Ashutosh Adhikari et.al.|[2505.14627](http://arxiv.org/abs/2505.14627)|null|
@@ -3861,6 +3879,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**Meta-Learning an In-Context Transformer Model of Human Higher Visual Cortex**|Muquan Yu et.al.|[2505.15813](http://arxiv.org/abs/2505.15813)|null|
+|**2025-05-21**|**The Atlas of In-Context Learning: How Attention Heads Shape In-Context Retrieval Augmentation**|Patrick Kahardipraja et.al.|[2505.15807](http://arxiv.org/abs/2505.15807)|null|
+|**2025-05-21**|**Large Language Models as Computable Approximations to Solomonoff Induction**|Jun Wan et.al.|[2505.15784](http://arxiv.org/abs/2505.15784)|null|
+|**2025-05-21**|**Bridging Sign and Spoken Languages: Pseudo Gloss Generation for Sign Language Translation**|Jianyuan Guo et.al.|[2505.15438](http://arxiv.org/abs/2505.15438)|null|
+|**2025-05-21**|**Prosody-Adaptable Audio Codecs for Zero-Shot Voice Conversion via In-Context Learning**|Junchuan Zhao et.al.|[2505.15402](http://arxiv.org/abs/2505.15402)|null|
+|**2025-05-21**|**Agentic Feature Augmentation: Unifying Selection and Generation with Teaming, Planning, and Memories**|Nanxu Gong et.al.|[2505.15076](http://arxiv.org/abs/2505.15076)|null|
+|**2025-05-20**|**In-Context Learning Boosts Speech Recognition via Human-like Adaptation to Speakers and Language Varieties**|Nathan Roll et.al.|[2505.14887](http://arxiv.org/abs/2505.14887)|null|
+|**2025-05-20**|**Out-of-Distribution Generalization of In-Context Learning: A Low-Dimensional Subspace Perspective**|Soo Min Kwon et.al.|[2505.14808](http://arxiv.org/abs/2505.14808)|null|
 |**2025-05-20**|**EmoGist: Efficient In-Context Learning for Visual Emotion Understanding**|Ronald Seoh et.al.|[2505.14660](http://arxiv.org/abs/2505.14660)|null|
 |**2025-05-20**|**Reasoning Models Better Express Their Confidence**|Dongkeun Yoon et.al.|[2505.14489](http://arxiv.org/abs/2505.14489)|**[link](https://github.com/mattyoon/reasoning-models-confidence)**|
 |**2025-05-20**|**QA-prompting: Improving Summarization with Large Language Models using Question-Answering**|Neelabh Sinha et.al.|[2505.14347](http://arxiv.org/abs/2505.14347)|**[link](https://github.com/neelabhsinha/qa-prompting)**|
