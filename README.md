@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -176,7 +176,7 @@
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
 |**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 ## In-context
 
@@ -185,7 +185,7 @@
 |**2025-05-26**|**Learning to Select In-Context Demonstration Preferred by Large Language Model**|Zheng Zhang et.al.|[2505.19966](http://arxiv.org/abs/2505.19966)|null|
 |**2025-05-26**|**DCG-SQL: Enhancing In-Context Learning for Text-to-SQL with Deep Contextual Schema Link Graph**|Jihyung Lee et.al.|[2505.19956](http://arxiv.org/abs/2505.19956)|null|
 |**2025-05-26**|**Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?**|Zexi Li et.al.|[2505.19855](http://arxiv.org/abs/2505.19855)|null|
-|**2025-05-26**|**HomeBench: Evaluating LLMs in Smart Homes with Valid and Invalid Instructions Across Single and Multiple Devices**|Silin Li et.al.|[2505.19628](http://arxiv.org/abs/2505.19628)|null|
+|**2025-05-27**|**HomeBench: Evaluating LLMs in Smart Homes with Valid and Invalid Instructions Across Single and Multiple Devices**|Silin Li et.al.|[2505.19628](http://arxiv.org/abs/2505.19628)|null|
 |**2025-05-26**|**The Role of Diversity in In-Context Learning for Large Language Models**|Wenyang Xiao et.al.|[2505.19426](http://arxiv.org/abs/2505.19426)|null|
 |**2025-05-25**|**Optimization-Inspired Few-Shot Adaptation for Large Language Models**|Boyan Gao et.al.|[2505.19107](http://arxiv.org/abs/2505.19107)|null|
 |**2025-05-24**|**Unifying Attention Heads and Task Vectors via Hidden State Geometry in In-Context Learning**|Haolin Yang et.al.|[2505.18752](http://arxiv.org/abs/2505.18752)|null|
@@ -1595,7 +1595,7 @@
 |**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075](http://arxiv.org/abs/2312.11075)|null|
 |**2023-12-18**|**APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation**|Chengran Yang et.al.|[2312.10934](http://arxiv.org/abs/2312.10934)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 ## VLM
 
@@ -1604,13 +1604,14 @@
 |**2025-05-26**|**Seeing is Believing, but How Much? A Comprehensive Analysis of Verbalized Calibration in Vision-Language Models**|Weihao Xuan et.al.|[2505.20236](http://arxiv.org/abs/2505.20236)|null|
 |**2025-05-26**|**Agentic 3D Scene Generation with Spatially Contextualized VLMs**|Xinhang Liu et.al.|[2505.20129](http://arxiv.org/abs/2505.20129)|null|
 |**2025-05-26**|**MEBench: A Novel Benchmark for Understanding Mutual Exclusivity Bias in Vision-Language Models**|Anh Thai et.al.|[2505.20122](http://arxiv.org/abs/2505.20122)|null|
-|**2025-05-26**|**EmoNet-Face: An Expert-Annotated Benchmark for Synthetic Emotion Recognition**|Christoph Schuhmann et.al.|[2505.20033](http://arxiv.org/abs/2505.20033)|null|
+|**2025-05-27**|**EmoNet-Face: An Expert-Annotated Benchmark for Synthetic Emotion Recognition**|Christoph Schuhmann et.al.|[2505.20033](http://arxiv.org/abs/2505.20033)|null|
 |**2025-05-26**|**ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers**|Fotios Lygerakis et.al.|[2505.20032](http://arxiv.org/abs/2505.20032)|null|
 |**2025-05-26**|**Decomposing Complex Visual Comprehension into Atomic Visual Skills for Vision Language Models**|Hyunsik Chae et.al.|[2505.20021](http://arxiv.org/abs/2505.20021)|null|
 |**2025-05-26**|**Can Visual Encoder Learn to See Arrows?**|Naoyuki Terashita et.al.|[2505.19944](http://arxiv.org/abs/2505.19944)|null|
 |**2025-05-26**|**Attention! You Vision Language Model Could Be Maliciously Manipulated**|Xiaosen Wang et.al.|[2505.19911](http://arxiv.org/abs/2505.19911)|null|
 |**2025-05-26**|**Underwater Diffusion Attention Network with Contrastive Language-Image Joint Learning for Underwater Image Enhancement**|Afrah Shaahid et.al.|[2505.19895](http://arxiv.org/abs/2505.19895)|null|
 |**2025-05-26**|**One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP**|Binyan Xu et.al.|[2505.19840](http://arxiv.org/abs/2505.19840)|null|
+|**2025-05-26**|**TeViR: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning**|Yuhui Chen et.al.|[2505.19769](http://arxiv.org/abs/2505.19769)|null|
 |**2025-05-23**|**VideoGameBench: Can Vision-Language Models complete popular video games?**|Alex L. Zhang et.al.|[2505.18134](http://arxiv.org/abs/2505.18134)|null|
 |**2025-05-23**|**One RL to See Them All: Visual Triple Unified Reinforcement Learning**|Yan Ma et.al.|[2505.18129](http://arxiv.org/abs/2505.18129)|null|
 |**2025-05-23**|**CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays**|Hyungyung Lee et.al.|[2505.18087](http://arxiv.org/abs/2505.18087)|null|
@@ -3933,7 +3934,7 @@
 |**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423](http://arxiv.org/abs/2312.12423)|null|
 |**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379](http://arxiv.org/abs/2312.12379)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 ## Visual In-context
 
@@ -3941,7 +3942,7 @@
 |---|---|---|---|---|
 |**2024-02-18**|**Visual In-Context Learning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2402.11574](http://arxiv.org/abs/2402.11574)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 ## V-ICL
 
@@ -3950,7 +3951,7 @@
 |**2025-05-26**|**Learning to Select In-Context Demonstration Preferred by Large Language Model**|Zheng Zhang et.al.|[2505.19966](http://arxiv.org/abs/2505.19966)|null|
 |**2025-05-26**|**DCG-SQL: Enhancing In-Context Learning for Text-to-SQL with Deep Contextual Schema Link Graph**|Jihyung Lee et.al.|[2505.19956](http://arxiv.org/abs/2505.19956)|null|
 |**2025-05-26**|**Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?**|Zexi Li et.al.|[2505.19855](http://arxiv.org/abs/2505.19855)|null|
-|**2025-05-26**|**HomeBench: Evaluating LLMs in Smart Homes with Valid and Invalid Instructions Across Single and Multiple Devices**|Silin Li et.al.|[2505.19628](http://arxiv.org/abs/2505.19628)|null|
+|**2025-05-27**|**HomeBench: Evaluating LLMs in Smart Homes with Valid and Invalid Instructions Across Single and Multiple Devices**|Silin Li et.al.|[2505.19628](http://arxiv.org/abs/2505.19628)|null|
 |**2025-05-26**|**The Role of Diversity in In-Context Learning for Large Language Models**|Wenyang Xiao et.al.|[2505.19426](http://arxiv.org/abs/2505.19426)|null|
 |**2025-05-25**|**Optimization-Inspired Few-Shot Adaptation for Large Language Models**|Boyan Gao et.al.|[2505.19107](http://arxiv.org/abs/2505.19107)|null|
 |**2025-05-24**|**Unifying Attention Heads and Task Vectors via Hidden State Geometry in In-Context Learning**|Haolin Yang et.al.|[2505.18752](http://arxiv.org/abs/2505.18752)|null|
@@ -5070,7 +5071,7 @@
 |**2024-04-15**|**Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**|Sungwon Han et.al.|[2404.09491](http://arxiv.org/abs/2404.09491)|**[link](https://github.com/sungwon-han/featllm)**|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
