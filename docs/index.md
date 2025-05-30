@@ -173,6 +173,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Label-Guided In-Context Learning for Named Entity Recognition**|Fan Bai et.al.|[2505.23722](http://arxiv.org/abs/2505.23722)|null|
+|**2025-05-29**|**TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning**|Andreas Auer et.al.|[2505.23719](http://arxiv.org/abs/2505.23719)|null|
+|**2025-05-29**|**Engineering Serendipity through Recommendations of Items with Atypical Aspects**|Ramit Aditya et.al.|[2505.23580](http://arxiv.org/abs/2505.23580)|null|
+|**2025-05-29**|**From Parameters to Prompts: Understanding and Mitigating the Factuality Gap between Fine-Tuned LLMs**|Xuan Gong et.al.|[2505.23410](http://arxiv.org/abs/2505.23410)|null|
+|**2025-05-29**|**Neither Stochastic Parroting nor AGI: LLMs Solve Tasks through Context-Directed Extrapolation from Training Data Priors**|Harish Tayyar Madabushi et.al.|[2505.23323](http://arxiv.org/abs/2505.23323)|null|
+|**2025-05-29**|**Generating Diverse Training Samples for Relation Extraction with Large Language Models**|Zexuan Li et.al.|[2505.23108](http://arxiv.org/abs/2505.23108)|null|
+|**2025-05-29**|**EL4NER: Ensemble Learning for Named Entity Recognition via Multiple Small-Parameter Large Language Models**|Yuzhen Xiao et.al.|[2505.23038](http://arxiv.org/abs/2505.23038)|null|
+|**2025-05-29**|**LLM Agents for Bargaining with Utility-based Feedback**|Jihwan Oh et.al.|[2505.22998](http://arxiv.org/abs/2505.22998)|null|
 |**2025-05-28**|**Compensating for Data with Reasoning: Low-Resource Machine Translation with LLMs**|Samuel Frontull et.al.|[2505.22293](http://arxiv.org/abs/2505.22293)|null|
 |**2025-05-28**|**Rethinking the Unsolvable: When In-Context Search Meets Test-Time Scaling**|Fanzeng Xia et.al.|[2505.22290](http://arxiv.org/abs/2505.22290)|null|
 |**2025-05-28**|**Look & Mark: Leveraging Radiologist Eye Fixations and Bounding boxes in Multimodal Large Language Models for Chest X-ray Report Generation**|Yunsoo Kim et.al.|[2505.22222](http://arxiv.org/abs/2505.22222)|null|
@@ -1605,6 +1613,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**ZeroGUI: Automating Online GUI Learning at Zero Human Cost**|Chenyu Yang et.al.|[2505.23762](http://arxiv.org/abs/2505.23762)|null|
+|**2025-05-29**|**Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint**|Heekyung Lee et.al.|[2505.23759](http://arxiv.org/abs/2505.23759)|null|
+|**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Hao Dong et.al.|[2505.23745](http://arxiv.org/abs/2505.23745)|null|
+|**2025-05-29**|**LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization**|Ronghuan Wu et.al.|[2505.23740](http://arxiv.org/abs/2505.23740)|null|
+|**2025-05-29**|**Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better**|Danny Driess et.al.|[2505.23705](http://arxiv.org/abs/2505.23705)|null|
+|**2025-05-29**|**Grounded Reinforcement Learning for Visual Reasoning**|Gabriel Sarch et.al.|[2505.23678](http://arxiv.org/abs/2505.23678)|null|
+|**2025-05-29**|**Uni-MuMER: Unified Multi-Task Fine-Tuning of Vision-Language Model for Handwritten Mathematical Expression Recognition**|Yu Li et.al.|[2505.23566](http://arxiv.org/abs/2505.23566)|null|
+|**2025-05-29**|**Qwen Look Again: Guiding Vision-Language Reasoning Models to Re-attention Visual Information**|Xu Chu et.al.|[2505.23558](http://arxiv.org/abs/2505.23558)|null|
+|**2025-05-29**|**TRAP: Targeted Redirecting of Agentic Preferences**|Hangoo Kang et.al.|[2505.23518](http://arxiv.org/abs/2505.23518)|null|
+|**2025-05-29**|**VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation**|Shi-Xue Zhang et.al.|[2505.23484](http://arxiv.org/abs/2505.23484)|null|
 |**2025-05-28**|**Zero-Shot Vision Encoder Grafting via LLM Surrogates**|Kaiyu Yue et.al.|[2505.22664](http://arxiv.org/abs/2505.22664)|**[link](https://github.com/facebookresearch/zero)**|
 |**2025-05-28**|**Training Free Stylized Abstraction**|Aimon Rahman et.al.|[2505.22663](http://arxiv.org/abs/2505.22663)|null|
 |**2025-05-28**|**VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models**|Ce Zhang et.al.|[2505.22654](http://arxiv.org/abs/2505.22654)|null|
@@ -3968,6 +3986,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Label-Guided In-Context Learning for Named Entity Recognition**|Fan Bai et.al.|[2505.23722](http://arxiv.org/abs/2505.23722)|null|
+|**2025-05-29**|**TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning**|Andreas Auer et.al.|[2505.23719](http://arxiv.org/abs/2505.23719)|null|
+|**2025-05-29**|**Engineering Serendipity through Recommendations of Items with Atypical Aspects**|Ramit Aditya et.al.|[2505.23580](http://arxiv.org/abs/2505.23580)|null|
+|**2025-05-29**|**From Parameters to Prompts: Understanding and Mitigating the Factuality Gap between Fine-Tuned LLMs**|Xuan Gong et.al.|[2505.23410](http://arxiv.org/abs/2505.23410)|null|
+|**2025-05-29**|**Neither Stochastic Parroting nor AGI: LLMs Solve Tasks through Context-Directed Extrapolation from Training Data Priors**|Harish Tayyar Madabushi et.al.|[2505.23323](http://arxiv.org/abs/2505.23323)|null|
+|**2025-05-29**|**Generating Diverse Training Samples for Relation Extraction with Large Language Models**|Zexuan Li et.al.|[2505.23108](http://arxiv.org/abs/2505.23108)|null|
+|**2025-05-29**|**EL4NER: Ensemble Learning for Named Entity Recognition via Multiple Small-Parameter Large Language Models**|Yuzhen Xiao et.al.|[2505.23038](http://arxiv.org/abs/2505.23038)|null|
+|**2025-05-29**|**LLM Agents for Bargaining with Utility-based Feedback**|Jihwan Oh et.al.|[2505.22998](http://arxiv.org/abs/2505.22998)|null|
 |**2025-05-28**|**Compensating for Data with Reasoning: Low-Resource Machine Translation with LLMs**|Samuel Frontull et.al.|[2505.22293](http://arxiv.org/abs/2505.22293)|null|
 |**2025-05-28**|**Rethinking the Unsolvable: When In-Context Search Meets Test-Time Scaling**|Fanzeng Xia et.al.|[2505.22290](http://arxiv.org/abs/2505.22290)|null|
 |**2025-05-28**|**Look & Mark: Leveraging Radiologist Eye Fixations and Bounding boxes in Multimodal Large Language Models for Chest X-ray Report Generation**|Yunsoo Kim et.al.|[2505.22222](http://arxiv.org/abs/2505.22222)|null|
