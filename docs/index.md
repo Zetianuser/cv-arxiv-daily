@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -1613,7 +1613,7 @@ layout: default
 |**2025-05-28**|**Zero-Shot 3D Visual Grounding from Vision-Language Models**|Rong Li et.al.|[2505.22429](http://arxiv.org/abs/2505.22429)|null|
 |**2025-05-28**|**IKIWISI: An Interactive Visual Pattern Generator for Evaluating the Reliability of Vision-Language Models Without Ground Truth**|Md Touhidul Islam et.al.|[2505.22305](http://arxiv.org/abs/2505.22305)|null|
 |**2025-05-28**|**Investigating Mechanisms for In-Context Vision Language Binding**|Darshana Saravanan et.al.|[2505.22200](http://arxiv.org/abs/2505.22200)|null|
-|**2025-05-28**|**Improving Brain-to-Image Reconstruction via Fine-Grained Text Bridging**|Runze Xia et.al.|[2505.22150](http://arxiv.org/abs/2505.22150)|null|
+|**2025-05-29**|**Improving Brain-to-Image Reconstruction via Fine-Grained Text Bridging**|Runze Xia et.al.|[2505.22150](http://arxiv.org/abs/2505.22150)|null|
 |**2025-05-28**|**3D Question Answering via only 2D Vision-Language Models**|Fengyun Wang et.al.|[2505.22143](http://arxiv.org/abs/2505.22143)|null|
 |**2025-05-27**|**ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models**|Dingming Li et.al.|[2505.21500](http://arxiv.org/abs/2505.21500)|null|
 |**2025-05-27**|**AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery**|Haowei Wang et.al.|[2505.21499](http://arxiv.org/abs/2505.21499)|null|
