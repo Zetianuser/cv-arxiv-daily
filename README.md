@@ -104,7 +104,7 @@
 |**2024-08-29**|**Bootstrap Segmentation Foundation Model under Distribution Shift via Object-Centric Learning**|Luyao Tang et.al.|[2408.16310](http://arxiv.org/abs/2408.16310)|**[link](https://github.com/lytang63/slotsam)**|
 |**2024-09-21**|**Hierarchical Graph Interaction Transformer with Dynamic Token Clustering for Camouflaged Object Detection**|Siyuan Yao et.al.|[2408.15020](http://arxiv.org/abs/2408.15020)|**[link](https://github.com/garyson1204/hginet)**|
 |**2024-08-26**|**A Survey of Camouflaged Object Detection and Beyond**|Fengyang Xiao et.al.|[2408.14562](http://arxiv.org/abs/2408.14562)|**[link](https://github.com/chunminghe/awesome-concealed-object-segmentation)**|
-|**2024-08-25**|**Camouflaged_Object_Tracking__A_Benchmark**|Xiaoyu Guo et.al.|[2408.13877](http://arxiv.org/abs/2408.13877)|null|
+|**2024-08-25**|**Camouflaged_Object_Tracking__A_Benchmark**|Xiaoyu Guo et.al.|[2408.13877](http://arxiv.org/abs/2408.13877)|**[link](https://github.com/openat25/hiptrack-mls)**|
 |**2024-08-22**|**BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking**|Hanzheng Wang et.al.|[2408.12232](http://arxiv.org/abs/2408.12232)|null|
 |**2024-08-22**|**Unlocking Attributes' Contribution to Successful Camouflage: A Combined Textual and VisualAnalysis Strategy**|Hong Zhang et.al.|[2408.12086](http://arxiv.org/abs/2408.12086)|**[link](https://github.com/lyu-yx/acumen)**|
 |**2024-08-20**|**Just a Hint: Point-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10777](http://arxiv.org/abs/2408.10777)|null|
@@ -208,7 +208,7 @@
 |**2025-05-26**|**Learning to Select In-Context Demonstration Preferred by Large Language Model**|Zheng Zhang et.al.|[2505.19966](http://arxiv.org/abs/2505.19966)|null|
 |**2025-05-26**|**DCG-SQL: Enhancing In-Context Learning for Text-to-SQL with Deep Contextual Schema Link Graph**|Jihyung Lee et.al.|[2505.19956](http://arxiv.org/abs/2505.19956)|null|
 |**2025-05-26**|**Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?**|Zexi Li et.al.|[2505.19855](http://arxiv.org/abs/2505.19855)|null|
-|**2025-05-27**|**HomeBench: Evaluating LLMs in Smart Homes with Valid and Invalid Instructions Across Single and Multiple Devices**|Silin Li et.al.|[2505.19628](http://arxiv.org/abs/2505.19628)|null|
+|**2025-05-27**|**HomeBench: Evaluating LLMs in Smart Homes with Valid and Invalid Instructions Across Single and Multiple Devices**|Silin Li et.al.|[2505.19628](http://arxiv.org/abs/2505.19628)|**[link](https://github.com/bithlp/homebench)**|
 |**2025-05-26**|**The Role of Diversity in In-Context Learning for Large Language Models**|Wenyang Xiao et.al.|[2505.19426](http://arxiv.org/abs/2505.19426)|null|
 |**2025-05-25**|**Optimization-Inspired Few-Shot Adaptation for Large Language Models**|Boyan Gao et.al.|[2505.19107](http://arxiv.org/abs/2505.19107)|null|
 |**2025-05-24**|**Unifying Attention Heads and Task Vectors via Hidden State Geometry in In-Context Learning**|Haolin Yang et.al.|[2505.18752](http://arxiv.org/abs/2505.18752)|null|
@@ -254,7 +254,7 @@
 |**2025-05-20**|**When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs**|Xiaomin Li et.al.|[2505.11423](http://arxiv.org/abs/2505.11423)|null|
 |**2025-05-16**|**Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning**|Yuanzhao Zhang et.al.|[2505.11349](http://arxiv.org/abs/2505.11349)|null|
 |**2025-05-16**|**Feasibility with Language Models for Open-World Compositional Zero-Shot Learning**|Jae Myung Kim et.al.|[2505.11181](http://arxiv.org/abs/2505.11181)|null|
-|**2025-05-16**|**Illusion or Algorithm? Investigating Memorization, Emergence, and Symbolic Processing in In-Context Learning**|Jingcheng Niu et.al.|[2505.11004](http://arxiv.org/abs/2505.11004)|null|
+|**2025-05-16**|**Illusion or Algorithm? Investigating Memorization, Emergence, and Symbolic Processing in In-Context Learning**|Jingcheng Niu et.al.|[2505.11004](http://arxiv.org/abs/2505.11004)|**[link](https://github.com/ukplab/arxiv2025-icl-investigation)**|
 |**2025-05-15**|**SVA-ICL: Improving LLM-based Software Vulnerability Assessment via In-Context Learning and Information Fusion**|Chaoyang Gao et.al.|[2505.10008](http://arxiv.org/abs/2505.10008)|**[link](https://github.com/judeomg/SVA-ICL)**|
 |**2025-05-16**|**PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization**|Yidan Wang et.al.|[2505.09921](http://arxiv.org/abs/2505.09921)|**[link](https://github.com/redwyd/privacyjailbreak)**|
 |**2025-05-14**|**Predictability Shapes Adaptation: An Evolutionary Perspective on Modes of Learning in Transformers**|Alexander Y. Ku et.al.|[2505.09855](http://arxiv.org/abs/2505.09855)|null|
@@ -304,7 +304,7 @@
 |**2025-04-28**|**GenCLS++: Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets**|Mingqian He et.al.|[2504.19898](http://arxiv.org/abs/2504.19898)|null|
 |**2025-04-30**|**Efficient Domain-adaptive Continual Pretraining for the Process Industry in the German Language**|Anastasia Zhukova et.al.|[2504.19856](http://arxiv.org/abs/2504.19856)|null|
 |**2025-04-28**|**ICL CIPHERS: Quantifying "Learning'' in In-Context Learning via Substitution Ciphers**|Zhouxiang Fang et.al.|[2504.19395](http://arxiv.org/abs/2504.19395)|null|
-|**2025-04-26**|**Inferring Questions from Programming Screenshots**|Faiz Ahmed et.al.|[2504.18912](http://arxiv.org/abs/2504.18912)|null|
+|**2025-04-26**|**Inferring Questions from Programming Screenshots**|Faiz Ahmed et.al.|[2504.18912](http://arxiv.org/abs/2504.18912)|**[link](https://github.com/research-purpose/msr-2025)**|
 |**2025-04-26**|**Test It Before You Trust It: Applying Software Testing for Trustworthy In-context Learning**|Teeradaj Racharak et.al.|[2504.18827](http://arxiv.org/abs/2504.18827)|**[link](https://github.com/MUICT-SERU/MMT4NL)**|
 |**2025-04-25**|**E-InMeMo: Enhanced Prompting for Visual In-Context Learning**|Jiahao Zhang et.al.|[2504.18158](http://arxiv.org/abs/2504.18158)|**[link](https://github.com/jackieam/e-inmemo)**|
 |**2025-04-25**|**Application and Optimization of Large Models Based on Prompt Tuning for Fact-Check-Worthiness Estimation**|Yinglong Yu et.al.|[2504.18104](http://arxiv.org/abs/2504.18104)|null|
@@ -403,7 +403,7 @@
 |**2025-03-17**|**Edit Transfer: Learning Image Editing via Vision In-Context Relations**|Lan Chen et.al.|[2503.13327](http://arxiv.org/abs/2503.13327)|null|
 |**2025-03-17**|**Mitigating Cross-Modal Distraction and Ensuring Geometric Feasibility via Affordance-Guided, Self-Consistent MLLMs for Food Preparation Task Planning**|Yu-Hong Shen et.al.|[2503.13055](http://arxiv.org/abs/2503.13055)|null|
 |**2025-03-17**|**A Multi-Stage Framework with Taxonomy-Guided Reasoning for Occupation Classification Using Large Language Models**|Palakorn Achananuparp et.al.|[2503.12989](http://arxiv.org/abs/2503.12989)|null|
-|**2025-03-17**|**In-Context Linear Regression Demystified: Training Dynamics and Mechanistic Interpretability of Multi-Head Softmax Attention**|Jianliang He et.al.|[2503.12734](http://arxiv.org/abs/2503.12734)|null|
+|**2025-03-17**|**In-Context Linear Regression Demystified: Training Dynamics and Mechanistic Interpretability of Multi-Head Softmax Attention**|Jianliang He et.al.|[2503.12734](http://arxiv.org/abs/2503.12734)|**[link](https://github.com/Y-Agent/ICL_linear)**|
 |**2025-03-14**|**Test-Time Training Provably Improves Transformers as In-context Learners**|Halil Alperen Gozeten et.al.|[2503.11842](http://arxiv.org/abs/2503.11842)|null|
 |**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|**[link](https://github.com/zju-daily/aistorian)**|
 |**2025-03-14**|**Quantifying Interpretability in CLIP Models with Concept Consistency**|Avinash Madasu et.al.|[2503.11103](http://arxiv.org/abs/2503.11103)|null|
@@ -1645,7 +1645,7 @@
 |**2025-05-29**|**Improving Brain-to-Image Reconstruction via Fine-Grained Text Bridging**|Runze Xia et.al.|[2505.22150](http://arxiv.org/abs/2505.22150)|null|
 |**2025-05-28**|**3D Question Answering via only 2D Vision-Language Models**|Fengyun Wang et.al.|[2505.22143](http://arxiv.org/abs/2505.22143)|null|
 |**2025-05-27**|**ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models**|Dingming Li et.al.|[2505.21500](http://arxiv.org/abs/2505.21500)|null|
-|**2025-05-27**|**AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery**|Haowei Wang et.al.|[2505.21499](http://arxiv.org/abs/2505.21499)|null|
+|**2025-05-27**|**AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery**|Haowei Wang et.al.|[2505.21499](http://arxiv.org/abs/2505.21499)|**[link](https://github.com/nicerwang/adinject)**|
 |**2025-05-27**|**Mitigating Hallucination in Large Vision-Language Models via Adaptive Attention Calibration**|Mehrdad Fazli et.al.|[2505.21472](http://arxiv.org/abs/2505.21472)|null|
 |**2025-05-27**|**ID-Align: RoPE-Conscious Position Remapping for Dynamic High-Resolution Adaptation in Vision-Language Models**|Bozhou Li et.al.|[2505.21465](http://arxiv.org/abs/2505.21465)|null|
 |**2025-05-27**|**LazyVLM: Neuro-Symbolic Approach to Video Analytics**|Xiangru Jian et.al.|[2505.21459](http://arxiv.org/abs/2505.21459)|null|
@@ -1663,7 +1663,7 @@
 |**2025-05-26**|**Can Visual Encoder Learn to See Arrows?**|Naoyuki Terashita et.al.|[2505.19944](http://arxiv.org/abs/2505.19944)|null|
 |**2025-05-26**|**Attention! You Vision Language Model Could Be Maliciously Manipulated**|Xiaosen Wang et.al.|[2505.19911](http://arxiv.org/abs/2505.19911)|null|
 |**2025-05-26**|**Underwater Diffusion Attention Network with Contrastive Language-Image Joint Learning for Underwater Image Enhancement**|Afrah Shaahid et.al.|[2505.19895](http://arxiv.org/abs/2505.19895)|null|
-|**2025-05-26**|**One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP**|Binyan Xu et.al.|[2505.19840](http://arxiv.org/abs/2505.19840)|null|
+|**2025-05-26**|**One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP**|Binyan Xu et.al.|[2505.19840](http://arxiv.org/abs/2505.19840)|**[link](https://github.com/binyxu/univintruder)**|
 |**2025-05-26**|**TeViR: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning**|Yuhui Chen et.al.|[2505.19769](http://arxiv.org/abs/2505.19769)|null|
 |**2025-05-23**|**VideoGameBench: Can Vision-Language Models complete popular video games?**|Alex L. Zhang et.al.|[2505.18134](http://arxiv.org/abs/2505.18134)|null|
 |**2025-05-23**|**One RL to See Them All: Visual Triple Unified Reinforcement Learning**|Yan Ma et.al.|[2505.18129](http://arxiv.org/abs/2505.18129)|null|
@@ -1715,7 +1715,7 @@
 |**2025-05-19**|**ViPlan: A Benchmark for Visual Planning with Symbolic Predicates and Vision-Language Models**|Matteo Merler et.al.|[2505.13180](http://arxiv.org/abs/2505.13180)|**[link](https://github.com/merlerm/viplan)**|
 |**2025-05-19**|**Hearing from Silence: Reasoning Audio Descriptions from Silent Videos via Vision-Language Model**|Yong Ren et.al.|[2505.13062](http://arxiv.org/abs/2505.13062)|null|
 |**2025-05-20**|**3D Visual Illusion Depth Estimation**|Chengtang Yao et.al.|[2505.13061](http://arxiv.org/abs/2505.13061)|**[link](https://github.com/yaochengtang/3d-visual-illusion-depth-estimation)**|
-|**2025-05-16**|**Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner**|Wenchuan Zhang et.al.|[2505.11404](http://arxiv.org/abs/2505.11404)|null|
+|**2025-05-16**|**Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner**|Wenchuan Zhang et.al.|[2505.11404](http://arxiv.org/abs/2505.11404)|**[link](https://github.com/wenchuan-zhang/patho-r1)**|
 |**2025-05-16**|**Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild**|Derek Ming Siang Tan et.al.|[2505.11350](http://arxiv.org/abs/2505.11350)|null|
 |**2025-05-16**|**Temporally-Grounded Language Generation: A Benchmark for Real-Time Vision-Language Models**|Keunwoo Peter Yu et.al.|[2505.11326](http://arxiv.org/abs/2505.11326)|**[link](https://github.com/yukw777/tglg)**|
 |**2025-05-16**|**Sample Efficient Reinforcement Learning via Large Vision Language Model Distillation**|Donghoon Lee et.al.|[2505.11221](http://arxiv.org/abs/2505.11221)|**[link](https://github.com/i22024/lvlm2p)**|
@@ -1856,7 +1856,7 @@
 |**2025-04-23**|**Streetscape Analysis with Generative AI (SAGAI): Vision-Language Assessment and Mapping of Urban Scenes**|Joan Perez et.al.|[2504.16538](http://arxiv.org/abs/2504.16538)|null|
 |**2025-04-23**|**TraveLLaMA: Facilitating Multi-modal Large Language Models to Understand Urban Scenes and Provide Travel Assistance**|Meng Chu et.al.|[2504.16505](http://arxiv.org/abs/2504.16505)|null|
 |**2025-04-23**|**FrogDogNet: Fourier frequency Retained visual prompt Output Guidance for Domain Generalization of CLIP in Remote Sensing**|Hariseetharam Gunduboina et.al.|[2504.16433](http://arxiv.org/abs/2504.16433)|null|
-|**2025-04-22**|**CLIP-IT: CLIP-based Pairing for Histology Images Classification**|Banafsheh Karimian et.al.|[2504.16181](http://arxiv.org/abs/2504.16181)|null|
+|**2025-04-22**|**CLIP-IT: CLIP-based Pairing for Histology Images Classification**|Banafsheh Karimian et.al.|[2504.16181](http://arxiv.org/abs/2504.16181)|**[link](https://github.com/BanafshehKarimian/ModalityPairing)**|
 |**2025-04-22**|**MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**|Yucheng Li et.al.|[2504.16083](http://arxiv.org/abs/2504.16083)|null|
 |**2025-04-22**|**MR. Video: "MapReduce" is the Principle for Long Video Understanding**|Ziqi Pang et.al.|[2504.16082](http://arxiv.org/abs/2504.16082)|null|
 |**2025-04-22**|**Describe Anything: Detailed Localized Image and Video Captioning**|Long Lian et.al.|[2504.16072](http://arxiv.org/abs/2504.16072)|null|
@@ -2874,7 +2874,7 @@
 |**2024-10-18**|**Zero-shot Action Localization via the Confidence of Large Vision-Language Models**|Josiah Aklilu et.al.|[2410.14340](http://arxiv.org/abs/2410.14340)|null|
 |**2024-10-18**|**E3D-GPT: Enhanced 3D Visual Foundation for Medical Vision-Language Model**|Haoran Lai et.al.|[2410.14200](http://arxiv.org/abs/2410.14200)|null|
 |**2024-10-18**|**LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs**|Yujun Zhou et.al.|[2410.14182](http://arxiv.org/abs/2410.14182)|null|
-|**2024-10-18**|**MultiChartQA: Benchmarking Vision-Language Models on Multi-Chart Problems**|Zifeng Zhu et.al.|[2410.14179](http://arxiv.org/abs/2410.14179)|null|
+|**2024-10-18**|**MultiChartQA: Benchmarking Vision-Language Models on Multi-Chart Problems**|Zifeng Zhu et.al.|[2410.14179](http://arxiv.org/abs/2410.14179)|**[link](https://github.com/zivenzhu/multi-chart-qa)**|
 |**2024-10-18**|**ProReason: Multi-Modal Proactive Reasoning with Decoupled Eyesight and Wisdom**|Jingqi Zhou et.al.|[2410.14138](http://arxiv.org/abs/2410.14138)|null|
 |**2024-10-17**|**Efficient Vision-Language Models by Summarizing Visual Tokens into Compact Registers**|Yuxin Wen et.al.|[2410.14072](http://arxiv.org/abs/2410.14072)|null|
 |**2024-10-17**|**Reproducibility study of "LICO: Explainable Models with Language-Image Consistency"**|Luan Fletcher et.al.|[2410.13989](http://arxiv.org/abs/2410.13989)|**[link](https://github.com/robertdvdk/lico-fact)**|
@@ -4027,7 +4027,7 @@
 |**2025-05-26**|**Learning to Select In-Context Demonstration Preferred by Large Language Model**|Zheng Zhang et.al.|[2505.19966](http://arxiv.org/abs/2505.19966)|null|
 |**2025-05-26**|**DCG-SQL: Enhancing In-Context Learning for Text-to-SQL with Deep Contextual Schema Link Graph**|Jihyung Lee et.al.|[2505.19956](http://arxiv.org/abs/2505.19956)|null|
 |**2025-05-26**|**Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?**|Zexi Li et.al.|[2505.19855](http://arxiv.org/abs/2505.19855)|null|
-|**2025-05-27**|**HomeBench: Evaluating LLMs in Smart Homes with Valid and Invalid Instructions Across Single and Multiple Devices**|Silin Li et.al.|[2505.19628](http://arxiv.org/abs/2505.19628)|null|
+|**2025-05-27**|**HomeBench: Evaluating LLMs in Smart Homes with Valid and Invalid Instructions Across Single and Multiple Devices**|Silin Li et.al.|[2505.19628](http://arxiv.org/abs/2505.19628)|**[link](https://github.com/bithlp/homebench)**|
 |**2025-05-26**|**The Role of Diversity in In-Context Learning for Large Language Models**|Wenyang Xiao et.al.|[2505.19426](http://arxiv.org/abs/2505.19426)|null|
 |**2025-05-25**|**Optimization-Inspired Few-Shot Adaptation for Large Language Models**|Boyan Gao et.al.|[2505.19107](http://arxiv.org/abs/2505.19107)|null|
 |**2025-05-24**|**Unifying Attention Heads and Task Vectors via Hidden State Geometry in In-Context Learning**|Haolin Yang et.al.|[2505.18752](http://arxiv.org/abs/2505.18752)|null|
@@ -4073,7 +4073,7 @@
 |**2025-05-20**|**When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs**|Xiaomin Li et.al.|[2505.11423](http://arxiv.org/abs/2505.11423)|null|
 |**2025-05-16**|**Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning**|Yuanzhao Zhang et.al.|[2505.11349](http://arxiv.org/abs/2505.11349)|null|
 |**2025-05-16**|**Feasibility with Language Models for Open-World Compositional Zero-Shot Learning**|Jae Myung Kim et.al.|[2505.11181](http://arxiv.org/abs/2505.11181)|null|
-|**2025-05-16**|**Illusion or Algorithm? Investigating Memorization, Emergence, and Symbolic Processing in In-Context Learning**|Jingcheng Niu et.al.|[2505.11004](http://arxiv.org/abs/2505.11004)|null|
+|**2025-05-16**|**Illusion or Algorithm? Investigating Memorization, Emergence, and Symbolic Processing in In-Context Learning**|Jingcheng Niu et.al.|[2505.11004](http://arxiv.org/abs/2505.11004)|**[link](https://github.com/ukplab/arxiv2025-icl-investigation)**|
 |**2025-05-15**|**SVA-ICL: Improving LLM-based Software Vulnerability Assessment via In-Context Learning and Information Fusion**|Chaoyang Gao et.al.|[2505.10008](http://arxiv.org/abs/2505.10008)|**[link](https://github.com/judeomg/SVA-ICL)**|
 |**2025-05-16**|**PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization**|Yidan Wang et.al.|[2505.09921](http://arxiv.org/abs/2505.09921)|**[link](https://github.com/redwyd/privacyjailbreak)**|
 |**2025-05-14**|**Predictability Shapes Adaptation: An Evolutionary Perspective on Modes of Learning in Transformers**|Alexander Y. Ku et.al.|[2505.09855](http://arxiv.org/abs/2505.09855)|null|
@@ -4123,7 +4123,7 @@
 |**2025-04-28**|**GenCLS++: Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets**|Mingqian He et.al.|[2504.19898](http://arxiv.org/abs/2504.19898)|null|
 |**2025-04-30**|**Efficient Domain-adaptive Continual Pretraining for the Process Industry in the German Language**|Anastasia Zhukova et.al.|[2504.19856](http://arxiv.org/abs/2504.19856)|null|
 |**2025-04-28**|**ICL CIPHERS: Quantifying "Learning'' in In-Context Learning via Substitution Ciphers**|Zhouxiang Fang et.al.|[2504.19395](http://arxiv.org/abs/2504.19395)|null|
-|**2025-04-26**|**Inferring Questions from Programming Screenshots**|Faiz Ahmed et.al.|[2504.18912](http://arxiv.org/abs/2504.18912)|null|
+|**2025-04-26**|**Inferring Questions from Programming Screenshots**|Faiz Ahmed et.al.|[2504.18912](http://arxiv.org/abs/2504.18912)|**[link](https://github.com/research-purpose/msr-2025)**|
 |**2025-04-26**|**Test It Before You Trust It: Applying Software Testing for Trustworthy In-context Learning**|Teeradaj Racharak et.al.|[2504.18827](http://arxiv.org/abs/2504.18827)|**[link](https://github.com/MUICT-SERU/MMT4NL)**|
 |**2025-04-25**|**E-InMeMo: Enhanced Prompting for Visual In-Context Learning**|Jiahao Zhang et.al.|[2504.18158](http://arxiv.org/abs/2504.18158)|**[link](https://github.com/jackieam/e-inmemo)**|
 |**2025-04-25**|**Application and Optimization of Large Models Based on Prompt Tuning for Fact-Check-Worthiness Estimation**|Yinglong Yu et.al.|[2504.18104](http://arxiv.org/abs/2504.18104)|null|
@@ -4222,7 +4222,7 @@
 |**2025-03-17**|**Edit Transfer: Learning Image Editing via Vision In-Context Relations**|Lan Chen et.al.|[2503.13327](http://arxiv.org/abs/2503.13327)|null|
 |**2025-03-17**|**Mitigating Cross-Modal Distraction and Ensuring Geometric Feasibility via Affordance-Guided, Self-Consistent MLLMs for Food Preparation Task Planning**|Yu-Hong Shen et.al.|[2503.13055](http://arxiv.org/abs/2503.13055)|null|
 |**2025-03-17**|**A Multi-Stage Framework with Taxonomy-Guided Reasoning for Occupation Classification Using Large Language Models**|Palakorn Achananuparp et.al.|[2503.12989](http://arxiv.org/abs/2503.12989)|null|
-|**2025-03-17**|**In-Context Linear Regression Demystified: Training Dynamics and Mechanistic Interpretability of Multi-Head Softmax Attention**|Jianliang He et.al.|[2503.12734](http://arxiv.org/abs/2503.12734)|null|
+|**2025-03-17**|**In-Context Linear Regression Demystified: Training Dynamics and Mechanistic Interpretability of Multi-Head Softmax Attention**|Jianliang He et.al.|[2503.12734](http://arxiv.org/abs/2503.12734)|**[link](https://github.com/Y-Agent/ICL_linear)**|
 |**2025-03-14**|**Test-Time Training Provably Improves Transformers as In-context Learners**|Halil Alperen Gozeten et.al.|[2503.11842](http://arxiv.org/abs/2503.11842)|null|
 |**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|**[link](https://github.com/zju-daily/aistorian)**|
 |**2025-03-14**|**Quantifying Interpretability in CLIP Models with Concept Consistency**|Avinash Madasu et.al.|[2503.11103](http://arxiv.org/abs/2503.11103)|null|
