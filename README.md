@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.01
+## Updated on 2025.06.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -176,14 +176,14 @@
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
 |**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
 
-<p align=right>(<a href=#updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
 
 ## In-context
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-29**|**Label-Guided In-Context Learning for Named Entity Recognition**|Fan Bai et.al.|[2505.23722](http://arxiv.org/abs/2505.23722)|null|
-|**2025-05-29**|**TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning**|Andreas Auer et.al.|[2505.23719](http://arxiv.org/abs/2505.23719)|null|
+|**2025-05-29**|**Label-Guided In-Context Learning for Named Entity Recognition**|Fan Bai et.al.|[2505.23722](http://arxiv.org/abs/2505.23722)|**[link](https://github.com/bflashcp3f/deer)**|
+|**2025-05-29**|**TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning**|Andreas Auer et.al.|[2505.23719](http://arxiv.org/abs/2505.23719)|**[link](https://github.com/nx-ai/tirex)**|
 |**2025-05-29**|**Engineering Serendipity through Recommendations of Items with Atypical Aspects**|Ramit Aditya et.al.|[2505.23580](http://arxiv.org/abs/2505.23580)|null|
 |**2025-05-29**|**From Parameters to Prompts: Understanding and Mitigating the Factuality Gap between Fine-Tuned LLMs**|Xuan Gong et.al.|[2505.23410](http://arxiv.org/abs/2505.23410)|null|
 |**2025-05-29**|**Neither Stochastic Parroting nor AGI: LLMs Solve Tasks through Context-Directed Extrapolation from Training Data Priors**|Harish Tayyar Madabushi et.al.|[2505.23323](http://arxiv.org/abs/2505.23323)|null|
@@ -1618,22 +1618,22 @@
 |**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075](http://arxiv.org/abs/2312.11075)|null|
 |**2023-12-18**|**APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation**|Chengran Yang et.al.|[2312.10934](http://arxiv.org/abs/2312.10934)|null|
 
-<p align=right>(<a href=#updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-29**|**ZeroGUI: Automating Online GUI Learning at Zero Human Cost**|Chenyu Yang et.al.|[2505.23762](http://arxiv.org/abs/2505.23762)|null|
-|**2025-05-29**|**Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint**|Heekyung Lee et.al.|[2505.23759](http://arxiv.org/abs/2505.23759)|null|
-|**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Hao Dong et.al.|[2505.23745](http://arxiv.org/abs/2505.23745)|null|
+|**2025-05-29**|**ZeroGUI: Automating Online GUI Learning at Zero Human Cost**|Chenyu Yang et.al.|[2505.23762](http://arxiv.org/abs/2505.23762)|**[link](https://github.com/opengvlab/zerogui)**|
+|**2025-05-29**|**Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint**|Heekyung Lee et.al.|[2505.23759](http://arxiv.org/abs/2505.23759)|**[link](https://github.com/kyunnilee/visual_puzzles)**|
+|**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Hao Dong et.al.|[2505.23745](http://arxiv.org/abs/2505.23745)|**[link](https://github.com/epfl-imos/trustvlm)**|
 |**2025-05-29**|**LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization**|Ronghuan Wu et.al.|[2505.23740](http://arxiv.org/abs/2505.23740)|null|
 |**2025-05-29**|**Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better**|Danny Driess et.al.|[2505.23705](http://arxiv.org/abs/2505.23705)|null|
 |**2025-05-29**|**Grounded Reinforcement Learning for Visual Reasoning**|Gabriel Sarch et.al.|[2505.23678](http://arxiv.org/abs/2505.23678)|null|
 |**2025-05-29**|**Uni-MuMER: Unified Multi-Task Fine-Tuning of Vision-Language Model for Handwritten Mathematical Expression Recognition**|Yu Li et.al.|[2505.23566](http://arxiv.org/abs/2505.23566)|null|
-|**2025-05-29**|**Qwen Look Again: Guiding Vision-Language Reasoning Models to Re-attention Visual Information**|Xu Chu et.al.|[2505.23558](http://arxiv.org/abs/2505.23558)|null|
+|**2025-05-30**|**Qwen Look Again: Guiding Vision-Language Reasoning Models to Re-attention Visual Information**|Xu Chu et.al.|[2505.23558](http://arxiv.org/abs/2505.23558)|**[link](https://github.com/liar406/look_again)**|
 |**2025-05-29**|**TRAP: Targeted Redirecting of Agentic Preferences**|Hangoo Kang et.al.|[2505.23518](http://arxiv.org/abs/2505.23518)|null|
-|**2025-05-29**|**VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation**|Shi-Xue Zhang et.al.|[2505.23484](http://arxiv.org/abs/2505.23484)|null|
+|**2025-05-29**|**VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation**|Shi-Xue Zhang et.al.|[2505.23484](http://arxiv.org/abs/2505.23484)|**[link](https://github.com/gxym/vcapsbench)**|
 |**2025-05-28**|**Zero-Shot Vision Encoder Grafting via LLM Surrogates**|Kaiyu Yue et.al.|[2505.22664](http://arxiv.org/abs/2505.22664)|**[link](https://github.com/facebookresearch/zero)**|
 |**2025-05-28**|**Training Free Stylized Abstraction**|Aimon Rahman et.al.|[2505.22663](http://arxiv.org/abs/2505.22663)|null|
 |**2025-05-28**|**VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models**|Ce Zhang et.al.|[2505.22654](http://arxiv.org/abs/2505.22654)|null|
@@ -3987,7 +3987,7 @@
 |**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423](http://arxiv.org/abs/2312.12423)|null|
 |**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379](http://arxiv.org/abs/2312.12379)|null|
 
-<p align=right>(<a href=#updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
 
 ## Visual In-context
 
@@ -3995,14 +3995,14 @@
 |---|---|---|---|---|
 |**2024-02-18**|**Visual In-Context Learning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2402.11574](http://arxiv.org/abs/2402.11574)|null|
 
-<p align=right>(<a href=#updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
 
 ## V-ICL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-29**|**Label-Guided In-Context Learning for Named Entity Recognition**|Fan Bai et.al.|[2505.23722](http://arxiv.org/abs/2505.23722)|null|
-|**2025-05-29**|**TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning**|Andreas Auer et.al.|[2505.23719](http://arxiv.org/abs/2505.23719)|null|
+|**2025-05-29**|**Label-Guided In-Context Learning for Named Entity Recognition**|Fan Bai et.al.|[2505.23722](http://arxiv.org/abs/2505.23722)|**[link](https://github.com/bflashcp3f/deer)**|
+|**2025-05-29**|**TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning**|Andreas Auer et.al.|[2505.23719](http://arxiv.org/abs/2505.23719)|**[link](https://github.com/nx-ai/tirex)**|
 |**2025-05-29**|**Engineering Serendipity through Recommendations of Items with Atypical Aspects**|Ramit Aditya et.al.|[2505.23580](http://arxiv.org/abs/2505.23580)|null|
 |**2025-05-29**|**From Parameters to Prompts: Understanding and Mitigating the Factuality Gap between Fine-Tuned LLMs**|Xuan Gong et.al.|[2505.23410](http://arxiv.org/abs/2505.23410)|null|
 |**2025-05-29**|**Neither Stochastic Parroting nor AGI: LLMs Solve Tasks through Context-Directed Extrapolation from Training Data Priors**|Harish Tayyar Madabushi et.al.|[2505.23323](http://arxiv.org/abs/2505.23323)|null|
@@ -5147,7 +5147,7 @@
 |**2024-04-15**|**Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**|Sungwon Han et.al.|[2404.09491](http://arxiv.org/abs/2404.09491)|**[link](https://github.com/sungwon-han/featllm)**|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
 
-<p align=right>(<a href=#updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
