@@ -182,6 +182,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Transformers Are Universally Consistent**|Sagar Ghosh et.al.|[2505.24531](http://arxiv.org/abs/2505.24531)|null|
+|**2025-05-30**|**Exploring Multimodal Challenges in Toxic Chinese Detection: Taxonomy, Benchmark, and Findings**|Shujian Yang et.al.|[2505.24341](http://arxiv.org/abs/2505.24341)|null|
+|**2025-05-30**|**Discl-VC: Disentangled Discrete Tokens and In-Context Learning for Controllable Zero-Shot Voice Conversion**|Kaidi Wang et.al.|[2505.24291](http://arxiv.org/abs/2505.24291)|null|
+|**2025-05-30**|**CrossICL: Cross-Task In-Context Learning via Unsupervised Demonstration Transfer**|Jinglong Gao et.al.|[2505.24143](http://arxiv.org/abs/2505.24143)|null|
+|**2025-05-29**|**One Task Vector is not Enough: A Large-Scale Study for In-Context Learning**|Pavel Tikhonov et.al.|[2505.23911](http://arxiv.org/abs/2505.23911)|null|
 |**2025-05-29**|**Label-Guided In-Context Learning for Named Entity Recognition**|Fan Bai et.al.|[2505.23722](http://arxiv.org/abs/2505.23722)|**[link](https://github.com/bflashcp3f/deer)**|
 |**2025-05-29**|**TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning**|Andreas Auer et.al.|[2505.23719](http://arxiv.org/abs/2505.23719)|**[link](https://github.com/nx-ai/tirex)**|
 |**2025-05-29**|**Engineering Serendipity through Recommendations of Items with Atypical Aspects**|Ramit Aditya et.al.|[2505.23580](http://arxiv.org/abs/2505.23580)|null|
@@ -1624,6 +1629,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Yu Zhang et.al.|[2505.24875](http://arxiv.org/abs/2505.24875)|null|
+|**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872](http://arxiv.org/abs/2505.24872)|null|
+|**2025-05-30**|**GenSpace: Benchmarking Spatially-Aware Image Generation**|Zehan Wang et.al.|[2505.24870](http://arxiv.org/abs/2505.24870)|null|
+|**2025-05-30**|**Time Blindness: Why Video-Language Models Can't See What Humans Can?**|Ujjwal Upadhyay et.al.|[2505.24867](http://arxiv.org/abs/2505.24867)|null|
+|**2025-05-30**|**Conformal Prediction for Zero-Shot Models**|Julio Silva-Rodríguez et.al.|[2505.24693](http://arxiv.org/abs/2505.24693)|null|
+|**2025-05-30**|**BIMA: Bijective Maximum Likelihood Learning Approach to Hallucination Prediction and Mitigation in Large Vision-Language Models**|Huu-Thien Tran et.al.|[2505.24649](http://arxiv.org/abs/2505.24649)|null|
+|**2025-05-30**|**SARD: A Large-Scale Synthetic Arabic OCR Dataset for Book-Style Text Recognition**|Omer Nacar et.al.|[2505.24600](http://arxiv.org/abs/2505.24600)|null|
+|**2025-05-30**|**AMIA: Automatic Masking and Joint Intention Analysis Makes LVLMs Robust Jailbreak Defenders**|Yuqi Zhang et.al.|[2505.24519](http://arxiv.org/abs/2505.24519)|null|
+|**2025-05-30**|**CaMMT: Benchmarking Culturally Aware Multimodal Machine Translation**|Emilio Villa-Cueva et.al.|[2505.24456](http://arxiv.org/abs/2505.24456)|null|
+|**2025-05-30**|**Advancing Compositional Awareness in CLIP with Efficient Fine-Tuning**|Amit Peleg et.al.|[2505.24424](http://arxiv.org/abs/2505.24424)|null|
 |**2025-05-29**|**ZeroGUI: Automating Online GUI Learning at Zero Human Cost**|Chenyu Yang et.al.|[2505.23762](http://arxiv.org/abs/2505.23762)|**[link](https://github.com/opengvlab/zerogui)**|
 |**2025-05-29**|**Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint**|Heekyung Lee et.al.|[2505.23759](http://arxiv.org/abs/2505.23759)|**[link](https://github.com/kyunnilee/visual_puzzles)**|
 |**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Hao Dong et.al.|[2505.23745](http://arxiv.org/abs/2505.23745)|**[link](https://github.com/epfl-imos/trustvlm)**|
@@ -4001,6 +4016,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Transformers Are Universally Consistent**|Sagar Ghosh et.al.|[2505.24531](http://arxiv.org/abs/2505.24531)|null|
+|**2025-05-30**|**Exploring Multimodal Challenges in Toxic Chinese Detection: Taxonomy, Benchmark, and Findings**|Shujian Yang et.al.|[2505.24341](http://arxiv.org/abs/2505.24341)|null|
+|**2025-05-30**|**Discl-VC: Disentangled Discrete Tokens and In-Context Learning for Controllable Zero-Shot Voice Conversion**|Kaidi Wang et.al.|[2505.24291](http://arxiv.org/abs/2505.24291)|null|
+|**2025-05-30**|**CrossICL: Cross-Task In-Context Learning via Unsupervised Demonstration Transfer**|Jinglong Gao et.al.|[2505.24143](http://arxiv.org/abs/2505.24143)|null|
+|**2025-05-29**|**One Task Vector is not Enough: A Large-Scale Study for In-Context Learning**|Pavel Tikhonov et.al.|[2505.23911](http://arxiv.org/abs/2505.23911)|null|
 |**2025-05-29**|**Label-Guided In-Context Learning for Named Entity Recognition**|Fan Bai et.al.|[2505.23722](http://arxiv.org/abs/2505.23722)|**[link](https://github.com/bflashcp3f/deer)**|
 |**2025-05-29**|**TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning**|Andreas Auer et.al.|[2505.23719](http://arxiv.org/abs/2505.23719)|**[link](https://github.com/nx-ai/tirex)**|
 |**2025-05-29**|**Engineering Serendipity through Recommendations of Items with Atypical Aspects**|Ramit Aditya et.al.|[2505.23580](http://arxiv.org/abs/2505.23580)|null|
