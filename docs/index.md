@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**BitBypass: A New Direction in Jailbreaking Aligned Large Language Models with Bitstream Camouflage**|Kalyan Nakka et.al.|[2506.02479](http://arxiv.org/abs/2506.02479)|null|
+|**2025-06-01**|**Boosting Bot Detection via Heterophily-Aware Representation Learning and Prototype-Guided Cluster Discovery**|Buyun He et.al.|[2506.00989](http://arxiv.org/abs/2506.00989)|null|
+|**2025-05-18**|**Thermal superscatterer: amplification of thermal scattering signatures for arbitrarily shaped thermal materials**|Yichao Liu et.al.|[2506.00014](http://arxiv.org/abs/2506.00014)|null|
 |**2025-05-26**|**Align and Surpass Human Camouflaged Perception: Visual Refocus Reinforcement Fine-Tuning**|Ruolin Shen et.al.|[2505.19611](http://arxiv.org/abs/2505.19611)|**[link](https://github.com/huuxiaobin/vrrf)**|
 |**2025-05-18**|**Implementation of ultra-broadband optical null media via space-folding**|Yichao Liu et.al.|[2505.12407](http://arxiv.org/abs/2505.12407)|null|
 |**2025-05-14**|**DRRNet: Macro-Micro Feature Fusion and Dual Reverse Refinement for Camouflaged Object Detection**|Jianlin Sun et.al.|[2505.09168](http://arxiv.org/abs/2505.09168)|**[link](https://github.com/jerrysunning/drrnet)**|
@@ -173,6 +176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Zero-Shot Time Series Forecasting with Covariates via In-Context Learning**|Andreas Auer et.al.|[2506.03128](http://arxiv.org/abs/2506.03128)|null|
+|**2025-06-03**|**Retrieval-Augmented Generation as Noisy In-Context Learning: A Unified Theory and Risk Bounds**|Yang Guo et.al.|[2506.03100](http://arxiv.org/abs/2506.03100)|null|
+|**2025-06-03**|**On the Robustness of Tabular Foundation Models: Test-Time Attacks and In-Context Defenses**|Mohamed Djilani et.al.|[2506.02978](http://arxiv.org/abs/2506.02978)|null|
+|**2025-06-03**|**From Prompts to Protection: Large Language Model-Enabled In-Context Learning for Smart Public Safety UAV**|Yousef Emami et.al.|[2506.02649](http://arxiv.org/abs/2506.02649)|null|
+|**2025-06-03**|**RelationAdapter: Learning and Transferring Visual Relation with Diffusion Transformers**|Yan Gong et.al.|[2506.02528](http://arxiv.org/abs/2506.02528)|null|
+|**2025-06-03**|**Large Language Models Can Achieve Explainable and Training-Free One-shot HRRP ATR**|Lingfeng Chen et.al.|[2506.02465](http://arxiv.org/abs/2506.02465)|null|
+|**2025-06-03**|**Exploring Explanations Improves the Robustness of In-Context Learning**|Ukyo Honda et.al.|[2506.02378](http://arxiv.org/abs/2506.02378)|null|
+|**2025-06-02**|**Learning to Explore: An In-Context Learning Approach for Pure Exploration**|Alessio Russo et.al.|[2506.01876](http://arxiv.org/abs/2506.01876)|null|
+|**2025-06-02**|**Hierarchical Intention-Aware Expressive Motion Generation for Humanoid Robots**|Lingfan Bao et.al.|[2506.01563](http://arxiv.org/abs/2506.01563)|null|
+|**2025-06-02**|**Scalable In-Context Q-Learning**|Jinmei Liu et.al.|[2506.01299](http://arxiv.org/abs/2506.01299)|null|
 |**2025-05-30**|**Transformers Are Universally Consistent**|Sagar Ghosh et.al.|[2505.24531](http://arxiv.org/abs/2505.24531)|null|
 |**2025-05-30**|**Exploring Multimodal Challenges in Toxic Chinese Detection: Taxonomy, Benchmark, and Findings**|Shujian Yang et.al.|[2505.24341](http://arxiv.org/abs/2505.24341)|null|
 |**2025-05-30**|**Discl-VC: Disentangled Discrete Tokens and In-Context Learning for Controllable Zero-Shot Voice Conversion**|Kaidi Wang et.al.|[2505.24291](http://arxiv.org/abs/2505.24291)|null|
@@ -1618,6 +1631,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models**|Mengdi Jia et.al.|[2506.03135](http://arxiv.org/abs/2506.03135)|null|
+|**2025-06-03**|**EgoVLM: Policy Optimization for Egocentric Video Understanding**|Ashwin Vinod et.al.|[2506.03097](http://arxiv.org/abs/2506.03097)|null|
+|**2025-06-03**|**DPO Learning with LLMs-Judge Signal for Computer Use Agents**|Man Luo et.al.|[2506.03095](http://arxiv.org/abs/2506.03095)|null|
+|**2025-06-03**|**From Flat to Hierarchical: Extracting Sparse Representations with Matching Pursuit**|Valérie Costa et.al.|[2506.03093](http://arxiv.org/abs/2506.03093)|null|
+|**2025-06-03**|**Text-guided Generation of Efficient Personalized Inspection Plans**|Xingpeng Sun et.al.|[2506.02917](http://arxiv.org/abs/2506.02917)|null|
+|**2025-06-03**|**FlySearch: Exploring how vision-language models explore**|Adam Pardyl et.al.|[2506.02896](http://arxiv.org/abs/2506.02896)|null|
+|**2025-06-03**|**Surfer-H Meets Holo1: Cost-Efficient Web Agent Powered by Open Weights**|Mathieu Andreux et.al.|[2506.02865](http://arxiv.org/abs/2506.02865)|null|
+|**2025-06-03**|**SemVink: Advancing VLMs' Semantic Understanding of Optical Illusions via Visual Global Thinking**|Sifan Li et.al.|[2506.02803](http://arxiv.org/abs/2506.02803)|null|
+|**2025-06-03**|**Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning**|Negin Baghbanzadeh et.al.|[2506.02738](http://arxiv.org/abs/2506.02738)|null|
+|**2025-06-03**|**Iterative Self-Improvement of Vision Language Models for Image Scoring and Self-Explanation**|Naoto Tanji et.al.|[2506.02708](http://arxiv.org/abs/2506.02708)|null|
 |**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Yu Zhang et.al.|[2505.24875](http://arxiv.org/abs/2505.24875)|null|
 |**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872](http://arxiv.org/abs/2505.24872)|null|
 |**2025-05-30**|**GenSpace: Benchmarking Spatially-Aware Image Generation**|Zehan Wang et.al.|[2505.24870](http://arxiv.org/abs/2505.24870)|null|
@@ -4001,6 +4024,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Zero-Shot Time Series Forecasting with Covariates via In-Context Learning**|Andreas Auer et.al.|[2506.03128](http://arxiv.org/abs/2506.03128)|null|
+|**2025-06-03**|**Retrieval-Augmented Generation as Noisy In-Context Learning: A Unified Theory and Risk Bounds**|Yang Guo et.al.|[2506.03100](http://arxiv.org/abs/2506.03100)|null|
+|**2025-06-03**|**On the Robustness of Tabular Foundation Models: Test-Time Attacks and In-Context Defenses**|Mohamed Djilani et.al.|[2506.02978](http://arxiv.org/abs/2506.02978)|null|
+|**2025-06-03**|**From Prompts to Protection: Large Language Model-Enabled In-Context Learning for Smart Public Safety UAV**|Yousef Emami et.al.|[2506.02649](http://arxiv.org/abs/2506.02649)|null|
+|**2025-06-03**|**RelationAdapter: Learning and Transferring Visual Relation with Diffusion Transformers**|Yan Gong et.al.|[2506.02528](http://arxiv.org/abs/2506.02528)|null|
+|**2025-06-03**|**Large Language Models Can Achieve Explainable and Training-Free One-shot HRRP ATR**|Lingfeng Chen et.al.|[2506.02465](http://arxiv.org/abs/2506.02465)|null|
+|**2025-06-03**|**Exploring Explanations Improves the Robustness of In-Context Learning**|Ukyo Honda et.al.|[2506.02378](http://arxiv.org/abs/2506.02378)|null|
+|**2025-06-02**|**Learning to Explore: An In-Context Learning Approach for Pure Exploration**|Alessio Russo et.al.|[2506.01876](http://arxiv.org/abs/2506.01876)|null|
+|**2025-06-02**|**Hierarchical Intention-Aware Expressive Motion Generation for Humanoid Robots**|Lingfan Bao et.al.|[2506.01563](http://arxiv.org/abs/2506.01563)|null|
+|**2025-06-02**|**Scalable In-Context Q-Learning**|Jinmei Liu et.al.|[2506.01299](http://arxiv.org/abs/2506.01299)|null|
 |**2025-05-30**|**Transformers Are Universally Consistent**|Sagar Ghosh et.al.|[2505.24531](http://arxiv.org/abs/2505.24531)|null|
 |**2025-05-30**|**Exploring Multimodal Challenges in Toxic Chinese Detection: Taxonomy, Benchmark, and Findings**|Shujian Yang et.al.|[2505.24341](http://arxiv.org/abs/2505.24341)|null|
 |**2025-05-30**|**Discl-VC: Disentangled Discrete Tokens and In-Context Learning for Controllable Zero-Shot Voice Conversion**|Kaidi Wang et.al.|[2505.24291](http://arxiv.org/abs/2505.24291)|null|
