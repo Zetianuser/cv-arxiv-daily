@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -179,7 +179,7 @@
 |**2023-11-15**|**Infrared thermochromic antenna composite for self-adaptive thermoregulation**|Francisco V. Ramirez-Cuevas et.al.|[2311.08633](http://arxiv.org/abs/2311.08633)|null|
 |**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 ## In-context
 
@@ -1636,7 +1636,7 @@
 |**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075](http://arxiv.org/abs/2312.11075)|null|
 |**2023-12-18**|**APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation**|Chengran Yang et.al.|[2312.10934](http://arxiv.org/abs/2312.10934)|null|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 ## VLM
 
@@ -1647,10 +1647,10 @@
 |**2025-06-03**|**DPO Learning with LLMs-Judge Signal for Computer Use Agents**|Man Luo et.al.|[2506.03095](http://arxiv.org/abs/2506.03095)|null|
 |**2025-06-03**|**From Flat to Hierarchical: Extracting Sparse Representations with Matching Pursuit**|Valérie Costa et.al.|[2506.03093](http://arxiv.org/abs/2506.03093)|null|
 |**2025-06-03**|**Text-guided Generation of Efficient Personalized Inspection Plans**|Xingpeng Sun et.al.|[2506.02917](http://arxiv.org/abs/2506.02917)|null|
-|**2025-06-03**|**FlySearch: Exploring how vision-language models explore**|Adam Pardyl et.al.|[2506.02896](http://arxiv.org/abs/2506.02896)|null|
+|**2025-06-04**|**FlySearch: Exploring how vision-language models explore**|Adam Pardyl et.al.|[2506.02896](http://arxiv.org/abs/2506.02896)|null|
 |**2025-06-03**|**Surfer-H Meets Holo1: Cost-Efficient Web Agent Powered by Open Weights**|Mathieu Andreux et.al.|[2506.02865](http://arxiv.org/abs/2506.02865)|null|
 |**2025-06-03**|**SemVink: Advancing VLMs' Semantic Understanding of Optical Illusions via Visual Global Thinking**|Sifan Li et.al.|[2506.02803](http://arxiv.org/abs/2506.02803)|null|
-|**2025-06-03**|**Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning**|Negin Baghbanzadeh et.al.|[2506.02738](http://arxiv.org/abs/2506.02738)|null|
+|**2025-06-04**|**Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning**|Negin Baghbanzadeh et.al.|[2506.02738](http://arxiv.org/abs/2506.02738)|null|
 |**2025-06-03**|**Iterative Self-Improvement of Vision Language Models for Image Scoring and Self-Explanation**|Naoto Tanji et.al.|[2506.02708](http://arxiv.org/abs/2506.02708)|null|
 |**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Yu Zhang et.al.|[2505.24875](http://arxiv.org/abs/2505.24875)|null|
 |**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872](http://arxiv.org/abs/2505.24872)|null|
@@ -4025,7 +4025,7 @@
 |**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423](http://arxiv.org/abs/2312.12423)|null|
 |**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379](http://arxiv.org/abs/2312.12379)|null|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 ## Visual In-context
 
@@ -4033,7 +4033,7 @@
 |---|---|---|---|---|
 |**2024-02-18**|**Visual In-Context Learning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2402.11574](http://arxiv.org/abs/2402.11574)|null|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 ## V-ICL
 
@@ -5200,7 +5200,7 @@
 |**2024-04-15**|**Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**|Sungwon Han et.al.|[2404.09491](http://arxiv.org/abs/2404.09491)|**[link](https://github.com/sungwon-han/featllm)**|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
