@@ -200,13 +200,13 @@ layout: default
 |**2025-06-02**|**Hierarchical Intention-Aware Expressive Motion Generation for Humanoid Robots**|Lingfan Bao et.al.|[2506.01563](http://arxiv.org/abs/2506.01563)|null|
 |**2025-06-02**|**Scalable In-Context Q-Learning**|Jinmei Liu et.al.|[2506.01299](http://arxiv.org/abs/2506.01299)|null|
 |**2025-05-30**|**Transformers Are Universally Consistent**|Sagar Ghosh et.al.|[2505.24531](http://arxiv.org/abs/2505.24531)|null|
-|**2025-05-30**|**Exploring Multimodal Challenges in Toxic Chinese Detection: Taxonomy, Benchmark, and Findings**|Shujian Yang et.al.|[2505.24341](http://arxiv.org/abs/2505.24341)|null|
+|**2025-05-30**|**Exploring Multimodal Challenges in Toxic Chinese Detection: Taxonomy, Benchmark, and Findings**|Shujian Yang et.al.|[2505.24341](http://arxiv.org/abs/2505.24341)|**[link](https://github.com/thomasyyyoung/toxibenchcn)**|
 |**2025-05-30**|**Discl-VC: Disentangled Discrete Tokens and In-Context Learning for Controllable Zero-Shot Voice Conversion**|Kaidi Wang et.al.|[2505.24291](http://arxiv.org/abs/2505.24291)|null|
 |**2025-05-30**|**CrossICL: Cross-Task In-Context Learning via Unsupervised Demonstration Transfer**|Jinglong Gao et.al.|[2505.24143](http://arxiv.org/abs/2505.24143)|null|
 |**2025-05-29**|**One Task Vector is not Enough: A Large-Scale Study for In-Context Learning**|Pavel Tikhonov et.al.|[2505.23911](http://arxiv.org/abs/2505.23911)|null|
 |**2025-05-29**|**Label-Guided In-Context Learning for Named Entity Recognition**|Fan Bai et.al.|[2505.23722](http://arxiv.org/abs/2505.23722)|**[link](https://github.com/bflashcp3f/deer)**|
 |**2025-05-29**|**TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning**|Andreas Auer et.al.|[2505.23719](http://arxiv.org/abs/2505.23719)|**[link](https://github.com/nx-ai/tirex)**|
-|**2025-05-29**|**Engineering Serendipity through Recommendations of Items with Atypical Aspects**|Ramit Aditya et.al.|[2505.23580](http://arxiv.org/abs/2505.23580)|null|
+|**2025-05-29**|**Engineering Serendipity through Recommendations of Items with Atypical Aspects**|Ramit Aditya et.al.|[2505.23580](http://arxiv.org/abs/2505.23580)|**[link](https://github.com/ramituncc49er/atars)**|
 |**2025-05-29**|**From Parameters to Prompts: Understanding and Mitigating the Factuality Gap between Fine-Tuned LLMs**|Xuan Gong et.al.|[2505.23410](http://arxiv.org/abs/2505.23410)|null|
 |**2025-05-29**|**Neither Stochastic Parroting nor AGI: LLMs Solve Tasks through Context-Directed Extrapolation from Training Data Priors**|Harish Tayyar Madabushi et.al.|[2505.23323](http://arxiv.org/abs/2505.23323)|null|
 |**2025-05-29**|**Generating Diverse Training Samples for Relation Extraction with Large Language Models**|Zexuan Li et.al.|[2505.23108](http://arxiv.org/abs/2505.23108)|null|
@@ -1678,7 +1678,7 @@ layout: default
 |**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872](http://arxiv.org/abs/2505.24872)|null|
 |**2025-05-30**|**GenSpace: Benchmarking Spatially-Aware Image Generation**|Zehan Wang et.al.|[2505.24870](http://arxiv.org/abs/2505.24870)|null|
 |**2025-05-30**|**Time Blindness: Why Video-Language Models Can't See What Humans Can?**|Ujjwal Upadhyay et.al.|[2505.24867](http://arxiv.org/abs/2505.24867)|null|
-|**2025-05-30**|**Conformal Prediction for Zero-Shot Models**|Julio Silva-Rodríguez et.al.|[2505.24693](http://arxiv.org/abs/2505.24693)|null|
+|**2025-05-30**|**Conformal Prediction for Zero-Shot Models**|Julio Silva-Rodríguez et.al.|[2505.24693](http://arxiv.org/abs/2505.24693)|**[link](https://github.com/jusiro/clip-conformal)**|
 |**2025-05-30**|**BIMA: Bijective Maximum Likelihood Learning Approach to Hallucination Prediction and Mitigation in Large Vision-Language Models**|Huu-Thien Tran et.al.|[2505.24649](http://arxiv.org/abs/2505.24649)|null|
 |**2025-05-30**|**SARD: A Large-Scale Synthetic Arabic OCR Dataset for Book-Style Text Recognition**|Omer Nacar et.al.|[2505.24600](http://arxiv.org/abs/2505.24600)|null|
 |**2025-05-30**|**AMIA: Automatic Masking and Joint Intention Analysis Makes LVLMs Robust Jailbreak Defenders**|Yuqi Zhang et.al.|[2505.24519](http://arxiv.org/abs/2505.24519)|null|
@@ -1689,8 +1689,8 @@ layout: default
 |**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Hao Dong et.al.|[2505.23745](http://arxiv.org/abs/2505.23745)|**[link](https://github.com/epfl-imos/trustvlm)**|
 |**2025-05-29**|**LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization**|Ronghuan Wu et.al.|[2505.23740](http://arxiv.org/abs/2505.23740)|null|
 |**2025-05-29**|**Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better**|Danny Driess et.al.|[2505.23705](http://arxiv.org/abs/2505.23705)|null|
-|**2025-05-29**|**Grounded Reinforcement Learning for Visual Reasoning**|Gabriel Sarch et.al.|[2505.23678](http://arxiv.org/abs/2505.23678)|null|
-|**2025-05-29**|**Uni-MuMER: Unified Multi-Task Fine-Tuning of Vision-Language Model for Handwritten Mathematical Expression Recognition**|Yu Li et.al.|[2505.23566](http://arxiv.org/abs/2505.23566)|null|
+|**2025-05-29**|**Grounded Reinforcement Learning for Visual Reasoning**|Gabriel Sarch et.al.|[2505.23678](http://arxiv.org/abs/2505.23678)|**[link](https://github.com/hiyouga/easyr1)**|
+|**2025-05-29**|**Uni-MuMER: Unified Multi-Task Fine-Tuning of Vision-Language Model for Handwritten Mathematical Expression Recognition**|Yu Li et.al.|[2505.23566](http://arxiv.org/abs/2505.23566)|**[link](https://github.com/bflameswift/uni-mumer)**|
 |**2025-05-30**|**Qwen Look Again: Guiding Vision-Language Reasoning Models to Re-attention Visual Information**|Xu Chu et.al.|[2505.23558](http://arxiv.org/abs/2505.23558)|**[link](https://github.com/liar406/look_again)**|
 |**2025-05-29**|**TRAP: Targeted Redirecting of Agentic Preferences**|Hangoo Kang et.al.|[2505.23518](http://arxiv.org/abs/2505.23518)|null|
 |**2025-05-29**|**VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation**|Shi-Xue Zhang et.al.|[2505.23484](http://arxiv.org/abs/2505.23484)|**[link](https://github.com/gxym/vcapsbench)**|
@@ -1804,7 +1804,7 @@ layout: default
 |**2025-05-15**|**Behind Maya: Building a Multilingual Vision Language Model**|Nahid Alam et.al.|[2505.08910](http://arxiv.org/abs/2505.08910)|**[link](https://github.com/nahidalam/maya)**|
 |**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Zongchuang Zhao et.al.|[2505.08725](http://arxiv.org/abs/2505.08725)|**[link](https://github.com/zc-zhao/drivemonkey)**|
 |**2025-05-13**|**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**|Zhaochen Su et.al.|[2505.08617](http://arxiv.org/abs/2505.08617)|**[link](https://github.com/zhaochen0110/openthinkimg)**|
-|**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Yifu Yuan et.al.|[2505.08548](http://arxiv.org/abs/2505.08548)|null|
+|**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Yifu Yuan et.al.|[2505.08548](http://arxiv.org/abs/2505.08548)|**[link](https://github.com/pickxiguapi/embodied-fsd)**|
 |**2025-05-13**|**Judging the Judges: Can Large Vision-Language Models Fairly Evaluate Chart Comprehension and Reasoning?**|Md Tahmid Rahman Laskar et.al.|[2505.08468](http://arxiv.org/abs/2505.08468)|**[link](https://github.com/tahmedge/chart_lvlm_judge)**|
 |**2025-05-13**|**MA-ROESL: Motion-aware Rapid Reward Optimization for Efficient Robot Skill Learning from Single Videos**|Xianghui Wang et.al.|[2505.08367](http://arxiv.org/abs/2505.08367)|null|
 |**2025-05-13**|**Removing Watermarks with Partial Regeneration using Semantic Information**|Krti Tallam et.al.|[2505.08234](http://arxiv.org/abs/2505.08234)|**[link](https://github.com/krtit/semanticregen)**|
@@ -2332,7 +2332,7 @@ layout: default
 |**2025-02-14**|**Probing Perceptual Constancy in Large Vision Language Models**|Haoran Sun et.al.|[2502.10273](http://arxiv.org/abs/2502.10273)|null|
 |**2025-02-14**|**VisCon-100K: Leveraging Contextual Web Data for Fine-tuning Vision Language Models**|Gokul Karthik Kumar et.al.|[2502.10250](http://arxiv.org/abs/2502.10250)|null|
 |**2025-02-14**|**Cooperative Multi-Agent Planning with Adaptive Skill Synthesis**|Zhiyuan Li et.al.|[2502.10148](http://arxiv.org/abs/2502.10148)|null|
-|**2025-02-14**|**Manual2Skill: Learning to Read Manuals and Acquire Robotic Skills for Furniture Assembly Using Vision-Language Models**|Chenrui Tie et.al.|[2502.10090](http://arxiv.org/abs/2502.10090)|null|
+|**2025-02-14**|**Manual2Skill: Learning to Read Manuals and Acquire Robotic Skills for Furniture Assembly Using Vision-Language Models**|Chenrui Tie et.al.|[2502.10090](http://arxiv.org/abs/2502.10090)|**[link](https://github.com/owensun2004/Manual2Skill)**|
 |**2025-02-14**|**ViRAC: A Vision-Reasoning Agent Head Movement Control Framework in Arbitrary Virtual Environments**|Juyeong Hwang et.al.|[2502.10046](http://arxiv.org/abs/2502.10046)|null|
 |**2025-02-14**|**Diffusion Trajectory-guided Policy for Long-horizon Robot Manipulation**|Shichao Fan et.al.|[2502.10040](http://arxiv.org/abs/2502.10040)|null|
 |**2025-02-14**|**HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation**|Tianwei Lin et.al.|[2502.09838](http://arxiv.org/abs/2502.09838)|**[link](https://github.com/dcdmllm/healthgpt)**|
@@ -4081,13 +4081,13 @@ layout: default
 |**2025-06-02**|**Hierarchical Intention-Aware Expressive Motion Generation for Humanoid Robots**|Lingfan Bao et.al.|[2506.01563](http://arxiv.org/abs/2506.01563)|null|
 |**2025-06-02**|**Scalable In-Context Q-Learning**|Jinmei Liu et.al.|[2506.01299](http://arxiv.org/abs/2506.01299)|null|
 |**2025-05-30**|**Transformers Are Universally Consistent**|Sagar Ghosh et.al.|[2505.24531](http://arxiv.org/abs/2505.24531)|null|
-|**2025-05-30**|**Exploring Multimodal Challenges in Toxic Chinese Detection: Taxonomy, Benchmark, and Findings**|Shujian Yang et.al.|[2505.24341](http://arxiv.org/abs/2505.24341)|null|
+|**2025-05-30**|**Exploring Multimodal Challenges in Toxic Chinese Detection: Taxonomy, Benchmark, and Findings**|Shujian Yang et.al.|[2505.24341](http://arxiv.org/abs/2505.24341)|**[link](https://github.com/thomasyyyoung/toxibenchcn)**|
 |**2025-05-30**|**Discl-VC: Disentangled Discrete Tokens and In-Context Learning for Controllable Zero-Shot Voice Conversion**|Kaidi Wang et.al.|[2505.24291](http://arxiv.org/abs/2505.24291)|null|
 |**2025-05-30**|**CrossICL: Cross-Task In-Context Learning via Unsupervised Demonstration Transfer**|Jinglong Gao et.al.|[2505.24143](http://arxiv.org/abs/2505.24143)|null|
 |**2025-05-29**|**One Task Vector is not Enough: A Large-Scale Study for In-Context Learning**|Pavel Tikhonov et.al.|[2505.23911](http://arxiv.org/abs/2505.23911)|null|
 |**2025-05-29**|**Label-Guided In-Context Learning for Named Entity Recognition**|Fan Bai et.al.|[2505.23722](http://arxiv.org/abs/2505.23722)|**[link](https://github.com/bflashcp3f/deer)**|
 |**2025-05-29**|**TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning**|Andreas Auer et.al.|[2505.23719](http://arxiv.org/abs/2505.23719)|**[link](https://github.com/nx-ai/tirex)**|
-|**2025-05-29**|**Engineering Serendipity through Recommendations of Items with Atypical Aspects**|Ramit Aditya et.al.|[2505.23580](http://arxiv.org/abs/2505.23580)|null|
+|**2025-05-29**|**Engineering Serendipity through Recommendations of Items with Atypical Aspects**|Ramit Aditya et.al.|[2505.23580](http://arxiv.org/abs/2505.23580)|**[link](https://github.com/ramituncc49er/atars)**|
 |**2025-05-29**|**From Parameters to Prompts: Understanding and Mitigating the Factuality Gap between Fine-Tuned LLMs**|Xuan Gong et.al.|[2505.23410](http://arxiv.org/abs/2505.23410)|null|
 |**2025-05-29**|**Neither Stochastic Parroting nor AGI: LLMs Solve Tasks through Context-Directed Extrapolation from Training Data Priors**|Harish Tayyar Madabushi et.al.|[2505.23323](http://arxiv.org/abs/2505.23323)|null|
 |**2025-05-29**|**Generating Diverse Training Samples for Relation Extraction with Large Language Models**|Zexuan Li et.al.|[2505.23108](http://arxiv.org/abs/2505.23108)|null|
