@@ -233,7 +233,7 @@
 |**2025-06-05**|**Neural Network Reprogrammability: A Unified Theme on Model Reprogramming, Prompt Tuning, and Prompt Instruction**|Zesheng Ye et.al.|[2506.04650](http://arxiv.org/abs/2506.04650)|null|
 |**2025-06-05**|**Selecting Demonstrations for Many-Shot In-Context Learning via Gradient Matching**|Jianfei Zhang et.al.|[2506.04579](http://arxiv.org/abs/2506.04579)|null|
 |**2025-06-05**|**Are LLMs Reliable Translators of Logical Reasoning Across Lexically Diversified Contexts?**|Qingchuan Li et.al.|[2506.04575](http://arxiv.org/abs/2506.04575)|null|
-|**2025-06-04**|**BEAR: BGP Event Analysis and Reporting**|Hanqing Li et.al.|[2506.04514](http://arxiv.org/abs/2506.04514)|null|
+|**2025-06-04**|**BEAR: BGP Event Analysis and Reporting**|Hanqing Li et.al.|[2506.04514](http://arxiv.org/abs/2506.04514)|**[link](https://github.com/hanklee97121/bear_bgp_event_analysis)**|
 |**2025-06-04**|**Does Prompt Design Impact Quality of Data Imputation by LLMs?**|Shreenidhi Srinivasan et.al.|[2506.04172](http://arxiv.org/abs/2506.04172)|null|
 |**2025-06-04**|**ConText: Driving In-context Learning for Text Removal and Segmentation**|Fei Zhang et.al.|[2506.03799](http://arxiv.org/abs/2506.03799)|null|
 |**2025-06-04**|**Delta-KNN: Improving Demonstration Selection in In-Context Learning for Alzheimer's Disease Detection**|Chuyuan Li et.al.|[2506.03476](http://arxiv.org/abs/2506.03476)|null|
@@ -855,7 +855,7 @@
 |**2024-10-21**|**A Theoretical Understanding of Chain-of-Thought: Coherent Reasoning and Error-Aware Demonstration**|Yingqian Cui et.al.|[2410.16540](http://arxiv.org/abs/2410.16540)|null|
 |**2024-10-21**|**Bayesian scaling laws for in-context learning**|Aryaman Arora et.al.|[2410.16531](http://arxiv.org/abs/2410.16531)|**[link](https://github.com/aryamanarora/bayesian-laws-icl)**|
 |**2024-10-21**|**Analyzing Context Contributions in LLM-based Machine Translation**|Emmanouil Zaranis et.al.|[2410.16246](http://arxiv.org/abs/2410.16246)|null|
-|**2024-10-21**|**CoT-TL: Low-Resource Temporal Knowledge Representation of Planning Instructions Using Chain-of-Thought Reasoning**|Kumar Manas et.al.|[2410.16207](http://arxiv.org/abs/2410.16207)|null|
+|**2024-10-21**|**CoT-TL: Low-Resource Temporal Knowledge Representation of Planning Instructions Using Chain-of-Thought Reasoning**|Kumar Manas et.al.|[2410.16207](http://arxiv.org/abs/2410.16207)|**[link](https://github.com/kumarmanas/TAMP_COT_TL)**|
 |**2024-10-20**|**How Aligned are Generative Models to Humans in High-Stakes Decision-Making?**|Sarah Tan et.al.|[2410.15471](http://arxiv.org/abs/2410.15471)|null|
 |**2024-10-20**|**BRIEF: Bridging Retrieval and Inference for Multi-hop Reasoning via Compression**|Yuankai Li et.al.|[2410.15277](http://arxiv.org/abs/2410.15277)|**[link](https://github.com/JasonForJoy/BRIEF)**|
 |**2024-10-18**|**Provable In-context Learning for Mixture of Linear Regressions using Transformers**|Yanhao Jin et.al.|[2410.14183](http://arxiv.org/abs/2410.14183)|null|
@@ -1705,15 +1705,15 @@
 |**2025-06-12**|**UrbanSense:AFramework for Quantitative Analysis of Urban Streetscapes leveraging Vision Large Language Models**|Jun Yin et.al.|[2506.10342](http://arxiv.org/abs/2506.10342)|null|
 |**2025-06-12**|**Using Vision Language Models to Detect Students' Academic Emotion through Facial Expressions**|Deliang Wang et.al.|[2506.10334](http://arxiv.org/abs/2506.10334)|null|
 |**2025-06-12**|**HalLoc: Token-level Localization of Hallucinations for Vision Language Models**|Eunkyu Park et.al.|[2506.10286](http://arxiv.org/abs/2506.10286)|null|
-|**2025-06-11**|**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**|Junfei Wu et.al.|[2506.09965](http://arxiv.org/abs/2506.09965)|null|
+|**2025-06-11**|**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**|Junfei Wu et.al.|[2506.09965](http://arxiv.org/abs/2506.09965)|**[link](https://github.com/antresearchnlp/vilasr)**|
 |**2025-06-11**|**From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models**|Irving Fang et.al.|[2506.09930](http://arxiv.org/abs/2506.09930)|null|
 |**2025-06-11**|**3D-Aware Vision-Language Models Fine-Tuning with Geometric Distillation**|Seonho Lee et.al.|[2506.09883](http://arxiv.org/abs/2506.09883)|**[link](https://github.com/kaist-cvml/3d-vlm-gd)**|
-|**2025-06-11**|**Adding simple structure at inference improves Vision-Language Compositionality**|Imanol Miranda et.al.|[2506.09691](http://arxiv.org/abs/2506.09691)|null|
+|**2025-06-11**|**Adding simple structure at inference improves Vision-Language Compositionality**|Imanol Miranda et.al.|[2506.09691](http://arxiv.org/abs/2506.09691)|**[link](https://github.com/imirandam/structure-inference-compositionality)**|
 |**2025-06-11**|**FedVLMBench: Benchmarking Federated Fine-Tuning of Vision-Language Models**|Weiying Zheng et.al.|[2506.09638](http://arxiv.org/abs/2506.09638)|null|
 |**2025-06-11**|**Revisit What You See: Disclose Language Prior in Vision Tokens for Efficient Guided Decoding of LVLMs**|Beomsik Cho et.al.|[2506.09522](http://arxiv.org/abs/2506.09522)|**[link](https://github.com/bscho333/ReVisiT)**|
 |**2025-06-11**|**Provoking Multi-modal Few-Shot LVLM via Exploration-Exploitation In-Context Learning**|Cheng Chen et.al.|[2506.09473](http://arxiv.org/abs/2506.09473)|null|
 |**2025-06-11**|**TOGA: Temporally Grounded Open-Ended Video QA with Weak Supervision**|Ayush Gupta et.al.|[2506.09445](http://arxiv.org/abs/2506.09445)|null|
-|**2025-06-11**|**DAVSP: Safety Alignment for Large Vision-Language Models via Deep Aligned Visual Safety Prompt**|Yitong Zhang et.al.|[2506.09353](http://arxiv.org/abs/2506.09353)|null|
+|**2025-06-11**|**DAVSP: Safety Alignment for Large Vision-Language Models via Deep Aligned Visual Safety Prompt**|Yitong Zhang et.al.|[2506.09353](http://arxiv.org/abs/2506.09353)|**[link](https://github.com/zhangyitonggg/davsp)**|
 |**2025-06-10**|**UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation**|Yihe Tang et.al.|[2506.09284](http://arxiv.org/abs/2506.09284)|null|
 |**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
 |**2025-06-10**|**Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs**|Yaniv Nikankin et.al.|[2506.09047](http://arxiv.org/abs/2506.09047)|null|
@@ -1723,9 +1723,9 @@
 |**2025-06-10**|**Video-CoT: A Comprehensive Dataset for Spatiotemporal Understanding of Videos Based on Chain-of-Thought**|Shuyi Zhang et.al.|[2506.08817](http://arxiv.org/abs/2506.08817)|null|
 |**2025-06-10**|**Multimodal Representation Alignment for Cross-modal Information Retrieval**|Fan Xu et.al.|[2506.08774](http://arxiv.org/abs/2506.08774)|null|
 |**2025-06-10**|**PhyBlock: A Progressive Benchmark for Physical Understanding and Planning via 3D Block Assembly**|Liang Ma et.al.|[2506.08708](http://arxiv.org/abs/2506.08708)|null|
-|**2025-06-10**|**VReST: Enhancing Reasoning in Large Vision-Language Models through Tree Search and Self-Reward Mechanism**|Congzhi Zhang et.al.|[2506.08691](http://arxiv.org/abs/2506.08691)|null|
+|**2025-06-10**|**VReST: Enhancing Reasoning in Large Vision-Language Models through Tree Search and Self-Reward Mechanism**|Congzhi Zhang et.al.|[2506.08691](http://arxiv.org/abs/2506.08691)|**[link](https://github.com/garyjiajia/vrest)**|
 |**2025-06-10**|**ATAS: Any-to-Any Self-Distillation for Enhanced Open-Vocabulary Dense Prediction**|Juan Yeo et.al.|[2506.08678](http://arxiv.org/abs/2506.08678)|null|
-|**2025-06-09**|**Vision Transformers Don't Need Trained Registers**|Nick Jiang et.al.|[2506.08010](http://arxiv.org/abs/2506.08010)|null|
+|**2025-06-09**|**Vision Transformers Don't Need Trained Registers**|Nick Jiang et.al.|[2506.08010](http://arxiv.org/abs/2506.08010)|**[link](https://github.com/nickjiang2378/test-time-registers)**|
 |**2025-06-09**|**Hidden in plain sight: VLMs overlook their visual representations**|Stephanie Fu et.al.|[2506.08008](http://arxiv.org/abs/2506.08008)|null|
 |**2025-06-09**|**BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**|Peiyan Li et.al.|[2506.07961](http://arxiv.org/abs/2506.07961)|null|
 |**2025-06-09**|**Decoupling the Image Perception and Multimodal Reasoning for Reasoning Segmentation with Digital Twin Representations**|Yizhen Li et.al.|[2506.07943](http://arxiv.org/abs/2506.07943)|null|
@@ -1757,26 +1757,26 @@
 |**2025-06-05**|**Robust Few-Shot Vision-Language Model Adaptation**|Hanxin Wang et.al.|[2506.04713](http://arxiv.org/abs/2506.04713)|null|
 |**2025-06-04**|**Image Editing As Programs with Diffusion Models**|Yujia Hu et.al.|[2506.04158](http://arxiv.org/abs/2506.04158)|null|
 |**2025-06-04**|**Recent Advances in Medical Image Classification**|Loan Dao et.al.|[2506.04129](http://arxiv.org/abs/2506.04129)|null|
-|**2025-06-04**|**LaF-GRPO: In-Situ Navigation Instruction Generation for the Visually Impaired via GRPO with LLM-as-Follower Reward**|Yi Zhao et.al.|[2506.04070](http://arxiv.org/abs/2506.04070)|null|
+|**2025-06-04**|**LaF-GRPO: In-Situ Navigation Instruction Generation for the Visually Impaired via GRPO with LLM-as-Follower Reward**|Yi Zhao et.al.|[2506.04070](http://arxiv.org/abs/2506.04070)|**[link](https://github.com/yiyiyizhao/nig4vi)**|
 |**2025-06-04**|**Mitigating Hallucinations in Large Vision-Language Models via Entity-Centric Multimodal Preference Optimization**|Jiulong Wu et.al.|[2506.04039](http://arxiv.org/abs/2506.04039)|null|
 |**2025-06-04**|**Vocabulary-free few-shot learning for Vision-Language Models**|Maxime Zanella et.al.|[2506.04005](http://arxiv.org/abs/2506.04005)|null|
 |**2025-06-04**|**DiffCAP: Diffusion-based Cumulative Adversarial Purification for Vision Language Models**|Jia Fu et.al.|[2506.03933](http://arxiv.org/abs/2506.03933)|null|
-|**2025-06-04**|**Zero-Shot Temporal Interaction Localization for Egocentric Videos**|Erhang Zhang et.al.|[2506.03662](http://arxiv.org/abs/2506.03662)|null|
+|**2025-06-04**|**Zero-Shot Temporal Interaction Localization for Egocentric Videos**|Erhang Zhang et.al.|[2506.03662](http://arxiv.org/abs/2506.03662)|**[link](https://github.com/irmvlab/egoloc)**|
 |**2025-06-04**|**Spatial Understanding from Videos: Structured Prompts Meet Simulation Data**|Haoyu Zhang et.al.|[2506.03642](http://arxiv.org/abs/2506.03642)|null|
-|**2025-06-04**|**VLMs Can Aggregate Scattered Training Patches**|Zhanhui Zhou et.al.|[2506.03614](http://arxiv.org/abs/2506.03614)|null|
+|**2025-06-04**|**VLMs Can Aggregate Scattered Training Patches**|Zhanhui Zhou et.al.|[2506.03614](http://arxiv.org/abs/2506.03614)|**[link](https://github.com/zhziszz/visual-stitching)**|
 |**2025-06-04**|**BiMa: Towards Biases Mitigation for Text-Video Retrieval via Scene Element Guidance**|Huy Le et.al.|[2506.03589](http://arxiv.org/abs/2506.03589)|null|
 |**2025-06-03**|**OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models**|Mengdi Jia et.al.|[2506.03135](http://arxiv.org/abs/2506.03135)|null|
-|**2025-06-03**|**EgoVLM: Policy Optimization for Egocentric Video Understanding**|Ashwin Vinod et.al.|[2506.03097](http://arxiv.org/abs/2506.03097)|null|
+|**2025-06-03**|**EgoVLM: Policy Optimization for Egocentric Video Understanding**|Ashwin Vinod et.al.|[2506.03097](http://arxiv.org/abs/2506.03097)|**[link](https://github.com/adityavavre/videgovlm)**|
 |**2025-06-03**|**DPO Learning with LLMs-Judge Signal for Computer Use Agents**|Man Luo et.al.|[2506.03095](http://arxiv.org/abs/2506.03095)|null|
 |**2025-06-03**|**From Flat to Hierarchical: Extracting Sparse Representations with Matching Pursuit**|Valérie Costa et.al.|[2506.03093](http://arxiv.org/abs/2506.03093)|null|
 |**2025-06-03**|**Text-guided Generation of Efficient Personalized Inspection Plans**|Xingpeng Sun et.al.|[2506.02917](http://arxiv.org/abs/2506.02917)|null|
-|**2025-06-04**|**FlySearch: Exploring how vision-language models explore**|Adam Pardyl et.al.|[2506.02896](http://arxiv.org/abs/2506.02896)|null|
+|**2025-06-04**|**FlySearch: Exploring how vision-language models explore**|Adam Pardyl et.al.|[2506.02896](http://arxiv.org/abs/2506.02896)|**[link](https://github.com/gmum/flysearch)**|
 |**2025-06-03**|**Surfer-H Meets Holo1: Cost-Efficient Web Agent Powered by Open Weights**|Mathieu Andreux et.al.|[2506.02865](http://arxiv.org/abs/2506.02865)|null|
 |**2025-06-03**|**SemVink: Advancing VLMs' Semantic Understanding of Optical Illusions via Visual Global Thinking**|Sifan Li et.al.|[2506.02803](http://arxiv.org/abs/2506.02803)|null|
 |**2025-06-04**|**Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning**|Negin Baghbanzadeh et.al.|[2506.02738](http://arxiv.org/abs/2506.02738)|null|
 |**2025-06-03**|**Iterative Self-Improvement of Vision Language Models for Image Scoring and Self-Explanation**|Naoto Tanji et.al.|[2506.02708](http://arxiv.org/abs/2506.02708)|null|
 |**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Yu Zhang et.al.|[2505.24875](http://arxiv.org/abs/2505.24875)|null|
-|**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872](http://arxiv.org/abs/2505.24872)|null|
+|**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872](http://arxiv.org/abs/2505.24872)|**[link](https://github.com/mrzilinxiao/proxythinker)**|
 |**2025-05-30**|**GenSpace: Benchmarking Spatially-Aware Image Generation**|Zehan Wang et.al.|[2505.24870](http://arxiv.org/abs/2505.24870)|null|
 |**2025-05-30**|**Time Blindness: Why Video-Language Models Can't See What Humans Can?**|Ujjwal Upadhyay et.al.|[2505.24867](http://arxiv.org/abs/2505.24867)|null|
 |**2025-05-30**|**Conformal Prediction for Zero-Shot Models**|Julio Silva-Rodríguez et.al.|[2505.24693](http://arxiv.org/abs/2505.24693)|**[link](https://github.com/jusiro/clip-conformal)**|
@@ -1996,7 +1996,7 @@
 |**2025-04-28**|**LR-IAD:Mask-Free Industrial Anomaly Detection with Logical Reasoning**|Peijian Zeng et.al.|[2504.19524](http://arxiv.org/abs/2504.19524)|null|
 |**2025-04-27**|**DeepSPG: Exploring Deep Semantic Prior Guidance for Low-light Image Enhancement with Multimodal Learning**|Jialang Lu et.al.|[2504.19127](http://arxiv.org/abs/2504.19127)|null|
 |**2025-04-27**|**Boosting Single-domain Generalized Object Detection via Vision-Language Knowledge Interaction**|Xiaoran Xu et.al.|[2504.19086](http://arxiv.org/abs/2504.19086)|null|
-|**2025-04-26**|**Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation**|Shahad Albastaki et.al.|[2504.18856](http://arxiv.org/abs/2504.18856)|null|
+|**2025-04-26**|**Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation**|Shahad Albastaki et.al.|[2504.18856](http://arxiv.org/abs/2504.18856)|**[link](https://github.com/basitalawode/mr-plip)**|
 |**2025-04-26**|**Video CLIP Model for Multi-View Echocardiography Interpretation**|Ryo Takizawa et.al.|[2504.18800](http://arxiv.org/abs/2504.18800)|null|
 |**2025-04-25**|**A Review of 3D Object Detection with Vision-Language Models**|Ranjan Sapkota et.al.|[2504.18738](http://arxiv.org/abs/2504.18738)|null|
 |**2025-04-25**|**Generalization Capability for Imitation Learning**|Yixiao Wang et.al.|[2504.18538](http://arxiv.org/abs/2504.18538)|null|
@@ -3181,7 +3181,7 @@
 |**2024-09-17**|**CAST: Cross-modal Alignment Similarity Test for Vision Language Models**|Gautier Dagan et.al.|[2409.11007](http://arxiv.org/abs/2409.11007)|**[link](https://github.com/gautierdag/cast)**|
 |**2024-09-17**|**KALE: An Artwork Image Captioning System Augmented with Heterogeneous Graph**|Yanbei Jiang et.al.|[2409.10921](http://arxiv.org/abs/2409.10921)|**[link](https://github.com/yanbei-jiang/artwork-interpretation)**|
 |**2024-09-16**|**Benchmarking VLMs' Reasoning About Persuasive Atypical Images**|Sina Malakouti et.al.|[2409.10719](http://arxiv.org/abs/2409.10719)|null|
-|**2024-09-16**|**MotIF: Motion Instruction Fine-tuning**|Minyoung Hwang et.al.|[2409.10683](http://arxiv.org/abs/2409.10683)|null|
+|**2024-09-16**|**MotIF: Motion Instruction Fine-tuning**|Minyoung Hwang et.al.|[2409.10683](http://arxiv.org/abs/2409.10683)|**[link](https://github.com/Minyoung1005/motif)**|
 |**2024-09-16**|**Do Pre-trained Vision-Language Models Encode Object States?**|Kaleb Newman et.al.|[2409.10488](http://arxiv.org/abs/2409.10488)|**[link](https://github.com/brown-palm/object-states)**|
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|**[link](https://github.com/vineet2104/hifics)**|
@@ -3631,7 +3631,7 @@
 |**2024-05-30**|**OpenDAS: Domain Adaptation for Open-Vocabulary Segmentation**|Gonca Yilmaz et.al.|[2405.20141](http://arxiv.org/abs/2405.20141)|null|
 |**2024-05-30**|**Enhancing Large Vision Language Models with Self-Training on Image Comprehension**|Yihe Deng et.al.|[2405.19716](http://arxiv.org/abs/2405.19716)|**[link](https://github.com/yihedeng9/stic)**|
 |**2024-05-30**|**Knowledge-grounded Adaptation Strategy for Vision-language Models: Building Unique Case-set for Screening Mammograms for Residents Training**|Aisha Urooj Khan et.al.|[2405.19675](http://arxiv.org/abs/2405.19675)|null|
-|**2024-05-29**|**Dr-LLaVA: Visual Instruction Tuning with Symbolic Clinical Grounding**|Shenghuan Sun et.al.|[2405.19567](http://arxiv.org/abs/2405.19567)|null|
+|**2024-05-29**|**Dr-LLaVA: Visual Instruction Tuning with Symbolic Clinical Grounding**|Shenghuan Sun et.al.|[2405.19567](http://arxiv.org/abs/2405.19567)|**[link](https://github.com/alaalab/dr-llava)**|
 |**2024-05-29**|**CheXpert Plus: Hundreds of Thousands of Aligned Radiology Texts, Images and Patients**|Pierre Chambon et.al.|[2405.19538](http://arxiv.org/abs/2405.19538)|**[link](https://github.com/stanford-aimi/chexpert-plus)**|
 |**2024-05-29**|**Evaluating Vision-Language Models on Bistable Images**|Artemis Panagopoulou et.al.|[2405.19423](http://arxiv.org/abs/2405.19423)|**[link](https://github.com/artemisp/bistable-illusions-mllms)**|
 |**2024-05-29**|**Video Anomaly Detection in 10 Years: A Survey and Outlook**|Moshira Abdalla et.al.|[2405.19387](http://arxiv.org/abs/2405.19387)|null|
@@ -4202,7 +4202,7 @@
 |**2025-06-05**|**Neural Network Reprogrammability: A Unified Theme on Model Reprogramming, Prompt Tuning, and Prompt Instruction**|Zesheng Ye et.al.|[2506.04650](http://arxiv.org/abs/2506.04650)|null|
 |**2025-06-05**|**Selecting Demonstrations for Many-Shot In-Context Learning via Gradient Matching**|Jianfei Zhang et.al.|[2506.04579](http://arxiv.org/abs/2506.04579)|null|
 |**2025-06-05**|**Are LLMs Reliable Translators of Logical Reasoning Across Lexically Diversified Contexts?**|Qingchuan Li et.al.|[2506.04575](http://arxiv.org/abs/2506.04575)|null|
-|**2025-06-04**|**BEAR: BGP Event Analysis and Reporting**|Hanqing Li et.al.|[2506.04514](http://arxiv.org/abs/2506.04514)|null|
+|**2025-06-04**|**BEAR: BGP Event Analysis and Reporting**|Hanqing Li et.al.|[2506.04514](http://arxiv.org/abs/2506.04514)|**[link](https://github.com/hanklee97121/bear_bgp_event_analysis)**|
 |**2025-06-04**|**Does Prompt Design Impact Quality of Data Imputation by LLMs?**|Shreenidhi Srinivasan et.al.|[2506.04172](http://arxiv.org/abs/2506.04172)|null|
 |**2025-06-04**|**ConText: Driving In-context Learning for Text Removal and Segmentation**|Fei Zhang et.al.|[2506.03799](http://arxiv.org/abs/2506.03799)|null|
 |**2025-06-04**|**Delta-KNN: Improving Demonstration Selection in In-Context Learning for Alzheimer's Disease Detection**|Chuyuan Li et.al.|[2506.03476](http://arxiv.org/abs/2506.03476)|null|
@@ -4824,7 +4824,7 @@
 |**2024-10-21**|**A Theoretical Understanding of Chain-of-Thought: Coherent Reasoning and Error-Aware Demonstration**|Yingqian Cui et.al.|[2410.16540](http://arxiv.org/abs/2410.16540)|null|
 |**2024-10-21**|**Bayesian scaling laws for in-context learning**|Aryaman Arora et.al.|[2410.16531](http://arxiv.org/abs/2410.16531)|**[link](https://github.com/aryamanarora/bayesian-laws-icl)**|
 |**2024-10-21**|**Analyzing Context Contributions in LLM-based Machine Translation**|Emmanouil Zaranis et.al.|[2410.16246](http://arxiv.org/abs/2410.16246)|null|
-|**2024-10-21**|**CoT-TL: Low-Resource Temporal Knowledge Representation of Planning Instructions Using Chain-of-Thought Reasoning**|Kumar Manas et.al.|[2410.16207](http://arxiv.org/abs/2410.16207)|null|
+|**2024-10-21**|**CoT-TL: Low-Resource Temporal Knowledge Representation of Planning Instructions Using Chain-of-Thought Reasoning**|Kumar Manas et.al.|[2410.16207](http://arxiv.org/abs/2410.16207)|**[link](https://github.com/kumarmanas/TAMP_COT_TL)**|
 |**2024-10-20**|**How Aligned are Generative Models to Humans in High-Stakes Decision-Making?**|Sarah Tan et.al.|[2410.15471](http://arxiv.org/abs/2410.15471)|null|
 |**2024-10-20**|**BRIEF: Bridging Retrieval and Inference for Multi-hop Reasoning via Compression**|Yuankai Li et.al.|[2410.15277](http://arxiv.org/abs/2410.15277)|**[link](https://github.com/JasonForJoy/BRIEF)**|
 |**2024-10-18**|**Provable In-context Learning for Mixture of Linear Regressions using Transformers**|Yanhao Jin et.al.|[2410.14183](http://arxiv.org/abs/2410.14183)|null|
