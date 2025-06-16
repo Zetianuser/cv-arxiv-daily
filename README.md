@@ -193,6 +193,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**On the Performance of LLMs for Real Estate Appraisal**|Margot Geerts et.al.|[2506.11812](http://arxiv.org/abs/2506.11812)|null|
+|**2025-06-13**|**Brewing Knowledge in Context: Distillation Perspectives on In-Context Learning**|Chengye Li et.al.|[2506.11516](http://arxiv.org/abs/2506.11516)|null|
+|**2025-06-13**|**Large Language Model-Powered Conversational Agent Delivering Problem-Solving Therapy (PST) for Family Caregivers: Enhancing Empathy and Therapeutic Alliance Using In-Context Learning**|Liying Wang et.al.|[2506.11376](http://arxiv.org/abs/2506.11376)|null|
 |**2025-06-12**|**Understanding In-Context Learning on Structured Manifolds: Bridging Attention to Kernel Methods**|Zhaiming Shen et.al.|[2506.10959](http://arxiv.org/abs/2506.10959)|null|
 |**2025-06-12**|**Foundation Models for Causal Inference via Prior-Data Fitted Networks**|Yuchen Ma et.al.|[2506.10914](http://arxiv.org/abs/2506.10914)|null|
 |**2025-06-12**|**ConTextTab: A Semantics-Aware Tabular In-Context Learner**|Marco Spinaci et.al.|[2506.10707](http://arxiv.org/abs/2506.10707)|null|
@@ -1695,6 +1698,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale**|Junha Lee et.al.|[2506.12009](http://arxiv.org/abs/2506.12009)|null|
+|**2025-06-13**|**How Visual Representations Map to Language Feature Space in Multimodal LLMs**|Constantin Venhoff et.al.|[2506.11976](http://arxiv.org/abs/2506.11976)|null|
+|**2025-06-13**|**Rethinking Multilingual Vision-Language Translation: Dataset, Evaluation, and Adaptation**|Xintong Wang et.al.|[2506.11820](http://arxiv.org/abs/2506.11820)|null|
+|**2025-06-13**|**MTabVQA: Evaluating Multi-Tabular Reasoning of Language Models in Visual Space**|Anshul Singh et.al.|[2506.11684](http://arxiv.org/abs/2506.11684)|null|
+|**2025-06-13**|**VLM@school -- Evaluation of AI image understanding on German middle school knowledge**|René Peinl et.al.|[2506.11604](http://arxiv.org/abs/2506.11604)|null|
+|**2025-06-13**|**EasyARC: Evaluating Vision Language Models on True Visual Reasoning**|Mert Unsal et.al.|[2506.11595](http://arxiv.org/abs/2506.11595)|null|
+|**2025-06-13**|**Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis**|Yuan Gao et.al.|[2506.11526](http://arxiv.org/abs/2506.11526)|null|
+|**2025-06-13**|**Manager: Aggregating Insights from Unimodal Experts in Two-Tower VLMs and MLLMs**|Xiao Xu et.al.|[2506.11515](http://arxiv.org/abs/2506.11515)|null|
+|**2025-06-13**|**Taming Stable Diffusion for Computed Tomography Blind Super-Resolution**|Chunlei Li et.al.|[2506.11496](http://arxiv.org/abs/2506.11496)|null|
+|**2025-06-13**|**On the Natural Robustness of Vision-Language Models Against Visual Perception Attacks in Autonomous Driving**|Pedram MohajerAnsari et.al.|[2506.11472](http://arxiv.org/abs/2506.11472)|null|
 |**2025-06-12**|**AIR: Zero-shot Generative Model Adaptation with Iterative Refinement**|Guimeng Liu et.al.|[2506.10895](http://arxiv.org/abs/2506.10895)|null|
 |**2025-06-13**|**RationalVLA: A Rational Vision-Language-Action Model with Dual System**|Wenxuan Song et.al.|[2506.10826](http://arxiv.org/abs/2506.10826)|null|
 |**2025-06-12**|**Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding**|Yuhang Zhang et.al.|[2506.10756](http://arxiv.org/abs/2506.10756)|null|
@@ -4162,6 +4175,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**On the Performance of LLMs for Real Estate Appraisal**|Margot Geerts et.al.|[2506.11812](http://arxiv.org/abs/2506.11812)|null|
+|**2025-06-13**|**Brewing Knowledge in Context: Distillation Perspectives on In-Context Learning**|Chengye Li et.al.|[2506.11516](http://arxiv.org/abs/2506.11516)|null|
+|**2025-06-13**|**Large Language Model-Powered Conversational Agent Delivering Problem-Solving Therapy (PST) for Family Caregivers: Enhancing Empathy and Therapeutic Alliance Using In-Context Learning**|Liying Wang et.al.|[2506.11376](http://arxiv.org/abs/2506.11376)|null|
 |**2025-06-12**|**Understanding In-Context Learning on Structured Manifolds: Bridging Attention to Kernel Methods**|Zhaiming Shen et.al.|[2506.10959](http://arxiv.org/abs/2506.10959)|null|
 |**2025-06-12**|**Foundation Models for Causal Inference via Prior-Data Fitted Networks**|Yuchen Ma et.al.|[2506.10914](http://arxiv.org/abs/2506.10914)|null|
 |**2025-06-12**|**ConTextTab: A Semantics-Aware Tabular In-Context Learner**|Marco Spinaci et.al.|[2506.10707](http://arxiv.org/abs/2506.10707)|null|
