@@ -193,6 +193,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Assessing the Limits of In-Context Learning beyond Functions using Partially Ordered Relation**|Debanjan Dutta et.al.|[2506.13608](http://arxiv.org/abs/2506.13608)|null|
+|**2025-06-16**|**Distinct Computations Emerge From Compositional Curricula in In-Context Learning**|Jin Hwa Lee et.al.|[2506.13253](http://arxiv.org/abs/2506.13253)|null|
+|**2025-06-16**|**Leveraging In-Context Learning for Language Model Agents**|Shivanshu Gupta et.al.|[2506.13109](http://arxiv.org/abs/2506.13109)|null|
+|**2025-06-15**|**Surprise Calibration for Better In-Context Learning**|Zhihang Tan et.al.|[2506.12796](http://arxiv.org/abs/2506.12796)|null|
+|**2025-06-15**|**Evaluating Cell Type Inference in Vision Language Models Under Varying Visual Context**|Samarth Singhal et.al.|[2506.12683](http://arxiv.org/abs/2506.12683)|null|
+|**2025-06-14**|**Refract ICL: Rethinking Example Selection in the Era of Million-Token Models**|Arjun R. Akula et.al.|[2506.12346](http://arxiv.org/abs/2506.12346)|null|
+|**2025-06-13**|**Mind the XAI Gap: A Human-Centered LLM Framework for Democratizing Explainable AI**|Eva Paraschou et.al.|[2506.12240](http://arxiv.org/abs/2506.12240)|null|
+|**2025-06-13**|**PRO-V: An Efficient Program Generation Multi-Agent System for Automatic RTL Verification**|Yujie Zhao et.al.|[2506.12200](http://arxiv.org/abs/2506.12200)|null|
 |**2025-06-13**|**On the Performance of LLMs for Real Estate Appraisal**|Margot Geerts et.al.|[2506.11812](http://arxiv.org/abs/2506.11812)|null|
 |**2025-06-13**|**Brewing Knowledge in Context: Distillation Perspectives on In-Context Learning**|Chengye Li et.al.|[2506.11516](http://arxiv.org/abs/2506.11516)|null|
 |**2025-06-13**|**Large Language Model-Powered Conversational Agent Delivering Problem-Solving Therapy (PST) for Family Caregivers: Enhancing Empathy and Therapeutic Alliance Using In-Context Learning**|Liying Wang et.al.|[2506.11376](http://arxiv.org/abs/2506.11376)|null|
@@ -1698,6 +1706,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Touch begins where vision ends: Generalizable policies for contact-rich manipulation**|Zifan Zhao et.al.|[2506.13762](http://arxiv.org/abs/2506.13762)|null|
+|**2025-06-16**|**Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins**|Chuanruo Ning et.al.|[2506.13761](http://arxiv.org/abs/2506.13761)|null|
+|**2025-06-16**|**OTFusion: Bridging Vision-only and Vision-Language Models via Optimal Transport for Transductive Zero-Shot Learning**|Qiyu Xu et.al.|[2506.13723](http://arxiv.org/abs/2506.13723)|null|
+|**2025-06-16**|**ROSA: Harnessing Robot States for Vision-Language and Action Alignment**|Yuqing Wen et.al.|[2506.13679](http://arxiv.org/abs/2506.13679)|null|
+|**2025-06-16**|**DualEdit: Dual Editing for Knowledge Updating in Vision-Language Models**|Zhiyi Shi et.al.|[2506.13638](http://arxiv.org/abs/2506.13638)|null|
+|**2025-06-16**|**VLM-SFD: VLM-Assisted Siamese Flow Diffusion Framework for Dual-Arm Cooperative Manipulation**|Jiaming Chen et.al.|[2506.13428](http://arxiv.org/abs/2506.13428)|null|
+|**2025-06-16**|**Uncertainty-Informed Active Perception for Open Vocabulary Object Goal Navigation**|Utkarsh Bajpai et.al.|[2506.13367](http://arxiv.org/abs/2506.13367)|null|
+|**2025-06-16**|**Anomaly Object Segmentation with Vision-Language Models for Steel Scrap Recycling**|Daichi Tanaka et.al.|[2506.13282](http://arxiv.org/abs/2506.13282)|null|
+|**2025-06-16**|**Screen Hijack: Visual Poisoning of VLM Agents in Mobile Environments**|Xuan Wang et.al.|[2506.13205](http://arxiv.org/abs/2506.13205)|null|
+|**2025-06-16**|**Dynamic Context-oriented Decomposition for Task-aware Low-rank Adaptation with Less Forgetting and Faster Convergence**|Yibo Yang et.al.|[2506.13187](http://arxiv.org/abs/2506.13187)|null|
 |**2025-06-13**|**Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale**|Junha Lee et.al.|[2506.12009](http://arxiv.org/abs/2506.12009)|null|
 |**2025-06-13**|**How Visual Representations Map to Language Feature Space in Multimodal LLMs**|Constantin Venhoff et.al.|[2506.11976](http://arxiv.org/abs/2506.11976)|null|
 |**2025-06-13**|**Rethinking Multilingual Vision-Language Translation: Dataset, Evaluation, and Adaptation**|Xintong Wang et.al.|[2506.11820](http://arxiv.org/abs/2506.11820)|null|
@@ -4175,6 +4193,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Assessing the Limits of In-Context Learning beyond Functions using Partially Ordered Relation**|Debanjan Dutta et.al.|[2506.13608](http://arxiv.org/abs/2506.13608)|null|
+|**2025-06-16**|**Distinct Computations Emerge From Compositional Curricula in In-Context Learning**|Jin Hwa Lee et.al.|[2506.13253](http://arxiv.org/abs/2506.13253)|null|
+|**2025-06-16**|**Leveraging In-Context Learning for Language Model Agents**|Shivanshu Gupta et.al.|[2506.13109](http://arxiv.org/abs/2506.13109)|null|
+|**2025-06-15**|**Surprise Calibration for Better In-Context Learning**|Zhihang Tan et.al.|[2506.12796](http://arxiv.org/abs/2506.12796)|null|
+|**2025-06-15**|**Evaluating Cell Type Inference in Vision Language Models Under Varying Visual Context**|Samarth Singhal et.al.|[2506.12683](http://arxiv.org/abs/2506.12683)|null|
+|**2025-06-14**|**Refract ICL: Rethinking Example Selection in the Era of Million-Token Models**|Arjun R. Akula et.al.|[2506.12346](http://arxiv.org/abs/2506.12346)|null|
+|**2025-06-13**|**Mind the XAI Gap: A Human-Centered LLM Framework for Democratizing Explainable AI**|Eva Paraschou et.al.|[2506.12240](http://arxiv.org/abs/2506.12240)|null|
+|**2025-06-13**|**PRO-V: An Efficient Program Generation Multi-Agent System for Automatic RTL Verification**|Yujie Zhao et.al.|[2506.12200](http://arxiv.org/abs/2506.12200)|null|
 |**2025-06-13**|**On the Performance of LLMs for Real Estate Appraisal**|Margot Geerts et.al.|[2506.11812](http://arxiv.org/abs/2506.11812)|null|
 |**2025-06-13**|**Brewing Knowledge in Context: Distillation Perspectives on In-Context Learning**|Chengye Li et.al.|[2506.11516](http://arxiv.org/abs/2506.11516)|null|
 |**2025-06-13**|**Large Language Model-Powered Conversational Agent Delivering Problem-Solving Therapy (PST) for Family Caregivers: Enhancing Empathy and Therapeutic Alliance Using In-Context Learning**|Liying Wang et.al.|[2506.11376](http://arxiv.org/abs/2506.11376)|null|
