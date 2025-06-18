@@ -184,6 +184,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Revisiting Chain-of-Thought Prompting: Zero-shot Can Be Stronger than Few-shot**|Xiang Cheng et.al.|[2506.14641](http://arxiv.org/abs/2506.14641)|null|
+|**2025-06-17**|**Vela: Scalable Embeddings with Voice Large Language Models for Multimodal Retrieval**|Ruofan Hu et.al.|[2506.14445](http://arxiv.org/abs/2506.14445)|null|
 |**2025-06-16**|**Assessing the Limits of In-Context Learning beyond Functions using Partially Ordered Relation**|Debanjan Dutta et.al.|[2506.13608](http://arxiv.org/abs/2506.13608)|null|
 |**2025-06-16**|**Distinct Computations Emerge From Compositional Curricula in In-Context Learning**|Jin Hwa Lee et.al.|[2506.13253](http://arxiv.org/abs/2506.13253)|null|
 |**2025-06-16**|**Leveraging In-Context Learning for Language Model Agents**|Shivanshu Gupta et.al.|[2506.13109](http://arxiv.org/abs/2506.13109)|null|
@@ -1695,6 +1697,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills**|Chunru Lin et.al.|[2506.14763](http://arxiv.org/abs/2506.14763)|null|
+|**2025-06-17**|**Casper: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models**|Huihan Liu et.al.|[2506.14727](http://arxiv.org/abs/2506.14727)|null|
+|**2025-06-17**|**AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions**|Aishan Liu et.al.|[2506.14697](http://arxiv.org/abs/2506.14697)|null|
+|**2025-06-17**|**Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models**|Ling Li et.al.|[2506.14674](http://arxiv.org/abs/2506.14674)|null|
+|**2025-06-17**|**StreetLens: Enabling Human-Centered AI Agents for Neighborhood Assessment from Street View Imagery**|Jina Kim et.al.|[2506.14670](http://arxiv.org/abs/2506.14670)|null|
+|**2025-06-17**|**SIRI-Bench: Challenging VLMs' Spatial Intelligence through Complex Reasoning Tasks**|Zijian Song et.al.|[2506.14512](http://arxiv.org/abs/2506.14512)|null|
+|**2025-06-17**|**Can Pretrained Vision-Language Embeddings Alone Guide Robot Navigation?**|Nitesh Subedi et.al.|[2506.14507](http://arxiv.org/abs/2506.14507)|null|
+|**2025-06-17**|**Adapting Lightweight Vision Language Models for Radiological Visual Question Answering**|Aditya Shourya et.al.|[2506.14451](http://arxiv.org/abs/2506.14451)|null|
+|**2025-06-17**|**Causally Steered Diffusion for Automated Video Counterfactual Generation**|Nikos Spyrou et.al.|[2506.14404](http://arxiv.org/abs/2506.14404)|null|
+|**2025-06-17**|**Narrate2Nav: Real-Time Visual Navigation with Implicit Language Reasoning in Human-Centric Environments**|Amirreza Payandeh et.al.|[2506.14233](http://arxiv.org/abs/2506.14233)|null|
 |**2025-06-16**|**Touch begins where vision ends: Generalizable policies for contact-rich manipulation**|Zifan Zhao et.al.|[2506.13762](http://arxiv.org/abs/2506.13762)|null|
 |**2025-06-16**|**Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins**|Chuanruo Ning et.al.|[2506.13761](http://arxiv.org/abs/2506.13761)|null|
 |**2025-06-16**|**OTFusion: Bridging Vision-only and Vision-Language Models via Optimal Transport for Transductive Zero-Shot Learning**|Qiyu Xu et.al.|[2506.13723](http://arxiv.org/abs/2506.13723)|null|
@@ -4178,6 +4190,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Revisiting Chain-of-Thought Prompting: Zero-shot Can Be Stronger than Few-shot**|Xiang Cheng et.al.|[2506.14641](http://arxiv.org/abs/2506.14641)|null|
+|**2025-06-17**|**Vela: Scalable Embeddings with Voice Large Language Models for Multimodal Retrieval**|Ruofan Hu et.al.|[2506.14445](http://arxiv.org/abs/2506.14445)|null|
 |**2025-06-16**|**Assessing the Limits of In-Context Learning beyond Functions using Partially Ordered Relation**|Debanjan Dutta et.al.|[2506.13608](http://arxiv.org/abs/2506.13608)|null|
 |**2025-06-16**|**Distinct Computations Emerge From Compositional Curricula in In-Context Learning**|Jin Hwa Lee et.al.|[2506.13253](http://arxiv.org/abs/2506.13253)|null|
 |**2025-06-16**|**Leveraging In-Context Learning for Language Model Agents**|Shivanshu Gupta et.al.|[2506.13109](http://arxiv.org/abs/2506.13109)|null|
