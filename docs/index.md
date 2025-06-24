@@ -185,6 +185,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**MeRF: Motivation-enhanced Reinforcement Finetuning for Large Reasoning Models**|Junjie Zhang et.al.|[2506.18485](http://arxiv.org/abs/2506.18485)|null|
+|**2025-06-22**|**Evolving Prompts In-Context: An Open-ended, Self-replicating Perspective**|Jianyu Wang et.al.|[2506.17930](http://arxiv.org/abs/2506.17930)|null|
+|**2025-06-21**|**In-Context Learning Strategies Emerge Rationally**|Daniel Wurgaft et.al.|[2506.17859](http://arxiv.org/abs/2506.17859)|null|
+|**2025-06-21**|**Time-Contrastive Pretraining for In-Context Image and Video Segmentation**|Assefa Wahd et.al.|[2506.17837](http://arxiv.org/abs/2506.17837)|null|
+|**2025-06-21**|**Histopathology Image Report Generation by Vision Language Model with Multimodal In-Context Learning**|Shih-Wen Liu et.al.|[2506.17645](http://arxiv.org/abs/2506.17645)|null|
 |**2025-06-20**|**Chain-of-Trust: A Progressive Trust Evaluation Framework Enabled by Generative AI**|Botao Zhu et.al.|[2506.17130](http://arxiv.org/abs/2506.17130)|null|
 |**2025-06-20**|**Latent Concept Disentanglement in Transformer-based Language Models**|Guan Zhe Hong et.al.|[2506.16975](http://arxiv.org/abs/2506.16975)|null|
 |**2025-06-19**|**Relic: Enhancing Reward Model Generalization for Low-Resource Indic Languages with Few-Shot Examples**|Soumya Suvra Ghosal et.al.|[2506.16502](http://arxiv.org/abs/2506.16502)|null|
@@ -1711,6 +1716,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**VQ-Insight: Teaching VLMs for AI-Generated Video Quality Understanding via Progressive Visual Reinforcement Learning**|Xuanyu Zhang et.al.|[2506.18564](http://arxiv.org/abs/2506.18564)|null|
+|**2025-06-23**|**Generalizing Vision-Language Models to Novel Domains: A Comprehensive Survey**|Xinyao Li et.al.|[2506.18504](http://arxiv.org/abs/2506.18504)|null|
+|**2025-06-23**|**InternSpatial: A Comprehensive Dataset for Spatial Reasoning in Vision-Language Models**|Nianchen Deng et.al.|[2506.18385](http://arxiv.org/abs/2506.18385)|null|
+|**2025-06-23**|**Taming Vision-Language Models for Medical Image Analysis: A Comprehensive Review**|Haoneng Lin et.al.|[2506.18378](http://arxiv.org/abs/2506.18378)|null|
+|**2025-06-23**|**Escaping the SpuriVerse: Can Large Vision-Language Models Generalize Beyond Seen Spurious Correlations?**|Yiwei Yang et.al.|[2506.18322](http://arxiv.org/abs/2506.18322)|null|
+|**2025-06-23**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|Xiangzhao Hao et.al.|[2506.18246](http://arxiv.org/abs/2506.18246)|null|
+|**2025-06-23**|**Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning**|Yue Li et.al.|[2506.18234](http://arxiv.org/abs/2506.18234)|null|
+|**2025-06-22**|**See-in-Pairs: Reference Image-Guided Comparative Vision-Language Models for Medical Diagnosis**|Ruinan Jin et.al.|[2506.18140](http://arxiv.org/abs/2506.18140)|null|
+|**2025-06-22**|**CLGRPO: Reasoning Ability Enhancement for Small VLMs**|Fanyi Wang et.al.|[2506.18048](http://arxiv.org/abs/2506.18048)|null|
+|**2025-06-22**|**Adapting Vision-Language Models for Evaluating World Models**|Mariya Hendriksen et.al.|[2506.17967](http://arxiv.org/abs/2506.17967)|null|
 |**2025-06-20**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221](http://arxiv.org/abs/2506.17221)|null|
 |**2025-06-20**|**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**|Zeyuan Yang et.al.|[2506.17218](http://arxiv.org/abs/2506.17218)|null|
 |**2025-06-20**|**Do We Need Large VLMs for Spotting Soccer Actions?**|Ritabrata Chakraborty et.al.|[2506.17144](http://arxiv.org/abs/2506.17144)|null|
@@ -4224,6 +4239,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**MeRF: Motivation-enhanced Reinforcement Finetuning for Large Reasoning Models**|Junjie Zhang et.al.|[2506.18485](http://arxiv.org/abs/2506.18485)|null|
+|**2025-06-22**|**Evolving Prompts In-Context: An Open-ended, Self-replicating Perspective**|Jianyu Wang et.al.|[2506.17930](http://arxiv.org/abs/2506.17930)|null|
+|**2025-06-21**|**In-Context Learning Strategies Emerge Rationally**|Daniel Wurgaft et.al.|[2506.17859](http://arxiv.org/abs/2506.17859)|null|
+|**2025-06-21**|**Time-Contrastive Pretraining for In-Context Image and Video Segmentation**|Assefa Wahd et.al.|[2506.17837](http://arxiv.org/abs/2506.17837)|null|
+|**2025-06-21**|**Histopathology Image Report Generation by Vision Language Model with Multimodal In-Context Learning**|Shih-Wen Liu et.al.|[2506.17645](http://arxiv.org/abs/2506.17645)|null|
 |**2025-06-20**|**Chain-of-Trust: A Progressive Trust Evaluation Framework Enabled by Generative AI**|Botao Zhu et.al.|[2506.17130](http://arxiv.org/abs/2506.17130)|null|
 |**2025-06-20**|**Latent Concept Disentanglement in Transformer-based Language Models**|Guan Zhe Hong et.al.|[2506.16975](http://arxiv.org/abs/2506.16975)|null|
 |**2025-06-19**|**Relic: Enhancing Reward Model Generalization for Low-Resource Indic Languages with Few-Shot Examples**|Soumya Suvra Ghosal et.al.|[2506.16502](http://arxiv.org/abs/2506.16502)|null|
