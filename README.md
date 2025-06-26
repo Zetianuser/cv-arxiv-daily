@@ -195,6 +195,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios**|Wenbin Gan et.al.|[2506.20531](http://arxiv.org/abs/2506.20531)|null|
+|**2025-06-25**|**Automatic Demonstration Selection for LLM-based Tabular Data Classification**|Shuchu Han et.al.|[2506.20451](http://arxiv.org/abs/2506.20451)|null|
+|**2025-06-25**|**SV-LLM: An Agentic Approach for SoC Security Verification using Large Language Models**|Dipayan Saha et.al.|[2506.20415](http://arxiv.org/abs/2506.20415)|null|
+|**2025-06-25**|**How to Retrieve Examples in In-context Learning to Improve Conversational Emotion Recognition using Large Language Models?**|Mengqi Wang et.al.|[2506.20199](http://arxiv.org/abs/2506.20199)|null|
+|**2025-06-25**|**A Modular Multitask Reasoning Framework Integrating Spatio-temporal Models and LLMs**|Kethmi Hirushini Hettige et.al.|[2506.20073](http://arxiv.org/abs/2506.20073)|null|
+|**2025-06-24**|**Universal pre-training by iterated random computation**|Peter Bloem et.al.|[2506.20057](http://arxiv.org/abs/2506.20057)|null|
 |**2025-06-24**|**From memories to maps: Mechanisms of in context reinforcement learning in transformers**|Ching Fang et.al.|[2506.19686](http://arxiv.org/abs/2506.19686)|null|
 |**2025-06-24**|**In-Context Occam's Razor: How Transformers Prefer Simpler Hypotheses on the Fly**|Puneesh Deora et.al.|[2506.19351](http://arxiv.org/abs/2506.19351)|null|
 |**2025-06-23**|**Prompt, Translate, Fine-Tune, Re-Initialize, or Instruction-Tune? Adapting LLMs for In-Context Learning in Low-Resource Languages**|Christopher Toukmaji et.al.|[2506.19187](http://arxiv.org/abs/2506.19187)|null|
@@ -1732,6 +1738,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**Shape2Animal: Creative Animal Generation from Natural Silhouettes**|Quoc-Duy Tran et.al.|[2506.20616](http://arxiv.org/abs/2506.20616)|null|
+|**2025-06-25**|**HRIBench: Benchmarking Vision-Language Models for Real-Time Human Perception in Human-Robot Interaction**|Zhonghao Shi et.al.|[2506.20566](http://arxiv.org/abs/2506.20566)|null|
+|**2025-06-25**|**Med-Art: Diffusion Transformer for 2D Medical Text-to-Image Generation**|Changlu Guo et.al.|[2506.20449](http://arxiv.org/abs/2506.20449)|null|
+|**2025-06-25**|**CARMA: Context-Aware Situational Grounding of Human-Robot Group Interactions by Combining Vision-Language Models with Object and Action Recognition**|Joerg Deigmoeller et.al.|[2506.20373](http://arxiv.org/abs/2506.20373)|null|
+|**2025-06-25**|**Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based Mobile Agent via Task-Level Rewards**|Jihao Gu et.al.|[2506.20332](http://arxiv.org/abs/2506.20332)|null|
+|**2025-06-25**|**MIRAGE: A Benchmark for Multimodal Information-Seeking and Reasoning in Agricultural Expert-Guided Conversations**|Vardhan Dongre et.al.|[2506.20100](http://arxiv.org/abs/2506.20100)|null|
 |**2025-06-24**|**Unified Vision-Language-Action Model**|Yuqi Wang et.al.|[2506.19850](http://arxiv.org/abs/2506.19850)|null|
 |**2025-06-24**|**Evaluating Compliance with Visualization Guidelines in Diagrams for Scientific Publications Using Large Vision Language Models**|Johannes Rückert et.al.|[2506.19825](http://arxiv.org/abs/2506.19825)|null|
 |**2025-06-24**|**CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation**|Hao Li et.al.|[2506.19816](http://arxiv.org/abs/2506.19816)|null|
@@ -4269,6 +4281,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios**|Wenbin Gan et.al.|[2506.20531](http://arxiv.org/abs/2506.20531)|null|
+|**2025-06-25**|**Automatic Demonstration Selection for LLM-based Tabular Data Classification**|Shuchu Han et.al.|[2506.20451](http://arxiv.org/abs/2506.20451)|null|
+|**2025-06-25**|**SV-LLM: An Agentic Approach for SoC Security Verification using Large Language Models**|Dipayan Saha et.al.|[2506.20415](http://arxiv.org/abs/2506.20415)|null|
+|**2025-06-25**|**How to Retrieve Examples in In-context Learning to Improve Conversational Emotion Recognition using Large Language Models?**|Mengqi Wang et.al.|[2506.20199](http://arxiv.org/abs/2506.20199)|null|
+|**2025-06-25**|**A Modular Multitask Reasoning Framework Integrating Spatio-temporal Models and LLMs**|Kethmi Hirushini Hettige et.al.|[2506.20073](http://arxiv.org/abs/2506.20073)|null|
+|**2025-06-24**|**Universal pre-training by iterated random computation**|Peter Bloem et.al.|[2506.20057](http://arxiv.org/abs/2506.20057)|null|
 |**2025-06-24**|**From memories to maps: Mechanisms of in context reinforcement learning in transformers**|Ching Fang et.al.|[2506.19686](http://arxiv.org/abs/2506.19686)|null|
 |**2025-06-24**|**In-Context Occam's Razor: How Transformers Prefer Simpler Hypotheses on the Fly**|Puneesh Deora et.al.|[2506.19351](http://arxiv.org/abs/2506.19351)|null|
 |**2025-06-23**|**Prompt, Translate, Fine-Tune, Re-Initialize, or Instruction-Tune? Adapting LLMs for In-Context Learning in Low-Resource Languages**|Christopher Toukmaji et.al.|[2506.19187](http://arxiv.org/abs/2506.19187)|null|
