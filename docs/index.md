@@ -186,6 +186,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Early Stopping Tabular In-Context Learning**|Jaris Küken et.al.|[2506.21387](http://arxiv.org/abs/2506.21387)|null|
+|**2025-06-26**|**SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning**|Melanie Rieff et.al.|[2506.21355](http://arxiv.org/abs/2506.21355)|null|
+|**2025-06-26**|**Chain-of-Thought Enhanced Shallow Transformers for Wireless Symbol Detection**|Li Fan et.al.|[2506.21093](http://arxiv.org/abs/2506.21093)|null|
 |**2025-06-25**|**Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios**|Wenbin Gan et.al.|[2506.20531](http://arxiv.org/abs/2506.20531)|null|
 |**2025-06-25**|**Automatic Demonstration Selection for LLM-based Tabular Data Classification**|Shuchu Han et.al.|[2506.20451](http://arxiv.org/abs/2506.20451)|null|
 |**2025-06-25**|**SV-LLM: An Agentic Approach for SoC Security Verification using Large Language Models**|Dipayan Saha et.al.|[2506.20415](http://arxiv.org/abs/2506.20415)|null|
@@ -1727,6 +1730,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration**|Jiahe Chen et.al.|[2506.21509](http://arxiv.org/abs/2506.21509)|null|
+|**2025-06-26**|**Global and Local Entailment Learning for Natural World Imagery**|Srikumar Sastry et.al.|[2506.21476](http://arxiv.org/abs/2506.21476)|null|
+|**2025-06-26**|**Spatial Mental Modeling from Limited Views**|Baiqiao Yin et.al.|[2506.21458](http://arxiv.org/abs/2506.21458)|null|
+|**2025-06-26**|**ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models**|Hongbo Liu et.al.|[2506.21356](http://arxiv.org/abs/2506.21356)|null|
+|**2025-06-26**|**LLaVA-Pose: Enhancing Human Pose and Action Understanding via Keypoint-Integrated Instruction Tuning**|Dewen Zhang et.al.|[2506.21317](http://arxiv.org/abs/2506.21317)|null|
+|**2025-06-26**|**DrishtiKon: Multi-Granular Visual Grounding for Text-Rich Document Images**|Badri Vishal Kasuba et.al.|[2506.21316](http://arxiv.org/abs/2506.21316)|null|
+|**2025-06-26**|**World-aware Planning Narratives Enhance Large Vision-Language Model Planner**|Junhao Shi et.al.|[2506.21230](http://arxiv.org/abs/2506.21230)|null|
+|**2025-06-26**|**Personalized Federated Learning via Dual-Prompt Optimization and Cross Fusion**|Yuguang Zhang et.al.|[2506.21144](http://arxiv.org/abs/2506.21144)|null|
+|**2025-06-26**|**V2X-REALM: Vision-Language Model-Based Robust End-to-End Cooperative Autonomous Driving with Adaptive Long-Tail Modeling**|Junwei You et.al.|[2506.21041](http://arxiv.org/abs/2506.21041)|null|
+|**2025-06-26**|**Multimodal Prompt Alignment for Facial Expression Recognition**|Fuyan Ma et.al.|[2506.21017](http://arxiv.org/abs/2506.21017)|null|
 |**2025-06-25**|**Shape2Animal: Creative Animal Generation from Natural Silhouettes**|Quoc-Duy Tran et.al.|[2506.20616](http://arxiv.org/abs/2506.20616)|null|
 |**2025-06-25**|**HRIBench: Benchmarking Vision-Language Models for Real-Time Human Perception in Human-Robot Interaction**|Zhonghao Shi et.al.|[2506.20566](http://arxiv.org/abs/2506.20566)|null|
 |**2025-06-25**|**Med-Art: Diffusion Transformer for 2D Medical Text-to-Image Generation**|Changlu Guo et.al.|[2506.20449](http://arxiv.org/abs/2506.20449)|null|
@@ -4266,6 +4279,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Early Stopping Tabular In-Context Learning**|Jaris Küken et.al.|[2506.21387](http://arxiv.org/abs/2506.21387)|null|
+|**2025-06-26**|**SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning**|Melanie Rieff et.al.|[2506.21355](http://arxiv.org/abs/2506.21355)|null|
+|**2025-06-26**|**Chain-of-Thought Enhanced Shallow Transformers for Wireless Symbol Detection**|Li Fan et.al.|[2506.21093](http://arxiv.org/abs/2506.21093)|null|
 |**2025-06-25**|**Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios**|Wenbin Gan et.al.|[2506.20531](http://arxiv.org/abs/2506.20531)|null|
 |**2025-06-25**|**Automatic Demonstration Selection for LLM-based Tabular Data Classification**|Shuchu Han et.al.|[2506.20451](http://arxiv.org/abs/2506.20451)|null|
 |**2025-06-25**|**SV-LLM: An Agentic Approach for SoC Security Verification using Large Language Models**|Dipayan Saha et.al.|[2506.20415](http://arxiv.org/abs/2506.20415)|null|
