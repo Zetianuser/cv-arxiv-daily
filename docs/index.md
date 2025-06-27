@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.26
+## Updated on 2025.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -192,7 +192,7 @@ layout: default
 |**2025-06-25**|**How to Retrieve Examples in In-context Learning to Improve Conversational Emotion Recognition using Large Language Models?**|Mengqi Wang et.al.|[2506.20199](http://arxiv.org/abs/2506.20199)|null|
 |**2025-06-25**|**A Modular Multitask Reasoning Framework Integrating Spatio-temporal Models and LLMs**|Kethmi Hirushini Hettige et.al.|[2506.20073](http://arxiv.org/abs/2506.20073)|null|
 |**2025-06-24**|**Universal pre-training by iterated random computation**|Peter Bloem et.al.|[2506.20057](http://arxiv.org/abs/2506.20057)|null|
-|**2025-06-24**|**From memories to maps: Mechanisms of in context reinforcement learning in transformers**|Ching Fang et.al.|[2506.19686](http://arxiv.org/abs/2506.19686)|null|
+|**2025-06-26**|**From Memories to Maps: Mechanisms of In-Context Reinforcement Learning in Transformers**|Ching Fang et.al.|[2506.19686](http://arxiv.org/abs/2506.19686)|null|
 |**2025-06-24**|**In-Context Occam's Razor: How Transformers Prefer Simpler Hypotheses on the Fly**|Puneesh Deora et.al.|[2506.19351](http://arxiv.org/abs/2506.19351)|null|
 |**2025-06-23**|**Prompt, Translate, Fine-Tune, Re-Initialize, or Instruction-Tune? Adapting LLMs for In-Context Learning in Low-Resource Languages**|Christopher Toukmaji et.al.|[2506.19187](http://arxiv.org/abs/2506.19187)|null|
 |**2025-06-23**|**AgenticControl: An Automated Control Design Framework Using Large Language Models**|Mohammad Narimani et.al.|[2506.19160](http://arxiv.org/abs/2506.19160)|null|
@@ -4272,7 +4272,7 @@ layout: default
 |**2025-06-25**|**How to Retrieve Examples in In-context Learning to Improve Conversational Emotion Recognition using Large Language Models?**|Mengqi Wang et.al.|[2506.20199](http://arxiv.org/abs/2506.20199)|null|
 |**2025-06-25**|**A Modular Multitask Reasoning Framework Integrating Spatio-temporal Models and LLMs**|Kethmi Hirushini Hettige et.al.|[2506.20073](http://arxiv.org/abs/2506.20073)|null|
 |**2025-06-24**|**Universal pre-training by iterated random computation**|Peter Bloem et.al.|[2506.20057](http://arxiv.org/abs/2506.20057)|null|
-|**2025-06-24**|**From memories to maps: Mechanisms of in context reinforcement learning in transformers**|Ching Fang et.al.|[2506.19686](http://arxiv.org/abs/2506.19686)|null|
+|**2025-06-26**|**From Memories to Maps: Mechanisms of In-Context Reinforcement Learning in Transformers**|Ching Fang et.al.|[2506.19686](http://arxiv.org/abs/2506.19686)|null|
 |**2025-06-24**|**In-Context Occam's Razor: How Transformers Prefer Simpler Hypotheses on the Fly**|Puneesh Deora et.al.|[2506.19351](http://arxiv.org/abs/2506.19351)|null|
 |**2025-06-23**|**Prompt, Translate, Fine-Tune, Re-Initialize, or Instruction-Tune? Adapting LLMs for In-Context Learning in Low-Resource Languages**|Christopher Toukmaji et.al.|[2506.19187](http://arxiv.org/abs/2506.19187)|null|
 |**2025-06-23**|**AgenticControl: An Automated Control Design Framework Using Large Language Models**|Mohammad Narimani et.al.|[2506.19160](http://arxiv.org/abs/2506.19160)|null|
