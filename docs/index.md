@@ -186,6 +186,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Leveraging In-Context Learning for Political Bias Testing of LLMs**|Patrick Haller et.al.|[2506.22232](http://arxiv.org/abs/2506.22232)|null|
 |**2025-06-26**|**Early Stopping Tabular In-Context Learning**|Jaris Küken et.al.|[2506.21387](http://arxiv.org/abs/2506.21387)|null|
 |**2025-06-26**|**SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning**|Melanie Rieff et.al.|[2506.21355](http://arxiv.org/abs/2506.21355)|null|
 |**2025-06-26**|**Chain-of-Thought Enhanced Shallow Transformers for Wireless Symbol Detection**|Li Fan et.al.|[2506.21093](http://arxiv.org/abs/2506.21093)|null|
@@ -1730,6 +1731,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**MiCo: Multi-image Contrast for Reinforcement Visual Reasoning**|Xi Chen et.al.|[2506.22434](http://arxiv.org/abs/2506.22434)|null|
+|**2025-06-27**|**Test-Time Consistency in Vision Language Models**|Shih-Han Chou et.al.|[2506.22395](http://arxiv.org/abs/2506.22395)|null|
+|**2025-06-27**|**Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation**|Tiankai Chen et.al.|[2506.22375](http://arxiv.org/abs/2506.22375)|null|
+|**2025-06-27**|**Rethinking Visual Token Reduction in LVLMs under Cross-modal Misalignment**|Rui Xu et.al.|[2506.22283](http://arxiv.org/abs/2506.22283)|null|
+|**2025-06-27**|**COOCO -- Common Objects Out-of-Context -- Semantic Violation in Scenes: Investigating Multimodal Context in Referential Communication**|Filippo Merlo et.al.|[2506.22274](http://arxiv.org/abs/2506.22274)|null|
+|**2025-06-27**|**Visual Structures Helps Visual Reasoning: Addressing the Binding Problem in VLMs**|Amirmohammad Izadi et.al.|[2506.22146](http://arxiv.org/abs/2506.22146)|null|
+|**2025-06-27**|**Universal Retrieval for Multimodal Trajectory Modeling**|Xuan Zhang et.al.|[2506.22056](http://arxiv.org/abs/2506.22056)|null|
+|**2025-06-27**|**Partial CLIP is Enough: Chimera-Seg for Zero-shot Semantic Segmentation**|Jialei Chen et.al.|[2506.22032](http://arxiv.org/abs/2506.22032)|null|
+|**2025-06-27**|**SODA: Out-of-Distribution Detection in Domain-Shifted Point Clouds via Neighborhood Propagation**|Adam Goodge et.al.|[2506.21892](http://arxiv.org/abs/2506.21892)|null|
+|**2025-06-27**|**Integrating Multi-Modal Sensors: A Review of Fusion Techniques for Intelligent Vehicles**|Chuheng Wei et.al.|[2506.21885](http://arxiv.org/abs/2506.21885)|null|
 |**2025-06-26**|**Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration**|Jiahe Chen et.al.|[2506.21509](http://arxiv.org/abs/2506.21509)|null|
 |**2025-06-26**|**Global and Local Entailment Learning for Natural World Imagery**|Srikumar Sastry et.al.|[2506.21476](http://arxiv.org/abs/2506.21476)|null|
 |**2025-06-26**|**Spatial Mental Modeling from Limited Views**|Baiqiao Yin et.al.|[2506.21458](http://arxiv.org/abs/2506.21458)|null|
@@ -4279,6 +4290,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Leveraging In-Context Learning for Political Bias Testing of LLMs**|Patrick Haller et.al.|[2506.22232](http://arxiv.org/abs/2506.22232)|null|
 |**2025-06-26**|**Early Stopping Tabular In-Context Learning**|Jaris Küken et.al.|[2506.21387](http://arxiv.org/abs/2506.21387)|null|
 |**2025-06-26**|**SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning**|Melanie Rieff et.al.|[2506.21355](http://arxiv.org/abs/2506.21355)|null|
 |**2025-06-26**|**Chain-of-Thought Enhanced Shallow Transformers for Wireless Symbol Detection**|Li Fan et.al.|[2506.21093](http://arxiv.org/abs/2506.21093)|null|
