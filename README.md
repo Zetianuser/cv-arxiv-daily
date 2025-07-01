@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-29**|**DC-TTA: Divide-and-Conquer Framework for Test-Time Adaptation of Interactive Segmentation**|Jihun Kim et.al.|[2506.23104](http://arxiv.org/abs/2506.23104)|null|
+|**2025-06-27**|**Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning**|Zuyao You et.al.|[2506.22624](http://arxiv.org/abs/2506.22624)|null|
 |**2025-06-24**|**Open-Vocabulary Camouflaged Object Segmentation with Cascaded Vision Language Models**|Kai Zhao et.al.|[2506.19300](http://arxiv.org/abs/2506.19300)|null|
 |**2025-06-18**|**Retrospective Memory for Camouflaged Object Detection**|Chenxi Zhang et.al.|[2506.15244](http://arxiv.org/abs/2506.15244)|null|
 |**2025-06-12**|**Uncertainty-Masked Bernoulli Diffusion for Camouflaged Object Detection Refinement**|Yuqi Shen et.al.|[2506.10712](http://arxiv.org/abs/2506.10712)|null|
@@ -195,6 +197,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-29**|**Exposing and Mitigating Calibration Biases and Demographic Unfairness in MLLM Few-Shot In-Context Learning for Medical Image Classification**|Xing Shen et.al.|[2506.23298](http://arxiv.org/abs/2506.23298)|null|
+|**2025-06-29**|**V-SYNTHESIS: Task-Agnostic Synthesis of Consistent and Diverse In-Context Demonstrations from Scratch via V-Entropy**|Dingzirui Wang et.al.|[2506.23149](http://arxiv.org/abs/2506.23149)|null|
+|**2025-06-29**|**Learning-to-Context Slope: Evaluating In-Context Learning Effectiveness Beyond Performance Illusions**|Dingzriui Wang et.al.|[2506.23146](http://arxiv.org/abs/2506.23146)|null|
+|**2025-06-28**|**Generating Privacy Stories From Software Documentation**|Wilder Baldwin et.al.|[2506.23014](http://arxiv.org/abs/2506.23014)|null|
+|**2025-06-26**|**In-context learning for the classification of manipulation techniques in phishing emails**|Antony Dalmiere et.al.|[2506.22515](http://arxiv.org/abs/2506.22515)|null|
 |**2025-06-27**|**Leveraging In-Context Learning for Political Bias Testing of LLMs**|Patrick Haller et.al.|[2506.22232](http://arxiv.org/abs/2506.22232)|null|
 |**2025-06-28**|**Early Stopping Tabular In-Context Learning**|Jaris Küken et.al.|[2506.21387](http://arxiv.org/abs/2506.21387)|null|
 |**2025-06-26**|**SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning**|Melanie Rieff et.al.|[2506.21355](http://arxiv.org/abs/2506.21355)|null|
@@ -1742,6 +1749,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**EXPERT: An Explainable Image Captioning Evaluation Metric with Structured Explanations**|Hyunjong Kim et.al.|[2506.24016](http://arxiv.org/abs/2506.24016)|null|
+|**2025-06-30**|**The Illusion of Progress? A Critical Look at Test-Time Adaptation for Vision-Language Models**|Lijun Sheng et.al.|[2506.24000](http://arxiv.org/abs/2506.24000)|null|
+|**2025-06-30**|**GroundingDINO-US-SAM: Text-Prompted Multi-Organ Segmentation in Ultrasound with LoRA-Tuned Vision-Language Models**|Hamza Rasaee et.al.|[2506.23903](http://arxiv.org/abs/2506.23903)|null|
+|**2025-06-30**|**A Closer Look at Conditional Prompt Tuning for Vision-Language Models**|Ji Zhang et.al.|[2506.23856](http://arxiv.org/abs/2506.23856)|null|
+|**2025-06-30**|**Interpretable Zero-Shot Learning with Locally-Aligned Vision-Language Model**|Shiming Chen et.al.|[2506.23822](http://arxiv.org/abs/2506.23822)|null|
+|**2025-06-30**|**Visual Textualization for Image Prompted Object Detection**|Yongjian Wu et.al.|[2506.23785](http://arxiv.org/abs/2506.23785)|null|
+|**2025-06-30**|**PAC Bench: Do Foundation Models Understand Prerequisites for Executing Manipulation Policies?**|Atharva Gundawar et.al.|[2506.23725](http://arxiv.org/abs/2506.23725)|null|
+|**2025-06-30**|**On the Domain Robustness of Contrastive Vision-Language Models**|Mario Koddenbrock et.al.|[2506.23663](http://arxiv.org/abs/2506.23663)|null|
+|**2025-06-30**|**CAI: Caption-Sensitive Attention Intervention for Mitigating Object Hallucination in Large Vision-Language Models**|Qiming Li et.al.|[2506.23590](http://arxiv.org/abs/2506.23590)|null|
+|**2025-06-30**|**A Clinically-Grounded Two-Stage Framework for Renal CT Report Generation**|Renjie Liang et.al.|[2506.23584](http://arxiv.org/abs/2506.23584)|null|
 |**2025-06-27**|**MiCo: Multi-image Contrast for Reinforcement Visual Reasoning**|Xi Chen et.al.|[2506.22434](http://arxiv.org/abs/2506.22434)|null|
 |**2025-06-27**|**Test-Time Consistency in Vision Language Models**|Shih-Han Chou et.al.|[2506.22395](http://arxiv.org/abs/2506.22395)|null|
 |**2025-06-27**|**Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation**|Tiankai Chen et.al.|[2506.22375](http://arxiv.org/abs/2506.22375)|null|
@@ -4305,6 +4322,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-29**|**Exposing and Mitigating Calibration Biases and Demographic Unfairness in MLLM Few-Shot In-Context Learning for Medical Image Classification**|Xing Shen et.al.|[2506.23298](http://arxiv.org/abs/2506.23298)|null|
+|**2025-06-29**|**V-SYNTHESIS: Task-Agnostic Synthesis of Consistent and Diverse In-Context Demonstrations from Scratch via V-Entropy**|Dingzirui Wang et.al.|[2506.23149](http://arxiv.org/abs/2506.23149)|null|
+|**2025-06-29**|**Learning-to-Context Slope: Evaluating In-Context Learning Effectiveness Beyond Performance Illusions**|Dingzriui Wang et.al.|[2506.23146](http://arxiv.org/abs/2506.23146)|null|
+|**2025-06-28**|**Generating Privacy Stories From Software Documentation**|Wilder Baldwin et.al.|[2506.23014](http://arxiv.org/abs/2506.23014)|null|
+|**2025-06-26**|**In-context learning for the classification of manipulation techniques in phishing emails**|Antony Dalmiere et.al.|[2506.22515](http://arxiv.org/abs/2506.22515)|null|
 |**2025-06-27**|**Leveraging In-Context Learning for Political Bias Testing of LLMs**|Patrick Haller et.al.|[2506.22232](http://arxiv.org/abs/2506.22232)|null|
 |**2025-06-28**|**Early Stopping Tabular In-Context Learning**|Jaris Küken et.al.|[2506.21387](http://arxiv.org/abs/2506.21387)|null|
 |**2025-06-26**|**SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning**|Melanie Rieff et.al.|[2506.21355](http://arxiv.org/abs/2506.21355)|null|
