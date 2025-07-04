@@ -198,6 +198,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Legal Requirements Translation from Law**|Anmol Singhal et.al.|[2507.02846](http://arxiv.org/abs/2507.02846)|null|
+|**2025-07-02**|**What Neuroscience Can Teach AI About Learning in Continuously Changing Environments**|Daniel Durstewitz et.al.|[2507.02103](http://arxiv.org/abs/2507.02103)|null|
 |**2025-07-02**|**IC-Custom: Diverse Image Customization via In-Context Learning**|Yaowei Li et.al.|[2507.01926](http://arxiv.org/abs/2507.01926)|null|
 |**2025-07-02**|**LLMs for Legal Subsumption in German Employment Contracts**|Oliver Wardas et.al.|[2507.01734](http://arxiv.org/abs/2507.01734)|null|
 |**2025-07-02**|**Decomposing Prediction Mechanisms for In-Context Recall**|Sultan Daniels et.al.|[2507.01414](http://arxiv.org/abs/2507.01414)|null|
@@ -1756,6 +1758,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**ArtGS:3D Gaussian Splatting for Interactive Visual-Physical Modeling and Manipulation of Articulated Objects**|Qiaojun Yu et.al.|[2507.02600](http://arxiv.org/abs/2507.02600)|null|
+|**2025-07-02**|**cVLA: Towards Efficient Camera-Space VLAs**|Max Argus et.al.|[2507.02190](http://arxiv.org/abs/2507.02190)|null|
+|**2025-07-02**|**Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges**|Sanjeda Akter et.al.|[2507.02074](http://arxiv.org/abs/2507.02074)|null|
 |**2025-07-02**|**How Do Vision-Language Models Process Conflicting Information Across Modalities?**|Tianze Hua et.al.|[2507.01790](http://arxiv.org/abs/2507.01790)|null|
 |**2025-07-02**|**Facial Emotion Learning with Text-Guided Multiview Fusion via Vision-Language Model for 3D/4D Facial Expression Recognition**|Muzammil Behzad et.al.|[2507.01673](http://arxiv.org/abs/2507.01673)|null|
 |**2025-07-02**|**MARVIS: Modality Adaptive Reasoning over VISualizations**|Benjamin Feuer et.al.|[2507.01544](http://arxiv.org/abs/2507.01544)|null|
@@ -4339,6 +4344,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Legal Requirements Translation from Law**|Anmol Singhal et.al.|[2507.02846](http://arxiv.org/abs/2507.02846)|null|
+|**2025-07-02**|**What Neuroscience Can Teach AI About Learning in Continuously Changing Environments**|Daniel Durstewitz et.al.|[2507.02103](http://arxiv.org/abs/2507.02103)|null|
 |**2025-07-02**|**IC-Custom: Diverse Image Customization via In-Context Learning**|Yaowei Li et.al.|[2507.01926](http://arxiv.org/abs/2507.01926)|null|
 |**2025-07-02**|**LLMs for Legal Subsumption in German Employment Contracts**|Oliver Wardas et.al.|[2507.01734](http://arxiv.org/abs/2507.01734)|null|
 |**2025-07-02**|**Decomposing Prediction Mechanisms for In-Context Recall**|Sultan Daniels et.al.|[2507.01414](http://arxiv.org/abs/2507.01414)|null|
