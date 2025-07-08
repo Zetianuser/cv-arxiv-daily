@@ -198,6 +198,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**In-Context Learning as an Effective Estimator of Functional Correctness of LLM-Generated Code**|Susmita Das et.al.|[2507.05200](http://arxiv.org/abs/2507.05200)|null|
+|**2025-07-07**|**An Evaluation of Large Language Models on Text Summarization Tasks Using Prompt Engineering Techniques**|Walid Mohamed Aly et.al.|[2507.05123](http://arxiv.org/abs/2507.05123)|null|
+|**2025-07-07**|**Meta-Learning Transformers to Improve In-Context Generalization**|Lorenzo Braccaioli et.al.|[2507.05019](http://arxiv.org/abs/2507.05019)|null|
+|**2025-07-07**|**Application and Evaluation of Large Language Models for Forecasting the Impact of Traffic Incidents**|George Jagadeesh et.al.|[2507.04803](http://arxiv.org/abs/2507.04803)|null|
+|**2025-07-06**|**Attention Slipping: A Mechanistic Understanding of Jailbreak Attacks and Defenses in LLMs**|Xiaomeng Hu et.al.|[2507.04365](http://arxiv.org/abs/2507.04365)|null|
+|**2025-07-06**|**Scaling Context Requires Rethinking Attention**|Carles Gelada et.al.|[2507.04239](http://arxiv.org/abs/2507.04239)|null|
+|**2025-07-06**|**Context Tuning for In-Context Optimization**|Jack Lu et.al.|[2507.04221](http://arxiv.org/abs/2507.04221)|null|
+|**2025-07-05**|**CSI-Free Symbol Detection for Atomic MIMO Receivers via In-Context Learning**|Zihang Song et.al.|[2507.04040](http://arxiv.org/abs/2507.04040)|null|
+|**2025-07-04**|**Benchmarking Vector, Graph and Hybrid Retrieval Augmented Generation (RAG) Pipelines for Open Radio Access Networks (ORAN)**|Sarat Ahmad et.al.|[2507.03608](http://arxiv.org/abs/2507.03608)|null|
+|**2025-07-04**|**Memory Mosaics at scale**|Jianyu Zhang et.al.|[2507.03285](http://arxiv.org/abs/2507.03285)|null|
 |**2025-07-03**|**Legal Requirements Translation from Law**|Anmol Singhal et.al.|[2507.02846](http://arxiv.org/abs/2507.02846)|null|
 |**2025-07-02**|**What Neuroscience Can Teach AI About Learning in Continuously Changing Environments**|Daniel Durstewitz et.al.|[2507.02103](http://arxiv.org/abs/2507.02103)|null|
 |**2025-07-02**|**IC-Custom: Diverse Image Customization via In-Context Learning**|Yaowei Li et.al.|[2507.01926](http://arxiv.org/abs/2507.01926)|null|
@@ -1758,6 +1768,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Qucheng Peng et.al.|[2507.05227](http://arxiv.org/abs/2507.05227)|null|
+|**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Zongyan Han et.al.|[2507.05211](http://arxiv.org/abs/2507.05211)|null|
+|**2025-07-07**|**Differential Attention for Multimodal Crisis Event Analysis**|Nusrat Munia et.al.|[2507.05165](http://arxiv.org/abs/2507.05165)|null|
+|**2025-07-07**|**INTER: Mitigating Hallucination in Large Vision-Language Models by Interaction Guidance Sampling**|Xin Dong et.al.|[2507.05056](http://arxiv.org/abs/2507.05056)|null|
+|**2025-07-07**|**Adaptation of Multi-modal Representation Models for Multi-task Surgical Computer Vision**|Soham Walimbe et.al.|[2507.05020](http://arxiv.org/abs/2507.05020)|null|
+|**2025-07-07**|**Training-free Generation of Temporally Consistent Rewards from VLMs**|Yinuo Zhao et.al.|[2507.04789](http://arxiv.org/abs/2507.04789)|null|
+|**2025-07-07**|**Vision-Language Models Can't See the Obvious**|Yasser Dahou et.al.|[2507.04741](http://arxiv.org/abs/2507.04741)|null|
+|**2025-07-07**|**An analysis of vision-language models for fabric retrieval**|Francesco Giuliari et.al.|[2507.04735](http://arxiv.org/abs/2507.04735)|null|
+|**2025-07-07**|**A Visual Leap in CLIP Compositionality Reasoning through Generation of Counterfactual Sets**|Zexi Jia et.al.|[2507.04699](http://arxiv.org/abs/2507.04699)|null|
+|**2025-07-07**|**MOSU: Autonomous Long-range Robot Navigation with Multi-modal Scene Understanding**|Jing Liang et.al.|[2507.04686](http://arxiv.org/abs/2507.04686)|null|
 |**2025-07-03**|**ArtGS:3D Gaussian Splatting for Interactive Visual-Physical Modeling and Manipulation of Articulated Objects**|Qiaojun Yu et.al.|[2507.02600](http://arxiv.org/abs/2507.02600)|null|
 |**2025-07-02**|**cVLA: Towards Efficient Camera-Space VLAs**|Max Argus et.al.|[2507.02190](http://arxiv.org/abs/2507.02190)|null|
 |**2025-07-02**|**Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges**|Sanjeda Akter et.al.|[2507.02074](http://arxiv.org/abs/2507.02074)|null|
@@ -4344,6 +4364,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**In-Context Learning as an Effective Estimator of Functional Correctness of LLM-Generated Code**|Susmita Das et.al.|[2507.05200](http://arxiv.org/abs/2507.05200)|null|
+|**2025-07-07**|**An Evaluation of Large Language Models on Text Summarization Tasks Using Prompt Engineering Techniques**|Walid Mohamed Aly et.al.|[2507.05123](http://arxiv.org/abs/2507.05123)|null|
+|**2025-07-07**|**Meta-Learning Transformers to Improve In-Context Generalization**|Lorenzo Braccaioli et.al.|[2507.05019](http://arxiv.org/abs/2507.05019)|null|
+|**2025-07-07**|**Application and Evaluation of Large Language Models for Forecasting the Impact of Traffic Incidents**|George Jagadeesh et.al.|[2507.04803](http://arxiv.org/abs/2507.04803)|null|
+|**2025-07-06**|**Attention Slipping: A Mechanistic Understanding of Jailbreak Attacks and Defenses in LLMs**|Xiaomeng Hu et.al.|[2507.04365](http://arxiv.org/abs/2507.04365)|null|
+|**2025-07-06**|**Scaling Context Requires Rethinking Attention**|Carles Gelada et.al.|[2507.04239](http://arxiv.org/abs/2507.04239)|null|
+|**2025-07-06**|**Context Tuning for In-Context Optimization**|Jack Lu et.al.|[2507.04221](http://arxiv.org/abs/2507.04221)|null|
+|**2025-07-05**|**CSI-Free Symbol Detection for Atomic MIMO Receivers via In-Context Learning**|Zihang Song et.al.|[2507.04040](http://arxiv.org/abs/2507.04040)|null|
+|**2025-07-04**|**Benchmarking Vector, Graph and Hybrid Retrieval Augmented Generation (RAG) Pipelines for Open Radio Access Networks (ORAN)**|Sarat Ahmad et.al.|[2507.03608](http://arxiv.org/abs/2507.03608)|null|
+|**2025-07-04**|**Memory Mosaics at scale**|Jianyu Zhang et.al.|[2507.03285](http://arxiv.org/abs/2507.03285)|null|
 |**2025-07-03**|**Legal Requirements Translation from Law**|Anmol Singhal et.al.|[2507.02846](http://arxiv.org/abs/2507.02846)|null|
 |**2025-07-02**|**What Neuroscience Can Teach AI About Learning in Continuously Changing Environments**|Daniel Durstewitz et.al.|[2507.02103](http://arxiv.org/abs/2507.02103)|null|
 |**2025-07-02**|**IC-Custom: Diverse Image Customization via In-Context Learning**|Yaowei Li et.al.|[2507.01926](http://arxiv.org/abs/2507.01926)|null|
