@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Camouflage
@@ -1763,13 +1763,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yuchen Huang et.al.|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
 |**2025-07-08**|**Enhancing Scientific Visual Question Answering through Multimodal Reasoning and Ensemble Modeling**|Prahitha Movva et.al.|[2507.06183](http://arxiv.org/abs/2507.06183)|null|
-|**2025-07-08**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
+|**2025-07-09**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
 |**2025-07-08**|**LangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models**|Zhihao Chen et.al.|[2507.06140](http://arxiv.org/abs/2507.06140)|null|
 |**2025-07-08**|**GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing**|Xianzhi Ma et.al.|[2507.05887](http://arxiv.org/abs/2507.05887)|null|
 |**2025-07-08**|**Bridging Perception and Language: A Systematic Benchmark for LVLMs' Understanding of Amodal Completion Reports**|Amane Watahiki et.al.|[2507.05799](http://arxiv.org/abs/2507.05799)|null|
 |**2025-07-08**|**SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning**|Xin Hu et.al.|[2507.05798](http://arxiv.org/abs/2507.05798)|null|
 |**2025-07-08**|**A Satellite-Ground Synergistic Large Vision-Language Model System for Earth Observation**|Yuxin Zhang et.al.|[2507.05731](http://arxiv.org/abs/2507.05731)|null|
-|**2025-07-08**|**Integrated Structural Prompt Learning for Vision-Language Models**|Jiahui Wang et.al.|[2507.05677](http://arxiv.org/abs/2507.05677)|null|
+|**2025-07-09**|**Integrated Structural Prompt Learning for Vision-Language Models**|Jiahui Wang et.al.|[2507.05677](http://arxiv.org/abs/2507.05677)|null|
 |**2025-07-08**|**R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding**|Joonhyung Park et.al.|[2507.05673](http://arxiv.org/abs/2507.05673)|null|
 |**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Qucheng Peng et.al.|[2507.05227](http://arxiv.org/abs/2507.05227)|null|
 |**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Zongyan Han et.al.|[2507.05211](http://arxiv.org/abs/2507.05211)|null|
