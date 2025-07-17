@@ -190,6 +190,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Improving Data and Parameter Efficiency of Neural Language Models Using Representation Analysis**|Josip Jukić et.al.|[2507.12004](http://arxiv.org/abs/2507.12004)|null|
+|**2025-07-15**|**LLMs are Bayesian, in Expectation, not in Realization**|Leon Chlon et.al.|[2507.11768](http://arxiv.org/abs/2507.11768)|null|
 |**2025-07-16**|**Journalism-Guided Agentic In-Context Learning for News Stance Detection**|Dahyun Lee et.al.|[2507.11049](http://arxiv.org/abs/2507.11049)|null|
 |**2025-07-14**|**Semantic Context for Tool Orchestration**|Robert Müller et.al.|[2507.10820](http://arxiv.org/abs/2507.10820)|null|
 |**2025-07-14**|**Prompt Informed Reinforcement Learning for Visual Coverage Path Planning**|Venkat Margapuri et.al.|[2507.10284](http://arxiv.org/abs/2507.10284)|null|
@@ -1776,6 +1778,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
+|**2025-07-16**|**Describe Anything Model for Visual Question Answering on Text-rich Images**|Yen-Linh Vu et.al.|[2507.12441](http://arxiv.org/abs/2507.12441)|null|
+|**2025-07-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Santosh Vasa et.al.|[2507.12414](http://arxiv.org/abs/2507.12414)|null|
+|**2025-07-16**|**Generate to Ground: Multimodal Text Conditioning Boosts Phrase Grounding in Medical Vision-Language Models**|Felix Nützel et.al.|[2507.12236](http://arxiv.org/abs/2507.12236)|null|
+|**2025-07-16**|**InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing**|Kun-Hsiang Lin et.al.|[2507.12060](http://arxiv.org/abs/2507.12060)|null|
+|**2025-07-16**|**GS-Bias: Global-Spatial Bias Learner for Single-Image Test-Time Adaptation of Vision-Language Models**|Zhaohong Huang et.al.|[2507.11969](http://arxiv.org/abs/2507.11969)|null|
+|**2025-07-16**|**POLYCHARTQA: Benchmarking Large Vision-Language Models with Multilingual Chart Question Answering**|Yichen Xu et.al.|[2507.11939](http://arxiv.org/abs/2507.11939)|null|
+|**2025-07-15**|**Seeing the Signs: A Survey of Edge-Deployable OCR Models for Billboard Visibility Analysis**|Maciej Szankin et.al.|[2507.11730](http://arxiv.org/abs/2507.11730)|null|
 |**2025-07-15**|**How Far Have Medical Vision-Language Models Come? A Comprehensive Benchmarking Study**|Che Liu et.al.|[2507.11200](http://arxiv.org/abs/2507.11200)|null|
 |**2025-07-15**|**Bridging the Gap in Vision Language Models in Identifying Unsafe Concepts Across Modalities**|Yiting Qu et.al.|[2507.11155](http://arxiv.org/abs/2507.11155)|null|
 |**2025-07-15**|**Assessing Color Vision Test in Large Vision-language Models**|Hongfei Ye et.al.|[2507.11153](http://arxiv.org/abs/2507.11153)|null|
@@ -4422,6 +4432,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Improving Data and Parameter Efficiency of Neural Language Models Using Representation Analysis**|Josip Jukić et.al.|[2507.12004](http://arxiv.org/abs/2507.12004)|null|
+|**2025-07-15**|**LLMs are Bayesian, in Expectation, not in Realization**|Leon Chlon et.al.|[2507.11768](http://arxiv.org/abs/2507.11768)|null|
 |**2025-07-16**|**Journalism-Guided Agentic In-Context Learning for News Stance Detection**|Dahyun Lee et.al.|[2507.11049](http://arxiv.org/abs/2507.11049)|null|
 |**2025-07-14**|**Semantic Context for Tool Orchestration**|Robert Müller et.al.|[2507.10820](http://arxiv.org/abs/2507.10820)|null|
 |**2025-07-14**|**Prompt Informed Reinforcement Learning for Visual Coverage Path Planning**|Venkat Margapuri et.al.|[2507.10284](http://arxiv.org/abs/2507.10284)|null|
