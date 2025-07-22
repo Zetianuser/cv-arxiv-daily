@@ -199,6 +199,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**True Multimodal In-Context Learning Needs Attention to the Visual Context**|Shuo Chen et.al.|[2507.15807](http://arxiv.org/abs/2507.15807)|null|
+|**2025-07-21**|**Smart Eyes for Silent Threats: VLMs and In-Context Learning for THz Imaging**|Nicolas Poggi et.al.|[2507.15576](http://arxiv.org/abs/2507.15576)|null|
+|**2025-07-21**|**Metaphor and Large Language Models: When Surface Features Matter More than Deep Understanding**|Elisa Sanchez-Bayona et.al.|[2507.15357](http://arxiv.org/abs/2507.15357)|null|
+|**2025-07-21**|**In-context Learning of Vision Language Models for Detection of Physical and Digital Attacks against Face Recognition Systems**|Lazaro Janier Gonzalez-Soler et.al.|[2507.15285](http://arxiv.org/abs/2507.15285)|null|
+|**2025-07-20**|**Exploring the In-Context Learning Capabilities of LLMs for Money Laundering Detection in Financial Graphs**|Erfan Pirmorad et.al.|[2507.14785](http://arxiv.org/abs/2507.14785)|null|
+|**2025-07-18**|**What Makes You CLIC: Detection of Croatian Clickbait Headlines**|Marija Anđedelić et.al.|[2507.14314](http://arxiv.org/abs/2507.14314)|null|
 |**2025-07-17**|**Learning Pluralistic User Preferences through Reinforcement Learning Fine-tuned Summaries**|Hyunji Nam et.al.|[2507.13579](http://arxiv.org/abs/2507.13579)|null|
 |**2025-07-17**|**Provable Low-Frequency Bias of In-Context Learning of Representations**|Yongyi Yang et.al.|[2507.13540](http://arxiv.org/abs/2507.13540)|null|
 |**2025-07-17**|**Enhancing Cross-task Transfer of Large Language Models via Activation Steering**|Xinyu Tang et.al.|[2507.13236](http://arxiv.org/abs/2507.13236)|null|
@@ -1795,6 +1801,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Zhixiong Zhang et.al.|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
+|**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Enes Sanli et.al.|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
+|**2025-07-21**|**Visual-Language Model Knowledge Distillation Method for Image Quality Assessment**|Yongkang Hou et.al.|[2507.15680](http://arxiv.org/abs/2507.15680)|null|
+|**2025-07-21**|**Smart Eyes for Silent Threats: VLMs and In-Context Learning for THz Imaging**|Nicolas Poggi et.al.|[2507.15576](http://arxiv.org/abs/2507.15576)|null|
+|**2025-07-21**|**HOLa: Zero-Shot HOI Detection with Low-Rank Decomposed VLM Feature Adaptation**|Qinqian Lei et.al.|[2507.15542](http://arxiv.org/abs/2507.15542)|null|
+|**2025-07-21**|**Chart-R1: Chain-of-Thought Supervision and Reinforcement for Advanced Chart Reasoner**|Lei Chen et.al.|[2507.15509](http://arxiv.org/abs/2507.15509)|null|
+|**2025-07-21**|**One Last Attention for Your Vision-Language Model**|Liang Chen et.al.|[2507.15480](http://arxiv.org/abs/2507.15480)|null|
+|**2025-07-21**|**EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent**|Jiaao Li et.al.|[2507.15428](http://arxiv.org/abs/2507.15428)|null|
+|**2025-07-21**|**In-context Learning of Vision Language Models for Detection of Physical and Digital Attacks against Face Recognition Systems**|Lazaro Janier Gonzalez-Soler et.al.|[2507.15285](http://arxiv.org/abs/2507.15285)|null|
+|**2025-07-21**|**VLM-UDMC: VLM-Enhanced Unified Decision-Making and Motion Control for Urban Autonomous Driving**|Haichao Liu et.al.|[2507.15266](http://arxiv.org/abs/2507.15266)|null|
 |**2025-07-18**|**VLA-Mark: A cross modal watermark for large vision-language alignment model**|Shuliang Liu et.al.|[2507.14067](http://arxiv.org/abs/2507.14067)|null|
 |**2025-07-18**|**EdgeVLA: Efficient Vision-Language-Action Models**|Paweł Budzianowski et.al.|[2507.14049](http://arxiv.org/abs/2507.14049)|null|
 |**2025-07-18**|**Moodifier: MLLM-Enhanced Emotion-Driven Image Editing**|Jiarong Ye et.al.|[2507.14024](http://arxiv.org/abs/2507.14024)|null|
@@ -4468,6 +4484,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**True Multimodal In-Context Learning Needs Attention to the Visual Context**|Shuo Chen et.al.|[2507.15807](http://arxiv.org/abs/2507.15807)|null|
+|**2025-07-21**|**Smart Eyes for Silent Threats: VLMs and In-Context Learning for THz Imaging**|Nicolas Poggi et.al.|[2507.15576](http://arxiv.org/abs/2507.15576)|null|
+|**2025-07-21**|**Metaphor and Large Language Models: When Surface Features Matter More than Deep Understanding**|Elisa Sanchez-Bayona et.al.|[2507.15357](http://arxiv.org/abs/2507.15357)|null|
+|**2025-07-21**|**In-context Learning of Vision Language Models for Detection of Physical and Digital Attacks against Face Recognition Systems**|Lazaro Janier Gonzalez-Soler et.al.|[2507.15285](http://arxiv.org/abs/2507.15285)|null|
+|**2025-07-20**|**Exploring the In-Context Learning Capabilities of LLMs for Money Laundering Detection in Financial Graphs**|Erfan Pirmorad et.al.|[2507.14785](http://arxiv.org/abs/2507.14785)|null|
+|**2025-07-18**|**What Makes You CLIC: Detection of Croatian Clickbait Headlines**|Marija Anđedelić et.al.|[2507.14314](http://arxiv.org/abs/2507.14314)|null|
 |**2025-07-17**|**Learning Pluralistic User Preferences through Reinforcement Learning Fine-tuned Summaries**|Hyunji Nam et.al.|[2507.13579](http://arxiv.org/abs/2507.13579)|null|
 |**2025-07-17**|**Provable Low-Frequency Bias of In-Context Learning of Representations**|Yongyi Yang et.al.|[2507.13540](http://arxiv.org/abs/2507.13540)|null|
 |**2025-07-17**|**Enhancing Cross-task Transfer of Large Language Models via Activation Steering**|Xinyu Tang et.al.|[2507.13236](http://arxiv.org/abs/2507.13236)|null|
